@@ -1,0 +1,310 @@
+{
+  "kompleks": "Д.2.2",
+  "nomer": 7,
+  "nazva": "Бетонні та залізобетонні конструкції збірні",
+  "dstu": "ДСТУ Б Д.2.2-7:2012",
+  "marka": "ЕД",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Монтаж фундаментів і фундаментних блоків",
+      "odynytsya": "100 шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "7-1-1",
+          "nazva": "Укладання блоків фундаментних стінових масою до 0,5 т",
+          "odynytsya": "100 шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "7-1-2",
+          "nazva": "Укладання блоків фундаментних стінових масою до 1,0 т",
+          "odynytsya": "100 шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "7-1-3",
+          "nazva": "Укладання блоків фундаментних стінових масою до 1,5 т",
+          "odynytsya": "100 шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "7-1-4",
+          "nazva": "Укладання подушок фундаментних",
+          "odynytsya": "100 шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Монтаж колон і ригелів",
+      "odynytsya": "шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "7-2-1",
+          "nazva": "Установлення колон одноповерхових масою до 2 т",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "7-2-2",
+          "nazva": "Установлення колон багатоповерхових масою до 4 т",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "7-2-3",
+          "nazva": "Укладання ригелів масою до 3 т",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Монтаж плит перекриттів і покриттів",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "7-3-1",
+          "nazva": "Укладання плит перекриттів багатопустотних",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "7-3-2",
+          "nazva": "Укладання плит покриттів ребристих",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "7-3-3",
+          "nazva": "Замонолічування стиків плит перекриттів",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 4,
+      "nazva": "Монтаж стінових панелей і перегородок",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "7-4-1",
+          "nazva": "Установлення панелей стінових зовнішніх",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "7-4-2",
+          "nazva": "Установлення панелей стінових внутрішніх",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "7-4-3",
+          "nazva": "Установлення панелей перегородок",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 5,
+      "nazva": "Монтаж сходових маршів і площадок",
+      "odynytsya": "шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "7-5-1",
+          "nazva": "Установлення сходових маршів",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "7-5-2",
+          "nazva": "Установлення сходових площадок",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "7-5-3",
+          "nazva": "Установлення елементів огородження сходів",
+          "odynytsya": "м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 6,
+      "nazva": "Монтаж санітарно-технічних кабін і шахт",
+      "odynytsya": "шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "7-6-1",
+          "nazva": "Установлення санітарно-технічних кабін",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "7-6-2",
+          "nazva": "Установлення вентиляційних блоків",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "7-6-3",
+          "nazva": "Установлення ліфтових шахт збірних",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    }
+  ]
+}

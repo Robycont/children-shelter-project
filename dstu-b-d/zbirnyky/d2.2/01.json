@@ -1,0 +1,470 @@
+{
+  "kompleks": "Д.2.2",
+  "nomer": 1,
+  "nazva": "Земляні роботи",
+  "dstu": "ДСТУ Б Д.2.2-1:2012",
+  "marka": "ЕД",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Розробка ґрунту екскаваторами в відвал",
+      "odynytsya": "1000 м3",
+      "sklad_robit": [
+        "Розробка ґрунту",
+        "Переміщення в межах вибою",
+        "Очищення ковша"
+      ],
+      "normy": [
+        {
+          "shifr": "1-1-1",
+          "nazva": "Розробка ґрунту 1 групи екскаватором з ковшем до 0,25 м3",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-1-2",
+          "nazva": "Розробка ґрунту 2 групи екскаватором з ковшем до 0,25 м3",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-1-3",
+          "nazva": "Розробка ґрунту 3 групи екскаватором з ковшем до 0,25 м3",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-1-4",
+          "nazva": "Розробка ґрунту 1 групи екскаватором з ковшем до 0,4 м3",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-1-5",
+          "nazva": "Розробка ґрунту 2 групи екскаватором з ковшем до 0,4 м3",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-1-6",
+          "nazva": "Розробка ґрунту 3 групи екскаватором з ковшем до 0,4 м3",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-1-7",
+          "nazva": "Розробка ґрунту 1 групи екскаватором з ковшем до 0,65 м3",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-1-8",
+          "nazva": "Розробка ґрунту 2 групи екскаватором з ковшем до 0,65 м3",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Розробка ґрунту екскаваторами з навантаженням у транспортні засоби",
+      "odynytsya": "1000 м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "1-2-1",
+          "nazva": "Розробка ґрунту 1 групи з навантаженням, ківш до 0,4 м3",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-2-2",
+          "nazva": "Розробка ґрунту 2 групи з навантаженням, ківш до 0,4 м3",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-2-3",
+          "nazva": "Розробка ґрунту 3 групи з навантаженням, ківш до 0,4 м3",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-2-4",
+          "nazva": "Розробка ґрунту 1 групи з навантаженням, ківш до 0,65 м3",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-2-5",
+          "nazva": "Розробка ґрунту 2 групи з навантаженням, ківш до 0,65 м3",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Розробка ґрунту бульдозерами",
+      "odynytsya": "1000 м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "1-3-1",
+          "nazva": "Розробка і переміщення ґрунту 1 групи бульдозером до 10 м",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-3-2",
+          "nazva": "Розробка і переміщення ґрунту 2 групи бульдозером до 10 м",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-3-3",
+          "nazva": "Розробка і переміщення ґрунту 1 групи бульдозером до 20 м",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-3-4",
+          "nazva": "Розробка і переміщення ґрунту 2 групи бульдозером до 20 м",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-3-5",
+          "nazva": "Планування площ бульдозером",
+          "odynytsya": "1000 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 4,
+      "nazva": "Розробка ґрунту вручну",
+      "odynytsya": "100 м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "1-4-1",
+          "nazva": "Розробка ґрунту 1 групи вручну в котлованах",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-4-2",
+          "nazva": "Розробка ґрунту 2 групи вручну в котлованах",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-4-3",
+          "nazva": "Розробка ґрунту 3 групи вручну в котлованах",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-4-4",
+          "nazva": "Розробка ґрунту 1 групи вручну в траншеях",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-4-5",
+          "nazva": "Розробка ґрунту 2 групи вручну в траншеях",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-4-6",
+          "nazva": "Зачищення дна і укосів котлованів і траншей",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 5,
+      "nazva": "Зворотне засипання і ущільнення ґрунту",
+      "odynytsya": "100 м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "1-5-1",
+          "nazva": "Засипання пазух котлованів ґрунтом з ущільненням вручну",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-5-2",
+          "nazva": "Засипання пазух котлованів бульдозером з ущільненням",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-5-3",
+          "nazva": "Ущільнення ґрунту пневмотрамбівками",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-5-4",
+          "nazva": "Ущільнення ґрунту катками",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 6,
+      "nazva": "Перевезення ґрунту",
+      "odynytsya": "1000 м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "1-6-1",
+          "nazva": "Навантаження ґрунту екскаватором у автосамоскиди",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-6-2",
+          "nazva": "Перевезення ґрунту автосамоскидами до 1 км",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "1-6-3",
+          "nazva": "Додавати на кожний наступний 1 км перевезення",
+          "odynytsya": "1000 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    }
+  ]
+}

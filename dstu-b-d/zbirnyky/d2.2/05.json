@@ -1,0 +1,96 @@
+{
+  "kompleks": "Д.2.2",
+  "nomer": 5,
+  "nazva": "Пальові роботи. Опускні колодязі. Закріплення ґрунтів",
+  "dstu": "ДСТУ Б Д.2.2-5:2012",
+  "marka": "ЕД",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Занурення паль",
+      "odynytsya": "м3 / шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "5-1-1",
+          "nazva": "Занурення залізобетонних паль молотами",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "5-1-2",
+          "nazva": "Занурення залізобетонних паль віброзанурювачами",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "5-1-3",
+          "nazva": "Улаштування буронабивних паль",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Ростверки та оголовки",
+      "odynytsya": "м3 / шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "5-2-1",
+          "nazva": "Зрізання голів паль",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "5-2-2",
+          "nazva": "Улаштування монолітних ростверків",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    }
+  ]
+}

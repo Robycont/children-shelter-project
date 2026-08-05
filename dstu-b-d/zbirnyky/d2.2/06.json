@@ -1,0 +1,461 @@
+{
+  "kompleks": "Д.2.2",
+  "nomer": 6,
+  "nazva": "Бетонні та залізобетонні конструкції монолітні",
+  "dstu": "ДСТУ Б Д.2.2-6:2012",
+  "marka": "ЕД",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Улаштування фундаментів бетонних",
+      "odynytsya": "100 м3",
+      "sklad_robit": [
+        "Установлення опалубки",
+        "Укладання бетону",
+        "Догляд за бетоном",
+        "Розбирання опалубки"
+      ],
+      "normy": [
+        {
+          "shifr": "6-1-1",
+          "nazva": "Улаштування фундаментів бетонних стрічкових",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-1-2",
+          "nazva": "Улаштування фундаментів бетонних стовпчастих",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-1-3",
+          "nazva": "Улаштування фундаментних плит бетонних",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Улаштування фундаментів залізобетонних",
+      "odynytsya": "100 м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "6-2-1",
+          "nazva": "Улаштування фундаментів залізобетонних стрічкових",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-2-2",
+          "nazva": "Улаштування фундаментів залізобетонних стовпчастих",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-2-3",
+          "nazva": "Улаштування фундаментних плит залізобетонних",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-2-4",
+          "nazva": "Улаштування ростверків залізобетонних",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Улаштування стін і перегородок",
+      "odynytsya": "100 м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "6-3-1",
+          "nazva": "Улаштування стін підвалів залізобетонних",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-3-2",
+          "nazva": "Улаштування стін надземної частини залізобетонних",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-3-3",
+          "nazva": "Улаштування перегородок залізобетонних",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 4,
+      "nazva": "Улаштування колон",
+      "odynytsya": "100 м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "6-4-1",
+          "nazva": "Улаштування колон прямокутних перерізом до 0,3 м2",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-4-2",
+          "nazva": "Улаштування колон прямокутних перерізом понад 0,3 м2",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-4-3",
+          "nazva": "Улаштування колон круглих",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 5,
+      "nazva": "Улаштування перекриттів і покриттів",
+      "odynytsya": "100 м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "6-5-1",
+          "nazva": "Улаштування перекриттів безбалкових товщиною до 200 мм",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-5-2",
+          "nazva": "Улаштування перекриттів безбалкових товщиною понад 200 мм",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-5-3",
+          "nazva": "Улаштування перекриттів ребристих",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-5-4",
+          "nazva": "Улаштування балок і ригелів",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 6,
+      "nazva": "Арматурні роботи",
+      "odynytsya": "т",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "6-6-1",
+          "nazva": "Установлення арматури в фундаментах",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-6-2",
+          "nazva": "Установлення арматури в стінах і перегородках",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-6-3",
+          "nazva": "Установлення арматури в колонах",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-6-4",
+          "nazva": "Установлення арматури в перекриттях",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-6-5",
+          "nazva": "Установлення арматурних сіток і каркасів",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 7,
+      "nazva": "Опалубні роботи",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "6-7-1",
+          "nazva": "Установлення і розбирання опалубки фундаментів",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-7-2",
+          "nazva": "Установлення і розбирання опалубки стін",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-7-3",
+          "nazva": "Установлення і розбирання опалубки колон",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-7-4",
+          "nazva": "Установлення і розбирання опалубки перекриттів",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 8,
+      "nazva": "Сходи, площадки, крильця",
+      "odynytsya": "100 м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "6-8-1",
+          "nazva": "Улаштування сходових маршів залізобетонних",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-8-2",
+          "nazva": "Улаштування сходових площадок",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-8-3",
+          "nazva": "Улаштування крилець",
+          "odynytsya": "100 м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    }
+  ]
+}

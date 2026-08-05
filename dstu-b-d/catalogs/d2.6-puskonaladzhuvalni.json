@@ -1,0 +1,50 @@
+{
+  "kompleks": "Д.2.6",
+  "zbirnyky": [
+    {
+      "nomer": 1,
+      "nazva": "Електротехнічні пристрої",
+      "priorytet_prytulok": true
+    },
+    {
+      "nomer": 2,
+      "nazva": "Автоматизовані системи управління",
+      "priorytet_prytulok": true
+    },
+    {
+      "nomer": 3,
+      "nazva": "Системи вентиляції та кондиціонування повітря",
+      "priorytet_prytulok": true
+    },
+    {
+      "nomer": 4,
+      "nazva": "Підйомно-транспортне устаткування",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 5,
+      "nazva": "Металообробне устаткування",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 6,
+      "nazva": "Холодильні та компресорні установки",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 7,
+      "nazva": "Теплоенергетичне устаткування",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 8,
+      "nazva": "Деревообробне устаткування",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 9,
+      "nazva": "Споруди водопостачання та каналізації",
+      "priorytet_prytulok": true
+    }
+  ]
+}

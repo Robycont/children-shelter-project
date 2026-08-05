@@ -1,0 +1,96 @@
+{
+  "kompleks": "Д.2.4",
+  "nomer": 5,
+  "nazva": "Перегородки",
+  "dstu": "ДСТУ Б Д.2.4-5:2012",
+  "marka": "Р",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Розбирання перегородок",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "5-1-1",
+          "nazva": "Розбирання цегляних перегородок",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "5-1-2",
+          "nazva": "Розбирання гіпсових перегородок",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Улаштування перегородок при ремонті",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "5-2-1",
+          "nazva": "Цегляні перегородки",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "5-2-2",
+          "nazva": "Гіпсокартонні перегородки",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "5-2-3",
+          "nazva": "Газобетонні перегородки",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    }
+  ]
+}

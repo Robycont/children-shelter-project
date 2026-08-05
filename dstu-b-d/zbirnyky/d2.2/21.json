@@ -1,0 +1,229 @@
+{
+  "kompleks": "Д.2.2",
+  "nomer": 21,
+  "nazva": "Електроосвітлення будинків",
+  "dstu": "ДСТУ Б Д.2.2-21:2012",
+  "marka": "ЕД",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Прокладання кабелів і проводів",
+      "odynytsya": "100 м",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "21-1-1",
+          "nazva": "Прокладання кабелів у штробах і трубах",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "21-1-2",
+          "nazva": "Прокладання кабелів у коробах",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "21-1-3",
+          "nazva": "Прокладання кабелів відкрито по конструкціях",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "21-1-4",
+          "nazva": "Прокладання кабелів у землі",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Установлення електроустановочних виробів",
+      "odynytsya": "100 шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "21-2-1",
+          "nazva": "Установлення вимикачів і перемикачів",
+          "odynytsya": "100 шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "21-2-2",
+          "nazva": "Установлення розеток",
+          "odynytsya": "100 шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "21-2-3",
+          "nazva": "Установлення розподільних коробок",
+          "odynytsya": "100 шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Установлення світильників",
+      "odynytsya": "100 шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "21-3-1",
+          "nazva": "Установлення світильників настінних і стельових",
+          "odynytsya": "100 шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "21-3-2",
+          "nazva": "Установлення світильників вбудованих",
+          "odynytsya": "100 шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "21-3-3",
+          "nazva": "Установлення світильників зовнішнього освітлення",
+          "odynytsya": "100 шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 4,
+      "nazva": "Розподільні щити та облік",
+      "odynytsya": "шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "21-4-1",
+          "nazva": "Установлення щитів розподільних до 24 модулів",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "21-4-2",
+          "nazva": "Установлення щитів розподільних понад 24 модулі",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "21-4-3",
+          "nazva": "Установлення лічильників електроенергії",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "21-4-4",
+          "nazva": "Улаштування контуру заземлення",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "kompleks": "Д.2.2",
+  "nomer": 26,
+  "nazva": "Теплоізоляційні роботи",
+  "dstu": "ДСТУ Б Д.2.2-26:2012",
+  "marka": "ЕД",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Утеплення огороджувальних конструкцій",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "26-1-1",
+          "nazva": "Утеплення стін плитним утеплювачем",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "26-1-2",
+          "nazva": "Улаштування системи скріпленої теплоізоляції (ССТІ)",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "26-1-3",
+          "nazva": "Утеплення горищних перекриттів",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "26-1-4",
+          "nazva": "Утеплення цоколів",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Ізоляція трубопроводів і обладнання",
+      "odynytsya": "100 м / м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "26-2-1",
+          "nazva": "Теплоізоляція трубопроводів діаметром до 50 мм",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "26-2-2",
+          "nazva": "Теплоізоляція трубопроводів діаметром до 100 мм",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "26-2-3",
+          "nazva": "Теплоізоляція обладнання",
+          "odynytsya": "м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    }
+  ]
+}

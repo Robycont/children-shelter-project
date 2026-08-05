@@ -1,0 +1,143 @@
+{
+  "kompleks": "Д.2.2",
+  "nomer": 47,
+  "nazva": "Озеленення. Захисні лісонасадження. Багаторічні плодові насадження",
+  "dstu": "ДСТУ Б Д.2.2-47:2012",
+  "marka": "ЕД",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Підготовка території",
+      "odynytsya": "100 м2 / га",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "47-1-1",
+          "nazva": "Планування території під озеленення",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "47-1-2",
+          "nazva": "Влаштування рослинного ґрунту",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Посадка рослин",
+      "odynytsya": "шт / 100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "47-2-1",
+          "nazva": "Посадка дерев із грудкою",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "47-2-2",
+          "nazva": "Посадка кущів",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "47-2-3",
+          "nazva": "Улаштування газонів звичайних",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "47-2-4",
+          "nazva": "Улаштування квітників",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Догляд за насадженнями",
+      "odynytsya": "100 м2 / шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "47-3-1",
+          "nazva": "Полив насаджень",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "47-3-2",
+          "nazva": "Підв'язування та формування дерев",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,853 @@
+{
+  "kompleks": "Д.2.2",
+  "nomer": 8,
+  "nazva": "Конструкції з цегли та блоків",
+  "dstu": "ДСТУ Б Д.2.2-8:2016",
+  "marka": "ЕД",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Улаштування фундаментів, мурування стін із бутового каменю",
+      "odynytsya": "м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-1-1",
+          "nazva": "Улаштування фундаментів із бутового каменю під лопату",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-1-2",
+          "nazva": "Улаштування фундаментів із бутового каменю під скобу",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-1-3",
+          "nazva": "Мурування стін із бутового каменю під лопату",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-1-4",
+          "nazva": "Мурування стін із бутового каменю під скобу",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Улаштування основи під фундаменти",
+      "odynytsya": "м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-2-1",
+          "nazva": "Улаштування піщаної основи під фундаменти",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-2-2",
+          "nazva": "Улаштування щебеневої основи під фундаменти",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Гідроізоляція стін, фундаментів",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-3-1",
+          "nazva": "Горизонтальна ізоляція цементним розчином",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-3-2",
+          "nazva": "Горизонтальна ізоляція рулонними матеріалами в 1 шар",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-3-3",
+          "nazva": "Горизонтальна ізоляція рулонними матеріалами в 2 шари",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-3-4",
+          "nazva": "Бокова обмазувальна ізоляція бітумною мастикою",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-3-5",
+          "nazva": "Бокова обклеювальна ізоляція рулонними матеріалами",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-3-6",
+          "nazva": "Бокова обклеювальна ізоляція в 2 шари",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 5,
+      "nazva": "Мурування стін із цегли",
+      "odynytsya": "м3",
+      "sklad_robit": [
+        "Подача матеріалів",
+        "Мурування з установленням помостів",
+        "Закладання прорізів",
+        "Розшивання швів"
+      ],
+      "normy": [
+        {
+          "shifr": "8-5-1",
+          "nazva": "Мурування зовнішніх простих стін із цегли керамічної, висота поверху до 4 м",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-5-2",
+          "nazva": "Мурування зовнішніх стін середньої складності із цегли керамічної",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-5-3",
+          "nazva": "Мурування зовнішніх складних стін із цегли керамічної",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-5-4",
+          "nazva": "Мурування внутрішніх стін із цегли керамічної",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-5-5",
+          "nazva": "Мурування зовнішніх простих стін із цегли силікатної",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-5-6",
+          "nazva": "Мурування внутрішніх стін із цегли силікатної",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 6,
+      "nazva": "Мурування перегородок із цегли",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-6-1",
+          "nazva": "Мурування перегородок товщиною 1/2 цегли неармованих",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-6-2",
+          "nazva": "Мурування перегородок товщиною 1/2 цегли армованих",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-6-3",
+          "nazva": "Мурування перегородок товщиною 1 цеглу",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 7,
+      "nazva": "Мурування конструкцій із цегли",
+      "odynytsya": "м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-7-1",
+          "nazva": "Мурування стовпів прямокутних",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-7-2",
+          "nazva": "Мурування стовпів з ускладненнями",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-7-3",
+          "nazva": "Мурування карнизів і архітектурних деталей",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-7-4",
+          "nazva": "Мурування каналів і боровів",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 10,
+      "nazva": "Розшивання швів мурування",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-10-1",
+          "nazva": "Розшивання швів зовнішніх стін",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-10-2",
+          "nazva": "Розшивання швів внутрішніх стін",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 11,
+      "nazva": "Армування мурування стін",
+      "odynytsya": "т",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-11-1",
+          "nazva": "Армування мурування стін, перемичок, простінків",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-11-2",
+          "nazva": "Кріплення склепінь і установлення металевих ґрат",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 12,
+      "nazva": "Мурування зовнішніх стін із каменів керамічних або силікатних",
+      "odynytsya": "м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-12-1",
+          "nazva": "Мурування зовнішніх простих стін із каменів керамічних",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-12-2",
+          "nazva": "Мурування зовнішніх стін середньої складності із каменів",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-12-3",
+          "nazva": "Мурування внутрішніх стін із каменів керамічних",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 20,
+      "nazva": "Мурування стін із каменів легкобетонних",
+      "odynytsya": "м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-20-1",
+          "nazva": "Мурування зовнішніх стін із легкобетонних каменів",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-20-2",
+          "nazva": "Мурування внутрішніх стін із легкобетонних каменів",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-20-3",
+          "nazva": "Заповнення каркасів і фахверків легкобетонними каменями",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 21,
+      "nazva": "Мурування стін із керамзитобетонних та бетонних пазогребеневих блоків",
+      "odynytsya": "м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-21-1",
+          "nazva": "Мурування стін із керамзитобетонних блоків у монолітно-каркасних будівлях",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-21-2",
+          "nazva": "Мурування стін із бетонних пазогребеневих блоків",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 22,
+      "nazva": "Мурування стін із газобетонних блоків",
+      "odynytsya": "м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-22-1",
+          "nazva": "Мурування зовнішніх стін із газобетонних блоків на клею",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-22-2",
+          "nazva": "Мурування внутрішніх стін із газобетонних блоків на клею",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 24,
+      "nazva": "Улаштування перегородок із гіпсових і легкобетонних плит",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-24-1",
+          "nazva": "Улаштування перегородок із гіпсових плит у 1 шар",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-24-2",
+          "nazva": "Улаштування перегородок із гіпсових плит у 2 шари",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-24-3",
+          "nazva": "Улаштування перегородок із легкобетонних плит",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 25,
+      "nazva": "Улаштування перегородок із газобетонних блоків на клеючій суміші",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-25-1",
+          "nazva": "Улаштування перегородок товщиною 100 мм",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-25-2",
+          "nazva": "Улаштування перегородок товщиною 150 мм",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 27,
+      "nazva": "Укладання підвіконних залізобетонних плит",
+      "odynytsya": "100 м",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-27-1",
+          "nazva": "Укладання підвіконних плит шириною до 0,3 м",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-27-2",
+          "nazva": "Укладання підвіконних плит шириною понад 0,3 м",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 28,
+      "nazva": "Улаштування ґанків",
+      "odynytsya": "м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-28-1",
+          "nazva": "Улаштування ґанків із цегли",
+          "odynytsya": "м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-28-2",
+          "nazva": "Улаштування ґанків із бетонних елементів",
+          "odynytsya": "м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 36,
+      "nazva": "Установлення і розбирання зовнішніх інвентарних риштувань",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-36-1",
+          "nazva": "Установлення і розбирання трубчастих риштувань для мурування",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-36-2",
+          "nazva": "Установлення і розбирання трубчастих риштувань для опорядження",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-36-3",
+          "nazva": "Установлення і розбирання підвісних риштувань",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 37,
+      "nazva": "Установлення і розбирання внутрішніх інвентарних риштувань",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "8-37-1",
+          "nazva": "Установлення і розбирання внутрішніх риштувань",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-37-2",
+          "nazva": "Додавати на кожні наступні 4 м висоти приміщення",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "kompleks": "Д.2.3",
+  "vkazivky": "ДСТУ-Н Б Д.2.3-40:2012",
+  "zbirnyky": [
+    {
+      "nomer": 1,
+      "nazva": "Металообробне устаткування",
+      "dstu": "ДСТУ Б Д.2.3-1:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/01.json"
+    },
+    {
+      "nomer": 2,
+      "nazva": "Деревообробне устаткування",
+      "dstu": "ДСТУ Б Д.2.3-2:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/02.json"
+    },
+    {
+      "nomer": 3,
+      "nazva": "Підйомно-транспортне устаткування",
+      "dstu": "ДСТУ Б Д.2.3-3:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/03.json"
+    },
+    {
+      "nomer": 4,
+      "nazva": "Дробильно-розмольне, збагачувальне та агломераційне устаткування",
+      "dstu": "ДСТУ Б Д.2.3-4:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/04.json"
+    },
+    {
+      "nomer": 5,
+      "nazva": "Вагове устаткування",
+      "dstu": "ДСТУ Б Д.2.3-5:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/05.json"
+    },
+    {
+      "nomer": 6,
+      "nazva": "Теплосилове устаткування",
+      "dstu": "ДСТУ Б Д.2.3-6:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/06.json"
+    },
+    {
+      "nomer": 7,
+      "nazva": "Компресорні машини, насоси та вентилятори",
+      "dstu": "ДСТУ Б Д.2.3-7:2012",
+      "marka": "М",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.3/07.json"
+    },
+    {
+      "nomer": 8,
+      "nazva": "Електротехнічні установки",
+      "dstu": "ДСТУ Б Д.2.3-8:2012",
+      "marka": "М",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.3/08.json"
+    },
+    {
+      "nomer": 9,
+      "nazva": "Електричні печі",
+      "dstu": "ДСТУ Б Д.2.3-9:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/09.json"
+    },
+    {
+      "nomer": 10,
+      "nazva": "Устаткування зв'язку",
+      "dstu": "ДСТУ Б Д.2.3-10:2012",
+      "marka": "М",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.3/10.json"
+    },
+    {
+      "nomer": 11,
+      "nazva": "Прилади, засоби автоматизації та обчислювальної техніки",
+      "dstu": "ДСТУ Б Д.2.3-11:2012",
+      "marka": "М",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.3/11.json"
+    },
+    {
+      "nomer": 12,
+      "nazva": "Технологічні трубопроводи",
+      "dstu": "ДСТУ Б Д.2.3-12:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/12.json"
+    },
+    {
+      "nomer": 13,
+      "nazva": "Устаткування атомних електричних станцій",
+      "dstu": "ДСТУ Б Д.2.3-13:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/13.json"
+    },
+    {
+      "nomer": 14,
+      "nazva": "Устаткування прокатних виробництв",
+      "dstu": "ДСТУ Б Д.2.3-14:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/14.json"
+    },
+    {
+      "nomer": 15,
+      "nazva": "Устаткування для очищення газів",
+      "dstu": "ДСТУ Б Д.2.3-15:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/15.json"
+    },
+    {
+      "nomer": 16,
+      "nazva": "Устаткування підприємств чорної металургії",
+      "dstu": "ДСТУ Б Д.2.3-16:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/16.json"
+    },
+    {
+      "nomer": 17,
+      "nazva": "Устаткування підприємств кольорової металургії",
+      "dstu": "ДСТУ Б Д.2.3-17:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/17.json"
+    },
+    {
+      "nomer": 18,
+      "nazva": "Устаткування підприємств хімічної та нафтопереробної промисловості",
+      "dstu": "ДСТУ Б Д.2.3-18:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/18.json"
+    },
+    {
+      "nomer": 19,
+      "nazva": "Устаткування підприємств вугільної та торф'яної промисловості",
+      "dstu": "ДСТУ Б Д.2.3-19:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/19.json"
+    },
+    {
+      "nomer": 20,
+      "nazva": "Устаткування сигналізації, централізації та блокування на залізничному транспорті",
+      "dstu": "ДСТУ Б Д.2.3-20:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/20.json"
+    },
+    {
+      "nomer": 21,
+      "nazva": "Устаткування метрополітенів і тунелів",
+      "dstu": "ДСТУ Б Д.2.3-21:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/21.json"
+    },
+    {
+      "nomer": 22,
+      "nazva": "Устаткування гідроелектростанцій і гідротехнічних споруд",
+      "dstu": "ДСТУ Б Д.2.3-22:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/22.json"
+    },
+    {
+      "nomer": 23,
+      "nazva": "Устаткування підприємств електротехнічної промисловості",
+      "dstu": "ДСТУ Б Д.2.3-23:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/23.json"
+    },
+    {
+      "nomer": 24,
+      "nazva": "Устаткування підприємств промисловості будівельних матеріалів",
+      "dstu": "ДСТУ Б Д.2.3-24:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/24.json"
+    },
+    {
+      "nomer": 25,
+      "nazva": "Устаткування підприємств целюлозно-паперової промисловості",
+      "dstu": "ДСТУ Б Д.2.3-25:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/25.json"
+    },
+    {
+      "nomer": 26,
+      "nazva": "Устаткування підприємств текстильної промисловості",
+      "dstu": "ДСТУ Б Д.2.3-26:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/26.json"
+    },
+    {
+      "nomer": 27,
+      "nazva": "Устаткування підприємств поліграфічної промисловості",
+      "dstu": "ДСТУ Б Д.2.3-27:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/27.json"
+    },
+    {
+      "nomer": 28,
+      "nazva": "Устаткування підприємств харчової промисловості",
+      "dstu": "ДСТУ Б Д.2.3-28:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/28.json"
+    },
+    {
+      "nomer": 29,
+      "nazva": "Устаткування театрально-видовищних підприємств",
+      "dstu": "ДСТУ Б Д.2.3-29:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/29.json"
+    },
+    {
+      "nomer": 30,
+      "nazva": "Устаткування зерносховищ і підприємств з переробки зерна",
+      "dstu": "ДСТУ Б Д.2.3-30:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/30.json"
+    },
+    {
+      "nomer": 31,
+      "nazva": "Устаткування підприємств кінематографії",
+      "dstu": "ДСТУ Б Д.2.3-31:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/31.json"
+    },
+    {
+      "nomer": 32,
+      "nazva": "Устаткування підприємств електронної промисловості і промисловості засобів зв'язку",
+      "dstu": "ДСТУ Б Д.2.3-32:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/32.json"
+    },
+    {
+      "nomer": 33,
+      "nazva": "Устаткування підприємств легкої промисловості",
+      "dstu": "ДСТУ Б Д.2.3-33:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/33.json"
+    },
+    {
+      "nomer": 34,
+      "nazva": "Устаткування закладів охорони здоров'я і підприємств медичної промисловості",
+      "dstu": "ДСТУ Б Д.2.3-34:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/34.json"
+    },
+    {
+      "nomer": 35,
+      "nazva": "Устаткування сільськогосподарських виробництв",
+      "dstu": "ДСТУ Б Д.2.3-35:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/35.json"
+    },
+    {
+      "nomer": 36,
+      "nazva": "Устаткування підприємств побутового обслуговування і комунального господарства",
+      "dstu": "ДСТУ Б Д.2.3-36:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/36.json"
+    },
+    {
+      "nomer": 37,
+      "nazva": "Контроль якості зварних з'єднань",
+      "dstu": "ДСТУ Б Д.2.3-37:2012",
+      "marka": "М",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.3/37.json"
+    },
+    {
+      "nomer": 38,
+      "nazva": "Устаткування загального призначення",
+      "dstu": "ДСТУ Б Д.2.3-38:2012",
+      "marka": "М",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.3/38.json"
+    },
+    {
+      "nomer": 39,
+      "nazva": "Монтаж електроустаткування та підключення кабелів або проводів зовнішньої мережі",
+      "dstu": "ДСТУ Б Д.2.3-39:2012",
+      "marka": "М",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.3/39.json"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "kompleks": "Д.2.2",
+  "nomer": 9,
+  "nazva": "Металеві конструкції",
+  "dstu": "ДСТУ Б Д.2.2-9:2012",
+  "marka": "ЕД",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Монтаж колон і стійок",
+      "odynytsya": "т",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "9-1-1",
+          "nazva": "Установлення колон суцільних масою до 1 т",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "9-1-2",
+          "nazva": "Установлення колон суцільних масою до 3 т",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "9-1-3",
+          "nazva": "Установлення колон наскрізних",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Монтаж балок, ригелів, ферм",
+      "odynytsya": "т",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "9-2-1",
+          "nazva": "Укладання балок і ригелів масою до 1 т",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "9-2-2",
+          "nazva": "Укладання балок і ригелів масою до 3 т",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "9-2-3",
+          "nazva": "Установлення ферм покриття",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Монтаж зв'язків і прогонів",
+      "odynytsya": "т",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "9-3-1",
+          "nazva": "Установлення зв'язків вертикальних",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "9-3-2",
+          "nazva": "Установлення зв'язків горизонтальних",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "9-3-3",
+          "nazva": "Укладання прогонів",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 4,
+      "nazva": "Огороджувальні конструкції",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "9-4-1",
+          "nazva": "Улаштування стінових панелей із профнастилу",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "9-4-2",
+          "nazva": "Улаштування покриттів із профнастилу",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "9-4-3",
+          "nazva": "Улаштування огороджень сходів і балконів",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 5,
+      "nazva": "Зварювальні та кріпильні роботи",
+      "odynytsya": "т / 100 м",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "9-5-1",
+          "nazva": "Зварювання монтажних стиків",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "9-5-2",
+          "nazva": "Установлення високоміцних болтів",
+          "odynytsya": "100 шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "9-5-3",
+          "nazva": "Антикорозійний захист металевих конструкцій",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "kompleks": "Д.2.2",
+  "nomer": 46,
+  "nazva": "Роботи при реконструкції будівель та споруд",
+  "dstu": "ДСТУ Б Д.2.2-46:2012",
+  "marka": "ЕД",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Розбирання конструкцій",
+      "odynytsya": "м3 / 100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "46-1-1",
+          "nazva": "Розбирання фундаментів бетонних",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "46-1-2",
+          "nazva": "Розбирання стін цегляних",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "46-1-3",
+          "nazva": "Розбирання перекриттів",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "46-1-4",
+          "nazva": "Розбирання перегородок",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Посилення конструкцій",
+      "odynytsya": "м3 / т",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "46-2-1",
+          "nazva": "Посилення фундаментів",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "46-2-2",
+          "nazva": "Посилення стін і простінків",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "46-2-3",
+          "nazva": "Посилення перекриттів металевими балками",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Прорізи в існуючих конструкціях",
+      "odynytsya": "м2 / м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "46-3-1",
+          "nazva": "Пробивання прорізів у цегляних стінах",
+          "odynytsya": "м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "46-3-2",
+          "nazva": "Пробивання прорізів у бетонних стінах",
+          "odynytsya": "м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "46-3-3",
+          "nazva": "Закладання прорізів",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    }
+  ]
+}

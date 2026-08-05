@@ -1,0 +1,62 @@
+{
+  "kompleks": "Д.2.3",
+  "nomer": 10,
+  "nazva": "Устаткування зв'язку",
+  "dstu": "ДСТУ Б Д.2.3-10:2012",
+  "marka": "М",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Монтаж систем зв'язку",
+      "odynytsya": "компл",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "10-1-1",
+          "nazva": "Монтаж СКС",
+          "odynytsya": "компл",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "10-1-2",
+          "nazva": "Монтаж телефонії",
+          "odynytsya": "компл",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "10-1-3",
+          "nazva": "Монтаж домофонів",
+          "odynytsya": "компл",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    }
+  ]
+}

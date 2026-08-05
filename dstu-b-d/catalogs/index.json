@@ -1,0 +1,912 @@
+{
+  "proekt": "children-shelter-project",
+  "pryznachennya": "Каталог збірників базових ресурсних елементних кошторисних норм ДСТУ Б Д",
+  "kompleksy": [
+    {
+      "kod": "Д.2.2",
+      "nazva": "Ресурсні елементні кошторисні норми на будівельні роботи",
+      "vkazivky": "ДСТУ-Н Б Д.2.2-48:2012",
+      "kilkist_zbirnykiv": 47,
+      "marka": "ЕД",
+      "zbirnyky": [
+        {
+          "nomer": 1,
+          "nazva": "Земляні роботи",
+          "dstu": "ДСТУ Б Д.2.2-1:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 2,
+          "nazva": "Гірничорозкривні роботи",
+          "dstu": "ДСТУ Б Д.2.2-2:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 3,
+          "nazva": "Буропідривні роботи",
+          "dstu": "ДСТУ Б Д.2.2-3:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 4,
+          "nazva": "Свердловини",
+          "dstu": "ДСТУ Б Д.2.2-4:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 5,
+          "nazva": "Пальові роботи. Опускні колодязі. Закріплення ґрунтів",
+          "dstu": "ДСТУ Б Д.2.2-5:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 6,
+          "nazva": "Бетонні та залізобетонні конструкції монолітні",
+          "dstu": "ДСТУ Б Д.2.2-6:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 7,
+          "nazva": "Бетонні та залізобетонні конструкції збірні",
+          "dstu": "ДСТУ Б Д.2.2-7:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 8,
+          "nazva": "Конструкції з цегли та блоків",
+          "dstu": "ДСТУ Б Д.2.2-8:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 9,
+          "nazva": "Металеві конструкції",
+          "dstu": "ДСТУ Б Д.2.2-9:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 10,
+          "nazva": "Дерев'яні конструкції",
+          "dstu": "ДСТУ Б Д.2.2-10:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 11,
+          "nazva": "Підлоги",
+          "dstu": "ДСТУ Б Д.2.2-11:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 12,
+          "nazva": "Покрівлі",
+          "dstu": "ДСТУ Б Д.2.2-12:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 13,
+          "nazva": "Захист будівельних конструкцій та устаткування від корозії",
+          "dstu": "ДСТУ Б Д.2.2-13:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 14,
+          "nazva": "Конструкції в сільському будівництві",
+          "dstu": "ДСТУ Б Д.2.2-14:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 15,
+          "nazva": "Оздоблювальні роботи",
+          "dstu": "ДСТУ Б Д.2.2-15:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 16,
+          "nazva": "Трубопроводи внутрішні",
+          "dstu": "ДСТУ Б Д.2.2-16:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 17,
+          "nazva": "Водопровід і каналізація – внутрішнє обладнання",
+          "dstu": "ДСТУ Б Д.2.2-17:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 18,
+          "nazva": "Опалення – внутрішнє обладнання",
+          "dstu": "ДСТУ Б Д.2.2-18:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 19,
+          "nazva": "Газопостачання – внутрішнє обладнання",
+          "dstu": "ДСТУ Б Д.2.2-19:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 20,
+          "nazva": "Вентиляція та кондиціонування повітря",
+          "dstu": "ДСТУ Б Д.2.2-20:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 21,
+          "nazva": "Електроосвітлення будинків",
+          "dstu": "ДСТУ Б Д.2.2-21:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 22,
+          "nazva": "Водопровід – зовнішні мережі",
+          "dstu": "ДСТУ Б Д.2.2-22:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 23,
+          "nazva": "Каналізація – зовнішні мережі",
+          "dstu": "ДСТУ Б Д.2.2-23:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 24,
+          "nazva": "Теплопостачання та газопроводи – зовнішні мережі",
+          "dstu": "ДСТУ Б Д.2.2-24:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 25,
+          "nazva": "Магістральні та промислові трубопроводи газонафтопродуктів",
+          "dstu": "ДСТУ Б Д.2.2-25:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 26,
+          "nazva": "Теплоізоляційні роботи",
+          "dstu": "ДСТУ Б Д.2.2-26:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 27,
+          "nazva": "Автомобільні дороги",
+          "dstu": "ДСТУ Б Д.2.2-27:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 28,
+          "nazva": "Залізниці",
+          "dstu": "ДСТУ Б Д.2.2-28:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 29,
+          "nazva": "Тунелі та метрополітени",
+          "dstu": "ДСТУ Б Д.2.2-29:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 30,
+          "nazva": "Мости і труби",
+          "dstu": "ДСТУ Б Д.2.2-30:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 31,
+          "nazva": "Аеродроми",
+          "dstu": "ДСТУ Б Д.2.2-31:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 32,
+          "nazva": "Трамвайні колії",
+          "dstu": "ДСТУ Б Д.2.2-32:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 33,
+          "nazva": "Лінії електропередачі",
+          "dstu": "ДСТУ Б Д.2.2-33:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 34,
+          "nazva": "Споруди зв'язку, радіомовлення і телебачення",
+          "dstu": "ДСТУ Б Д.2.2-34:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 35,
+          "nazva": "Гірничопрохідницькі роботи",
+          "dstu": "ДСТУ Б Д.2.2-35:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 36,
+          "nazva": "Земляні конструкції гідротехнічних споруд",
+          "dstu": "ДСТУ Б Д.2.2-36:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 37,
+          "nazva": "Бетонні та залізобетонні конструкції гідротехнічних споруд",
+          "dstu": "ДСТУ Б Д.2.2-37:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 38,
+          "nazva": "Кам'яні конструкції гідротехнічних споруд",
+          "dstu": "ДСТУ Б Д.2.2-38:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 39,
+          "nazva": "Металеві конструкції гідротехнічних споруд",
+          "dstu": "ДСТУ Б Д.2.2-39:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 40,
+          "nazva": "Дерев'яні конструкції гідротехнічних споруд",
+          "dstu": "ДСТУ Б Д.2.2-40:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 41,
+          "nazva": "Гідроізоляційні роботи в гідротехнічних спорудах",
+          "dstu": "ДСТУ Б Д.2.2-41:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 42,
+          "nazva": "Берегоукріплювальні роботи",
+          "dstu": "ДСТУ Б Д.2.2-42:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 43,
+          "nazva": "Судновозні колії стапелів та сліпів",
+          "dstu": "ДСТУ Б Д.2.2-43:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 44,
+          "nazva": "Підводнобудівельні (водолазні) роботи",
+          "dstu": "ДСТУ Б Д.2.2-44:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 45,
+          "nazva": "Промислові печі і труби",
+          "dstu": "ДСТУ Б Д.2.2-45:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 46,
+          "nazva": "Роботи при реконструкції будівель та споруд",
+          "dstu": "ДСТУ Б Д.2.2-46:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 47,
+          "nazva": "Озеленення. Захисні лісонасадження. Багаторічні плодові насадження",
+          "dstu": "ДСТУ Б Д.2.2-47:2012",
+          "priorytet_prytulok": true
+        }
+      ]
+    },
+    {
+      "kod": "Д.2.3",
+      "nazva": "Ресурсні елементні кошторисні норми на монтаж устаткування",
+      "vkazivky": "ДСТУ-Н Б Д.2.3-40:2012",
+      "kilkist_zbirnykiv": 39,
+      "marka": "М",
+      "zbirnyky": [
+        {
+          "nomer": 1,
+          "nazva": "Металообробне устаткування",
+          "dstu": "ДСТУ Б Д.2.3-1:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 2,
+          "nazva": "Деревообробне устаткування",
+          "dstu": "ДСТУ Б Д.2.3-2:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 3,
+          "nazva": "Підйомно-транспортне устаткування",
+          "dstu": "ДСТУ Б Д.2.3-3:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 4,
+          "nazva": "Дробильно-розмольне, збагачувальне та агломераційне устаткування",
+          "dstu": "ДСТУ Б Д.2.3-4:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 5,
+          "nazva": "Вагове устаткування",
+          "dstu": "ДСТУ Б Д.2.3-5:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 6,
+          "nazva": "Теплосилове устаткування",
+          "dstu": "ДСТУ Б Д.2.3-6:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 7,
+          "nazva": "Компресорні машини, насоси та вентилятори",
+          "dstu": "ДСТУ Б Д.2.3-7:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 8,
+          "nazva": "Електротехнічні установки",
+          "dstu": "ДСТУ Б Д.2.3-8:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 9,
+          "nazva": "Електричні печі",
+          "dstu": "ДСТУ Б Д.2.3-9:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 10,
+          "nazva": "Устаткування зв'язку",
+          "dstu": "ДСТУ Б Д.2.3-10:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 11,
+          "nazva": "Прилади, засоби автоматизації та обчислювальної техніки",
+          "dstu": "ДСТУ Б Д.2.3-11:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 12,
+          "nazva": "Технологічні трубопроводи",
+          "dstu": "ДСТУ Б Д.2.3-12:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 13,
+          "nazva": "Устаткування атомних електричних станцій",
+          "dstu": "ДСТУ Б Д.2.3-13:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 14,
+          "nazva": "Устаткування прокатних виробництв",
+          "dstu": "ДСТУ Б Д.2.3-14:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 15,
+          "nazva": "Устаткування для очищення газів",
+          "dstu": "ДСТУ Б Д.2.3-15:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 16,
+          "nazva": "Устаткування підприємств чорної металургії",
+          "dstu": "ДСТУ Б Д.2.3-16:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 17,
+          "nazva": "Устаткування підприємств кольорової металургії",
+          "dstu": "ДСТУ Б Д.2.3-17:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 18,
+          "nazva": "Устаткування підприємств хімічної та нафтопереробної промисловості",
+          "dstu": "ДСТУ Б Д.2.3-18:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 19,
+          "nazva": "Устаткування підприємств вугільної та торф'яної промисловості",
+          "dstu": "ДСТУ Б Д.2.3-19:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 20,
+          "nazva": "Устаткування сигналізації, централізації та блокування на залізничному транспорті",
+          "dstu": "ДСТУ Б Д.2.3-20:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 21,
+          "nazva": "Устаткування метрополітенів і тунелів",
+          "dstu": "ДСТУ Б Д.2.3-21:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 22,
+          "nazva": "Устаткування гідроелектростанцій і гідротехнічних споруд",
+          "dstu": "ДСТУ Б Д.2.3-22:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 23,
+          "nazva": "Устаткування підприємств електротехнічної промисловості",
+          "dstu": "ДСТУ Б Д.2.3-23:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 24,
+          "nazva": "Устаткування підприємств промисловості будівельних матеріалів",
+          "dstu": "ДСТУ Б Д.2.3-24:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 25,
+          "nazva": "Устаткування підприємств целюлозно-паперової промисловості",
+          "dstu": "ДСТУ Б Д.2.3-25:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 26,
+          "nazva": "Устаткування підприємств текстильної промисловості",
+          "dstu": "ДСТУ Б Д.2.3-26:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 27,
+          "nazva": "Устаткування підприємств поліграфічної промисловості",
+          "dstu": "ДСТУ Б Д.2.3-27:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 28,
+          "nazva": "Устаткування підприємств харчової промисловості",
+          "dstu": "ДСТУ Б Д.2.3-28:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 29,
+          "nazva": "Устаткування театрально-видовищних підприємств",
+          "dstu": "ДСТУ Б Д.2.3-29:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 30,
+          "nazva": "Устаткування зерносховищ і підприємств з переробки зерна",
+          "dstu": "ДСТУ Б Д.2.3-30:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 31,
+          "nazva": "Устаткування підприємств кінематографії",
+          "dstu": "ДСТУ Б Д.2.3-31:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 32,
+          "nazva": "Устаткування підприємств електронної промисловості і промисловості засобів зв'язку",
+          "dstu": "ДСТУ Б Д.2.3-32:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 33,
+          "nazva": "Устаткування підприємств легкої промисловості",
+          "dstu": "ДСТУ Б Д.2.3-33:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 34,
+          "nazva": "Устаткування закладів охорони здоров'я і підприємств медичної промисловості",
+          "dstu": "ДСТУ Б Д.2.3-34:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 35,
+          "nazva": "Устаткування сільськогосподарських виробництв",
+          "dstu": "ДСТУ Б Д.2.3-35:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 36,
+          "nazva": "Устаткування підприємств побутового обслуговування і комунального господарства",
+          "dstu": "ДСТУ Б Д.2.3-36:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 37,
+          "nazva": "Контроль якості зварних з'єднань",
+          "dstu": "ДСТУ Б Д.2.3-37:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 38,
+          "nazva": "Устаткування загального призначення",
+          "dstu": "ДСТУ Б Д.2.3-38:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 39,
+          "nazva": "Монтаж електроустаткування та підключення кабелів або проводів зовнішньої мережі",
+          "dstu": "ДСТУ Б Д.2.3-39:2012",
+          "priorytet_prytulok": true
+        }
+      ]
+    },
+    {
+      "kod": "Д.2.4",
+      "nazva": "Ресурсні елементні кошторисні норми на ремонтно-будівельні роботи",
+      "vkazivky": "ДСТУ-Н Б Д.2.4-21:2012",
+      "kilkist_zbirnykiv": 20,
+      "marka": "Р",
+      "zbirnyky": [
+        {
+          "nomer": 1,
+          "nazva": "Земляні роботи",
+          "dstu": "ДСТУ Б Д.2.4-1:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 2,
+          "nazva": "Фундаменти",
+          "dstu": "ДСТУ Б Д.2.4-2:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 3,
+          "nazva": "Стіни",
+          "dstu": "ДСТУ Б Д.2.4-3:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 4,
+          "nazva": "Перекриття",
+          "dstu": "ДСТУ Б Д.2.4-4:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 5,
+          "nazva": "Перегородки",
+          "dstu": "ДСТУ Б Д.2.4-5:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 6,
+          "nazva": "Прорізи",
+          "dstu": "ДСТУ Б Д.2.4-6:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 7,
+          "nazva": "Підлоги",
+          "dstu": "ДСТУ Б Д.2.4-7:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 8,
+          "nazva": "Дахи, покрівлі",
+          "dstu": "ДСТУ Б Д.2.4-8:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 9,
+          "nazva": "Сходи, ґанки",
+          "dstu": "ДСТУ Б Д.2.4-9:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 10,
+          "nazva": "Пічні роботи",
+          "dstu": "ДСТУ Б Д.2.4-10:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 11,
+          "nazva": "Штукатурні роботи",
+          "dstu": "ДСТУ Б Д.2.4-11:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 12,
+          "nazva": "Малярні роботи",
+          "dstu": "ДСТУ Б Д.2.4-12:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 13,
+          "nazva": "Склярські, шпалерні та облицювальні роботи",
+          "dstu": "ДСТУ Б Д.2.4-13:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 14,
+          "nazva": "Ліпні роботи",
+          "dstu": "ДСТУ Б Д.2.4-14:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 15,
+          "nazva": "Внутрішні санітарно-технічні роботи",
+          "dstu": "ДСТУ Б Д.2.4-15:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 16,
+          "nazva": "Зовнішні інженерні мережі",
+          "dstu": "ДСТУ Б Д.2.4-16:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 17,
+          "nazva": "Електромонтажні роботи",
+          "dstu": "ДСТУ Б Д.2.4-17:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 18,
+          "nazva": "Благоустрій",
+          "dstu": "ДСТУ Б Д.2.4-18:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 19,
+          "nazva": "Ізоляційні роботи",
+          "dstu": "ДСТУ Б Д.2.4-19:2012",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 20,
+          "nazva": "Інші ремонтно-будівельні роботи",
+          "dstu": "ДСТУ Б Д.2.4-20:2012",
+          "priorytet_prytulok": true
+        }
+      ]
+    },
+    {
+      "kod": "Д.2.5",
+      "nazva": "Ресурсні елементні кошторисні норми на реставраційно-відновлювальні роботи",
+      "vkazivky": "ДБН Д.1.1-5-2001",
+      "kilkist_zbirnykiv": 26,
+      "marka": "В",
+      "zbirnyky": [
+        {
+          "nomer": 1,
+          "nazva": "Архітектурно-археологічні і земляні роботи в зонах пам'яток історії і культури",
+          "dstu": "ДСТУ Б Д.2.5-1:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 2,
+          "nazva": "Реставрація і відтворення цегляних мурувань",
+          "dstu": "ДСТУ Б Д.2.5-2:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 3,
+          "nazva": "Реставрація і відтворення мурувань із природних кам'яних матеріалів",
+          "dstu": "ДСТУ Б Д.2.5-3:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 4,
+          "nazva": "Реставрація і відтворення конструкцій і декору з природного каменю",
+          "dstu": "ДСТУ Б Д.2.5-4:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 5,
+          "nazva": "Реставрація і відтворення дерев'яних конструкцій і деталей",
+          "dstu": "ДСТУ Б Д.2.5-5:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 6,
+          "nazva": "Реставрація і відтворення покрівель",
+          "dstu": "ДСТУ Б Д.2.5-6:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 7,
+          "nazva": "Реставрація і відтворення металевих конструкцій і декоративних елементів",
+          "dstu": "ДСТУ Б Д.2.5-7:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 8,
+          "nazva": "Реставрація і відтворення штукатурного опорядження",
+          "dstu": "ДСТУ Б Д.2.5-8:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 9,
+          "nazva": "Реставрація і відтворення облицювань штучним мармуром",
+          "dstu": "ДСТУ Б Д.2.5-9:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 10,
+          "nazva": "Реставрація і відтворення фарбування фасадів і інтер'єрів",
+          "dstu": "ДСТУ Б Д.2.5-10:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 11,
+          "nazva": "Реставрація керамічних кахлів",
+          "dstu": "ДСТУ Б Д.2.5-11:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 12,
+          "nazva": "Реставрація і відтворення архітектурно-ліпного декору",
+          "dstu": "ДСТУ Б Д.2.5-12:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 13,
+          "nazva": "Реставрація і відтворення різьблення по дереву",
+          "dstu": "ДСТУ Б Д.2.5-13:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 14,
+          "nazva": "Реставрація і відтворення меблів із цінних порід дерева",
+          "dstu": "ДСТУ Б Д.2.5-14:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 15,
+          "nazva": "Реставрація і відтворення паркетних підлог",
+          "dstu": "ДСТУ Б Д.2.5-15:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 16,
+          "nazva": "Відтворення виробів художнього литва з кольорових металів",
+          "dstu": "ДСТУ Б Д.2.5-16:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 17,
+          "nazva": "Чеканні, виколотні, давильні роботи",
+          "dstu": "ДСТУ Б Д.2.5-17:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 18,
+          "nazva": "Реставрація і відтворення інкрустованої поверхні",
+          "dstu": "ДСТУ Б Д.2.5-18:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 19,
+          "nazva": "Реставрація і відтворення оббивки меблів і оббивних декоративних елементів",
+          "dstu": "ДСТУ Б Д.2.5-19:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 20,
+          "nazva": "Реставрація і відтворення позолоти",
+          "dstu": "ДСТУ Б Д.2.5-20:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 21,
+          "nazva": "Різні роботи",
+          "dstu": "ДСТУ Б Д.2.5-21:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 22,
+          "nazva": "Реставрація і відтворення віконних і дверних приладів",
+          "dstu": "ДСТУ Б Д.2.5-22:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 23,
+          "nazva": "Реставрація і відтворення тканин і шпалер",
+          "dstu": "ДСТУ Б Д.2.5-23:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 24,
+          "nazva": "Художня обробка металевих виробів гальванічним способом",
+          "dstu": "ДСТУ Б Д.2.5-24:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 25,
+          "nazva": "Реставрація і відтворення освітлювальних приладів",
+          "dstu": "ДСТУ Б Д.2.5-25:2012",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 27,
+          "nazva": "Живописні роботи",
+          "dstu": "ДСТУ Б Д.2.5-1:2010",
+          "priorytet_prytulok": false
+        }
+      ]
+    },
+    {
+      "kod": "Д.2.6",
+      "nazva": "Ресурсні елементні кошторисні норми на пусконалагоджувальні роботи",
+      "vkazivky": "ДБН Д.1.1-6-2000",
+      "kilkist_zbirnykiv": 9,
+      "marka": "ПН",
+      "zbirnyky": [
+        {
+          "nomer": 1,
+          "nazva": "Електротехнічні пристрої",
+          "dstu": "ДБН Д.2.6-1-2000",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 2,
+          "nazva": "Автоматизовані системи управління",
+          "dstu": "ДБН Д.2.6-2-2000",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 3,
+          "nazva": "Системи вентиляції та кондиціонування повітря",
+          "dstu": "ДБН Д.2.6-3-2000",
+          "priorytet_prytulok": true
+        },
+        {
+          "nomer": 4,
+          "nazva": "Підйомно-транспортне устаткування",
+          "dstu": "ДБН Д.2.6-4-2000",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 5,
+          "nazva": "Металообробне устаткування",
+          "dstu": "ДБН Д.2.6-5-2000",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 6,
+          "nazva": "Холодильні та компресорні установки",
+          "dstu": "ДБН Д.2.6-6-2000",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 7,
+          "nazva": "Теплоенергетичне устаткування",
+          "dstu": "ДБН Д.2.6-7-2000",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 8,
+          "nazva": "Деревообробне устаткування",
+          "dstu": "ДБН Д.2.6-8-2000",
+          "priorytet_prytulok": false
+        },
+        {
+          "nomer": 9,
+          "nazva": "Споруди водопостачання та каналізації",
+          "dstu": "ДБН Д.2.6-9-2000",
+          "priorytet_prytulok": true
+        }
+      ]
+    },
+    {
+      "kod": "Д.2.7",
+      "nazva": "Ресурсні кошторисні норми експлуатації будівельних машин і механізмів",
+      "vkazivky": "ДБН Д.2.7-2000",
+      "kilkist_zbirnykiv": 1,
+      "marka": "С2",
+      "zbirnyky": [
+        {
+          "nomer": 1,
+          "nazva": "Експлуатація будівельних машин і механізмів",
+          "dstu": "ДБН Д.2.7-2000",
+          "priorytet_prytulok": true
+        }
+      ]
+    }
+  ]
+}
