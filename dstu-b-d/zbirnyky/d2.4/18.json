@@ -1,7 +1,7 @@
 {
   "kompleks": "Д.2.4",
   "nomer": 18,
-  "nazva": "Благоустрій",
+  "nazva": "Благоустрій (ремонт)",
   "dstu": "ДСТУ Б Д.2.4-18:2012",
   "marka": "Р",
   "priorytet_prytulok": true,
@@ -14,32 +14,33 @@
   "grupy": [
     {
       "grupa": 1,
-      "nazva": "Ремонт елементів благоустрою",
-      "odynytsya": "100 м2",
+      "nazva": "Ремонт покриттів і елементів",
+      "odynytsya": "100 м2 / 100 м / шт",
       "sklad_robit": [
-        "Розмітка траси",
-        "Прокладання трубопроводів",
-        "Монтаж арматури",
-        "Випробування"
+        "Вирубування карт",
+        "Укладання суміші",
+        "Ущільнення"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "18-1-1",
-          "nazva": "Ремонт покриттів тротуарів",
+          "nazva": "Ремонт асфальтових покриттів картами",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Розмітка траси",
-            "Прокладання трубопроводів",
-            "Монтаж арматури",
-            "Випробування"
+            "Вирубування карт",
+            "Укладання суміші",
+            "Ущільнення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 168.672,
+              "lyud_god": 183.98,
               "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 16023.84
+              "vartist_uah": 17478.1
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -74,35 +75,36 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 16023.84,
+              "vartist_trudu_uah": 17478.1,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 56600,
-              "priami_vytraty_uah": 72623.84,
+              "priami_vytraty_uah": 74078.1,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 168.672,
+            "trud_lyud_god": 183.98,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "18-1-2",
-          "nazva": "Ремонт огороджень",
+          "nazva": "Перекладання тротуарної плитки",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Розмітка траси",
-            "Прокладання трубопроводів",
-            "Монтаж арматури",
-            "Випробування"
+            "Розбирання",
+            "Вирівнювання основи",
+            "Укладання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 173.025,
+              "lyud_god": 143.013,
               "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 16437.38
+              "vartist_uah": 13586.24
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -112,60 +114,60 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С193-1",
-                "nazva": "Труби (сталь/ППР/ПВХ/ПЕ)",
-                "odynytsya": "м",
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
                 "vytrata": 105,
-                "tsina_za_od_uah": 120,
-                "vartist_uah": 12600
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
               },
               {
-                "kod": "С194-1",
-                "nazva": "Фітинги та арматура",
-                "odynytsya": "компл",
-                "vytrata": 100,
-                "tsina_za_od_uah": 350,
-                "vartist_uah": 35000
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
               },
               {
-                "kod": "С195-1",
-                "nazva": "Кріплення / ізоляція",
-                "odynytsya": "компл",
-                "vytrata": 100,
-                "tsina_za_od_uah": 90,
-                "vartist_uah": 9000
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 16437.38,
+              "vartist_trudu_uah": 13586.24,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 56600,
-              "priami_vytraty_uah": 73037.38,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 66936.24,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 173.025,
+            "trud_lyud_god": 143.013,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "18-1-3",
-          "nazva": "Відновлення озеленення",
-          "odynytsya": "100 м2",
+          "nazva": "Заміна бортових каменів",
+          "odynytsya": "100 м",
           "sklad_robit": [
-            "Розмітка траси",
-            "Прокладання трубопроводів",
-            "Монтаж арматури",
-            "Випробування"
+            "Демонтаж",
+            "Установлення нових"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 193.077,
+              "lyud_god": 197.182,
               "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 18342.31
+              "vartist_uah": 18732.29
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -200,35 +202,36 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 18342.31,
+              "vartist_trudu_uah": 18732.29,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 56600,
-              "priami_vytraty_uah": 74942.31,
-              "odynytsya": "100 м2",
+              "priami_vytraty_uah": 75332.29,
+              "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 193.077,
+            "trud_lyud_god": 197.182,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "18-1-4",
-          "nazva": "Ремонт проїздів",
-          "odynytsya": "100 м2",
+          "nazva": "Ремонт металевих огорож із фарбуванням",
+          "odynytsya": "100 м",
           "sklad_robit": [
-            "Розмітка траси",
-            "Прокладання трубопроводів",
-            "Монтаж арматури",
-            "Випробування"
+            "Виправлення",
+            "Зварювання",
+            "Фарбування"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 182.093,
-              "seredniy_rozryad": 3.8,
+              "lyud_god": 76.538,
+              "seredniy_rozryad": 3.4,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 17298.83
+              "vartist_uah": 7271.11
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -238,60 +241,60 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С193-1",
-                "nazva": "Труби (сталь/ППР/ПВХ/ПЕ)",
-                "odynytsya": "м",
-                "vytrata": 105,
-                "tsina_za_od_uah": 120,
-                "vartist_uah": 12600
+                "kod": "С181-1",
+                "nazva": "Ґрунтовка",
+                "odynytsya": "л",
+                "vytrata": 15,
+                "tsina_za_od_uah": 85,
+                "vartist_uah": 1275
               },
               {
-                "kod": "С194-1",
-                "nazva": "Фітинги та арматура",
-                "odynytsya": "компл",
-                "vytrata": 100,
-                "tsina_za_od_uah": 350,
-                "vartist_uah": 35000
+                "kod": "С182-1",
+                "nazva": "Шпаклівка",
+                "odynytsya": "кг",
+                "vytrata": 120,
+                "tsina_za_od_uah": 22,
+                "vartist_uah": 2640
               },
               {
-                "kod": "С195-1",
-                "nazva": "Кріплення / ізоляція",
-                "odynytsya": "компл",
-                "vytrata": 100,
-                "tsina_za_od_uah": 90,
-                "vartist_uah": 9000
+                "kod": "С183-1",
+                "nazva": "Фарба водоемульсійна",
+                "odynytsya": "л",
+                "vytrata": 25,
+                "tsina_za_od_uah": 140,
+                "vartist_uah": 3500
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 17298.83,
+              "vartist_trudu_uah": 7271.11,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 56600,
-              "priami_vytraty_uah": 73898.83,
-              "odynytsya": "100 м2",
+              "vartist_materialiv_uah": 7415,
+              "priami_vytraty_uah": 14686.11,
+              "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 182.093,
+            "trud_lyud_god": 76.538,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "18-1-5",
-          "nazva": "Ремонт малих архітектурних форм",
+          "nazva": "Ремонт дитячих майданчиків (заміна елементів)",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Розмітка траси",
-            "Прокладання трубопроводів",
-            "Монтаж арматури",
-            "Випробування"
+            "Демонтаж",
+            "Монтаж нових елементів"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 2.001,
+              "lyud_god": 2.121,
               "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 190.09
+              "vartist_uah": 201.5
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -326,19 +329,93 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 190.09,
+              "vartist_trudu_uah": 201.5,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 566.0,
-              "priami_vytraty_uah": 756.09,
+              "priami_vytraty_uah": 767.5,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 2.001,
+            "trud_lyud_god": 2.121,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "18-1-6",
+          "nazva": "Відновлення газонів після робіт",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Планування",
+            "Підсипання ґрунту",
+            "Посів"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 188.384,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 17896.48
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С193-1",
+                "nazva": "Труби (сталь/ППР/ПВХ/ПЕ)",
+                "odynytsya": "м",
+                "vytrata": 105,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 12600
+              },
+              {
+                "kod": "С194-1",
+                "nazva": "Фітинги та арматура",
+                "odynytsya": "компл",
+                "vytrata": 100,
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 35000
+              },
+              {
+                "kod": "С195-1",
+                "nazva": "Кріплення / ізоляція",
+                "odynytsya": "компл",
+                "vytrata": 100,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 9000
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 17896.48,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 56600,
+              "priami_vytraty_uah": 74496.48,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 188.384,
             "mashynisty_lyud_god": 0.0
           }
         }
       ]
     }
-  ]
+  ],
+  "techastyna": {
+    "sfera_zastosuvannya": "Ремонт елементів благоустрою території.",
+    "zagalni_polozhennya": [],
+    "pravyla_obsyagiv": [
+      "Площі та довжини — за ділянками ремонту."
+    ],
+    "koeficienty_umov": [],
+    "vytraty_i_vidhody": []
+  },
+  "pogiyblennya": true
 }

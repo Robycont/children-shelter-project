@@ -49,9 +49,9 @@
               {
                 "kod": "С214-1",
                 "nazva": "Пальник газовий покрівельний",
-                "mash_god": 0.8,
+                "mash_god": 0.2,
                 "tsina_mash_god_uah": 50,
-                "vartist_uah": 40.0
+                "vartist_uah": 10.0
               }
             ],
             "materialy": [
@@ -74,9 +74,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 9200.9,
-              "vartist_mashyn_uah": 40.0,
+              "vartist_mashyn_uah": 10.0,
               "vartist_materialiv_uah": 22800,
-              "priami_vytraty_uah": 32040.9,
+              "priami_vytraty_uah": 32010.9,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -112,9 +112,9 @@
               {
                 "kod": "С214-1",
                 "nazva": "Пальник газовий покрівельний",
-                "mash_god": 0.8,
+                "mash_god": 0.2,
                 "tsina_mash_god_uah": 50,
-                "vartist_uah": 40.0
+                "vartist_uah": 10.0
               }
             ],
             "materialy": [
@@ -137,9 +137,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 8792.68,
-              "vartist_mashyn_uah": 40.0,
+              "vartist_mashyn_uah": 10.0,
               "vartist_materialiv_uah": 22800,
-              "priami_vytraty_uah": 31632.68,
+              "priami_vytraty_uah": 31602.68,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -175,9 +175,9 @@
               {
                 "kod": "С214-1",
                 "nazva": "Пальник газовий покрівельний",
-                "mash_god": 0.8,
+                "mash_god": 0.2,
                 "tsina_mash_god_uah": 50,
-                "vartist_uah": 40.0
+                "vartist_uah": 10.0
               }
             ],
             "materialy": [
@@ -200,9 +200,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 8889.49,
-              "vartist_mashyn_uah": 40.0,
+              "vartist_mashyn_uah": 10.0,
               "vartist_materialiv_uah": 22800,
-              "priami_vytraty_uah": 31729.49,
+              "priami_vytraty_uah": 31699.49,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -356,9 +356,9 @@
               {
                 "kod": "С214-1",
                 "nazva": "Пальник газовий покрівельний",
-                "mash_god": 0.8,
+                "mash_god": 0.2,
                 "tsina_mash_god_uah": 50,
-                "vartist_uah": 40.0
+                "vartist_uah": 10.0
               }
             ],
             "materialy": [
@@ -381,9 +381,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 8228.58,
-              "vartist_mashyn_uah": 40.0,
+              "vartist_mashyn_uah": 10.0,
               "vartist_materialiv_uah": 22800,
-              "priami_vytraty_uah": 31068.58,
+              "priami_vytraty_uah": 31038.58,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -431,9 +431,9 @@
               {
                 "kod": "С214-1",
                 "nazva": "Пальник газовий покрівельний",
-                "mash_god": 0.8,
+                "mash_god": 0.2,
                 "tsina_mash_god_uah": 50,
-                "vartist_uah": 40.0
+                "vartist_uah": 10.0
               }
             ],
             "materialy": [
@@ -456,9 +456,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 8952.57,
-              "vartist_mashyn_uah": 40.0,
+              "vartist_mashyn_uah": 10.0,
               "vartist_materialiv_uah": 22800,
-              "priami_vytraty_uah": 31792.57,
+              "priami_vytraty_uah": 31762.57,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -494,9 +494,9 @@
               {
                 "kod": "С214-1",
                 "nazva": "Пальник газовий покрівельний",
-                "mash_god": 0.8,
+                "mash_god": 0.2,
                 "tsina_mash_god_uah": 50,
-                "vartist_uah": 40.0
+                "vartist_uah": 10.0
               }
             ],
             "materialy": [
@@ -519,9 +519,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 8510.91,
-              "vartist_mashyn_uah": 40.0,
+              "vartist_mashyn_uah": 10.0,
               "vartist_materialiv_uah": 22800,
-              "priami_vytraty_uah": 31350.91,
+              "priami_vytraty_uah": 31320.91,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -557,9 +557,9 @@
               {
                 "kod": "С214-1",
                 "nazva": "Пальник газовий покрівельний",
-                "mash_god": 0.8,
+                "mash_god": 0.2,
                 "tsina_mash_god_uah": 50,
-                "vartist_uah": 40.0
+                "vartist_uah": 10.0
               }
             ],
             "materialy": [
@@ -582,9 +582,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 9418.83,
-              "vartist_mashyn_uah": 40.0,
+              "vartist_mashyn_uah": 10.0,
               "vartist_materialiv_uah": 22800,
-              "priami_vytraty_uah": 32258.83,
+              "priami_vytraty_uah": 32228.83,
               "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -621,9 +621,9 @@
               {
                 "kod": "С214-1",
                 "nazva": "Пальник газовий покрівельний",
-                "mash_god": 0.8,
+                "mash_god": 0.2,
                 "tsina_mash_god_uah": 50,
-                "vartist_uah": 40.0
+                "vartist_uah": 10.0
               }
             ],
             "materialy": [
@@ -646,9 +646,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 8891.49,
-              "vartist_mashyn_uah": 40.0,
+              "vartist_mashyn_uah": 10.0,
               "vartist_materialiv_uah": 22800,
-              "priami_vytraty_uah": 31731.49,
+              "priami_vytraty_uah": 31701.49,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -886,9 +886,9 @@
               {
                 "kod": "С214-1",
                 "nazva": "Пальник газовий покрівельний",
-                "mash_god": 0.8,
+                "mash_god": 0.2,
                 "tsina_mash_god_uah": 50,
-                "vartist_uah": 40.0
+                "vartist_uah": 10.0
               }
             ],
             "materialy": [
@@ -911,9 +911,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 8097.86,
-              "vartist_mashyn_uah": 40.0,
+              "vartist_mashyn_uah": 10.0,
               "vartist_materialiv_uah": 22800,
-              "priami_vytraty_uah": 30937.86,
+              "priami_vytraty_uah": 30907.86,
               "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -1019,9 +1019,9 @@
               {
                 "kod": "С214-1",
                 "nazva": "Пальник газовий покрівельний",
-                "mash_god": 0.8,
+                "mash_god": 0.2,
                 "tsina_mash_god_uah": 50,
-                "vartist_uah": 40.0
+                "vartist_uah": 10.0
               }
             ],
             "materialy": [
@@ -1044,9 +1044,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 8479.28,
-              "vartist_mashyn_uah": 40.0,
+              "vartist_mashyn_uah": 10.0,
               "vartist_materialiv_uah": 22800,
-              "priami_vytraty_uah": 31319.28,
+              "priami_vytraty_uah": 31289.28,
               "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -1135,9 +1135,9 @@
               {
                 "kod": "С214-1",
                 "nazva": "Пальник газовий покрівельний",
-                "mash_god": 0.8,
+                "mash_god": 0.2,
                 "tsina_mash_god_uah": 50,
-                "vartist_uah": 40.0
+                "vartist_uah": 10.0
               }
             ],
             "materialy": [
@@ -1160,9 +1160,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 9368.48,
-              "vartist_mashyn_uah": 40.0,
+              "vartist_mashyn_uah": 10.0,
               "vartist_materialiv_uah": 22800,
-              "priami_vytraty_uah": 32208.48,
+              "priami_vytraty_uah": 32178.48,
               "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -1198,9 +1198,9 @@
               {
                 "kod": "С214-1",
                 "nazva": "Пальник газовий покрівельний",
-                "mash_god": 0.8,
+                "mash_god": 0.2,
                 "tsina_mash_god_uah": 50,
-                "vartist_uah": 40.0
+                "vartist_uah": 10.0
               }
             ],
             "materialy": [
@@ -1223,9 +1223,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 150.16,
-              "vartist_mashyn_uah": 40.0,
+              "vartist_mashyn_uah": 10.0,
               "vartist_materialiv_uah": 228.0,
-              "priami_vytraty_uah": 418.16,
+              "priami_vytraty_uah": 388.16,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"

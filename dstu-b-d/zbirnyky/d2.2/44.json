@@ -111,16 +111,16 @@
               {
                 "kod": "С210-1",
                 "nazva": "Кран / бетононасос",
-                "mash_god": 0.6,
+                "mash_god": 0.257,
                 "tsina_mash_god_uah": 1500,
-                "vartist_uah": 900.0
+                "vartist_uah": 385.5
               },
               {
                 "kod": "С211-1",
                 "nazva": "Вібратор глибинний",
-                "mash_god": 0.8,
+                "mash_god": 0.343,
                 "tsina_mash_god_uah": 120,
-                "vartist_uah": 96.0
+                "vartist_uah": 41.16
               }
             ],
             "materialy": [
@@ -143,9 +143,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 811.56,
-              "vartist_mashyn_uah": 996.0,
+              "vartist_mashyn_uah": 426.66,
               "vartist_materialiv_uah": 3272.0,
-              "priami_vytraty_uah": 5079.56,
+              "priami_vytraty_uah": 4510.22,
               "odynytsya": "м3 / м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -263,18 +263,17 @@
           "nazva": "Підводне зварювання і різання",
           "odynytsya": "год / шт",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.307,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 3.307,
+              "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 409.17
+              "vartist_uah": 314.17
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -284,40 +283,24 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
-              },
-              {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 409.17,
+              "vartist_trudu_uah": 314.17,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4639.17,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 464.17,
               "odynytsya": "год / шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.307,
+            "trud_lyud_god": 3.307,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -349,16 +332,16 @@
               {
                 "kod": "С230-m",
                 "nazva": "Кран / такелаж",
-                "mash_god": 1.5,
+                "mash_god": 0.643,
                 "tsina_mash_god_uah": 1600,
-                "vartist_uah": 2400.0
+                "vartist_uah": 1028.8
               },
               {
                 "kod": "С213-1",
                 "nazva": "Зварювальне / електромонтажне обладнання",
-                "mash_god": 2.0,
+                "mash_god": 0.857,
                 "tsina_mash_god_uah": 80,
-                "vartist_uah": 160.0
+                "vartist_uah": 68.56
               }
             ],
             "materialy": [
@@ -381,9 +364,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 1461.37,
-              "vartist_mashyn_uah": 2560.0,
+              "vartist_mashyn_uah": 1097.36,
               "vartist_materialiv_uah": 2000.0,
-              "priami_vytraty_uah": 6021.37,
+              "priami_vytraty_uah": 4558.73,
               "odynytsya": "год / шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"

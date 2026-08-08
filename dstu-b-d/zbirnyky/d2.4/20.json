@@ -14,32 +14,31 @@
   "grupy": [
     {
       "grupa": 1,
-      "nazva": "Інші ремонтні роботи",
-      "odynytsya": "компл",
+      "nazva": "Супутні роботи",
+      "odynytsya": "т / 100 м2 / 100 м",
       "sklad_robit": [
-        "Заготівля",
-        "Монтаж",
-        "Герметизація",
-        "Перевірка"
+        "Збирання",
+        "Навантаження"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "20-1-1",
-          "nazva": "Прибирання будівельного сміття",
-          "odynytsya": "компл",
+          "nazva": "Навантаження будівельного сміття вручну",
+          "odynytsya": "т",
           "sklad_robit": [
-            "Заготівля",
-            "Монтаж",
-            "Герметизація",
-            "Перевірка"
+            "Збирання",
+            "Навантаження"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.314,
+              "lyud_god": 13.458,
               "seredniy_rozryad": 3.9,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 314.83
+              "vartist_uah": 1278.51
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -66,35 +65,35 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 314.83,
+              "vartist_trudu_uah": 1278.51,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 414.0,
-              "priami_vytraty_uah": 728.83,
-              "odynytsya": "компл",
+              "priami_vytraty_uah": 1692.51,
+              "odynytsya": "т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.314,
+            "trud_lyud_god": 13.458,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "20-1-2",
-          "nazva": "Тимчасові огородження",
-          "odynytsya": "компл",
+          "nazva": "Спуск сміття сміттєспусками з поверхів",
+          "odynytsya": "т",
           "sklad_robit": [
-            "Заготівля",
-            "Монтаж",
-            "Герметизація",
-            "Перевірка"
+            "Монтаж рукава (амортизація)",
+            "Спуск"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.026,
+              "lyud_god": 15.927,
               "seredniy_rozryad": 3.9,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 287.47
+              "vartist_uah": 1513.07
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -121,35 +120,35 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 287.47,
+              "vartist_trudu_uah": 1513.07,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 414.0,
-              "priami_vytraty_uah": 701.47,
-              "odynytsya": "компл",
+              "priami_vytraty_uah": 1927.07,
+              "odynytsya": "т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.026,
+            "trud_lyud_god": 15.927,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "20-1-3",
-          "nazva": "Інші роботи",
-          "odynytsya": "компл",
+          "nazva": "Вивезення будівельного сміття",
+          "odynytsya": "т",
           "sklad_robit": [
-            "Заготівля",
-            "Монтаж",
-            "Герметизація",
-            "Перевірка"
+            "Перевезення",
+            "Утилізація"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.139,
+              "lyud_god": 15.191,
               "seredniy_rozryad": 3.9,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 298.2
+              "vartist_uah": 1443.14
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -176,35 +175,35 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 298.2,
+              "vartist_trudu_uah": 1443.14,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 414.0,
-              "priami_vytraty_uah": 712.2,
-              "odynytsya": "компл",
+              "priami_vytraty_uah": 1857.14,
+              "odynytsya": "т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.139,
+            "trud_lyud_god": 15.191,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "20-1-4",
-          "nazva": "Улаштування тимчасових риштувань при ремонті",
-          "odynytsya": "100 м2",
+          "nazva": "Тимчасові захисні огородження зон робіт",
+          "odynytsya": "100 м",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Монтаж",
+            "Демонтаж"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.096,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 241.775,
+              "seredniy_rozryad": 3.9,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 389.12
+              "vartist_uah": 22968.62
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -214,60 +213,52 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
+                "kod": "С202-m",
+                "nazva": "Повітроводи оцинковані",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 280,
+                "vartist_uah": 29400
               },
               {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С203-m",
+                "nazva": "Фланці, ущільнення, кріплення",
                 "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "vytrata": 100,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 12000
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 389.12,
+              "vartist_trudu_uah": 22968.62,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4619.12,
-              "odynytsya": "100 м2",
+              "vartist_materialiv_uah": 41400,
+              "priami_vytraty_uah": 64368.62,
+              "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.096,
+            "trud_lyud_god": 241.775,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "20-1-5",
-          "nazva": "Перевезення сміття",
-          "odynytsya": "т",
+          "nazva": "Захист меблів і підлог плівкою",
+          "odynytsya": "100 м2",
           "sklad_robit": [
-            "Заготівля",
-            "Монтаж",
-            "Герметизація",
-            "Перевірка"
+            "Укриття",
+            "Зняття"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.274,
-              "seredniy_rozryad": 3.9,
+              "lyud_god": 146.46,
+              "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 311.03
+              "vartist_uah": 13913.7
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -277,52 +268,60 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С202-m",
-                "nazva": "Повітроводи оцинковані",
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
                 "odynytsya": "м2",
-                "vytrata": 1.05,
-                "tsina_za_od_uah": 280,
-                "vartist_uah": 294.0
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
               },
               {
-                "kod": "С203-m",
-                "nazva": "Фланці, ущільнення, кріплення",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 120,
-                "vartist_uah": 120.0
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 311.03,
+              "vartist_trudu_uah": 13913.7,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 414.0,
-              "priami_vytraty_uah": 725.03,
-              "odynytsya": "т",
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 67263.7,
+              "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.274,
+            "trud_lyud_god": 146.46,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "20-1-6",
-          "nazva": "Інші непередбачені ремонтні роботи",
-          "odynytsya": "компл",
+          "nazva": "Фінішне прибирання приміщень після ремонту",
+          "odynytsya": "100 м2",
           "sklad_robit": [
-            "Заготівля",
-            "Монтаж",
-            "Герметизація",
-            "Перевірка"
+            "Прибирання",
+            "Миття"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.324,
+              "lyud_god": 250.297,
               "seredniy_rozryad": 3.9,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 315.78
+              "vartist_uah": 23778.22
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -335,33 +334,43 @@
                 "kod": "С202-m",
                 "nazva": "Повітроводи оцинковані",
                 "odynytsya": "м2",
-                "vytrata": 1.05,
+                "vytrata": 105,
                 "tsina_za_od_uah": 280,
-                "vartist_uah": 294.0
+                "vartist_uah": 29400
               },
               {
                 "kod": "С203-m",
                 "nazva": "Фланці, ущільнення, кріплення",
                 "odynytsya": "компл",
-                "vytrata": 1.0,
+                "vytrata": 100,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 120.0
+                "vartist_uah": 12000
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 315.78,
+              "vartist_trudu_uah": 23778.22,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 414.0,
-              "priami_vytraty_uah": 729.78,
-              "odynytsya": "компл",
+              "vartist_materialiv_uah": 41400,
+              "priami_vytraty_uah": 65178.22,
+              "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.324,
+            "trud_lyud_god": 250.297,
             "mashynisty_lyud_god": 0.0
           }
         }
       ]
     }
-  ]
+  ],
+  "techastyna": {
+    "sfera_zastosuvannya": "Супутні й завершальні роботи ремонту.",
+    "zagalni_polozhennya": [],
+    "pravyla_obsyagiv": [
+      "Сміття — у тоннах за фактом; прибирання — за площею."
+    ],
+    "koeficienty_umov": [],
+    "vytraty_i_vidhody": []
+  },
+  "pogiyblennya": true
 }

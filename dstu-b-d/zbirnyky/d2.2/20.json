@@ -39,10 +39,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.551,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 222.042,
+              "seredniy_rozryad": 3.9,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 337.35
+              "vartist_uah": 21093.99
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -52,40 +52,32 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
+                "kod": "С202-m",
+                "nazva": "Повітроводи оцинковані",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 280,
+                "vartist_uah": 29400
               },
               {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С203-m",
+                "nazva": "Фланці, ущільнення, кріплення",
                 "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "vytrata": 100,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 12000
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 337.35,
+              "vartist_trudu_uah": 21093.99,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4567.35,
+              "vartist_materialiv_uah": 41400,
+              "priami_vytraty_uah": 62493.99,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.551,
+            "trud_lyud_god": 222.042,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -103,10 +95,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.758,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 230.311,
+              "seredniy_rozryad": 3.9,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 357.01
+              "vartist_uah": 21879.55
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -116,40 +108,32 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
+                "kod": "С202-m",
+                "nazva": "Повітроводи оцинковані",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 280,
+                "vartist_uah": 29400
               },
               {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С203-m",
+                "nazva": "Фланці, ущільнення, кріплення",
                 "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "vytrata": 100,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 12000
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 357.01,
+              "vartist_trudu_uah": 21879.55,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4587.01,
+              "vartist_materialiv_uah": 41400,
+              "priami_vytraty_uah": 63279.55,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.758,
+            "trud_lyud_god": 230.311,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -166,10 +150,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.385,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 255.405,
+              "seredniy_rozryad": 3.9,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 416.57
+              "vartist_uah": 24263.47
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -179,40 +163,32 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
+                "kod": "С202-m",
+                "nazva": "Повітроводи оцинковані",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 280,
+                "vartist_uah": 29400
               },
               {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С203-m",
+                "nazva": "Фланці, ущільнення, кріплення",
                 "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "vytrata": 100,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 12000
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 416.57,
+              "vartist_trudu_uah": 24263.47,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4646.57,
+              "vartist_materialiv_uah": 41400,
+              "priami_vytraty_uah": 65663.47,
               "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.385,
+            "trud_lyud_god": 255.405,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -228,10 +204,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.496,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 259.859,
+              "seredniy_rozryad": 3.9,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 427.12
+              "vartist_uah": 24686.6
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -241,40 +217,32 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
+                "kod": "С202-m",
+                "nazva": "Повітроводи оцинковані",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 280,
+                "vartist_uah": 29400
               },
               {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С203-m",
+                "nazva": "Фланці, ущільнення, кріплення",
                 "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "vytrata": 100,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 12000
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 427.12,
+              "vartist_trudu_uah": 24686.6,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4657.12,
+              "vartist_materialiv_uah": 41400,
+              "priami_vytraty_uah": 66086.6,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.496,
+            "trud_lyud_god": 259.859,
             "mashynisty_lyud_god": 0.0
           }
         },

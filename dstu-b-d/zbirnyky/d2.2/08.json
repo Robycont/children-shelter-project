@@ -840,10 +840,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.361,
+              "lyud_god": 43.608,
               "seredniy_rozryad": 3.6,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 414.29
+              "vartist_uah": 4142.76
             },
             "trud_mashynistiv": {
               "lyud_god": 0.15,
@@ -886,15 +886,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 430.79,
+              "vartist_trudu_uah": 4159.26,
               "vartist_mashyn_uah": 135.0,
               "vartist_materialiv_uah": 3393.5,
-              "priami_vytraty_uah": 3959.29,
+              "priami_vytraty_uah": 7687.76,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.361,
+            "trud_lyud_god": 43.608,
             "mashynisty_lyud_god": 0.15
           }
         },
@@ -913,10 +913,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.725,
+              "lyud_god": 47.245,
               "seredniy_rozryad": 3.6,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 448.87
+              "vartist_uah": 4488.27
             },
             "trud_mashynistiv": {
               "lyud_god": 0.15,
@@ -959,15 +959,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 465.37,
+              "vartist_trudu_uah": 4504.77,
               "vartist_mashyn_uah": 135.0,
               "vartist_materialiv_uah": 3393.5,
-              "priami_vytraty_uah": 3993.87,
+              "priami_vytraty_uah": 8033.27,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.725,
+            "trud_lyud_god": 47.245,
             "mashynisty_lyud_god": 0.15
           }
         },
@@ -1047,10 +1047,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 5.814,
+              "lyud_god": 58.139,
               "seredniy_rozryad": 3.3,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 552.33
+              "vartist_uah": 5523.2
             },
             "trud_mashynistiv": {
               "lyud_god": 0.15,
@@ -1085,15 +1085,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 568.83,
+              "vartist_trudu_uah": 5539.7,
               "vartist_mashyn_uah": 135.0,
               "vartist_materialiv_uah": 1781.0,
-              "priami_vytraty_uah": 2484.83,
+              "priami_vytraty_uah": 7455.7,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 5.814,
+            "trud_lyud_god": 58.139,
             "mashynisty_lyud_god": 0.15
           }
         }
@@ -2835,10 +2835,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 7.55,
+              "lyud_god": 17.685,
               "seredniy_rozryad": 3.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 717.25
+              "vartist_uah": 1680.07
             },
             "trud_mashynistiv": {
               "lyud_god": 0.6,
@@ -2849,16 +2849,16 @@
               {
                 "kod": "С210-1",
                 "nazva": "Кран / бетононасос",
-                "mash_god": 0.6,
+                "mash_god": 0.257,
                 "tsina_mash_god_uah": 1500,
-                "vartist_uah": 900.0
+                "vartist_uah": 385.5
               },
               {
                 "kod": "С211-1",
                 "nazva": "Вібратор глибинний",
-                "mash_god": 0.8,
+                "mash_god": 0.343,
                 "tsina_mash_god_uah": 120,
-                "vartist_uah": 96.0
+                "vartist_uah": 41.16
               }
             ],
             "materialy": [
@@ -2880,15 +2880,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 783.25,
-              "vartist_mashyn_uah": 996.0,
+              "vartist_trudu_uah": 1746.07,
+              "vartist_mashyn_uah": 426.66,
               "vartist_materialiv_uah": 3272.0,
-              "priami_vytraty_uah": 5051.25,
+              "priami_vytraty_uah": 5444.73,
               "odynytsya": "т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 7.55,
+            "trud_lyud_god": 17.685,
             "mashynisty_lyud_god": 0.6
           }
         },
@@ -2905,10 +2905,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.886,
+              "lyud_god": 14.578,
               "seredniy_rozryad": 3.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 464.17
+              "vartist_uah": 1384.91
             },
             "trud_mashynistiv": {
               "lyud_god": 0.15,
@@ -2951,15 +2951,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 480.67,
+              "vartist_trudu_uah": 1401.41,
               "vartist_mashyn_uah": 135.0,
               "vartist_materialiv_uah": 5346.84,
-              "priami_vytraty_uah": 5962.51,
+              "priami_vytraty_uah": 6883.25,
               "odynytsya": "т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.886,
+            "trud_lyud_god": 14.578,
             "mashynisty_lyud_god": 0.15
           }
         },
@@ -2976,10 +2976,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 5.175,
+              "lyud_god": 16.518,
               "seredniy_rozryad": 3.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 491.62
+              "vartist_uah": 1569.21
             },
             "trud_mashynistiv": {
               "lyud_god": 0.15,
@@ -3022,15 +3022,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 508.12,
+              "vartist_trudu_uah": 1585.71,
               "vartist_mashyn_uah": 135.0,
               "vartist_materialiv_uah": 5390.16,
-              "priami_vytraty_uah": 6033.28,
+              "priami_vytraty_uah": 7110.87,
               "odynytsya": "т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 5.175,
+            "trud_lyud_god": 16.518,
             "mashynisty_lyud_god": 0.15
           }
         }
@@ -4115,16 +4115,16 @@
               {
                 "kod": "С210-1",
                 "nazva": "Кран / бетононасос",
-                "mash_god": 0.6,
+                "mash_god": 0.257,
                 "tsina_mash_god_uah": 1500,
-                "vartist_uah": 900.0
+                "vartist_uah": 385.5
               },
               {
                 "kod": "С211-1",
                 "nazva": "Вібратор глибинний",
-                "mash_god": 0.8,
+                "mash_god": 0.343,
                 "tsina_mash_god_uah": 120,
-                "vartist_uah": 96.0
+                "vartist_uah": 41.16
               }
             ],
             "materialy": [
@@ -4147,9 +4147,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 773.84,
-              "vartist_mashyn_uah": 996.0,
+              "vartist_mashyn_uah": 426.66,
               "vartist_materialiv_uah": 3272.0,
-              "priami_vytraty_uah": 5041.84,
+              "priami_vytraty_uah": 4472.5,
               "odynytsya": "м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -4528,10 +4528,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.224,
+              "lyud_god": 49.553,
               "seredniy_rozryad": 3.6,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 401.28
+              "vartist_uah": 4707.53
             },
             "trud_mashynistiv": {
               "lyud_god": 0.15,
@@ -4574,15 +4574,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 417.78,
+              "vartist_trudu_uah": 4724.03,
               "vartist_mashyn_uah": 135.0,
               "vartist_materialiv_uah": 3393.5,
-              "priami_vytraty_uah": 3946.28,
+              "priami_vytraty_uah": 8252.53,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.224,
+            "trud_lyud_god": 49.553,
             "mashynisty_lyud_god": 0.15
           }
         },
@@ -4601,10 +4601,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.914,
+              "lyud_god": 41.839,
               "seredniy_rozryad": 3.6,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 371.83
+              "vartist_uah": 3974.7
             },
             "trud_mashynistiv": {
               "lyud_god": 0.15,
@@ -4647,15 +4647,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 388.33,
+              "vartist_trudu_uah": 3991.2,
               "vartist_mashyn_uah": 135.0,
               "vartist_materialiv_uah": 3393.5,
-              "priami_vytraty_uah": 3916.83,
+              "priami_vytraty_uah": 7519.7,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.914,
+            "trud_lyud_god": 41.839,
             "mashynisty_lyud_god": 0.15
           }
         },
@@ -4674,10 +4674,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.083,
+              "lyud_god": 40.835,
               "seredniy_rozryad": 3.6,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 387.88
+              "vartist_uah": 3879.33
             },
             "trud_mashynistiv": {
               "lyud_god": 0.15,
@@ -4720,15 +4720,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 404.38,
+              "vartist_trudu_uah": 3895.83,
               "vartist_mashyn_uah": 135.0,
               "vartist_materialiv_uah": 3393.5,
-              "priami_vytraty_uah": 3932.88,
+              "priami_vytraty_uah": 7424.33,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.083,
+            "trud_lyud_god": 40.835,
             "mashynisty_lyud_god": 0.15
           }
         }
@@ -5333,10 +5333,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 29.354,
+              "lyud_god": 48.715,
               "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 2788.63
+              "vartist_uah": 4627.93
             },
             "trud_mashynistiv": {
               "lyud_god": 0.15,
@@ -5363,15 +5363,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 2805.13,
+              "vartist_trudu_uah": 4644.43,
               "vartist_mashyn_uah": 135.0,
               "vartist_materialiv_uah": 2500,
-              "priami_vytraty_uah": 5440.13,
+              "priami_vytraty_uah": 7279.43,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 29.354,
+            "trud_lyud_god": 48.715,
             "mashynisty_lyud_god": 0.15
           }
         },
@@ -5389,10 +5389,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 26.549,
+              "lyud_god": 39.162,
               "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 2522.15
+              "vartist_uah": 3720.39
             },
             "trud_mashynistiv": {
               "lyud_god": 0.15,
@@ -5419,15 +5419,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 2538.65,
+              "vartist_trudu_uah": 3736.89,
               "vartist_mashyn_uah": 135.0,
               "vartist_materialiv_uah": 2500,
-              "priami_vytraty_uah": 5173.65,
+              "priami_vytraty_uah": 6371.89,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 26.549,
+            "trud_lyud_god": 39.162,
             "mashynisty_lyud_god": 0.15
           }
         },
@@ -5443,10 +5443,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 28.2,
+              "lyud_god": 44.436,
               "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 2679.0
+              "vartist_uah": 4221.42
             },
             "trud_mashynistiv": {
               "lyud_god": 0.15,
@@ -5473,15 +5473,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 2695.5,
+              "vartist_trudu_uah": 4237.92,
               "vartist_mashyn_uah": 135.0,
               "vartist_materialiv_uah": 2500,
-              "priami_vytraty_uah": 5330.5,
+              "priami_vytraty_uah": 6872.92,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 28.2,
+            "trud_lyud_god": 44.436,
             "mashynisty_lyud_god": 0.15
           }
         },
@@ -5499,10 +5499,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 27.921,
+              "lyud_god": 46.639,
               "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 2652.49
+              "vartist_uah": 4430.7
             },
             "trud_mashynistiv": {
               "lyud_god": 0.15,
@@ -5529,15 +5529,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 2668.99,
+              "vartist_trudu_uah": 4447.2,
               "vartist_mashyn_uah": 135.0,
               "vartist_materialiv_uah": 2500,
-              "priami_vytraty_uah": 5303.99,
+              "priami_vytraty_uah": 7082.2,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 27.921,
+            "trud_lyud_god": 46.639,
             "mashynisty_lyud_god": 0.15
           }
         }
@@ -5568,10 +5568,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 26.977,
+              "lyud_god": 36.932,
               "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 2562.82
+              "vartist_uah": 3508.54
             },
             "trud_mashynistiv": {
               "lyud_god": 0.15,
@@ -5598,15 +5598,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 2579.32,
+              "vartist_trudu_uah": 3525.04,
               "vartist_mashyn_uah": 135.0,
               "vartist_materialiv_uah": 2500,
-              "priami_vytraty_uah": 5214.32,
+              "priami_vytraty_uah": 6160.04,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 26.977,
+            "trud_lyud_god": 36.932,
             "mashynisty_lyud_god": 0.15
           }
         },

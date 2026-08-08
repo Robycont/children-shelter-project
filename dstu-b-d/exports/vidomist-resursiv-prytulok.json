@@ -1,74 +1,66 @@
 {
   "obyekt": "Дитячий притулок (орієнтовний локальний кошторис)",
   "trud": {
-    "robitnyky_lyud_god": 35911.3,
-    "mashynisty_lyud_god": 73.0,
-    "vartist_trudu_uah": 3419601.83
+    "robitnyky_lyud_god": 25007.9,
+    "mashynisty_lyud_god": 261.1,
+    "vartist_trudu_uah": 2404481.84
   },
   "mashyny": [
+    {
+      "kod": "С210-1",
+      "nazva": "Кран / бетононасос",
+      "odynytsya": "маш.-год",
+      "kilkist": 57.34,
+      "tsina_uah": 1500,
+      "vartist_uah": 86013.33
+    },
     {
       "kod": "С212-1",
       "nazva": "Підйомник / кран (подача матеріалів)",
       "odynytsya": "маш.-год",
-      "kilkist": 62.35,
+      "kilkist": 64.02,
       "tsina_uah": 900,
-      "vartist_uah": 56119.5
+      "vartist_uah": 57618.0
+    },
+    {
+      "kod": "С210-1",
+      "nazva": "Кран автомобільний 10 т",
+      "odynytsya": "маш.-год",
+      "kilkist": 7.2,
+      "tsina_uah": 1400,
+      "vartist_uah": 10080.0
+    },
+    {
+      "kod": "С211-1",
+      "nazva": "Вібратор глибинний",
+      "odynytsya": "маш.-год",
+      "kilkist": 76.46,
+      "tsina_uah": 120,
+      "vartist_uah": 9174.93
     },
     {
       "kod": "С201-1",
       "nazva": "Бульдозер 79 кВт",
       "odynytsya": "маш.-год",
-      "kilkist": 4.61,
+      "kilkist": 10.24,
       "tsina_uah": 850,
-      "vartist_uah": 3921.28
+      "vartist_uah": 8706.01
     },
     {
       "kod": "С202-1",
       "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
       "odynytsya": "маш.-год",
-      "kilkist": 0.73,
+      "kilkist": 4.89,
       "tsina_uah": 1200,
-      "vartist_uah": 874.24
-    },
-    {
-      "kod": "С214-1",
-      "nazva": "Пальник газовий покрівельний",
-      "odynytsya": "маш.-год",
-      "kilkist": 15.04,
-      "tsina_uah": 50,
-      "vartist_uah": 752.0
-    },
-    {
-      "kod": "С210-1",
-      "nazva": "Кран / бетононасос",
-      "odynytsya": "маш.-год",
-      "kilkist": 0.5,
-      "tsina_uah": 1500,
-      "vartist_uah": 747.0
+      "vartist_uah": 5869.8
     },
     {
       "kod": "С311-2",
       "nazva": "Автосамоскид 10 т",
       "odynytsya": "маш.-год",
-      "kilkist": 0.58,
+      "kilkist": 3.87,
       "tsina_uah": 700,
-      "vartist_uah": 402.98
-    },
-    {
-      "kod": "С221-m",
-      "nazva": "Автосамоскид",
-      "odynytsya": "маш.-год",
-      "kilkist": 0.45,
-      "tsina_uah": 700,
-      "vartist_uah": 315.0
-    },
-    {
-      "kod": "С220-m",
-      "nazva": "Коток / віброплита",
-      "odynytsya": "маш.-год",
-      "kilkist": 0.6,
-      "tsina_uah": 500,
-      "vartist_uah": 300.0
+      "vartist_uah": 2705.54
     },
     {
       "kod": "С201-2",
@@ -79,46 +71,62 @@
       "vartist_uah": 240.0
     },
     {
-      "kod": "С211-1",
-      "nazva": "Вібратор глибинний",
+      "kod": "С214-1",
+      "nazva": "Пальник газовий покрівельний",
       "odynytsya": "маш.-год",
-      "kilkist": 0.66,
-      "tsina_uah": 120,
-      "vartist_uah": 79.68
+      "kilkist": 3.76,
+      "tsina_uah": 50,
+      "vartist_uah": 188.0
+    },
+    {
+      "kod": "С221-m",
+      "nazva": "Автосамоскид",
+      "odynytsya": "маш.-год",
+      "kilkist": 0.26,
+      "tsina_uah": 700,
+      "vartist_uah": 179.55
+    },
+    {
+      "kod": "С220-m",
+      "nazva": "Коток / віброплита",
+      "odynytsya": "маш.-год",
+      "kilkist": 0.34,
+      "tsina_uah": 500,
+      "vartist_uah": 171.75
     }
   ],
   "materialy": [
     {
-      "kod": "С194-1",
-      "nazva": "Фітинги та арматура",
-      "odynytsya": "компл",
-      "kilkist": 13283.7,
-      "tsina_uah": 350,
-      "vartist_uah": 4649295.0
-    },
-    {
-      "kod": "С193-1",
-      "nazva": "Труби (сталь/ППР/ПВХ/ПЕ)",
-      "odynytsya": "м",
-      "kilkist": 13947.89,
-      "tsina_uah": 120,
-      "vartist_uah": 1673746.2
-    },
-    {
-      "kod": "С195-1",
-      "nazva": "Кріплення / ізоляція",
-      "odynytsya": "компл",
-      "kilkist": 13283.7,
-      "tsina_uah": 90,
-      "vartist_uah": 1195533.0
-    },
-    {
       "kod": "С130-1",
       "nazva": "Блоки газобетонні",
       "odynytsya": "м3",
-      "kilkist": 407.49,
+      "kilkist": 419.73,
       "tsina_uah": 2800,
-      "vartist_uah": 1140972.0
+      "vartist_uah": 1175244.0
+    },
+    {
+      "kod": "С120-1",
+      "nazva": "Бетон товарний В15–В25",
+      "odynytsya": "м3",
+      "kilkist": 227.46,
+      "tsina_uah": 3200,
+      "vartist_uah": 727872.0
+    },
+    {
+      "kod": "С194-1",
+      "nazva": "Фітинги та арматура",
+      "odynytsya": "компл",
+      "kilkist": 1954.0,
+      "tsina_uah": 350,
+      "vartist_uah": 683900.0
+    },
+    {
+      "kod": "С190-1",
+      "nazva": "Прилад санітарний / опалювальний",
+      "odynytsya": "шт",
+      "kilkist": 161.0,
+      "tsina_uah": 3500,
+      "vartist_uah": 563500.0
     },
     {
       "kod": "С156-1",
@@ -140,9 +148,9 @@
       "kod": "С167-1",
       "nazva": "Плитка керамічна / керамограніт",
       "odynytsya": "м2",
-      "kilkist": 806.92,
+      "kilkist": 798.0,
       "tsina_uah": 420,
-      "vartist_uah": 338908.5
+      "vartist_uah": 335160.0
     },
     {
       "kod": "С170-1",
@@ -153,6 +161,22 @@
       "vartist_uah": 334400.0
     },
     {
+      "kod": "С193-1",
+      "nazva": "Труби (сталь/ППР/ПВХ/ПЕ)",
+      "odynytsya": "м",
+      "kilkist": 2051.7,
+      "tsina_uah": 120,
+      "vartist_uah": 246204.0
+    },
+    {
+      "kod": "С188-1",
+      "nazva": "Суміш штукатурна",
+      "odynytsya": "кг",
+      "kilkist": 27600.0,
+      "tsina_uah": 8,
+      "vartist_uah": 220800.0
+    },
+    {
       "kod": "С162-1",
       "nazva": "Лінолеум / ПВХ-покриття",
       "odynytsya": "м2",
@@ -161,28 +185,20 @@
       "vartist_uah": 212625.0
     },
     {
-      "kod": "С190-1",
-      "nazva": "Прилад санітарний / опалювальний",
-      "odynytsya": "шт",
-      "kilkist": 60.15,
-      "tsina_uah": 3500,
-      "vartist_uah": 210525.0
-    },
-    {
       "kod": "С131-1",
       "nazva": "Клейова суміш для газобетону",
       "odynytsya": "кг",
-      "kilkist": 9987.5,
+      "kilkist": 10287.5,
       "tsina_uah": 18,
-      "vartist_uah": 179775.0
+      "vartist_uah": 185175.0
     },
     {
-      "kod": "С137-1",
-      "nazva": "Цегла керамічна",
-      "odynytsya": "шт",
-      "kilkist": 13770.0,
-      "tsina_uah": 12,
-      "vartist_uah": 165240.0
+      "kod": "С195-1",
+      "nazva": "Кріплення / ізоляція",
+      "odynytsya": "компл",
+      "kilkist": 1954.0,
+      "tsina_uah": 90,
+      "vartist_uah": 175860.0
     },
     {
       "kod": "С165-1",
@@ -201,6 +217,14 @@
       "vartist_uah": 124200.0
     },
     {
+      "kod": "С137-1",
+      "nazva": "Цегла керамічна",
+      "odynytsya": "шт",
+      "kilkist": 9180.0,
+      "tsina_uah": 12,
+      "vartist_uah": 110160.0
+    },
+    {
       "kod": "С210-m",
       "nazva": "Виріб електроустановочний / щит / світильник",
       "odynytsya": "шт",
@@ -209,12 +233,28 @@
       "vartist_uah": 107800.0
     },
     {
-      "kod": "С188-1",
-      "nazva": "Суміш штукатурна",
-      "odynytsya": "кг",
-      "kilkist": 12222.0,
-      "tsina_uah": 8,
-      "vartist_uah": 97776.0
+      "kod": "С191-1",
+      "nazva": "Підводка / кріплення / арматура",
+      "odynytsya": "компл",
+      "kilkist": 161.0,
+      "tsina_uah": 650,
+      "vartist_uah": 104650.0
+    },
+    {
+      "kod": "С202-m",
+      "nazva": "Повітроводи оцинковані",
+      "odynytsya": "м2",
+      "kilkist": 346.5,
+      "tsina_uah": 280,
+      "vartist_uah": 97020.0
+    },
+    {
+      "kod": "С160-1",
+      "nazva": "Суміш для стяжки",
+      "odynytsya": "м3",
+      "kilkist": 34.0,
+      "tsina_uah": 2800,
+      "vartist_uah": 95200.0
     },
     {
       "kod": "С180-1",
@@ -244,9 +284,17 @@
       "kod": "С168-1",
       "nazva": "Клей плитковий",
       "odynytsya": "кг",
-      "kilkist": 5052.5,
+      "kilkist": 5010.0,
       "tsina_uah": 14,
-      "vartist_uah": 70735.0
+      "vartist_uah": 70140.0
+    },
+    {
+      "kod": "С214-m",
+      "nazva": "Кабель / провід силовий",
+      "odynytsya": "м",
+      "kilkist": 1155.0,
+      "tsina_uah": 55,
+      "vartist_uah": 63525.0
     },
     {
       "kod": "С182-1",
@@ -281,6 +329,14 @@
       "vartist_uah": 40500.0
     },
     {
+      "kod": "С203-m",
+      "nazva": "Фланці, ущільнення, кріплення",
+      "odynytsya": "компл",
+      "kilkist": 330.0,
+      "tsina_uah": 120,
+      "vartist_uah": 39600.0
+    },
+    {
       "kod": "С175-1",
       "nazva": "Праймер бітумний",
       "odynytsya": "л",
@@ -289,12 +345,20 @@
       "vartist_uah": 39480.0
     },
     {
-      "kod": "С191-1",
-      "nazva": "Підводка / кріплення / арматура",
+      "kod": "С181-2",
+      "nazva": "Ґрунтовка",
+      "odynytsya": "л",
+      "kilkist": 460.0,
+      "tsina_uah": 85,
+      "vartist_uah": 39100.0
+    },
+    {
+      "kod": "С196-1",
+      "nazva": "Кільця/елементи колодязя збірні",
       "odynytsya": "компл",
-      "kilkist": 60.15,
-      "tsina_uah": 650,
-      "vartist_uah": 39097.5
+      "kilkist": 6.0,
+      "tsina_uah": 6500,
+      "vartist_uah": 39000.0
     },
     {
       "kod": "С172-1",
@@ -308,9 +372,9 @@
       "kod": "С132-1",
       "nazva": "Арматура для армопоясів / сітка",
       "odynytsya": "кг",
-      "kilkist": 998.75,
+      "kilkist": 1028.75,
       "tsina_uah": 35,
-      "vartist_uah": 34956.25
+      "vartist_uah": 36006.25
     },
     {
       "kod": "С181-1",
@@ -321,20 +385,20 @@
       "vartist_uah": 28687.5
     },
     {
-      "kod": "С202-m",
-      "nazva": "Повітроводи оцинковані",
-      "odynytsya": "м2",
-      "kilkist": 86.62,
-      "tsina_uah": 280,
-      "vartist_uah": 24255.0
+      "kod": "С216-m",
+      "nazva": "Кріплення",
+      "odynytsya": "компл",
+      "kilkist": 1100.0,
+      "tsina_uah": 25,
+      "vartist_uah": 27500.0
     },
     {
       "kod": "С169-1",
       "nazva": "Затирка",
       "odynytsya": "кг",
-      "kilkist": 516.25,
+      "kilkist": 512.0,
       "tsina_uah": 45,
-      "vartist_uah": 23231.25
+      "vartist_uah": 23040.0
     },
     {
       "kod": "С173-1",
@@ -353,6 +417,14 @@
       "vartist_uah": 21000.0
     },
     {
+      "kod": "С215-m",
+      "nazva": "Труба/короб/гофра",
+      "odynytsya": "м",
+      "kilkist": 1155.0,
+      "tsina_uah": 18,
+      "vartist_uah": 20790.0
+    },
+    {
       "kod": "С171-1",
       "nazva": "Саморізи покрівельні",
       "odynytsya": "шт",
@@ -361,12 +433,20 @@
       "vartist_uah": 19000.0
     },
     {
-      "kod": "С181-2",
-      "nazva": "Ґрунтовка",
-      "odynytsya": "л",
-      "kilkist": 203.7,
-      "tsina_uah": 85,
-      "vartist_uah": 17314.5
+      "kod": "С232-1",
+      "nazva": "Насіння / рулонний газон / розсада",
+      "odynytsya": "м2",
+      "kilkist": 385.0,
+      "tsina_uah": 45,
+      "vartist_uah": 17325.0
+    },
+    {
+      "kod": "С189-1",
+      "nazva": "Сітка штукатурна (за потреби)",
+      "odynytsya": "м2",
+      "kilkist": 690.0,
+      "tsina_uah": 25,
+      "vartist_uah": 17250.0
     },
     {
       "kod": "С187-1",
@@ -377,6 +457,22 @@
       "vartist_uah": 16800.0
     },
     {
+      "kod": "С197-1",
+      "nazva": "Люк чавунний / решітка",
+      "odynytsya": "шт",
+      "kilkist": 6.0,
+      "tsina_uah": 2800,
+      "vartist_uah": 16800.0
+    },
+    {
+      "kod": "С161-1",
+      "nazva": "Ґрунтовка",
+      "odynytsya": "л",
+      "kilkist": 170.0,
+      "tsina_uah": 90,
+      "vartist_uah": 15300.0
+    },
+    {
       "kod": "С163-1",
       "nazva": "Клей для лінолеуму",
       "odynytsya": "кг",
@@ -385,12 +481,12 @@
       "vartist_uah": 15300.0
     },
     {
-      "kod": "С135-1",
-      "nazva": "Розчин мурувальний",
-      "odynytsya": "м3",
-      "kilkist": 6.48,
-      "tsina_uah": 2200,
-      "vartist_uah": 14256.0
+      "kod": "С192-1",
+      "nazva": "Герметик / ущільнювачі",
+      "odynytsya": "компл",
+      "kilkist": 161.0,
+      "tsina_uah": 80,
+      "vartist_uah": 12880.0
     },
     {
       "kod": "С211-m",
@@ -399,6 +495,14 @@
       "kilkist": 308.0,
       "tsina_uah": 40,
       "vartist_uah": 12320.0
+    },
+    {
+      "kod": "С231-2",
+      "nazva": "Ґрунт рослинний",
+      "odynytsya": "м3",
+      "kilkist": 17.5,
+      "tsina_uah": 600,
+      "vartist_uah": 10500.0
     },
     {
       "kod": "С166-1",
@@ -425,14 +529,6 @@
       "vartist_uah": 9900.0
     },
     {
-      "kod": "С203-m",
-      "nazva": "Фланці, ущільнення, кріплення",
-      "odynytsya": "компл",
-      "kilkist": 82.5,
-      "tsina_uah": 120,
-      "vartist_uah": 9900.0
-    },
-    {
       "kod": "С157-1",
       "nazva": "Цвяхи, кріплення",
       "odynytsya": "кг",
@@ -441,12 +537,28 @@
       "vartist_uah": 9625.0
     },
     {
+      "kod": "С135-1",
+      "nazva": "Розчин мурувальний",
+      "odynytsya": "м3",
+      "kilkist": 4.32,
+      "tsina_uah": 2200,
+      "vartist_uah": 9504.0
+    },
+    {
       "kod": "С134-1",
       "nazva": "Камінь бутовий",
       "odynytsya": "м3",
       "kilkist": 10.5,
       "tsina_uah": 900,
       "vartist_uah": 9450.0
+    },
+    {
+      "kod": "С300-1",
+      "nazva": "Пальне дизельне (орієнтовно)",
+      "odynytsya": "л",
+      "kilkist": 164.87,
+      "tsina_uah": 55,
+      "vartist_uah": 9068.01
     },
     {
       "kod": "С136-1",
@@ -465,14 +577,6 @@
       "vartist_uah": 8360.0
     },
     {
-      "kod": "С189-1",
-      "nazva": "Сітка штукатурна (за потреби)",
-      "odynytsya": "м2",
-      "kilkist": 305.55,
-      "tsina_uah": 25,
-      "vartist_uah": 7638.75
-    },
-    {
       "kod": "С164-2",
       "nazva": "Плінтус",
       "odynytsya": "м",
@@ -481,12 +585,12 @@
       "vartist_uah": 6160.0
     },
     {
-      "kod": "С192-1",
-      "nazva": "Герметик / ущільнювачі",
-      "odynytsya": "компл",
-      "kilkist": 60.15,
-      "tsina_uah": 80,
-      "vartist_uah": 4812.0
+      "kod": "С212-m",
+      "nazva": "Сталь кругла / кутик для заземлення",
+      "odynytsya": "кг",
+      "kilkist": 157.5,
+      "tsina_uah": 35,
+      "vartist_uah": 5512.5
     },
     {
       "kod": "С171-2",
@@ -505,107 +609,51 @@
       "vartist_uah": 4200.0
     },
     {
-      "kod": "С212-m",
-      "nazva": "Сталь кругла / кутик для заземлення",
-      "odynytsya": "кг",
-      "kilkist": 112.5,
-      "tsina_uah": 35,
-      "vartist_uah": 3937.5
-    },
-    {
-      "kod": "С300-1",
-      "nazva": "Пальне дизельне (орієнтовно)",
-      "odynytsya": "л",
-      "kilkist": 53.69,
-      "tsina_uah": 55,
-      "vartist_uah": 2952.78
-    },
-    {
-      "kod": "С120-1",
-      "nazva": "Бетон товарний В15–В25",
-      "odynytsya": "м3",
-      "kilkist": 0.85,
-      "tsina_uah": 3200,
-      "vartist_uah": 2709.12
-    },
-    {
       "kod": "С213-m",
       "nazva": "Провідник заземлення",
       "odynytsya": "м",
-      "kilkist": 62.5,
+      "kilkist": 87.5,
       "tsina_uah": 40,
-      "vartist_uah": 2500.0
-    },
-    {
-      "kod": "С220-1",
-      "nazva": "Утеплювач плитний",
-      "odynytsya": "м2",
-      "kilkist": 6.83,
-      "tsina_uah": 220,
-      "vartist_uah": 1501.5
-    },
-    {
-      "kod": "С221-1",
-      "nazva": "Клей / дюбелі / сітка / декоративний шар",
-      "odynytsya": "компл",
-      "kilkist": 6.5,
-      "tsina_uah": 180,
-      "vartist_uah": 1170.0
-    },
-    {
-      "kod": "С214-m",
-      "nazva": "Кабель / провід силовий",
-      "odynytsya": "м",
-      "kilkist": 11.55,
-      "tsina_uah": 55,
-      "vartist_uah": 635.25
-    },
-    {
-      "kod": "С300-2",
-      "nazva": "Мастильні матеріали",
-      "odynytsya": "кг",
-      "kilkist": 2.68,
-      "tsina_uah": 120,
-      "vartist_uah": 322.17
-    },
-    {
-      "kod": "С216-m",
-      "nazva": "Кріплення",
-      "odynytsya": "компл",
-      "kilkist": 11.0,
-      "tsina_uah": 25,
-      "vartist_uah": 275.0
-    },
-    {
-      "kod": "С215-m",
-      "nazva": "Труба/короб/гофра",
-      "odynytsya": "м",
-      "kilkist": 11.55,
-      "tsina_uah": 18,
-      "vartist_uah": 207.9
-    },
-    {
-      "kod": "С301-1",
-      "nazva": "Допоміжні матеріали",
-      "odynytsya": "компл",
-      "kilkist": 0.35,
-      "tsina_uah": 150,
-      "vartist_uah": 52.5
+      "vartist_uah": 3500.0
     },
     {
       "kod": "С121-1",
       "nazva": "Вода",
       "odynytsya": "м3",
-      "kilkist": 0.17,
+      "kilkist": 44.6,
       "tsina_uah": 40,
-      "vartist_uah": 6.64
+      "vartist_uah": 1784.0
+    },
+    {
+      "kod": "С135-1",
+      "nazva": "Розчин для закладення стиків",
+      "odynytsya": "м3",
+      "kilkist": 0.48,
+      "tsina_uah": 2200,
+      "vartist_uah": 1056.0
+    },
+    {
+      "kod": "С300-2",
+      "nazva": "Мастильні матеріали",
+      "odynytsya": "кг",
+      "kilkist": 8.24,
+      "tsina_uah": 120,
+      "vartist_uah": 989.32
+    },
+    {
+      "kod": "С301-1",
+      "nazva": "Допоміжні матеріали",
+      "odynytsya": "компл",
+      "kilkist": 1.5,
+      "tsina_uah": 150,
+      "vartist_uah": 225.0
     }
   ],
   "pidsumky": {
-    "vartist_mashyn_uah": 63751.68,
-    "vartist_materialiv_uah": 12432774.81,
-    "pozytsiy_materialiv": 64,
-    "pozytsiy_mashyn": 10
+    "vartist_mashyn_uah": 180946.91,
+    "vartist_materialiv_uah": 7719677.58,
+    "pozytsiy_materialiv": 69,
+    "pozytsiy_mashyn": 11
   },
   "prymitka": "Кількості — добуток норм витрат на шаблонні обсяги кошторису; уточнити за робочим проектом."
 }

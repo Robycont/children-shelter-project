@@ -553,18 +553,17 @@
           "nazva": "Футерування поверхонь",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Підготовка поверхні",
+            "Монтаж ізоляції",
+            "Захисний шар / фініш"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.131,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 112.611,
+              "seredniy_rozryad": 3.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 392.45
+              "vartist_uah": 10698.05
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -574,40 +573,32 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
+                "kod": "С220-1",
+                "nazva": "Утеплювач плитний",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 220,
+                "vartist_uah": 23100
               },
               {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С221-1",
+                "nazva": "Клей / дюбелі / сітка / декоративний шар",
                 "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "vytrata": 100,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 18000
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 392.45,
+              "vartist_trudu_uah": 10698.05,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4622.45,
+              "vartist_materialiv_uah": 41100,
+              "priami_vytraty_uah": 51798.05,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.131,
+            "trud_lyud_god": 112.611,
             "mashynisty_lyud_god": 0.0
           }
         }

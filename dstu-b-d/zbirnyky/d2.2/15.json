@@ -169,10 +169,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.802,
+              "lyud_god": 45.267,
               "seredniy_rozryad": 3.6,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 361.19
+              "vartist_uah": 4300.37
             },
             "trud_mashynistiv": {
               "lyud_god": 0.15,
@@ -215,15 +215,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 377.69,
+              "vartist_trudu_uah": 4316.87,
               "vartist_mashyn_uah": 135.0,
               "vartist_materialiv_uah": 3393.5,
-              "priami_vytraty_uah": 3906.19,
+              "priami_vytraty_uah": 7845.37,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.802,
+            "trud_lyud_god": 45.267,
             "mashynisty_lyud_god": 0.15
           }
         },

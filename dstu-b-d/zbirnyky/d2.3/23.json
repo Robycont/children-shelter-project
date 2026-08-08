@@ -91,18 +91,18 @@
           "nazva": "Монтаж устаткування виробництва електроапаратів",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Розмітка траси",
+            "Прокладання трубопроводів",
+            "Монтаж арматури",
+            "Випробування"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.027,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 2.263,
+              "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 382.56
+              "vartist_uah": 214.98
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -112,40 +112,40 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
+                "kod": "С193-1",
+                "nazva": "Труби (сталь/ППР/ПВХ/ПЕ)",
+                "odynytsya": "м",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 126.0
               },
               {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С194-1",
+                "nazva": "Фітинги та арматура",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 350.0
               },
               {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
+                "kod": "С195-1",
+                "nazva": "Кріплення / ізоляція",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 90.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 382.56,
+              "vartist_trudu_uah": 214.98,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4612.56,
+              "vartist_materialiv_uah": 566.0,
+              "priami_vytraty_uah": 780.98,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.027,
+            "trud_lyud_god": 2.263,
             "mashynisty_lyud_god": 0.0
           }
         },

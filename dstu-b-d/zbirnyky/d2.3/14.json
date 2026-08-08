@@ -52,16 +52,16 @@
               {
                 "kod": "С230-m",
                 "nazva": "Кран / такелаж",
-                "mash_god": 1.5,
+                "mash_god": 0.643,
                 "tsina_mash_god_uah": 1600,
-                "vartist_uah": 2400.0
+                "vartist_uah": 1028.8
               },
               {
                 "kod": "С213-1",
                 "nazva": "Зварювальне / електромонтажне обладнання",
-                "mash_god": 2.0,
+                "mash_god": 0.857,
                 "tsina_mash_god_uah": 80,
-                "vartist_uah": 160.0
+                "vartist_uah": 68.56
               }
             ],
             "materialy": [
@@ -84,9 +84,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 1485.69,
-              "vartist_mashyn_uah": 2560.0,
+              "vartist_mashyn_uah": 1097.36,
               "vartist_materialiv_uah": 2000.0,
-              "priami_vytraty_uah": 6045.69,
+              "priami_vytraty_uah": 4583.05,
               "odynytsya": "шт / т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -123,16 +123,16 @@
               {
                 "kod": "С230-m",
                 "nazva": "Кран / такелаж",
-                "mash_god": 1.5,
+                "mash_god": 0.643,
                 "tsina_mash_god_uah": 1600,
-                "vartist_uah": 2400.0
+                "vartist_uah": 1028.8
               },
               {
                 "kod": "С213-1",
                 "nazva": "Зварювальне / електромонтажне обладнання",
-                "mash_god": 2.0,
+                "mash_god": 0.857,
                 "tsina_mash_god_uah": 80,
-                "vartist_uah": 160.0
+                "vartist_uah": 68.56
               }
             ],
             "materialy": [
@@ -155,9 +155,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 1546.39,
-              "vartist_mashyn_uah": 2560.0,
+              "vartist_mashyn_uah": 1097.36,
               "vartist_materialiv_uah": 2000.0,
-              "priami_vytraty_uah": 6106.39,
+              "priami_vytraty_uah": 4643.75,
               "odynytsya": "шт / т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -194,16 +194,16 @@
               {
                 "kod": "С230-m",
                 "nazva": "Кран / такелаж",
-                "mash_god": 1.5,
+                "mash_god": 0.643,
                 "tsina_mash_god_uah": 1600,
-                "vartist_uah": 2400.0
+                "vartist_uah": 1028.8
               },
               {
                 "kod": "С213-1",
                 "nazva": "Зварювальне / електромонтажне обладнання",
-                "mash_god": 2.0,
+                "mash_god": 0.857,
                 "tsina_mash_god_uah": 80,
-                "vartist_uah": 160.0
+                "vartist_uah": 68.56
               }
             ],
             "materialy": [
@@ -226,9 +226,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 1403.42,
-              "vartist_mashyn_uah": 2560.0,
+              "vartist_mashyn_uah": 1097.36,
               "vartist_materialiv_uah": 2000.0,
-              "priami_vytraty_uah": 5963.42,
+              "priami_vytraty_uah": 4500.78,
               "odynytsya": "шт / т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -265,16 +265,16 @@
               {
                 "kod": "С230-m",
                 "nazva": "Кран / такелаж",
-                "mash_god": 1.5,
+                "mash_god": 0.643,
                 "tsina_mash_god_uah": 1600,
-                "vartist_uah": 2400.0
+                "vartist_uah": 1028.8
               },
               {
                 "kod": "С213-1",
                 "nazva": "Зварювальне / електромонтажне обладнання",
-                "mash_god": 2.0,
+                "mash_god": 0.857,
                 "tsina_mash_god_uah": 80,
-                "vartist_uah": 160.0
+                "vartist_uah": 68.56
               }
             ],
             "materialy": [
@@ -297,9 +297,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 1121.65,
-              "vartist_mashyn_uah": 2560.0,
+              "vartist_mashyn_uah": 1097.36,
               "vartist_materialiv_uah": 2000.0,
-              "priami_vytraty_uah": 5681.65,
+              "priami_vytraty_uah": 4219.01,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"

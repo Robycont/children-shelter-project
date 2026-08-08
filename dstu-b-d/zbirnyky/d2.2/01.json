@@ -41,30 +41,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.258,
+              "lyud_god": 13.824,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 119.51
+              "vartist_uah": 1313.28
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.694,
+              "lyud_god": 21.824,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 186.34
+              "vartist_uah": 2400.64
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.6936,
+                "mash_god": 12.228,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 2032.34
+                "vartist_uah": 14673.6
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.3291,
+                "mash_god": 9.596,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 930.35
+                "vartist_uah": 6717.2
               }
             ],
             "materialy": [
@@ -72,30 +72,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 25.69,
+                "vytrata": 185.5,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1412.95
+                "vartist_uah": 10202.5
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.2846,
+                "vytrata": 9.2752,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 154.15
+                "vartist_uah": 1113.02
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 305.85,
-              "vartist_mashyn_uah": 2962.69,
-              "vartist_materialiv_uah": 1567.1,
-              "priami_vytraty_uah": 4835.64,
+              "vartist_trudu_uah": 3713.92,
+              "vartist_mashyn_uah": 21390.8,
+              "vartist_materialiv_uah": 11315.52,
+              "priami_vytraty_uah": 36420.24,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.258,
-            "mashynisty_lyud_god": 1.694
+            "trud_lyud_god": 13.824,
+            "mashynisty_lyud_god": 21.824
           }
         },
         {
@@ -113,30 +113,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.323,
+              "lyud_god": 12.081,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 125.69
+              "vartist_uah": 1147.69
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.742,
+              "lyud_god": 20.081,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 191.62
+              "vartist_uah": 2208.91
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.7422,
+                "mash_god": 11.272,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 2090.64
+                "vartist_uah": 13526.4
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.3615,
+                "mash_god": 8.809,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 953.02
+                "vartist_uah": 6166.3
               }
             ],
             "materialy": [
@@ -144,30 +144,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 26.38,
+                "vytrata": 170.69,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1450.9
+                "vartist_uah": 9387.95
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.3191,
+                "vytrata": 8.5344,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 158.29
+                "vartist_uah": 1024.13
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 317.31,
-              "vartist_mashyn_uah": 3043.66,
-              "vartist_materialiv_uah": 1609.19,
-              "priami_vytraty_uah": 4970.16,
+              "vartist_trudu_uah": 3356.6,
+              "vartist_mashyn_uah": 19692.7,
+              "vartist_materialiv_uah": 10412.08,
+              "priami_vytraty_uah": 33461.38,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.323,
-            "mashynisty_lyud_god": 1.742
+            "trud_lyud_god": 12.081,
+            "mashynisty_lyud_god": 20.081
           }
         },
         {
@@ -185,30 +185,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.149,
+              "lyud_god": 12.492,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 109.16
+              "vartist_uah": 1186.74
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.611,
+              "lyud_god": 20.492,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 177.21
+              "vartist_uah": 2254.12
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.6115,
+                "mash_god": 11.443,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 1933.79
+                "vartist_uah": 13731.6
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.2743,
+                "mash_god": 9.049,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 892.03
+                "vartist_uah": 6334.3
               }
             ],
             "materialy": [
@@ -216,30 +216,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 24.53,
+                "vytrata": 174.18,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1349.15
+                "vartist_uah": 9579.9
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.2265,
+                "vytrata": 8.7091,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 147.18
+                "vartist_uah": 1045.09
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 286.37,
-              "vartist_mashyn_uah": 2825.82,
-              "vartist_materialiv_uah": 1496.33,
-              "priami_vytraty_uah": 4608.52,
+              "vartist_trudu_uah": 3440.86,
+              "vartist_mashyn_uah": 20065.9,
+              "vartist_materialiv_uah": 10624.99,
+              "priami_vytraty_uah": 34131.75,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.149,
-            "mashynisty_lyud_god": 1.611
+            "trud_lyud_god": 12.492,
+            "mashynisty_lyud_god": 20.492
           }
         },
         {
@@ -257,30 +257,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.166,
+              "lyud_god": 12.443,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 110.77
+              "vartist_uah": 1182.09
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.624,
+              "lyud_god": 20.443,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 178.64
+              "vartist_uah": 2248.73
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.6243,
+                "mash_god": 11.422,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 1949.2
+                "vartist_uah": 13706.4
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.2829,
+                "mash_god": 9.021,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 898.02
+                "vartist_uah": 6314.7
               }
             ],
             "materialy": [
@@ -288,30 +288,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 24.71,
+                "vytrata": 173.77,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1359.05
+                "vartist_uah": 9557.35
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.2356,
+                "vytrata": 8.6883,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 148.27
+                "vartist_uah": 1042.6
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 289.41,
-              "vartist_mashyn_uah": 2847.22,
-              "vartist_materialiv_uah": 1507.32,
-              "priami_vytraty_uah": 4643.95,
+              "vartist_trudu_uah": 3430.82,
+              "vartist_mashyn_uah": 20021.1,
+              "vartist_materialiv_uah": 10599.95,
+              "priami_vytraty_uah": 34051.87,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.166,
-            "mashynisty_lyud_god": 1.624
+            "trud_lyud_god": 12.443,
+            "mashynisty_lyud_god": 20.443
           }
         },
         {
@@ -329,30 +329,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.159,
+              "lyud_god": 11.459,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 110.11
+              "vartist_uah": 1088.61
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.619,
+              "lyud_god": 19.459,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 178.09
+              "vartist_uah": 2140.49
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.619,
+                "mash_god": 10.87,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 1942.76
+                "vartist_uah": 13044.0
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.2793,
+                "mash_god": 8.589,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 895.52
+                "vartist_uah": 6012.3
               }
             ],
             "materialy": [
@@ -360,30 +360,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 24.64,
+                "vytrata": 165.4,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1355.2
+                "vartist_uah": 9097.0
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.2318,
+                "vytrata": 8.2701,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 147.82
+                "vartist_uah": 992.41
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 288.19,
-              "vartist_mashyn_uah": 2838.28,
-              "vartist_materialiv_uah": 1503.02,
-              "priami_vytraty_uah": 4629.49,
+              "vartist_trudu_uah": 3229.09,
+              "vartist_mashyn_uah": 19056.3,
+              "vartist_materialiv_uah": 10089.41,
+              "priami_vytraty_uah": 32374.8,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.159,
-            "mashynisty_lyud_god": 1.619
+            "trud_lyud_god": 11.459,
+            "mashynisty_lyud_god": 19.459
           }
         },
         {
@@ -401,30 +401,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.297,
+              "lyud_god": 14.705,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 123.21
+              "vartist_uah": 1396.97
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.723,
+              "lyud_god": 22.705,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 189.53
+              "vartist_uah": 2497.55
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.7225,
+                "mash_god": 12.736,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 2067.0
+                "vartist_uah": 15283.2
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.3483,
+                "mash_god": 9.969,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 943.84
+                "vartist_uah": 6978.3
               }
             ],
             "materialy": [
@@ -432,30 +432,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 26.1,
+                "vytrata": 192.99,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1435.5
+                "vartist_uah": 10614.45
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.3051,
+                "vytrata": 9.6496,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 156.61
+                "vartist_uah": 1157.95
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 312.75,
-              "vartist_mashyn_uah": 3010.84,
-              "vartist_materialiv_uah": 1592.11,
-              "priami_vytraty_uah": 4915.7,
+              "vartist_trudu_uah": 3894.52,
+              "vartist_mashyn_uah": 22261.5,
+              "vartist_materialiv_uah": 11772.4,
+              "priami_vytraty_uah": 37928.42,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.297,
-            "mashynisty_lyud_god": 1.723
+            "trud_lyud_god": 14.705,
+            "mashynisty_lyud_god": 22.705
           }
         },
         {
@@ -473,30 +473,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.019,
+              "lyud_god": 15.794,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 96.8
+              "vartist_uah": 1500.43
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.514,
+              "lyud_god": 23.794,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 166.54
+              "vartist_uah": 2617.34
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.5145,
+                "mash_god": 13.229,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 1817.34
+                "vartist_uah": 15874.8
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.2096,
+                "mash_god": 10.566,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 846.74
+                "vartist_uah": 7396.2
               }
             ],
             "materialy": [
@@ -504,30 +504,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 23.15,
+                "vytrata": 202.26,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1273.25
+                "vartist_uah": 11124.3
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.1577,
+                "vytrata": 10.11,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 138.92
+                "vartist_uah": 1213.2
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 263.34,
-              "vartist_mashyn_uah": 2664.08,
-              "vartist_materialiv_uah": 1412.17,
-              "priami_vytraty_uah": 4339.59,
+              "vartist_trudu_uah": 4117.77,
+              "vartist_mashyn_uah": 23271.0,
+              "vartist_materialiv_uah": 12337.5,
+              "priami_vytraty_uah": 39726.27,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.019,
-            "mashynisty_lyud_god": 1.514
+            "trud_lyud_god": 15.794,
+            "mashynisty_lyud_god": 23.794
           }
         },
         {
@@ -545,30 +545,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.02,
+              "lyud_god": 10.744,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 96.9
+              "vartist_uah": 1020.68
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.515,
+              "lyud_god": 18.744,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 166.65
+              "vartist_uah": 2061.84
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.5151,
+                "mash_god": 10.421,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 1818.14
+                "vartist_uah": 12505.2
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.2101,
+                "mash_god": 8.323,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 847.05
+                "vartist_uah": 5826.1
               }
             ],
             "materialy": [
@@ -576,30 +576,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 23.16,
+                "vytrata": 159.32,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1273.8
+                "vartist_uah": 8762.6
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.1582,
+                "vytrata": 7.9662,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 138.98
+                "vartist_uah": 955.94
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 263.55,
-              "vartist_mashyn_uah": 2665.19,
-              "vartist_materialiv_uah": 1412.78,
-              "priami_vytraty_uah": 4341.52,
+              "vartist_trudu_uah": 3082.52,
+              "vartist_mashyn_uah": 18331.3,
+              "vartist_materialiv_uah": 9718.54,
+              "priami_vytraty_uah": 31132.36,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.02,
-            "mashynisty_lyud_god": 1.515
+            "trud_lyud_god": 10.744,
+            "mashynisty_lyud_god": 18.744
           }
         },
         {
@@ -617,30 +617,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.163,
+              "lyud_god": 10.103,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 110.48
+              "vartist_uah": 959.78
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.622,
+              "lyud_god": 18.103,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 178.42
+              "vartist_uah": 1991.33
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.622,
+                "mash_god": 10.114,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 1946.42
+                "vartist_uah": 12136.8
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.2813,
+                "mash_god": 7.989,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 896.94
+                "vartist_uah": 5592.3
               }
             ],
             "materialy": [
@@ -648,30 +648,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 24.68,
+                "vytrata": 153.88,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1357.4
+                "vartist_uah": 8463.4
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.2339,
+                "vytrata": 7.6938,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 148.07
+                "vartist_uah": 923.26
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 288.91,
-              "vartist_mashyn_uah": 2843.36,
-              "vartist_materialiv_uah": 1505.47,
-              "priami_vytraty_uah": 4637.74,
+              "vartist_trudu_uah": 2951.12,
+              "vartist_mashyn_uah": 17729.1,
+              "vartist_materialiv_uah": 9386.66,
+              "priami_vytraty_uah": 30066.88,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.163,
-            "mashynisty_lyud_god": 1.622
+            "trud_lyud_god": 10.103,
+            "mashynisty_lyud_god": 18.103
           }
         },
         {
@@ -689,30 +689,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.013,
+              "lyud_god": 14.229,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 96.23
+              "vartist_uah": 1351.75
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.51,
+              "lyud_god": 22.229,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 166.1
+              "vartist_uah": 2445.19
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.5099,
+                "mash_god": 12.356,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 1811.85
+                "vartist_uah": 14827.2
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.2066,
+                "mash_god": 9.874,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 844.61
+                "vartist_uah": 6911.8
               }
             ],
             "materialy": [
@@ -720,30 +720,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 23.09,
+                "vytrata": 188.96,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1269.95
+                "vartist_uah": 10392.8
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.1545,
+                "vytrata": 9.4478,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 138.54
+                "vartist_uah": 1133.74
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 262.33,
-              "vartist_mashyn_uah": 2656.46,
-              "vartist_materialiv_uah": 1408.49,
-              "priami_vytraty_uah": 4327.28,
+              "vartist_trudu_uah": 3796.94,
+              "vartist_mashyn_uah": 21739.0,
+              "vartist_materialiv_uah": 11526.54,
+              "priami_vytraty_uah": 37062.48,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.013,
-            "mashynisty_lyud_god": 1.51
+            "trud_lyud_god": 14.229,
+            "mashynisty_lyud_god": 22.229
           }
         },
         {
@@ -761,30 +761,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.339,
+              "lyud_god": 13.177,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 127.2
+              "vartist_uah": 1251.82
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.754,
+              "lyud_god": 21.177,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 192.94
+              "vartist_uah": 2329.47
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.7539,
+                "mash_god": 11.892,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 2104.71
+                "vartist_uah": 14270.4
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.3693,
+                "mash_god": 9.285,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 958.5
+                "vartist_uah": 6499.5
               }
             ],
             "materialy": [
@@ -792,30 +792,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 26.55,
+                "vytrata": 180.0,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1460.25
+                "vartist_uah": 9900.0
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.3274,
+                "vytrata": 9.0002,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 159.29
+                "vartist_uah": 1080.02
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 320.14,
-              "vartist_mashyn_uah": 3063.21,
-              "vartist_materialiv_uah": 1619.54,
-              "priami_vytraty_uah": 5002.89,
+              "vartist_trudu_uah": 3581.28,
+              "vartist_mashyn_uah": 20769.9,
+              "vartist_materialiv_uah": 10980.02,
+              "priami_vytraty_uah": 35331.2,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.339,
-            "mashynisty_lyud_god": 1.754
+            "trud_lyud_god": 13.177,
+            "mashynisty_lyud_god": 21.177
           }
         },
         {
@@ -833,30 +833,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.238,
+              "lyud_god": 13.3,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 117.61
+              "vartist_uah": 1263.5
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.679,
+              "lyud_god": 21.3,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 184.69
+              "vartist_uah": 2343.0
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.6788,
+                "mash_god": 11.927,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 2014.57
+                "vartist_uah": 14312.4
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.3192,
+                "mash_god": 9.372,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 923.45
+                "vartist_uah": 6560.4
               }
             ],
             "materialy": [
@@ -864,30 +864,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 25.48,
+                "vytrata": 181.04,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1401.4
+                "vartist_uah": 9957.2
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.2742,
+                "vytrata": 9.0521,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 152.9
+                "vartist_uah": 1086.25
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 302.3,
-              "vartist_mashyn_uah": 2938.02,
-              "vartist_materialiv_uah": 1554.3,
-              "priami_vytraty_uah": 4794.62,
+              "vartist_trudu_uah": 3606.5,
+              "vartist_mashyn_uah": 20872.8,
+              "vartist_materialiv_uah": 11043.45,
+              "priami_vytraty_uah": 35522.75,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.238,
-            "mashynisty_lyud_god": 1.679
+            "trud_lyud_god": 13.3,
+            "mashynisty_lyud_god": 21.3
           }
         }
       ]
@@ -919,30 +919,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.223,
+              "lyud_god": 10.782,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 116.19
+              "vartist_uah": 1024.29
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.667,
+              "lyud_god": 18.782,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 183.37
+              "vartist_uah": 2066.02
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.667,
+                "mash_god": 10.512,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 2000.35
+                "vartist_uah": 12614.4
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.3113,
+                "mash_god": 8.269,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 917.91
+                "vartist_uah": 5788.3
               }
             ],
             "materialy": [
@@ -950,30 +950,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 25.32,
+                "vytrata": 159.64,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1392.6
+                "vartist_uah": 8780.2
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.2658,
+                "vytrata": 7.9819,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 151.9
+                "vartist_uah": 957.83
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 299.56,
-              "vartist_mashyn_uah": 2918.26,
-              "vartist_materialiv_uah": 1544.5,
-              "priami_vytraty_uah": 4762.32,
+              "vartist_trudu_uah": 3090.31,
+              "vartist_mashyn_uah": 18402.7,
+              "vartist_materialiv_uah": 9738.03,
+              "priami_vytraty_uah": 31231.04,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.223,
-            "mashynisty_lyud_god": 1.667
+            "trud_lyud_god": 10.782,
+            "mashynisty_lyud_god": 18.782
           }
         },
         {
@@ -990,30 +990,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.277,
+              "lyud_god": 12.045,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 121.31
+              "vartist_uah": 1144.28
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.708,
+              "lyud_god": 20.045,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 187.88
+              "vartist_uah": 2204.95
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.7078,
+                "mash_god": 11.237,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 2049.39
+                "vartist_uah": 13484.4
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.3386,
+                "mash_god": 8.808,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 936.99
+                "vartist_uah": 6165.6
               }
             ],
             "materialy": [
@@ -1021,30 +1021,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 25.89,
+                "vytrata": 170.38,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1423.95
+                "vartist_uah": 9370.9
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.2947,
+                "vytrata": 8.5191,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 155.36
+                "vartist_uah": 1022.29
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 309.19,
-              "vartist_mashyn_uah": 2986.38,
-              "vartist_materialiv_uah": 1579.31,
-              "priami_vytraty_uah": 4874.88,
+              "vartist_trudu_uah": 3349.23,
+              "vartist_mashyn_uah": 19650.0,
+              "vartist_materialiv_uah": 10393.19,
+              "priami_vytraty_uah": 33392.42,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.277,
-            "mashynisty_lyud_god": 1.708
+            "trud_lyud_god": 12.045,
+            "mashynisty_lyud_god": 20.045
           }
         },
         {
@@ -1061,30 +1061,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.395,
+              "lyud_god": 12.753,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 132.53
+              "vartist_uah": 1211.54
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.796,
+              "lyud_god": 20.753,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 197.56
+              "vartist_uah": 2282.83
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.796,
+                "mash_god": 11.672,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 2155.22
+                "vartist_uah": 14006.4
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.3973,
+                "mash_god": 9.081,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 978.14
+                "vartist_uah": 6356.7
               }
             ],
             "materialy": [
@@ -1092,30 +1092,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 27.14,
+                "vytrata": 176.4,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1492.7
+                "vartist_uah": 9702.0
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.3572,
+                "vytrata": 8.82,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 162.86
+                "vartist_uah": 1058.4
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 330.09,
-              "vartist_mashyn_uah": 3133.36,
-              "vartist_materialiv_uah": 1655.56,
-              "priami_vytraty_uah": 5119.01,
+              "vartist_trudu_uah": 3494.36,
+              "vartist_mashyn_uah": 20363.1,
+              "vartist_materialiv_uah": 10760.4,
+              "priami_vytraty_uah": 34617.86,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.395,
-            "mashynisty_lyud_god": 1.796
+            "trud_lyud_god": 12.753,
+            "mashynisty_lyud_god": 20.753
           }
         },
         {
@@ -1132,30 +1132,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.052,
+              "lyud_god": 10.034,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 99.94
+              "vartist_uah": 953.23
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.539,
+              "lyud_god": 18.034,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 169.29
+              "vartist_uah": 1983.74
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.5391,
+                "mash_god": 10.037,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 1846.94
+                "vartist_uah": 12044.4
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.2261,
+                "mash_god": 7.996,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 858.26
+                "vartist_uah": 5597.2
               }
             ],
             "materialy": [
@@ -1163,30 +1163,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 23.5,
+                "vytrata": 153.28,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1292.5
+                "vartist_uah": 8430.4
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.1752,
+                "vytrata": 7.664,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 141.02
+                "vartist_uah": 919.68
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 269.23,
-              "vartist_mashyn_uah": 2705.2,
-              "vartist_materialiv_uah": 1433.52,
-              "priami_vytraty_uah": 4407.95,
+              "vartist_trudu_uah": 2936.97,
+              "vartist_mashyn_uah": 17641.6,
+              "vartist_materialiv_uah": 9350.08,
+              "priami_vytraty_uah": 29928.65,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.052,
-            "mashynisty_lyud_god": 1.539
+            "trud_lyud_god": 10.034,
+            "mashynisty_lyud_god": 18.034
           }
         },
         {
@@ -1203,30 +1203,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.026,
+              "lyud_god": 11.719,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 97.47
+              "vartist_uah": 1113.3
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.519,
+              "lyud_god": 19.719,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 167.09
+              "vartist_uah": 2169.09
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.5192,
+                "mash_god": 10.965,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 1823.02
+                "vartist_uah": 13158.0
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.2128,
+                "mash_god": 8.754,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 848.95
+                "vartist_uah": 6127.8
               }
             ],
             "materialy": [
@@ -1234,30 +1234,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 23.22,
+                "vytrata": 167.61,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1277.1
+                "vartist_uah": 9218.55
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.1611,
+                "vytrata": 8.3806,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 139.33
+                "vartist_uah": 1005.67
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 264.56,
-              "vartist_mashyn_uah": 2671.97,
-              "vartist_materialiv_uah": 1416.43,
-              "priami_vytraty_uah": 4352.96,
+              "vartist_trudu_uah": 3282.39,
+              "vartist_mashyn_uah": 19285.8,
+              "vartist_materialiv_uah": 10224.22,
+              "priami_vytraty_uah": 32792.41,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.026,
-            "mashynisty_lyud_god": 1.519
+            "trud_lyud_god": 11.719,
+            "mashynisty_lyud_god": 19.719
           }
         },
         {
@@ -1274,30 +1274,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.056,
+              "lyud_god": 13.6,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 100.32
+              "vartist_uah": 1292.0
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.542,
+              "lyud_god": 21.6,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 169.62
+              "vartist_uah": 2376.0
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.5418,
+                "mash_god": 12.024,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 1850.13
+                "vartist_uah": 14428.8
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.2278,
+                "mash_god": 9.576,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 859.49
+                "vartist_uah": 6703.2
               }
             ],
             "materialy": [
@@ -1305,30 +1305,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 23.54,
+                "vytrata": 183.6,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1294.7
+                "vartist_uah": 10098.0
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.1771,
+                "vytrata": 9.18,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 141.25
+                "vartist_uah": 1101.6
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 269.94,
-              "vartist_mashyn_uah": 2709.62,
-              "vartist_materialiv_uah": 1435.95,
-              "priami_vytraty_uah": 4415.51,
+              "vartist_trudu_uah": 3668.0,
+              "vartist_mashyn_uah": 21132.0,
+              "vartist_materialiv_uah": 11199.6,
+              "priami_vytraty_uah": 35999.6,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.056,
-            "mashynisty_lyud_god": 1.542
+            "trud_lyud_god": 13.6,
+            "mashynisty_lyud_god": 21.6
           }
         },
         {
@@ -1345,30 +1345,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.172,
+              "lyud_god": 13.808,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 111.34
+              "vartist_uah": 1311.76
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.629,
+              "lyud_god": 21.808,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 179.19
+              "vartist_uah": 2398.88
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.6287,
+                "mash_god": 12.187,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 1954.41
+                "vartist_uah": 14624.4
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.2858,
+                "mash_god": 9.621,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 900.05
+                "vartist_uah": 6734.7
               }
             ],
             "materialy": [
@@ -1376,30 +1376,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 24.77,
+                "vytrata": 185.37,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1362.35
+                "vartist_uah": 10195.35
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.2387,
+                "vytrata": 9.2684,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 148.64
+                "vartist_uah": 1112.21
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 290.53,
-              "vartist_mashyn_uah": 2854.46,
-              "vartist_materialiv_uah": 1510.99,
-              "priami_vytraty_uah": 4655.98,
+              "vartist_trudu_uah": 3710.64,
+              "vartist_mashyn_uah": 21359.1,
+              "vartist_materialiv_uah": 11307.56,
+              "priami_vytraty_uah": 36377.3,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.172,
-            "mashynisty_lyud_god": 1.629
+            "trud_lyud_god": 13.808,
+            "mashynisty_lyud_god": 21.808
           }
         },
         {
@@ -1416,30 +1416,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.288,
+              "lyud_god": 11.051,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 122.36
+              "vartist_uah": 1049.85
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.716,
+              "lyud_god": 19.051,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 188.76
+              "vartist_uah": 2095.61
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.7159,
+                "mash_god": 10.683,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 2059.02
+                "vartist_uah": 12819.6
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.3439,
+                "mash_god": 8.367,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 940.73
+                "vartist_uah": 5856.9
               }
             ],
             "materialy": [
@@ -1447,30 +1447,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 26.01,
+                "vytrata": 161.93,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1430.55
+                "vartist_uah": 8906.15
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.3004,
+                "vytrata": 8.0963,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 156.05
+                "vartist_uah": 971.56
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 311.12,
-              "vartist_mashyn_uah": 2999.75,
-              "vartist_materialiv_uah": 1586.6,
-              "priami_vytraty_uah": 4897.47,
+              "vartist_trudu_uah": 3145.45,
+              "vartist_mashyn_uah": 18676.5,
+              "vartist_materialiv_uah": 9877.71,
+              "priami_vytraty_uah": 31699.66,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.288,
-            "mashynisty_lyud_god": 1.716
+            "trud_lyud_god": 11.051,
+            "mashynisty_lyud_god": 19.051
           }
         }
       ]
@@ -1500,23 +1500,23 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.022,
+              "lyud_god": 10.129,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 97.09
+              "vartist_uah": 962.25
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.348,
+              "lyud_god": 18.129,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 148.28
+              "vartist_uah": 1994.19
             },
             "mashyny": [
               {
                 "kod": "С201-1",
                 "nazva": "Бульдозер 79 кВт",
-                "mash_god": 1.3482,
+                "mash_god": 18.129,
                 "tsina_mash_god_uah": 850,
-                "vartist_uah": 1145.96
+                "vartist_uah": 15409.65
               }
             ],
             "materialy": [
@@ -1524,30 +1524,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 11.46,
+                "vytrata": 154.1,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 630.3
+                "vartist_uah": 8475.5
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 0.573,
+                "vytrata": 7.7048,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 68.76
+                "vartist_uah": 924.58
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 245.37,
-              "vartist_mashyn_uah": 1145.96,
-              "vartist_materialiv_uah": 699.06,
-              "priami_vytraty_uah": 2090.39,
+              "vartist_trudu_uah": 2956.45,
+              "vartist_mashyn_uah": 15409.65,
+              "vartist_materialiv_uah": 9400.08,
+              "priami_vytraty_uah": 27766.18,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.022,
-            "mashynisty_lyud_god": 1.348
+            "trud_lyud_god": 10.129,
+            "mashynisty_lyud_god": 18.129
           }
         },
         {
@@ -1564,23 +1564,23 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 0.946,
+              "lyud_god": 15.205,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 89.87
+              "vartist_uah": 1444.47
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.297,
+              "lyud_god": 23.205,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 142.67
+              "vartist_uah": 2552.55
             },
             "mashyny": [
               {
                 "kod": "С201-1",
                 "nazva": "Бульдозер 79 кВт",
-                "mash_god": 1.2974,
+                "mash_god": 23.205,
                 "tsina_mash_god_uah": 850,
-                "vartist_uah": 1102.76
+                "vartist_uah": 19724.25
               }
             ],
             "materialy": [
@@ -1588,30 +1588,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 11.03,
+                "vytrata": 197.24,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 606.65
+                "vartist_uah": 10848.2
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 0.5514,
+                "vytrata": 9.8621,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 66.17
+                "vartist_uah": 1183.45
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 232.54,
-              "vartist_mashyn_uah": 1102.76,
-              "vartist_materialiv_uah": 672.82,
-              "priami_vytraty_uah": 2008.12,
+              "vartist_trudu_uah": 3997.02,
+              "vartist_mashyn_uah": 19724.25,
+              "vartist_materialiv_uah": 12031.65,
+              "priami_vytraty_uah": 35752.92,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 0.946,
-            "mashynisty_lyud_god": 1.297
+            "trud_lyud_god": 15.205,
+            "mashynisty_lyud_god": 23.205
           }
         },
         {
@@ -1628,23 +1628,23 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 0.955,
+              "lyud_god": 15.59,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 90.72
+              "vartist_uah": 1481.05
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.303,
+              "lyud_god": 23.59,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 143.33
+              "vartist_uah": 2594.9
             },
             "mashyny": [
               {
                 "kod": "С201-1",
                 "nazva": "Бульдозер 79 кВт",
-                "mash_god": 1.3032,
+                "mash_god": 23.59,
                 "tsina_mash_god_uah": 850,
-                "vartist_uah": 1107.73
+                "vartist_uah": 20051.5
               }
             ],
             "materialy": [
@@ -1652,30 +1652,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 11.08,
+                "vytrata": 200.51,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 609.4
+                "vartist_uah": 11028.05
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 0.5539,
+                "vytrata": 10.03,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 66.47
+                "vartist_uah": 1203.6
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 234.05,
-              "vartist_mashyn_uah": 1107.73,
-              "vartist_materialiv_uah": 675.87,
-              "priami_vytraty_uah": 2017.65,
+              "vartist_trudu_uah": 4075.95,
+              "vartist_mashyn_uah": 20051.5,
+              "vartist_materialiv_uah": 12231.65,
+              "priami_vytraty_uah": 36359.1,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 0.955,
-            "mashynisty_lyud_god": 1.303
+            "trud_lyud_god": 15.59,
+            "mashynisty_lyud_god": 23.59
           }
         },
         {
@@ -1692,23 +1692,23 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.077,
+              "lyud_god": 15.313,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 102.31
+              "vartist_uah": 1454.74
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.385,
+              "lyud_god": 23.313,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 152.35
+              "vartist_uah": 2564.43
             },
             "mashyny": [
               {
                 "kod": "С201-1",
                 "nazva": "Бульдозер 79 кВт",
-                "mash_god": 1.3849,
+                "mash_god": 23.313,
                 "tsina_mash_god_uah": 850,
-                "vartist_uah": 1177.14
+                "vartist_uah": 19816.05
               }
             ],
             "materialy": [
@@ -1716,30 +1716,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 11.77,
+                "vytrata": 198.16,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 647.35
+                "vartist_uah": 10898.8
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 0.5886,
+                "vytrata": 9.908,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 70.63
+                "vartist_uah": 1188.96
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 254.66,
-              "vartist_mashyn_uah": 1177.14,
-              "vartist_materialiv_uah": 717.98,
-              "priami_vytraty_uah": 2149.78,
+              "vartist_trudu_uah": 4019.16,
+              "vartist_mashyn_uah": 19816.05,
+              "vartist_materialiv_uah": 12087.76,
+              "priami_vytraty_uah": 35922.97,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.077,
-            "mashynisty_lyud_god": 1.385
+            "trud_lyud_god": 15.313,
+            "mashynisty_lyud_god": 23.313
           }
         },
         {
@@ -1756,23 +1756,23 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 0.983,
+              "lyud_god": 14.969,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 93.39
+              "vartist_uah": 1422.05
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.322,
+              "lyud_god": 22.969,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 145.42
+              "vartist_uah": 2526.59
             },
             "mashyny": [
               {
                 "kod": "С201-1",
                 "nazva": "Бульдозер 79 кВт",
-                "mash_god": 1.3223,
+                "mash_god": 22.969,
                 "tsina_mash_god_uah": 850,
-                "vartist_uah": 1123.97
+                "vartist_uah": 19523.65
               }
             ],
             "materialy": [
@@ -1780,30 +1780,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 11.24,
+                "vytrata": 195.24,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 618.2
+                "vartist_uah": 10738.2
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 0.562,
+                "vytrata": 9.7618,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 67.44
+                "vartist_uah": 1171.42
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 238.81,
-              "vartist_mashyn_uah": 1123.97,
-              "vartist_materialiv_uah": 685.64,
-              "priami_vytraty_uah": 2048.42,
+              "vartist_trudu_uah": 3948.64,
+              "vartist_mashyn_uah": 19523.65,
+              "vartist_materialiv_uah": 11909.62,
+              "priami_vytraty_uah": 35381.91,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 0.983,
-            "mashynisty_lyud_god": 1.322
+            "trud_lyud_god": 14.969,
+            "mashynisty_lyud_god": 22.969
           }
         },
         {
@@ -1820,23 +1820,23 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 0.839,
+              "lyud_god": 13.943,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 79.7
+              "vartist_uah": 1324.59
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.226,
+              "lyud_god": 21.943,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 134.86
+              "vartist_uah": 2413.73
             },
             "mashyny": [
               {
                 "kod": "С201-1",
                 "nazva": "Бульдозер 79 кВт",
-                "mash_god": 1.2263,
+                "mash_god": 21.943,
                 "tsina_mash_god_uah": 850,
-                "vartist_uah": 1042.38
+                "vartist_uah": 18651.55
               }
             ],
             "materialy": [
@@ -1844,30 +1844,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 10.42,
+                "vytrata": 186.52,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 573.1
+                "vartist_uah": 10258.6
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 0.5212,
+                "vytrata": 9.3258,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 62.54
+                "vartist_uah": 1119.1
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 214.56,
-              "vartist_mashyn_uah": 1042.38,
-              "vartist_materialiv_uah": 635.64,
-              "priami_vytraty_uah": 1892.58,
+              "vartist_trudu_uah": 3738.32,
+              "vartist_mashyn_uah": 18651.55,
+              "vartist_materialiv_uah": 11377.7,
+              "priami_vytraty_uah": 33767.57,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 0.839,
-            "mashynisty_lyud_god": 1.226
+            "trud_lyud_god": 13.943,
+            "mashynisty_lyud_god": 21.943
           }
         },
         {
@@ -1884,23 +1884,23 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 0.989,
+              "lyud_god": 15.045,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 93.95
+              "vartist_uah": 1429.28
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.326,
+              "lyud_god": 6.017,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 145.86
+              "vartist_uah": 661.87
             },
             "mashyny": [
               {
                 "kod": "С201-1",
                 "nazva": "Бульдозер 79 кВт",
-                "mash_god": 1.3261,
+                "mash_god": 6.017,
                 "tsina_mash_god_uah": 850,
-                "vartist_uah": 1127.17
+                "vartist_uah": 5114.45
               }
             ],
             "materialy": [
@@ -1908,30 +1908,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 11.27,
+                "vytrata": 51.14,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 619.85
+                "vartist_uah": 2812.7
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 0.5636,
+                "vytrata": 2.5572,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 67.63
+                "vartist_uah": 306.86
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 239.81,
-              "vartist_mashyn_uah": 1127.17,
-              "vartist_materialiv_uah": 687.48,
-              "priami_vytraty_uah": 2054.46,
+              "vartist_trudu_uah": 2091.14,
+              "vartist_mashyn_uah": 5114.45,
+              "vartist_materialiv_uah": 3119.56,
+              "priami_vytraty_uah": 10325.15,
               "odynytsya": "1000 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 0.989,
-            "mashynisty_lyud_god": 1.326
+            "trud_lyud_god": 15.045,
+            "mashynisty_lyud_god": 6.017
           }
         },
         {
@@ -1947,23 +1947,23 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 0.902,
+              "lyud_god": 15.674,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 85.69
+              "vartist_uah": 1489.03
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.268,
+              "lyud_god": 6.253,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 139.48
+              "vartist_uah": 687.83
             },
             "mashyny": [
               {
                 "kod": "С201-1",
                 "nazva": "Бульдозер 79 кВт",
-                "mash_god": 1.2681,
+                "mash_god": 6.253,
                 "tsina_mash_god_uah": 850,
-                "vartist_uah": 1077.88
+                "vartist_uah": 5315.05
               }
             ],
             "materialy": [
@@ -1971,30 +1971,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 10.78,
+                "vytrata": 53.15,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 592.9
+                "vartist_uah": 2923.25
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 0.5389,
+                "vytrata": 2.6575,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 64.67
+                "vartist_uah": 318.9
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 225.17,
-              "vartist_mashyn_uah": 1077.88,
-              "vartist_materialiv_uah": 657.57,
-              "priami_vytraty_uah": 1960.62,
+              "vartist_trudu_uah": 2176.86,
+              "vartist_mashyn_uah": 5315.05,
+              "vartist_materialiv_uah": 3242.15,
+              "priami_vytraty_uah": 10734.06,
               "odynytsya": "1000 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 0.902,
-            "mashynisty_lyud_god": 1.268
+            "trud_lyud_god": 15.674,
+            "mashynisty_lyud_god": 6.253
           }
         }
       ]
@@ -2024,10 +2024,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 45.478,
+              "lyud_god": 128.492,
               "seredniy_rozryad": 2.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 4320.41
+              "vartist_uah": 12206.74
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -2044,15 +2044,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 4320.41,
+              "vartist_trudu_uah": 12206.74,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 0,
-              "priami_vytraty_uah": 4320.41,
+              "priami_vytraty_uah": 12206.74,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 45.478,
+            "trud_lyud_god": 128.492,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -2070,10 +2070,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 53.992,
+              "lyud_god": 92.569,
               "seredniy_rozryad": 2.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 5129.24
+              "vartist_uah": 8794.06
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -2090,15 +2090,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 5129.24,
+              "vartist_trudu_uah": 8794.06,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 0,
-              "priami_vytraty_uah": 5129.24,
+              "priami_vytraty_uah": 8794.06,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 53.992,
+            "trud_lyud_god": 92.569,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -2116,10 +2116,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 46.523,
+              "lyud_god": 110.956,
               "seredniy_rozryad": 2.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 4419.69
+              "vartist_uah": 10540.82
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -2136,15 +2136,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 4419.69,
+              "vartist_trudu_uah": 10540.82,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 0,
-              "priami_vytraty_uah": 4419.69,
+              "priami_vytraty_uah": 10540.82,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 46.523,
+            "trud_lyud_god": 110.956,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -2162,10 +2162,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 48.932,
+              "lyud_god": 122.238,
               "seredniy_rozryad": 2.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 4648.54
+              "vartist_uah": 11612.61
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -2182,15 +2182,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 4648.54,
+              "vartist_trudu_uah": 11612.61,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 0,
-              "priami_vytraty_uah": 4648.54,
+              "priami_vytraty_uah": 11612.61,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 48.932,
+            "trud_lyud_god": 122.238,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -2208,10 +2208,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 53.084,
+              "lyud_god": 92.223,
               "seredniy_rozryad": 2.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 5042.98
+              "vartist_uah": 8761.18
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -2228,15 +2228,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 5042.98,
+              "vartist_trudu_uah": 8761.18,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 0,
-              "priami_vytraty_uah": 5042.98,
+              "priami_vytraty_uah": 8761.18,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 53.084,
+            "trud_lyud_god": 92.223,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -2254,10 +2254,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 50.187,
+              "lyud_god": 117.253,
               "seredniy_rozryad": 2.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 4767.76
+              "vartist_uah": 11139.03
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -2274,15 +2274,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 4767.76,
+              "vartist_trudu_uah": 11139.03,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 0,
-              "priami_vytraty_uah": 4767.76,
+              "priami_vytraty_uah": 11139.03,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 50.187,
+            "trud_lyud_god": 117.253,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -2300,10 +2300,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 51.061,
+              "lyud_god": 93.498,
               "seredniy_rozryad": 2.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 4850.8
+              "vartist_uah": 8882.31
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -2320,15 +2320,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 4850.8,
+              "vartist_trudu_uah": 8882.31,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 0,
-              "priami_vytraty_uah": 4850.8,
+              "priami_vytraty_uah": 8882.31,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 51.061,
+            "trud_lyud_god": 93.498,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -2346,10 +2346,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 54.856,
+              "lyud_god": 106.317,
               "seredniy_rozryad": 2.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 5211.32
+              "vartist_uah": 10100.11
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -2366,15 +2366,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 5211.32,
+              "vartist_trudu_uah": 10100.11,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 0,
-              "priami_vytraty_uah": 5211.32,
+              "priami_vytraty_uah": 10100.11,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 54.856,
+            "trud_lyud_god": 106.317,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -2437,10 +2437,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 10.08,
+              "lyud_god": 38.363,
               "seredniy_rozryad": 2.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 957.6
+              "vartist_uah": 3644.49
             },
             "trud_mashynistiv": {
               "lyud_god": 0.5,
@@ -2475,15 +2475,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 1012.6,
+              "vartist_trudu_uah": 3699.49,
               "vartist_mashyn_uah": 300.0,
               "vartist_materialiv_uah": 259.25,
-              "priami_vytraty_uah": 1571.85,
+              "priami_vytraty_uah": 4258.74,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 10.08,
+            "trud_lyud_god": 38.363,
             "mashynisty_lyud_god": 0.5
           }
         }
@@ -2514,10 +2514,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 52.645,
+              "lyud_god": 104.204,
               "seredniy_rozryad": 2.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 5001.28
+              "vartist_uah": 9899.38
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -2534,15 +2534,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 5001.28,
+              "vartist_trudu_uah": 9899.38,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 0,
-              "priami_vytraty_uah": 5001.28,
+              "priami_vytraty_uah": 9899.38,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 52.645,
+            "trud_lyud_god": 104.204,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -2560,10 +2560,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 0.813,
+              "lyud_god": 110.574,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 77.23
+              "vartist_uah": 10504.53
             },
             "trud_mashynistiv": {
               "lyud_god": 1.209,
@@ -2598,15 +2598,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 210.23,
+              "vartist_trudu_uah": 10637.52,
               "vartist_mashyn_uah": 1027.47,
               "vartist_materialiv_uah": 626.49,
-              "priami_vytraty_uah": 1864.19,
+              "priami_vytraty_uah": 12291.48,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 0.813,
+            "trud_lyud_god": 110.574,
             "mashynisty_lyud_god": 1.209
           }
         },
@@ -2623,10 +2623,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 9.134,
+              "lyud_god": 103.972,
               "seredniy_rozryad": 2.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 867.73
+              "vartist_uah": 9877.34
             },
             "trud_mashynistiv": {
               "lyud_god": 0.5,
@@ -2661,15 +2661,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 922.73,
+              "vartist_trudu_uah": 9932.34,
               "vartist_mashyn_uah": 300.0,
               "vartist_materialiv_uah": 259.25,
-              "priami_vytraty_uah": 1481.98,
+              "priami_vytraty_uah": 10491.59,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 9.134,
+            "trud_lyud_god": 103.972,
             "mashynisty_lyud_god": 0.5
           }
         },
@@ -2686,10 +2686,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 9.602,
+              "lyud_god": 126.258,
               "seredniy_rozryad": 2.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 912.19
+              "vartist_uah": 11994.51
             },
             "trud_mashynistiv": {
               "lyud_god": 0.5,
@@ -2724,15 +2724,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 967.19,
+              "vartist_trudu_uah": 12049.51,
               "vartist_mashyn_uah": 300.0,
               "vartist_materialiv_uah": 259.25,
-              "priami_vytraty_uah": 1526.44,
+              "priami_vytraty_uah": 12608.76,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 9.602,
+            "trud_lyud_god": 126.258,
             "mashynisty_lyud_god": 0.5
           }
         },
@@ -2749,23 +2749,23 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 9.296,
+              "lyud_god": 14.225,
               "seredniy_rozryad": 2.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 883.12
+              "vartist_uah": 1351.38
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.5,
+              "lyud_god": 22.225,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 55.0
+              "vartist_uah": 2444.75
             },
             "mashyny": [
               {
                 "kod": "С201-2",
                 "nazva": "Бульдозер / трамбівка",
-                "mash_god": 0.5,
+                "mash_god": 22.225,
                 "tsina_mash_god_uah": 600,
-                "vartist_uah": 300.0
+                "vartist_uah": 13335.0
               }
             ],
             "materialy": [
@@ -2773,30 +2773,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 4.25,
+                "vytrata": 188.91,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 233.75
+                "vartist_uah": 10390.05
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 0.2125,
+                "vytrata": 9.4456,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 25.5
+                "vartist_uah": 1133.47
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 938.12,
-              "vartist_mashyn_uah": 300.0,
-              "vartist_materialiv_uah": 259.25,
-              "priami_vytraty_uah": 1497.37,
+              "vartist_trudu_uah": 3796.12,
+              "vartist_mashyn_uah": 13335.0,
+              "vartist_materialiv_uah": 11523.52,
+              "priami_vytraty_uah": 28654.64,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 9.296,
-            "mashynisty_lyud_god": 0.5
+            "trud_lyud_god": 14.225,
+            "mashynisty_lyud_god": 22.225
           }
         },
         {
@@ -2813,10 +2813,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 8.785,
+              "lyud_god": 98.123,
               "seredniy_rozryad": 2.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 834.58
+              "vartist_uah": 9321.69
             },
             "trud_mashynistiv": {
               "lyud_god": 0.5,
@@ -2851,15 +2851,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 889.58,
+              "vartist_trudu_uah": 9376.69,
               "vartist_mashyn_uah": 300.0,
               "vartist_materialiv_uah": 259.25,
-              "priami_vytraty_uah": 1448.83,
+              "priami_vytraty_uah": 9935.94,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 8.785,
+            "trud_lyud_god": 98.123,
             "mashynisty_lyud_god": 0.5
           }
         }
@@ -2888,30 +2888,30 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.107,
+              "lyud_god": 13.669,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 105.16
+              "vartist_uah": 1298.56
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.58,
+              "lyud_god": 21.669,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 173.8
+              "vartist_uah": 2383.59
             },
             "mashyny": [
               {
                 "kod": "С202-1",
                 "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
-                "mash_god": 1.5802,
+                "mash_god": 12.084,
                 "tsina_mash_god_uah": 1200,
-                "vartist_uah": 1896.3
+                "vartist_uah": 14500.8
               },
               {
                 "kod": "С311-2",
                 "nazva": "Автосамоскид 10 т",
-                "mash_god": 1.2535,
+                "mash_god": 9.586,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 877.45
+                "vartist_uah": 6710.2
               }
             ],
             "materialy": [
@@ -2919,30 +2919,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 24.09,
+                "vytrata": 184.2,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 1324.95
+                "vartist_uah": 10131.0
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 1.2043,
+                "vytrata": 9.2098,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 144.52
+                "vartist_uah": 1105.18
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 278.97,
-              "vartist_mashyn_uah": 2773.75,
-              "vartist_materialiv_uah": 1469.47,
-              "priami_vytraty_uah": 4522.19,
+              "vartist_trudu_uah": 3682.15,
+              "vartist_mashyn_uah": 21211.0,
+              "vartist_materialiv_uah": 11236.18,
+              "priami_vytraty_uah": 36129.33,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.107,
-            "mashynisty_lyud_god": 1.58
+            "trud_lyud_god": 13.669,
+            "mashynisty_lyud_god": 21.669
           }
         },
         {
@@ -2958,10 +2958,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.039,
+              "lyud_god": 12.893,
               "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 288.71
+              "vartist_uah": 1224.84
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -2980,15 +2980,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 288.71,
+              "vartist_trudu_uah": 1224.84,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 438.71,
+              "priami_vytraty_uah": 1374.84,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.039,
+            "trud_lyud_god": 12.893,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -3004,10 +3004,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 2.815,
+              "lyud_god": 14.786,
               "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 267.43
+              "vartist_uah": 1404.67
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -3026,15 +3026,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 267.43,
+              "vartist_trudu_uah": 1404.67,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 417.43,
+              "priami_vytraty_uah": 1554.67,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 2.815,
+            "trud_lyud_god": 14.786,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -3050,10 +3050,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 2.989,
+              "lyud_god": 12.877,
               "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 283.95
+              "vartist_uah": 1223.32
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -3072,15 +3072,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 283.95,
+              "vartist_trudu_uah": 1223.32,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 433.95,
+              "priami_vytraty_uah": 1373.32,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 2.989,
+            "trud_lyud_god": 12.877,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -3098,10 +3098,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 2.737,
+              "lyud_god": 15.216,
               "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 260.01
+              "vartist_uah": 1445.52
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -3120,15 +3120,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 260.01,
+              "vartist_trudu_uah": 1445.52,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 410.01,
+              "priami_vytraty_uah": 1595.52,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 2.737,
+            "trud_lyud_god": 15.216,
             "mashynisty_lyud_god": 0.0
           }
         }
@@ -3159,10 +3159,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 9.554,
+              "lyud_god": 26.278,
               "seredniy_rozryad": 2.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 907.63
+              "vartist_uah": 2496.41
             },
             "trud_mashynistiv": {
               "lyud_god": 0.5,
@@ -3197,15 +3197,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 962.63,
+              "vartist_trudu_uah": 2551.41,
               "vartist_mashyn_uah": 300.0,
               "vartist_materialiv_uah": 259.25,
-              "priami_vytraty_uah": 1521.88,
+              "priami_vytraty_uah": 3110.66,
               "odynytsya": "100 маш.-год",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 9.554,
+            "trud_lyud_god": 26.278,
             "mashynisty_lyud_god": 0.5
           }
         },
@@ -3222,23 +3222,23 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 0.887,
+              "lyud_god": 22.596,
               "seredniy_rozryad": 3.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 84.27
+              "vartist_uah": 2146.62
             },
             "trud_mashynistiv": {
-              "lyud_god": 1.258,
+              "lyud_god": 8.848,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 138.38
+              "vartist_uah": 973.28
             },
             "mashyny": [
               {
                 "kod": "С201-1",
                 "nazva": "Бульдозер 79 кВт",
-                "mash_god": 1.2578,
+                "mash_god": 8.848,
                 "tsina_mash_god_uah": 850,
-                "vartist_uah": 1069.15
+                "vartist_uah": 7520.8
               }
             ],
             "materialy": [
@@ -3246,30 +3246,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 10.69,
+                "vytrata": 75.21,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 587.95
+                "vartist_uah": 4136.55
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 0.5346,
+                "vytrata": 3.7604,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 64.15
+                "vartist_uah": 451.25
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 222.64,
-              "vartist_mashyn_uah": 1069.15,
-              "vartist_materialiv_uah": 652.1,
-              "priami_vytraty_uah": 1943.89,
+              "vartist_trudu_uah": 3119.9,
+              "vartist_mashyn_uah": 7520.8,
+              "vartist_materialiv_uah": 4587.8,
+              "priami_vytraty_uah": 15228.5,
               "odynytsya": "1000 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 0.887,
-            "mashynisty_lyud_god": 1.258
+            "trud_lyud_god": 22.596,
+            "mashynisty_lyud_god": 8.848
           }
         },
         {
@@ -3285,10 +3285,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.044,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 3.044,
+              "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 384.18
+              "vartist_uah": 289.18
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -3298,40 +3298,24 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
-              },
-              {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 384.18,
+              "vartist_trudu_uah": 289.18,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4614.18,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 439.18,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.044,
+            "trud_lyud_god": 3.044,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -3349,10 +3333,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.191,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 31.906,
+              "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 398.14
+              "vartist_uah": 3031.07
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -3362,40 +3346,24 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
-              },
-              {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 398.14,
+              "vartist_trudu_uah": 3031.07,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4628.14,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 3181.07,
               "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.191,
+            "trud_lyud_god": 31.906,
             "mashynisty_lyud_god": 0.0
           }
         }

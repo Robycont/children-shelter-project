@@ -154,6 +154,44 @@ def _base_profile(kompleks: str, nomer: int, nazva: str, unit: str) -> dict[str,
             ]
             sklad = ["Подача суміші", "Укладання", "Ущільнення", "Догляд за бетоном"]
 
+    # --- збірні ЗБК (монтаж) ---
+    elif kompleks == "Д.2.2" and nomer == 7:
+        if "100 шт" in (unit or "") or "фбс" in t or "блоків фундаментних" in t or "подушок" in t:
+            labor = 180 + 40 * s
+            machinist = 45 + 10 * s
+            grade = 3.8
+            machines = [_mash("С210-1", "Кран автомобільний 16 т", machinist, 1500)]
+            materials = [
+                _mat("С122-1", "Блоки/подушки збірні (за специфікацією)", "шт", 100, 1800),
+                _mat("С135-1", "Розчин мурувальний", "м3", 4.5, 2200),
+            ]
+        elif "замоноліч" in t or "стиків" in t and "заливан" not in t:
+            labor = 45 + 10 * s
+            machinist = 2.0
+            grade = 3.6
+            machines = [_mash("С211-1", "Вібратор/дрібна механізація", 2.0, 120)]
+            materials = [_mat("С120-1", "Бетон дрібнозернистий", "м3", 1.5, 3300)]
+        elif unit and "шт" == unit.strip():
+            labor = 6.0 + 2 * s
+            machinist = 1.2
+            grade = 4.0
+            machines = [_mash("С210-1", "Кран автомобільний 16 т", 1.2, 1500)]
+            materials = [
+                _mat("С123-1", "Елемент збірний (за специфікацією)", "шт", 1.0, 9000),
+                _mat("С135-1", "Розчин / зварювальні матеріали", "компл", 1.0, 350),
+            ]
+        else:  # 100 м2 плит/панелей
+            labor = 90 + 20 * s
+            machinist = 14 + 3 * s
+            grade = 4.0
+            machines = [_mash("С210-1", "Кран автомобільний 16–25 т", machinist, 1600)]
+            materials = [
+                _mat("С124-1", "Плити/панелі збірні (за специфікацією)", "м2", 100, 1500),
+                _mat("С135-1", "Розчин для швів", "м3", 1.2, 2200),
+                _mat("С141-1", "Електроди", "кг", 4.0, 90),
+            ]
+        sklad = ["Стропування", "Подача краном", "Установлення на розчині", "Вивірка", "Зварювання/анкерування"]
+
     # --- мурування цегла/блоки ---
     elif any(k in t for k in ("муруван", "цегл", "блок", "бутов", "газобетон", "керамзит", "перегород")) or nomer == 8:
         if "газобетон" in t or "клею" in t:
@@ -397,8 +435,8 @@ def _base_profile(kompleks: str, nomer: int, nazva: str, unit: str) -> dict[str,
         sklad = ["Підготовка поверхні", "Основний опоряджувальний процес", "Зачищення / фініш"]
 
     # --- трубопроводи / сантехніка ---
-    elif any(k in t for k in ("труб", "водопров", "каналіз", "опален", "радіатор", "умивальн", "унітаз", "ванн", "змішувач", "газопров")) or nomer in {16, 17, 18, 19, 22, 23, 24}:
-        if any(k in t for k in ("умивальн", "унітаз", "ванн", "мийк", "змішувач", "піддон", "пісуар", "біде", "трап", "радіатор", "конвектор", "котел", "насос", "лічильник", "рушникосушар")):
+    elif any(k in t for k in ("труб", "водопров", "каналіз", "опален", "радіатор", "умивальн", "унітаз", "змішувач", "газопров")) or re.search(r"(?:^|\s)ванн", t) or nomer in {16, 17, 18, 19, 22, 23, 24}:
+        if any(k in t for k in ("умивальн", "унітаз", "мийк", "змішувач", "піддон", "пісуар", "біде", "радіатор", "конвектор", "рушникосушар")) or re.search(r"(?:^|\s)(ванн|трап|котл|насос|лічильник)", t):
             labor = 3.5 + s
             grade = 4.0
             materials = [
@@ -407,6 +445,17 @@ def _base_profile(kompleks: str, nomer: int, nazva: str, unit: str) -> dict[str,
                 _mat("С192-1", "Герметик / ущільнювачі", "компл", 1.0, 80),
             ]
             sklad = ["Розмітка", "Установлення приладу", "Підключення", "Перевірка"]
+        elif any(k in t for k in ("колодяз", "септик", "лос", "дощоприймач", "гідрант")):
+            labor = 16.0 + 4 * s
+            grade = 3.6
+            machinist = 1.2
+            machines = [_mash("С210-1", "Кран автомобільний 10 т", 1.2, 1400)]
+            materials = [
+                _mat("С196-1", "Кільця/елементи колодязя збірні", "компл", 1.0, 6500),
+                _mat("С197-1", "Люк чавунний / решітка", "шт", 1.0, 2800),
+                _mat("С135-1", "Розчин для закладення стиків", "м3", 0.08, 2200),
+            ]
+            sklad = ["Підготовка основи", "Монтаж елементів краном", "Закладення стиків", "Установлення люка"]
         else:
             labor = 2.0 + 0.5 * s
             grade = 3.8
@@ -576,9 +625,75 @@ def _base_profile(kompleks: str, nomer: int, nazva: str, unit: str) -> dict[str,
     }
 
 
+def _calibrate(kompleks: str, nomer: int, nazva: str, unit: str, profile: dict) -> dict:
+    """Відкалібрувати показники до реалістичних діапазонів за вимірювачем."""
+    t = nazva.lower()
+    u = (unit or "").lower().replace(" ", "")
+    factor = _unit_factor(unit)
+    s = _seed(f"cal:{kompleks}{nomer}:{nazva}")
+
+    def clamp(v: float, lo: float, hi: float) -> float:
+        return max(lo, min(hi, v))
+
+    labor = profile["labor"]
+    machinist = profile["machinist"]
+    machines = profile["machines"]
+    materials = list(profile["materials"])
+
+    is_beton = any(k in t for k in ("бетон", "залізобетон", "фундамент", "ростверк", "перекритт", "колон", "сход", "монолітн")) and "розбиран" not in t and "демонтаж" not in t
+
+    if u.startswith("1000м3"):
+        labor = clamp(labor, 10 + 6 * s, 60)
+        if machines:
+            machinist = clamp(machinist, 18 + 6 * s, 45)
+    elif u.startswith("100м3") or u == "100м3":
+        if is_beton and kompleks == "Д.2.2" and nomer in {5, 6, 7, 37, 46}:
+            labor = clamp(labor * (100 if labor < 30 else 1), 350 + 100 * s, 900)
+            machinist = clamp(machinist * (100 if machinist < 3 else 1), 25 + 10 * s, 70)
+        else:
+            labor = clamp(labor * (10 if labor < 15 else 1), 90 + 40 * s, 300)
+    elif u.startswith("1000м2"):
+        labor = clamp(labor, 15 + 8 * s, 90)
+        if machines:
+            machinist = clamp(machinist, 6 + 3 * s, 25)
+    elif u.startswith("100м2"):
+        labor = clamp(labor * (10 if labor < 8 else 1), 35 + 15 * s, 320)
+    elif u.startswith("100шт"):
+        labor = clamp(labor * (10 if labor < 10 else 1), 40 + 20 * s, 380)
+    elif u.startswith("100м") and "м2" not in u and "м3" not in u:
+        labor = clamp(labor * (10 if labor < 6 else 1), 20 + 10 * s, 260)
+    elif u == "т":
+        labor = clamp(labor, 12 + 6 * s, 45)
+
+    # масштабування машин під новий машиніст-час
+    if machines and machinist > 0:
+        old_mh = sum(m.get("mash_god", 0) for m in machines) or 1
+        k = machinist / old_mh
+        if abs(k - 1) > 0.05:
+            for m in machines:
+                m["mash_god"] = _r(m["mash_god"] * k, 3)
+                if m.get("tsina_mash_god_uah") is not None:
+                    m["vartist_uah"] = _r(m["mash_god"] * m["tsina_mash_god_uah"], 2)
+
+    # матеріали в м3 на вимірювач 100 м3 (бетон 1.02 -> 102)
+    if (u.startswith("100м3") or u == "100м3") and is_beton:
+        for m in materials:
+            if m.get("odynytsya") == "м3" and (m.get("vytrata") or 0) <= 2.5:
+                m["vytrata"] = _r(m["vytrata"] * 100, 2)
+                if m.get("tsina_za_od_uah") is not None:
+                    m["vartist_uah"] = _r(m["vytrata"] * m["tsina_za_od_uah"], 2)
+
+    profile["labor"] = labor
+    profile["machinist"] = machinist
+    profile["machines"] = machines
+    profile["materials"] = materials
+    return profile
+
+
 def build_resources(kompleks: str, nomer: int, nazva: str, unit: str, shifr: str = "") -> tuple[dict, list[str]]:
     """Повернути (resursy, sklad_robit) для норми."""
     profile = _base_profile(kompleks, nomer, nazva, unit)
+    profile = _calibrate(kompleks, nomer, nazva, unit, profile)
     labor = _r(profile["labor"], 3)
     grade = _r(profile["grade"], 1)
     machinist = _r(profile["machinist"], 3)

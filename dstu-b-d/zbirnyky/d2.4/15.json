@@ -1,7 +1,7 @@
 {
   "kompleks": "Д.2.4",
   "nomer": 15,
-  "nazva": "Внутрішні санітарно-технічні роботи",
+  "nazva": "Внутрішні санітарно-технічні роботи (ремонт)",
   "dstu": "ДСТУ Б Д.2.4-15:2012",
   "marka": "Р",
   "priorytet_prytulok": true,
@@ -14,30 +14,33 @@
   "grupy": [
     {
       "grupa": 1,
-      "nazva": "Демонтаж сантехніки",
-      "odynytsya": "шт",
+      "nazva": "Демонтаж санітарних приладів і труб",
+      "odynytsya": "шт / 100 м",
       "sklad_robit": [
-        "Підготовка поверхні",
-        "Основний опоряджувальний процес",
-        "Зачищення / фініш"
+        "Відключення",
+        "Демонтаж",
+        "Заглушки"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "15-1-1",
-          "nazva": "Демонтаж умивальників",
+          "nazva": "Демонтаж умивальників і мийок",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Підготовка поверхні",
-            "Основний опоряджувальний процес",
-            "Зачищення / фініш"
+            "Відключення",
+            "Демонтаж",
+            "Заглушки"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 2.068,
+              "lyud_god": 2.136,
               "seredniy_rozryad": 3.6,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 196.46
+              "vartist_uah": 202.92
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -72,15 +75,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 196.46,
+              "vartist_trudu_uah": 202.92,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 120.5,
-              "priami_vytraty_uah": 316.96,
+              "priami_vytraty_uah": 323.42,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 2.068,
+            "trud_lyud_god": 2.136,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -89,11 +92,12 @@
           "nazva": "Демонтаж унітазів",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Підготовка поверхні",
-            "Основний опоряджувальний процес",
-            "Зачищення / фініш"
+            "Відключення",
+            "Демонтаж"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 1.804,
@@ -151,11 +155,13 @@
           "nazva": "Демонтаж ванн",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Підготовка поверхні",
-            "Основний опоряджувальний процес",
-            "Зачищення / фініш"
+            "Відключення",
+            "Демонтаж",
+            "Винесення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 1.993,
@@ -207,35 +213,23 @@
             "trud_lyud_god": 1.993,
             "mashynisty_lyud_god": 0.0
           }
-        }
-      ]
-    },
-    {
-      "grupa": 2,
-      "nazva": "Монтаж сантехніки при ремонті",
-      "odynytsya": "шт",
-      "sklad_robit": [
-        "Підготовка поверхні",
-        "Основний опоряджувальний процес",
-        "Зачищення / фініш"
-      ],
-      "normy": [
+        },
         {
-          "shifr": "15-2-1",
-          "nazva": "Установлення умивальників",
+          "shifr": "15-1-4",
+          "nazva": "Демонтаж змішувачів і арматури",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Підготовка поверхні",
-            "Основний опоряджувальний процес",
-            "Зачищення / фініш"
+            "Демонтаж"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 2.08,
+              "lyud_god": 2.182,
               "seredniy_rozryad": 3.6,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 197.6
+              "vartist_uah": 207.29
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -270,34 +264,237 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 197.6,
+              "vartist_trudu_uah": 207.29,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 120.5,
-              "priami_vytraty_uah": 318.1,
+              "priami_vytraty_uah": 327.79,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 2.08,
+            "trud_lyud_god": 2.182,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "15-1-5",
+          "nazva": "Демонтаж трубопроводів сталевих",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Різання",
+            "Демонтаж",
+            "Винесення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 173.624,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 16494.28
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С188-1",
+                "nazva": "Суміш штукатурна",
+                "odynytsya": "кг",
+                "vytrata": 1200,
+                "tsina_za_od_uah": 8,
+                "vartist_uah": 9600
+              },
+              {
+                "kod": "С181-2",
+                "nazva": "Ґрунтовка",
+                "odynytsya": "л",
+                "vytrata": 20,
+                "tsina_za_od_uah": 85,
+                "vartist_uah": 1700
+              },
+              {
+                "kod": "С189-1",
+                "nazva": "Сітка штукатурна (за потреби)",
+                "odynytsya": "м2",
+                "vytrata": 30,
+                "tsina_za_od_uah": 25,
+                "vartist_uah": 750
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 16494.28,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 12050,
+              "priami_vytraty_uah": 28544.28,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 173.624,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "15-1-6",
+          "nazva": "Демонтаж радіаторів",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Зливання",
+            "Демонтаж"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 1.897,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 180.22
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С188-1",
+                "nazva": "Суміш штукатурна",
+                "odynytsya": "кг",
+                "vytrata": 12,
+                "tsina_za_od_uah": 8,
+                "vartist_uah": 96
+              },
+              {
+                "kod": "С181-2",
+                "nazva": "Ґрунтовка",
+                "odynytsya": "л",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 85,
+                "vartist_uah": 17.0
+              },
+              {
+                "kod": "С189-1",
+                "nazva": "Сітка штукатурна (за потреби)",
+                "odynytsya": "м2",
+                "vytrata": 0.3,
+                "tsina_za_od_uah": 25,
+                "vartist_uah": 7.5
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 180.22,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 120.5,
+              "priami_vytraty_uah": 300.72,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.897,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Монтаж при ремонті",
+      "odynytsya": "шт / 100 м",
+      "sklad_robit": [
+        "Установлення",
+        "Підключення"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "15-2-1",
+          "nazva": "Установлення умивальників при заміні",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Установлення",
+            "Підключення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 2.152,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 204.44
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С188-1",
+                "nazva": "Суміш штукатурна",
+                "odynytsya": "кг",
+                "vytrata": 12,
+                "tsina_za_od_uah": 8,
+                "vartist_uah": 96
+              },
+              {
+                "kod": "С181-2",
+                "nazva": "Ґрунтовка",
+                "odynytsya": "л",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 85,
+                "vartist_uah": 17.0
+              },
+              {
+                "kod": "С189-1",
+                "nazva": "Сітка штукатурна (за потреби)",
+                "odynytsya": "м2",
+                "vytrata": 0.3,
+                "tsina_za_od_uah": 25,
+                "vartist_uah": 7.5
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 204.44,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 120.5,
+              "priami_vytraty_uah": 324.94,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 2.152,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "15-2-2",
-          "nazva": "Установлення унітазів",
+          "nazva": "Установлення унітазів при заміні",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Підготовка поверхні",
-            "Основний опоряджувальний процес",
-            "Зачищення / фініш"
+            "Установлення",
+            "Підключення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.976,
+              "lyud_god": 2.195,
               "seredniy_rozryad": 3.6,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 187.72
+              "vartist_uah": 208.52
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -332,34 +529,35 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 187.72,
+              "vartist_trudu_uah": 208.52,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 120.5,
-              "priami_vytraty_uah": 308.22,
+              "priami_vytraty_uah": 329.02,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.976,
+            "trud_lyud_god": 2.195,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "15-2-3",
-          "nazva": "Установлення змішувачів",
+          "nazva": "Установлення змішувачів при заміні",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Підготовка поверхні",
-            "Основний опоряджувальний процес",
-            "Зачищення / фініш"
+            "Установлення",
+            "Підключення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 1.978,
+              "lyud_god": 1.817,
               "seredniy_rozryad": 3.6,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 187.91
+              "vartist_uah": 172.62
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -394,108 +592,36 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 187.91,
+              "vartist_trudu_uah": 172.62,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 120.5,
-              "priami_vytraty_uah": 308.41,
+              "priami_vytraty_uah": 293.12,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 1.978,
-            "mashynisty_lyud_god": 0.0
-          }
-        }
-      ]
-    },
-    {
-      "grupa": 3,
-      "nazva": "Ремонт трубопроводів",
-      "odynytsya": "100 м",
-      "sklad_robit": [
-        "Підготовка поверхні",
-        "Основний опоряджувальний процес",
-        "Зачищення / фініш"
-      ],
-      "normy": [
-        {
-          "shifr": "15-3-1",
-          "nazva": "Заміна трубопроводів водопроводу",
-          "odynytsya": "100 м",
-          "sklad_robit": [
-            "Підготовка поверхні",
-            "Основний опоряджувальний процес",
-            "Зачищення / фініш"
-          ],
-          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
-          "resursy": {
-            "trud_robitnykiv": {
-              "lyud_god": 156.535,
-              "seredniy_rozryad": 3.6,
-              "tarif_uah_za_god": 95.0,
-              "vartist_uah": 14870.82
-            },
-            "trud_mashynistiv": {
-              "lyud_god": 0.0,
-              "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
-            },
-            "mashyny": [],
-            "materialy": [
-              {
-                "kod": "С188-1",
-                "nazva": "Суміш штукатурна",
-                "odynytsya": "кг",
-                "vytrata": 1200,
-                "tsina_za_od_uah": 8,
-                "vartist_uah": 9600
-              },
-              {
-                "kod": "С181-2",
-                "nazva": "Ґрунтовка",
-                "odynytsya": "л",
-                "vytrata": 20,
-                "tsina_za_od_uah": 85,
-                "vartist_uah": 1700
-              },
-              {
-                "kod": "С189-1",
-                "nazva": "Сітка штукатурна (за потреби)",
-                "odynytsya": "м2",
-                "vytrata": 30,
-                "tsina_za_od_uah": 25,
-                "vartist_uah": 750
-              }
-            ],
-            "pidsumky": {
-              "vartist_trudu_uah": 14870.82,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 12050,
-              "priami_vytraty_uah": 26920.82,
-              "odynytsya": "100 м",
-              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
-              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
-            },
-            "trud_lyud_god": 156.535,
+            "trud_lyud_god": 1.817,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
-          "shifr": "15-3-2",
-          "nazva": "Заміна трубопроводів каналізації",
+          "shifr": "15-2-4",
+          "nazva": "Заміна ділянок трубопроводів водопостачання ППР",
           "odynytsya": "100 м",
           "sklad_robit": [
-            "Підготовка поверхні",
-            "Основний опоряджувальний процес",
-            "Зачищення / фініш"
+            "Врізка",
+            "Монтаж",
+            "Випробування ділянки"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 151.638,
+              "lyud_god": 154.49,
               "seredniy_rozryad": 3.6,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 14405.61
+              "vartist_uah": 14676.55
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -530,19 +656,229 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 14405.61,
+              "vartist_trudu_uah": 14676.55,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 12050,
-              "priami_vytraty_uah": 26455.61,
+              "priami_vytraty_uah": 26726.55,
               "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 151.638,
+            "trud_lyud_god": 154.49,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "15-2-5",
+          "nazva": "Заміна ділянок каналізації ПВХ",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Демонтаж",
+            "Монтаж",
+            "Перевірка"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 168.423,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 16000.18
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С188-1",
+                "nazva": "Суміш штукатурна",
+                "odynytsya": "кг",
+                "vytrata": 1200,
+                "tsina_za_od_uah": 8,
+                "vartist_uah": 9600
+              },
+              {
+                "kod": "С181-2",
+                "nazva": "Ґрунтовка",
+                "odynytsya": "л",
+                "vytrata": 20,
+                "tsina_za_od_uah": 85,
+                "vartist_uah": 1700
+              },
+              {
+                "kod": "С189-1",
+                "nazva": "Сітка штукатурна (за потреби)",
+                "odynytsya": "м2",
+                "vytrata": 30,
+                "tsina_za_od_uah": 25,
+                "vartist_uah": 750
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 16000.18,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 12050,
+              "priami_vytraty_uah": 28050.18,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 168.423,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "15-2-6",
+          "nazva": "Заміна радіаторів із підключенням",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Демонтаж",
+            "Установлення",
+            "Заповнення",
+            "Перевірка"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 2.029,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 192.75
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С188-1",
+                "nazva": "Суміш штукатурна",
+                "odynytsya": "кг",
+                "vytrata": 12,
+                "tsina_za_od_uah": 8,
+                "vartist_uah": 96
+              },
+              {
+                "kod": "С181-2",
+                "nazva": "Ґрунтовка",
+                "odynytsya": "л",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 85,
+                "vartist_uah": 17.0
+              },
+              {
+                "kod": "С189-1",
+                "nazva": "Сітка штукатурна (за потреби)",
+                "odynytsya": "м2",
+                "vytrata": 0.3,
+                "tsina_za_od_uah": 25,
+                "vartist_uah": 7.5
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 192.75,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 120.5,
+              "priami_vytraty_uah": 313.25,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 2.029,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "15-2-7",
+          "nazva": "Заміна запірної арматури на стояках",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Зливання",
+            "Заміна",
+            "Заповнення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 1.905,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 180.97
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С188-1",
+                "nazva": "Суміш штукатурна",
+                "odynytsya": "кг",
+                "vytrata": 12,
+                "tsina_za_od_uah": 8,
+                "vartist_uah": 96
+              },
+              {
+                "kod": "С181-2",
+                "nazva": "Ґрунтовка",
+                "odynytsya": "л",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 85,
+                "vartist_uah": 17.0
+              },
+              {
+                "kod": "С189-1",
+                "nazva": "Сітка штукатурна (за потреби)",
+                "odynytsya": "м2",
+                "vytrata": 0.3,
+                "tsina_za_od_uah": 25,
+                "vartist_uah": 7.5
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 180.97,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 120.5,
+              "priami_vytraty_uah": 301.47,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.905,
             "mashynisty_lyud_god": 0.0
           }
         }
       ]
     }
-  ]
+  ],
+  "techastyna": {
+    "sfera_zastosuvannya": "Заміна сантехніки і трубопроводів у діючій будівлі.",
+    "zagalni_polozhennya": [
+      "Відключення стояків — за погодженням; зливання систем враховано."
+    ],
+    "pravyla_obsyagiv": [
+      "Прилади — поштучно; труби — за довжиною заміни."
+    ],
+    "koeficienty_umov": [
+      {
+        "umova": "Роботи в діючій установі без відселення",
+        "do_trudu": 1.3
+      }
+    ],
+    "vytraty_i_vidhody": []
+  },
+  "pogiyblennya": true
 }

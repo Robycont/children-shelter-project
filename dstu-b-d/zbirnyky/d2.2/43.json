@@ -17,10 +17,9 @@
       "nazva": "Судновозні колії",
       "odynytsya": "м / шт",
       "sklad_robit": [
-        "Розмітка",
-        "Установлення приладу",
-        "Підключення",
-        "Перевірка"
+        "Підготовка робочого місця",
+        "Виконання основного процесу",
+        "Прибирання"
       ],
       "normy": [
         {
@@ -28,18 +27,17 @@
           "nazva": "Улаштування рейкових шляхів стапелів",
           "odynytsya": "м / шт",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.279,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 3.279,
+              "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 406.5
+              "vartist_uah": 311.5
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -49,40 +47,24 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
-              },
-              {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 406.5,
+              "vartist_trudu_uah": 311.5,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4636.5,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 461.5,
               "odynytsya": "м / шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.279,
+            "trud_lyud_god": 3.279,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -91,18 +73,17 @@
           "nazva": "Улаштування рейкових шляхів сліпів",
           "odynytsya": "м / шт",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.336,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 3.336,
+              "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 411.92
+              "vartist_uah": 316.92
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -112,40 +93,24 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
-              },
-              {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 411.92,
+              "vartist_trudu_uah": 316.92,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4641.92,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 466.92,
               "odynytsya": "м / шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.336,
+            "trud_lyud_god": 3.336,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -237,16 +202,16 @@
               {
                 "kod": "С230-m",
                 "nazva": "Кран / такелаж",
-                "mash_god": 1.5,
+                "mash_god": 0.643,
                 "tsina_mash_god_uah": 1600,
-                "vartist_uah": 2400.0
+                "vartist_uah": 1028.8
               },
               {
                 "kod": "С213-1",
                 "nazva": "Зварювальне / електромонтажне обладнання",
-                "mash_god": 2.0,
+                "mash_god": 0.857,
                 "tsina_mash_god_uah": 80,
-                "vartist_uah": 160.0
+                "vartist_uah": 68.56
               }
             ],
             "materialy": [
@@ -269,9 +234,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 1149.87,
-              "vartist_mashyn_uah": 2560.0,
+              "vartist_mashyn_uah": 1097.36,
               "vartist_materialiv_uah": 2000.0,
-              "priami_vytraty_uah": 5709.87,
+              "priami_vytraty_uah": 4247.23,
               "odynytsya": "шт / т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -308,16 +273,16 @@
               {
                 "kod": "С230-m",
                 "nazva": "Кран / такелаж",
-                "mash_god": 1.5,
+                "mash_god": 0.643,
                 "tsina_mash_god_uah": 1600,
-                "vartist_uah": 2400.0
+                "vartist_uah": 1028.8
               },
               {
                 "kod": "С213-1",
                 "nazva": "Зварювальне / електромонтажне обладнання",
-                "mash_god": 2.0,
+                "mash_god": 0.857,
                 "tsina_mash_god_uah": 80,
-                "vartist_uah": 160.0
+                "vartist_uah": 68.56
               }
             ],
             "materialy": [
@@ -340,9 +305,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 1220.16,
-              "vartist_mashyn_uah": 2560.0,
+              "vartist_mashyn_uah": 1097.36,
               "vartist_materialiv_uah": 2000.0,
-              "priami_vytraty_uah": 5780.16,
+              "priami_vytraty_uah": 4317.52,
               "odynytsya": "шт / т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"

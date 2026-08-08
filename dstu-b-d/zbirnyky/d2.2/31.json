@@ -34,23 +34,23 @@
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 10.312,
+              "lyud_god": 13.564,
               "seredniy_rozryad": 2.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 979.64
+              "vartist_uah": 1288.58
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.5,
+              "lyud_god": 21.564,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 55.0
+              "vartist_uah": 2372.04
             },
             "mashyny": [
               {
                 "kod": "С201-2",
                 "nazva": "Бульдозер / трамбівка",
-                "mash_god": 0.5,
+                "mash_god": 21.564,
                 "tsina_mash_god_uah": 600,
-                "vartist_uah": 300.0
+                "vartist_uah": 12938.4
               }
             ],
             "materialy": [
@@ -58,30 +58,30 @@
                 "kod": "С300-1",
                 "nazva": "Пальне дизельне (орієнтовно)",
                 "odynytsya": "л",
-                "vytrata": 4.25,
+                "vytrata": 183.29,
                 "tsina_za_od_uah": 55,
-                "vartist_uah": 233.75
+                "vartist_uah": 10080.95
               },
               {
                 "kod": "С300-2",
                 "nazva": "Мастильні матеріали",
                 "odynytsya": "кг",
-                "vytrata": 0.2125,
+                "vytrata": 9.1647,
                 "tsina_za_od_uah": 120,
-                "vartist_uah": 25.5
+                "vartist_uah": 1099.76
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 1034.64,
-              "vartist_mashyn_uah": 300.0,
-              "vartist_materialiv_uah": 259.25,
-              "priami_vytraty_uah": 1593.89,
+              "vartist_trudu_uah": 3660.62,
+              "vartist_mashyn_uah": 12938.4,
+              "vartist_materialiv_uah": 11180.71,
+              "priami_vytraty_uah": 27779.73,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 10.312,
-            "mashynisty_lyud_god": 0.5
+            "trud_lyud_god": 13.564,
+            "mashynisty_lyud_god": 21.564
           }
         },
         {
@@ -89,18 +89,17 @@
           "nazva": "Улаштування земляного полотна ЗПС",
           "odynytsya": "1000 м3",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.657,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 10.895,
+              "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 347.42
+              "vartist_uah": 1035.02
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -110,40 +109,24 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
-              },
-              {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 347.42,
+              "vartist_trudu_uah": 1035.02,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4577.42,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 1185.02,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.657,
+            "trud_lyud_god": 10.895,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -152,18 +135,17 @@
           "nazva": "Улаштування дренажу аеродрому",
           "odynytsya": "1000 м3",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.387,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 15.875,
+              "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 416.76
+              "vartist_uah": 1508.12
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -173,40 +155,24 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
-              },
-              {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 416.76,
+              "vartist_trudu_uah": 1508.12,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4646.76,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 1658.12,
               "odynytsya": "1000 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.387,
+            "trud_lyud_god": 15.875,
             "mashynisty_lyud_god": 0.0
           }
         }
@@ -217,10 +183,9 @@
       "nazva": "Штучні покриття",
       "odynytsya": "1000 м2",
       "sklad_robit": [
-        "Розмітка",
-        "Установлення приладу",
-        "Підключення",
-        "Перевірка"
+        "Підготовка робочого місця",
+        "Виконання основного процесу",
+        "Прибирання"
       ],
       "normy": [
         {
@@ -228,18 +193,17 @@
           "nazva": "Улаштування бетонного покриття ЗПС",
           "odynytsya": "1000 м2",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.534,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 17.569,
+              "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 335.73
+              "vartist_uah": 1669.05
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -249,40 +213,24 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
-              },
-              {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 335.73,
+              "vartist_trudu_uah": 1669.05,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4565.73,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 1819.05,
               "odynytsya": "1000 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.534,
+            "trud_lyud_god": 17.569,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -291,62 +239,60 @@
           "nazva": "Улаштування асфальтобетонного покриття руліжних доріжок",
           "odynytsya": "1000 м2",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Підготовка основи",
+            "Улаштування покриття / посадка",
+            "Ущільнення / полив"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.042,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 63.126,
+              "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 383.99
+              "vartist_uah": 5996.97
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 7.522,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 827.42
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С220-m",
+                "nazva": "Коток / віброплита",
+                "mash_god": 4.299,
+                "tsina_mash_god_uah": 500,
+                "vartist_uah": 2149.5
+              },
+              {
+                "kod": "С221-m",
+                "nazva": "Автосамоскид",
+                "mash_god": 3.224,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 2256.8
+              }
+            ],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
-              },
-              {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "kod": "С233-1",
+                "nazva": "Щебінь / відсів / асфальтобетон / плитка",
+                "odynytsya": "м3",
+                "vytrata": 0.15,
+                "tsina_za_od_uah": 1800,
+                "vartist_uah": 270.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 383.99,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4613.99,
+              "vartist_trudu_uah": 6824.39,
+              "vartist_mashyn_uah": 4406.3,
+              "vartist_materialiv_uah": 270.0,
+              "priami_vytraty_uah": 11500.69,
               "odynytsya": "1000 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.042,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 63.126,
+            "mashynisty_lyud_god": 7.522
           }
         },
         {
@@ -354,18 +300,17 @@
           "nazva": "Улаштування перонів",
           "odynytsya": "1000 м2",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.338,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 20.682,
+              "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 412.11
+              "vartist_uah": 1964.79
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -375,40 +320,24 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
-              },
-              {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 412.11,
+              "vartist_trudu_uah": 1964.79,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4642.11,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 2114.79,
               "odynytsya": "1000 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.338,
+            "trud_lyud_god": 20.682,
             "mashynisty_lyud_god": 0.0
           }
         }
@@ -419,10 +348,9 @@
       "nazva": "Аеродромна інфраструктура",
       "odynytsya": "компл",
       "sklad_robit": [
-        "Розмітка",
-        "Установлення приладу",
-        "Підключення",
-        "Перевірка"
+        "Підготовка робочого місця",
+        "Виконання основного процесу",
+        "Прибирання"
       ],
       "normy": [
         {
@@ -430,18 +358,17 @@
           "nazva": "Улаштування світлосигнального обладнання",
           "odynytsya": "компл",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.179,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 3.179,
+              "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 397.01
+              "vartist_uah": 302.0
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -451,40 +378,24 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
-              },
-              {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 397.01,
+              "vartist_trudu_uah": 302.0,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4627.01,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 452.0,
               "odynytsya": "компл",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.179,
+            "trud_lyud_god": 3.179,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -493,18 +404,17 @@
           "nazva": "Маркування покриттів",
           "odynytsya": "компл",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.617,
-              "seredniy_rozryad": 4.0,
+              "lyud_god": 2.617,
+              "seredniy_rozryad": 3.2,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 343.62
+              "vartist_uah": 248.62
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -514,40 +424,24 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
-              },
-              {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 343.62,
+              "vartist_trudu_uah": 248.62,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4573.62,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 398.62,
               "odynytsya": "компл",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.617,
+            "trud_lyud_god": 2.617,
             "mashynisty_lyud_god": 0.0
           }
         }

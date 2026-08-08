@@ -12,6 +12,8 @@ from enrich_thin import apply_extra
 from resources import fill_zbirnyk
 from deepen_priority import deepen_all
 from deepen_priority2 import deepen_all_2
+from deepen_d24 import deepen_d24
+from deepen_d23 import deepen_d23
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOGS = ROOT / "catalogs"
@@ -1790,9 +1792,9 @@ def write_readme() -> None:
 
 Каталог ресурсних елементних кошторисних норм (РЕКН) для проєкту **children-shelter-project**.
 
-Усі **106** збірників Д.2.2–Д.2.4 містять роботи та ресурсні витрати (**~1055** норм).
+Усі **106** збірників Д.2.2–Д.2.4 містять роботи та калібровані ресурсні витрати (**~1145** норм).
 
-**Поглиблено 20 збірників** (техчастина, варіанти норм, склад робіт, коефіцієнти): 1, 6, 7, 8, 9, 10, 11, 12, 15, 16, 17, 18, 20, 21, 22, 23, 26, 27, 46, 47.
+**Поглиблено 44 збірники**: Д.2.2 — 20 (1, 6–12, 15–18, 20–23, 26, 27, 46, 47), Д.2.4 — 18 (ремонт у діючій установі), Д.2.3 — 6 (інженерне обладнання).
 
 Шаблон локального кошторису: [`koshtorys-prytulok.md`](koshtorys-prytulok.md), `exports/lokalnyy-koshtorys-prytulok.csv`.
 
@@ -1809,11 +1811,12 @@ def write_readme() -> None:
 | `exports/resources-detail*.csv` | Розклад труда/машин/матеріалів |
 | `exports/lokalnyy-koshtorys-prytulok.csv` | Укрупнений локальний кошторис |
 | `exports/vidomist-resursiv-prytulok.csv` | Зведена відомість ресурсів |
+| `exports/zvedenyy-koshtorys-prytulok.md` | ЗКР по главах 1–12 |
 | `koshtorys-prytulok.md` | Інструкція до кошторису |
 
 ## Шифр норми
 
-Формат: `збірник-група-норма` (наприклад `8-22-1`).
+Формат: `збірник-група-норма` (наприклад `8-22-1`); повний шифр з маркою: `ЕД8-22-1`, `М38-3-1`, `Р12-2-1`.
 
 Марки: **ЕД** (Д.2.2), **М** (Д.2.3), **Р** (Д.2.4), **В** (Д.2.5), **ПН** (Д.2.6), **С2** (Д.2.7).
 
@@ -1943,6 +1946,7 @@ def main() -> None:
         else:
             z = stub_zbirnyk("Д.2.3", n, name, "М")
         z = apply_extra(z, "Д.2.3")
+        z = deepen_d23(z)
         z = fill_zbirnyk(z)
         dump_json(ZBIRNYKY_D23 / f"{n:02d}.json", z)
         all_rows.extend(flatten_norms(z))
@@ -1956,6 +1960,7 @@ def main() -> None:
         else:
             z = stub_zbirnyk("Д.2.4", n, name, "Р")
         z = apply_extra(z, "Д.2.4")
+        z = deepen_d24(z)
         z = fill_zbirnyk(z)
         dump_json(ZBIRNYKY_D24 / f"{n:02d}.json", z)
         all_rows.extend(flatten_norms(z))
@@ -2084,6 +2089,10 @@ def main() -> None:
             "trud": vid["trud"],
             **vid["pidsumky"],
         }
+        from zvedenyy_koshtorys import build_zkr, write_zkr_files
+        zkr = build_zkr(est, load_norm_index())
+        write_zkr_files(zkr)
+        summary["zvedenyy_koshtorys"] = zkr["pidsumky"]
         summary["lokalnyy_koshtorys_prytulok"] = est["pidsumky"]
         summary["pogiybleni_zbirnyky_d22"] = sorted(
             int(p.stem) for p in ZBIRNYKY_D22.glob("*.json")

@@ -37,54 +37,54 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 62.471,
-              "seredniy_rozryad": 3.5,
+              "lyud_god": 209.885,
+              "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 5934.74
+              "vartist_uah": 19939.08
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.15,
+              "lyud_god": 52.471,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 16.5
+              "vartist_uah": 5771.81
             },
             "mashyny": [
               {
-                "kod": "С212-1",
-                "nazva": "Підйомник / кран (подача матеріалів)",
-                "mash_god": 0.15,
-                "tsina_mash_god_uah": 900,
-                "vartist_uah": 135.0
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16 т",
+                "mash_god": 52.4712,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 78706.82
               }
             ],
             "materialy": [
               {
-                "kod": "С137-1",
-                "nazva": "Цегла керамічна",
+                "kod": "С122-1",
+                "nazva": "Блоки/подушки збірні (за специфікацією)",
                 "odynytsya": "шт",
-                "vytrata": 5100,
-                "tsina_za_od_uah": 12,
-                "vartist_uah": 61200
+                "vytrata": 100,
+                "tsina_za_od_uah": 1800,
+                "vartist_uah": 180000
               },
               {
                 "kod": "С135-1",
                 "nazva": "Розчин мурувальний",
                 "odynytsya": "м3",
-                "vytrata": 2.4,
+                "vytrata": 4.5,
                 "tsina_za_od_uah": 2200,
-                "vartist_uah": 5280.0
+                "vartist_uah": 9900.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 5951.24,
-              "vartist_mashyn_uah": 135.0,
-              "vartist_materialiv_uah": 66480.0,
-              "priami_vytraty_uah": 72566.24,
+              "vartist_trudu_uah": 25710.89,
+              "vartist_mashyn_uah": 78706.82,
+              "vartist_materialiv_uah": 189900.0,
+              "priami_vytraty_uah": 294317.71,
               "odynytsya": "100 шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 62.471,
-            "mashynisty_lyud_god": 0.15
+            "trud_lyud_god": 209.885,
+            "mashynisty_lyud_god": 52.471
           }
         },
         {
@@ -101,54 +101,54 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 61.387,
-              "seredniy_rozryad": 3.5,
+              "lyud_god": 205.546,
+              "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 5831.77
+              "vartist_uah": 19526.87
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.15,
+              "lyud_god": 51.387,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 16.5
+              "vartist_uah": 5652.57
             },
             "mashyny": [
               {
-                "kod": "С212-1",
-                "nazva": "Підйомник / кран (подача матеріалів)",
-                "mash_god": 0.15,
-                "tsina_mash_god_uah": 900,
-                "vartist_uah": 135.0
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16 т",
+                "mash_god": 51.3866,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 77079.94
               }
             ],
             "materialy": [
               {
-                "kod": "С137-1",
-                "nazva": "Цегла керамічна",
+                "kod": "С122-1",
+                "nazva": "Блоки/подушки збірні (за специфікацією)",
                 "odynytsya": "шт",
-                "vytrata": 5100,
-                "tsina_za_od_uah": 12,
-                "vartist_uah": 61200
+                "vytrata": 100,
+                "tsina_za_od_uah": 1800,
+                "vartist_uah": 180000
               },
               {
                 "kod": "С135-1",
                 "nazva": "Розчин мурувальний",
                 "odynytsya": "м3",
-                "vytrata": 2.4,
+                "vytrata": 4.5,
                 "tsina_za_od_uah": 2200,
-                "vartist_uah": 5280.0
+                "vartist_uah": 9900.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 5848.27,
-              "vartist_mashyn_uah": 135.0,
-              "vartist_materialiv_uah": 66480.0,
-              "priami_vytraty_uah": 72463.27,
+              "vartist_trudu_uah": 25179.44,
+              "vartist_mashyn_uah": 77079.94,
+              "vartist_materialiv_uah": 189900.0,
+              "priami_vytraty_uah": 292159.38,
               "odynytsya": "100 шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 61.387,
-            "mashynisty_lyud_god": 0.15
+            "trud_lyud_god": 205.546,
+            "mashynisty_lyud_god": 51.387
           }
         },
         {
@@ -165,54 +165,54 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 55.002,
-              "seredniy_rozryad": 3.5,
+              "lyud_god": 180.007,
+              "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 5225.19
+              "vartist_uah": 17100.67
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.15,
+              "lyud_god": 45.002,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 16.5
+              "vartist_uah": 4950.22
             },
             "mashyny": [
               {
-                "kod": "С212-1",
-                "nazva": "Підйомник / кран (подача матеріалів)",
-                "mash_god": 0.15,
-                "tsina_mash_god_uah": 900,
-                "vartist_uah": 135.0
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16 т",
+                "mash_god": 45.0019,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 67502.79
               }
             ],
             "materialy": [
               {
-                "kod": "С137-1",
-                "nazva": "Цегла керамічна",
+                "kod": "С122-1",
+                "nazva": "Блоки/подушки збірні (за специфікацією)",
                 "odynytsya": "шт",
-                "vytrata": 5100,
-                "tsina_za_od_uah": 12,
-                "vartist_uah": 61200
+                "vytrata": 100,
+                "tsina_za_od_uah": 1800,
+                "vartist_uah": 180000
               },
               {
                 "kod": "С135-1",
                 "nazva": "Розчин мурувальний",
                 "odynytsya": "м3",
-                "vytrata": 2.4,
+                "vytrata": 4.5,
                 "tsina_za_od_uah": 2200,
-                "vartist_uah": 5280.0
+                "vartist_uah": 9900.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 5241.69,
-              "vartist_mashyn_uah": 135.0,
-              "vartist_materialiv_uah": 66480.0,
-              "priami_vytraty_uah": 71856.69,
+              "vartist_trudu_uah": 22050.89,
+              "vartist_mashyn_uah": 67502.79,
+              "vartist_materialiv_uah": 189900.0,
+              "priami_vytraty_uah": 279453.68,
               "odynytsya": "100 шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 55.002,
-            "mashynisty_lyud_god": 0.15
+            "trud_lyud_god": 180.007,
+            "mashynisty_lyud_god": 45.002
           }
         },
         {
@@ -229,54 +229,54 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 58.752,
-              "seredniy_rozryad": 3.5,
+              "lyud_god": 195.006,
+              "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 5581.44
+              "vartist_uah": 18525.57
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.15,
+              "lyud_god": 48.752,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 16.5
+              "vartist_uah": 5362.72
             },
             "mashyny": [
               {
-                "kod": "С212-1",
-                "nazva": "Підйомник / кран (подача матеріалів)",
-                "mash_god": 0.15,
-                "tsina_mash_god_uah": 900,
-                "vartist_uah": 135.0
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16 т",
+                "mash_god": 48.7515,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 73127.28
               }
             ],
             "materialy": [
               {
-                "kod": "С137-1",
-                "nazva": "Цегла керамічна",
+                "kod": "С122-1",
+                "nazva": "Блоки/подушки збірні (за специфікацією)",
                 "odynytsya": "шт",
-                "vytrata": 5100,
-                "tsina_za_od_uah": 12,
-                "vartist_uah": 61200
+                "vytrata": 100,
+                "tsina_za_od_uah": 1800,
+                "vartist_uah": 180000
               },
               {
                 "kod": "С135-1",
                 "nazva": "Розчин мурувальний",
                 "odynytsya": "м3",
-                "vytrata": 2.4,
+                "vytrata": 4.5,
                 "tsina_za_od_uah": 2200,
-                "vartist_uah": 5280.0
+                "vartist_uah": 9900.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 5597.94,
-              "vartist_mashyn_uah": 135.0,
-              "vartist_materialiv_uah": 66480.0,
-              "priami_vytraty_uah": 72212.94,
+              "vartist_trudu_uah": 23888.29,
+              "vartist_mashyn_uah": 73127.28,
+              "vartist_materialiv_uah": 189900.0,
+              "priami_vytraty_uah": 286915.57,
               "odynytsya": "100 шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 58.752,
-            "mashynisty_lyud_god": 0.15
+            "trud_lyud_god": 195.006,
+            "mashynisty_lyud_god": 48.752
           }
         },
         {
@@ -293,10 +293,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 8.054,
+              "lyud_god": 80.54,
               "seredniy_rozryad": 3.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 765.13
+              "vartist_uah": 7651.3
             },
             "trud_mashynistiv": {
               "lyud_god": 0.6,
@@ -307,16 +307,16 @@
               {
                 "kod": "С210-1",
                 "nazva": "Кран / бетононасос",
-                "mash_god": 0.6,
+                "mash_god": 0.257,
                 "tsina_mash_god_uah": 1500,
-                "vartist_uah": 900.0
+                "vartist_uah": 385.5
               },
               {
                 "kod": "С211-1",
                 "nazva": "Вібратор глибинний",
-                "mash_god": 0.8,
+                "mash_god": 0.343,
                 "tsina_mash_god_uah": 120,
-                "vartist_uah": 96.0
+                "vartist_uah": 41.16
               }
             ],
             "materialy": [
@@ -338,15 +338,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 831.13,
-              "vartist_mashyn_uah": 996.0,
+              "vartist_trudu_uah": 7717.3,
+              "vartist_mashyn_uah": 426.66,
               "vartist_materialiv_uah": 3272.0,
-              "priami_vytraty_uah": 5099.13,
+              "priami_vytraty_uah": 11415.96,
               "odynytsya": "100 шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 8.054,
+            "trud_lyud_god": 80.54,
             "mashynisty_lyud_god": 0.6
           }
         },
@@ -364,10 +364,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 7.345,
+              "lyud_god": 29.367,
               "seredniy_rozryad": 3.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 697.77
+              "vartist_uah": 2789.87
             },
             "trud_mashynistiv": {
               "lyud_god": 0.6,
@@ -378,16 +378,16 @@
               {
                 "kod": "С210-1",
                 "nazva": "Кран / бетононасос",
-                "mash_god": 0.6,
+                "mash_god": 0.257,
                 "tsina_mash_god_uah": 1500,
-                "vartist_uah": 900.0
+                "vartist_uah": 385.5
               },
               {
                 "kod": "С211-1",
                 "nazva": "Вібратор глибинний",
-                "mash_god": 0.8,
+                "mash_god": 0.343,
                 "tsina_mash_god_uah": 120,
-                "vartist_uah": 96.0
+                "vartist_uah": 41.16
               }
             ],
             "materialy": [
@@ -409,15 +409,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 763.77,
-              "vartist_mashyn_uah": 996.0,
+              "vartist_trudu_uah": 2855.87,
+              "vartist_mashyn_uah": 426.66,
               "vartist_materialiv_uah": 3272.0,
-              "priami_vytraty_uah": 5031.77,
+              "priami_vytraty_uah": 6554.53,
               "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 7.345,
+            "trud_lyud_god": 29.367,
             "mashynisty_lyud_god": 0.6
           }
         }
@@ -452,38 +452,54 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.323,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 7.645,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 315.69
+              "vartist_uah": 726.27
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 1.2,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 132.0
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16 т",
+                "mash_god": 1.2,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 1800.0
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
+                "kod": "С123-1",
+                "nazva": "Елемент збірний (за специфікацією)",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 9000,
+                "vartist_uah": 9000.0
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин / зварювальні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 350.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 315.69,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 465.69,
+              "vartist_trudu_uah": 858.27,
+              "vartist_mashyn_uah": 1800.0,
+              "vartist_materialiv_uah": 9350.0,
+              "priami_vytraty_uah": 12008.27,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.323,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 7.645,
+            "mashynisty_lyud_god": 1.2
           }
         },
         {
@@ -501,38 +517,54 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.376,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 7.752,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 320.72
+              "vartist_uah": 736.44
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 1.2,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 132.0
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16 т",
+                "mash_god": 1.2,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 1800.0
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
+                "kod": "С123-1",
+                "nazva": "Елемент збірний (за специфікацією)",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 9000,
+                "vartist_uah": 9000.0
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин / зварювальні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 350.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 320.72,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 470.72,
+              "vartist_trudu_uah": 868.44,
+              "vartist_mashyn_uah": 1800.0,
+              "vartist_materialiv_uah": 9350.0,
+              "priami_vytraty_uah": 12018.44,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.376,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 7.752,
+            "mashynisty_lyud_god": 1.2
           }
         },
         {
@@ -550,38 +582,54 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 2.785,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 6.571,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 264.57
+              "vartist_uah": 624.25
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 1.2,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 132.0
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16 т",
+                "mash_god": 1.2,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 1800.0
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
+                "kod": "С123-1",
+                "nazva": "Елемент збірний (за специфікацією)",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 9000,
+                "vartist_uah": 9000.0
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин / зварювальні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 350.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 264.57,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 414.57,
+              "vartist_trudu_uah": 756.25,
+              "vartist_mashyn_uah": 1800.0,
+              "vartist_materialiv_uah": 9350.0,
+              "priami_vytraty_uah": 11906.25,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 2.785,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 6.571,
+            "mashynisty_lyud_god": 1.2
           }
         },
         {
@@ -598,38 +646,54 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.005,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 7.009,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 285.47
+              "vartist_uah": 665.86
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 1.2,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 132.0
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16 т",
+                "mash_god": 1.2,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 1800.0
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
+                "kod": "С123-1",
+                "nazva": "Елемент збірний (за специфікацією)",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 9000,
+                "vartist_uah": 9000.0
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин / зварювальні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 350.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 285.47,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 435.47,
+              "vartist_trudu_uah": 797.86,
+              "vartist_mashyn_uah": 1800.0,
+              "vartist_materialiv_uah": 9350.0,
+              "priami_vytraty_uah": 11947.86,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.005,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 7.009,
+            "mashynisty_lyud_god": 1.2
           }
         }
       ]
@@ -661,38 +725,62 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 2.538,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 90.758,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 241.11
+              "vartist_uah": 8622.01
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 14.114,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 1552.54
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16–25 т",
+                "mash_god": 14.1137,
+                "tsina_mash_god_uah": 1600,
+                "vartist_uah": 22582.0
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "kod": "С124-1",
+                "nazva": "Плити/панелі збірні (за специфікацією)",
+                "odynytsya": "м2",
+                "vytrata": 100,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 150000
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин для швів",
+                "odynytsya": "м3",
+                "vytrata": 1.2,
+                "tsina_za_od_uah": 2200,
+                "vartist_uah": 2640.0
+              },
+              {
+                "kod": "С141-1",
+                "nazva": "Електроди",
+                "odynytsya": "кг",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 360.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 241.11,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 391.11,
+              "vartist_trudu_uah": 10174.55,
+              "vartist_mashyn_uah": 22582.0,
+              "vartist_materialiv_uah": 153000.0,
+              "priami_vytraty_uah": 185756.55,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 2.538,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 90.758,
+            "mashynisty_lyud_god": 14.114
           }
         },
         {
@@ -710,38 +798,62 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.051,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 101.024,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 289.85
+              "vartist_uah": 9597.28
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 15.654,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 1721.94
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16–25 т",
+                "mash_god": 15.6536,
+                "tsina_mash_god_uah": 1600,
+                "vartist_uah": 25045.76
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "kod": "С124-1",
+                "nazva": "Плити/панелі збірні (за специфікацією)",
+                "odynytsya": "м2",
+                "vytrata": 100,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 150000
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин для швів",
+                "odynytsya": "м3",
+                "vytrata": 1.2,
+                "tsina_za_od_uah": 2200,
+                "vartist_uah": 2640.0
+              },
+              {
+                "kod": "С141-1",
+                "nazva": "Електроди",
+                "odynytsya": "кг",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 360.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 289.85,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 439.85,
+              "vartist_trudu_uah": 11319.22,
+              "vartist_mashyn_uah": 25045.76,
+              "vartist_materialiv_uah": 153000.0,
+              "priami_vytraty_uah": 189364.98,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.051,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 101.024,
+            "mashynisty_lyud_god": 15.654
           }
         },
         {
@@ -758,38 +870,62 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.31,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 106.204,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 314.45
+              "vartist_uah": 10089.38
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 16.431,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 1807.41
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16–25 т",
+                "mash_god": 16.4307,
+                "tsina_mash_god_uah": 1600,
+                "vartist_uah": 26289.05
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "kod": "С124-1",
+                "nazva": "Плити/панелі збірні (за специфікацією)",
+                "odynytsya": "м2",
+                "vytrata": 100,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 150000
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин для швів",
+                "odynytsya": "м3",
+                "vytrata": 1.2,
+                "tsina_za_od_uah": 2200,
+                "vartist_uah": 2640.0
+              },
+              {
+                "kod": "С141-1",
+                "nazva": "Електроди",
+                "odynytsya": "кг",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 360.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 314.45,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 464.45,
+              "vartist_trudu_uah": 11896.79,
+              "vartist_mashyn_uah": 26289.05,
+              "vartist_materialiv_uah": 153000.0,
+              "priami_vytraty_uah": 191185.84,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.31,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 106.204,
+            "mashynisty_lyud_god": 16.431
           }
         },
         {
@@ -805,10 +941,10 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 8.46,
+              "lyud_god": 23.926,
               "seredniy_rozryad": 3.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 803.7
+              "vartist_uah": 2272.97
             },
             "trud_mashynistiv": {
               "lyud_god": 0.6,
@@ -819,16 +955,16 @@
               {
                 "kod": "С210-1",
                 "nazva": "Кран / бетононасос",
-                "mash_god": 0.6,
+                "mash_god": 0.257,
                 "tsina_mash_god_uah": 1500,
-                "vartist_uah": 900.0
+                "vartist_uah": 385.5
               },
               {
                 "kod": "С211-1",
                 "nazva": "Вібратор глибинний",
-                "mash_god": 0.8,
+                "mash_god": 0.343,
                 "tsina_mash_god_uah": 120,
-                "vartist_uah": 96.0
+                "vartist_uah": 41.16
               }
             ],
             "materialy": [
@@ -850,15 +986,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 869.7,
-              "vartist_mashyn_uah": 996.0,
+              "vartist_trudu_uah": 2338.97,
+              "vartist_mashyn_uah": 426.66,
               "vartist_materialiv_uah": 3272.0,
-              "priami_vytraty_uah": 5137.7,
+              "priami_vytraty_uah": 6037.63,
               "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 8.46,
+            "trud_lyud_god": 23.926,
             "mashynisty_lyud_god": 0.6
           }
         },
@@ -875,38 +1011,54 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 2.84,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 193.581,
+              "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 269.8
+              "vartist_uah": 18390.19
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 48.395,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 5323.45
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16 т",
+                "mash_god": 48.3952,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 72592.76
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "kod": "С122-1",
+                "nazva": "Блоки/подушки збірні (за специфікацією)",
+                "odynytsya": "шт",
+                "vytrata": 100,
+                "tsina_za_od_uah": 1800,
+                "vartist_uah": 180000
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин мурувальний",
+                "odynytsya": "м3",
+                "vytrata": 4.5,
+                "tsina_za_od_uah": 2200,
+                "vartist_uah": 9900.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 269.8,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 419.8,
+              "vartist_trudu_uah": 23713.65,
+              "vartist_mashyn_uah": 72592.76,
+              "vartist_materialiv_uah": 189900.0,
+              "priami_vytraty_uah": 286206.41,
               "odynytsya": "100 шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 2.84,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 193.581,
+            "mashynisty_lyud_god": 48.395
           }
         }
       ]
@@ -940,38 +1092,62 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 2.955,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 99.091,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 280.73
+              "vartist_uah": 9413.64
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 15.364,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 1690.04
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16–25 т",
+                "mash_god": 15.3637,
+                "tsina_mash_god_uah": 1600,
+                "vartist_uah": 24581.95
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "kod": "С124-1",
+                "nazva": "Плити/панелі збірні (за специфікацією)",
+                "odynytsya": "м2",
+                "vytrata": 100,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 150000
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин для швів",
+                "odynytsya": "м3",
+                "vytrata": 1.2,
+                "tsina_za_od_uah": 2200,
+                "vartist_uah": 2640.0
+              },
+              {
+                "kod": "С141-1",
+                "nazva": "Електроди",
+                "odynytsya": "кг",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 360.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 280.73,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 430.73,
+              "vartist_trudu_uah": 11103.68,
+              "vartist_mashyn_uah": 24581.95,
+              "vartist_materialiv_uah": 153000.0,
+              "priami_vytraty_uah": 188685.63,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 2.955,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 99.091,
+            "mashynisty_lyud_god": 15.364
           }
         },
         {
@@ -988,38 +1164,62 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 2.903,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 98.066,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 275.79
+              "vartist_uah": 9316.27
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 15.21,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 1673.1
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16–25 т",
+                "mash_god": 15.2099,
+                "tsina_mash_god_uah": 1600,
+                "vartist_uah": 24335.87
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "kod": "С124-1",
+                "nazva": "Плити/панелі збірні (за специфікацією)",
+                "odynytsya": "м2",
+                "vytrata": 100,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 150000
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин для швів",
+                "odynytsya": "м3",
+                "vytrata": 1.2,
+                "tsina_za_od_uah": 2200,
+                "vartist_uah": 2640.0
+              },
+              {
+                "kod": "С141-1",
+                "nazva": "Електроди",
+                "odynytsya": "кг",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 360.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 275.79,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 425.79,
+              "vartist_trudu_uah": 10989.37,
+              "vartist_mashyn_uah": 24335.87,
+              "vartist_materialiv_uah": 153000.0,
+              "priami_vytraty_uah": 188325.24,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 2.903,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 98.066,
+            "mashynisty_lyud_god": 15.21
           }
         },
         {
@@ -1036,38 +1236,62 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 2.869,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 97.382,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 272.56
+              "vartist_uah": 9251.29
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 15.107,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 1661.77
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16–25 т",
+                "mash_god": 15.1072,
+                "tsina_mash_god_uah": 1600,
+                "vartist_uah": 24171.57
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "kod": "С124-1",
+                "nazva": "Плити/панелі збірні (за специфікацією)",
+                "odynytsya": "м2",
+                "vytrata": 100,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 150000
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин для швів",
+                "odynytsya": "м3",
+                "vytrata": 1.2,
+                "tsina_za_od_uah": 2200,
+                "vartist_uah": 2640.0
+              },
+              {
+                "kod": "С141-1",
+                "nazva": "Електроди",
+                "odynytsya": "кг",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 360.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 272.56,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 422.56,
+              "vartist_trudu_uah": 10913.06,
+              "vartist_mashyn_uah": 24171.57,
+              "vartist_materialiv_uah": 153000.0,
+              "priami_vytraty_uah": 188084.63,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 2.869,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 97.382,
+            "mashynisty_lyud_god": 15.107
           }
         },
         {
@@ -1083,54 +1307,62 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 56.708,
-              "seredniy_rozryad": 3.5,
+              "lyud_god": 93.416,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 5387.26
+              "vartist_uah": 8874.52
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.15,
+              "lyud_god": 14.512,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 16.5
+              "vartist_uah": 1596.32
             },
             "mashyny": [
               {
-                "kod": "С212-1",
-                "nazva": "Підйомник / кран (подача матеріалів)",
-                "mash_god": 0.15,
-                "tsina_mash_god_uah": 900,
-                "vartist_uah": 135.0
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16–25 т",
+                "mash_god": 14.5124,
+                "tsina_mash_god_uah": 1600,
+                "vartist_uah": 23219.85
               }
             ],
             "materialy": [
               {
-                "kod": "С137-1",
-                "nazva": "Цегла керамічна",
-                "odynytsya": "шт",
-                "vytrata": 5100,
-                "tsina_za_od_uah": 12,
-                "vartist_uah": 61200
+                "kod": "С124-1",
+                "nazva": "Плити/панелі збірні (за специфікацією)",
+                "odynytsya": "м2",
+                "vytrata": 100,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 150000
               },
               {
                 "kod": "С135-1",
-                "nazva": "Розчин мурувальний",
+                "nazva": "Розчин для швів",
                 "odynytsya": "м3",
-                "vytrata": 2.4,
+                "vytrata": 1.2,
                 "tsina_za_od_uah": 2200,
-                "vartist_uah": 5280.0
+                "vartist_uah": 2640.0
+              },
+              {
+                "kod": "С141-1",
+                "nazva": "Електроди",
+                "odynytsya": "кг",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 360.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 5403.76,
-              "vartist_mashyn_uah": 135.0,
-              "vartist_materialiv_uah": 66480.0,
-              "priami_vytraty_uah": 72018.76,
+              "vartist_trudu_uah": 10470.84,
+              "vartist_mashyn_uah": 23219.85,
+              "vartist_materialiv_uah": 153000.0,
+              "priami_vytraty_uah": 186690.69,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 56.708,
-            "mashynisty_lyud_god": 0.15
+            "trud_lyud_god": 93.416,
+            "mashynisty_lyud_god": 14.512
           }
         }
       ]
@@ -1160,38 +1392,54 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.182,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 7.364,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 302.29
+              "vartist_uah": 699.58
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 1.2,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 132.0
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16 т",
+                "mash_god": 1.2,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 1800.0
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
+                "kod": "С123-1",
+                "nazva": "Елемент збірний (за специфікацією)",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 9000,
+                "vartist_uah": 9000.0
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин / зварювальні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 350.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 302.29,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 452.29,
+              "vartist_trudu_uah": 831.58,
+              "vartist_mashyn_uah": 1800.0,
+              "vartist_materialiv_uah": 9350.0,
+              "priami_vytraty_uah": 11981.58,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.182,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 7.364,
+            "mashynisty_lyud_god": 1.2
           }
         },
         {
@@ -1208,38 +1456,54 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.291,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 7.582,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 312.64
+              "vartist_uah": 720.29
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 1.2,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 132.0
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16 т",
+                "mash_god": 1.2,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 1800.0
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
+                "kod": "С123-1",
+                "nazva": "Елемент збірний (за специфікацією)",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 9000,
+                "vartist_uah": 9000.0
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин / зварювальні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 350.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 312.64,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 462.64,
+              "vartist_trudu_uah": 852.29,
+              "vartist_mashyn_uah": 1800.0,
+              "vartist_materialiv_uah": 9350.0,
+              "priami_vytraty_uah": 12002.29,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.291,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 7.582,
+            "mashynisty_lyud_god": 1.2
           }
         },
         {
@@ -1256,38 +1520,54 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.161,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 7.321,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 300.3
+              "vartist_uah": 695.5
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 1.2,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 132.0
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16 т",
+                "mash_god": 1.2,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 1800.0
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
+                "kod": "С123-1",
+                "nazva": "Елемент збірний (за специфікацією)",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 9000,
+                "vartist_uah": 9000.0
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин / зварювальні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 350.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 300.3,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 450.3,
+              "vartist_trudu_uah": 827.5,
+              "vartist_mashyn_uah": 1800.0,
+              "vartist_materialiv_uah": 9350.0,
+              "priami_vytraty_uah": 11977.5,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.161,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 7.321,
+            "mashynisty_lyud_god": 1.2
           }
         },
         {
@@ -1304,38 +1584,62 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 2.793,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 95.867,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 265.34
+              "vartist_uah": 9107.36
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 14.88,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 1636.8
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16–25 т",
+                "mash_god": 14.88,
+                "tsina_mash_god_uah": 1600,
+                "vartist_uah": 23808.07
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "kod": "С124-1",
+                "nazva": "Плити/панелі збірні (за специфікацією)",
+                "odynytsya": "м2",
+                "vytrata": 100,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 150000
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин для швів",
+                "odynytsya": "м3",
+                "vytrata": 1.2,
+                "tsina_za_od_uah": 2200,
+                "vartist_uah": 2640.0
+              },
+              {
+                "kod": "С141-1",
+                "nazva": "Електроди",
+                "odynytsya": "кг",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 360.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 265.34,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 415.34,
+              "vartist_trudu_uah": 10744.17,
+              "vartist_mashyn_uah": 23808.07,
+              "vartist_materialiv_uah": 153000.0,
+              "priami_vytraty_uah": 187552.24,
               "odynytsya": "м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 2.793,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 95.867,
+            "mashynisty_lyud_god": 14.88
           }
         }
       ]
@@ -1365,38 +1669,54 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.485,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 7.971,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 331.07
+              "vartist_uah": 757.25
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 1.2,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 132.0
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16 т",
+                "mash_god": 1.2,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 1800.0
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
+                "kod": "С123-1",
+                "nazva": "Елемент збірний (за специфікацією)",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 9000,
+                "vartist_uah": 9000.0
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин / зварювальні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 350.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 331.07,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 481.07,
+              "vartist_trudu_uah": 889.25,
+              "vartist_mashyn_uah": 1800.0,
+              "vartist_materialiv_uah": 9350.0,
+              "priami_vytraty_uah": 12039.25,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.485,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 7.971,
+            "mashynisty_lyud_god": 1.2
           }
         },
         {
@@ -1413,62 +1733,54 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.866,
-              "seredniy_rozryad": 3.5,
+              "lyud_god": 6.164,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 462.27
+              "vartist_uah": 585.58
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.15,
+              "lyud_god": 1.2,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 16.5
+              "vartist_uah": 132.0
             },
             "mashyny": [
               {
-                "kod": "С212-1",
-                "nazva": "Підйомник / кран (подача матеріалів)",
-                "mash_god": 0.15,
-                "tsina_mash_god_uah": 900,
-                "vartist_uah": 135.0
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16 т",
+                "mash_god": 1.2,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 1800.0
               }
             ],
             "materialy": [
               {
-                "kod": "С137-1",
-                "nazva": "Цегла керамічна рядова 250×120×65",
+                "kod": "С123-1",
+                "nazva": "Елемент збірний (за специфікацією)",
                 "odynytsya": "шт",
-                "vytrata": 400.82,
-                "tsina_za_od_uah": 12,
-                "vartist_uah": 4809.84
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 9000,
+                "vartist_uah": 9000.0
               },
               {
                 "kod": "С135-1",
-                "nazva": "Розчин мурувальний М50–М75",
-                "odynytsya": "м3",
-                "vytrata": 0.24,
-                "tsina_za_od_uah": 2200,
-                "vartist_uah": 528.0
-              },
-              {
-                "kod": "С138-1",
-                "nazva": "Вода",
-                "odynytsya": "м3",
-                "vytrata": 0.15,
-                "tsina_za_od_uah": 40,
-                "vartist_uah": 6.0
+                "nazva": "Розчин / зварювальні матеріали",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 350.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 478.77,
-              "vartist_mashyn_uah": 135.0,
-              "vartist_materialiv_uah": 5343.84,
-              "priami_vytraty_uah": 5957.61,
+              "vartist_trudu_uah": 717.58,
+              "vartist_mashyn_uah": 1800.0,
+              "vartist_materialiv_uah": 9350.0,
+              "priami_vytraty_uah": 11867.58,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.866,
-            "mashynisty_lyud_god": 0.15
+            "trud_lyud_god": 6.164,
+            "mashynisty_lyud_god": 1.2
           }
         },
         {
@@ -1485,38 +1797,54 @@
           "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.024,
-              "seredniy_rozryad": 3.2,
+              "lyud_god": 7.048,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 287.28
+              "vartist_uah": 669.56
             },
             "trud_mashynistiv": {
-              "lyud_god": 0.0,
+              "lyud_god": 1.2,
               "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
+              "vartist_uah": 132.0
             },
-            "mashyny": [],
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 16 т",
+                "mash_god": 1.2,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 1800.0
+              }
+            ],
             "materialy": [
               {
-                "kod": "С301-1",
-                "nazva": "Допоміжні матеріали",
+                "kod": "С123-1",
+                "nazva": "Елемент збірний (за специфікацією)",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 9000,
+                "vartist_uah": 9000.0
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин / зварювальні матеріали",
                 "odynytsya": "компл",
                 "vytrata": 1.0,
-                "tsina_za_od_uah": 150,
-                "vartist_uah": 150.0
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 350.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 287.28,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 150.0,
-              "priami_vytraty_uah": 437.28,
+              "vartist_trudu_uah": 801.56,
+              "vartist_mashyn_uah": 1800.0,
+              "vartist_materialiv_uah": 9350.0,
+              "priami_vytraty_uah": 11951.56,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.024,
-            "mashynisty_lyud_god": 0.0
+            "trud_lyud_god": 7.048,
+            "mashynisty_lyud_god": 1.2
           }
         }
       ]

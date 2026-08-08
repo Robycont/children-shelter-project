@@ -48,16 +48,16 @@
               {
                 "kod": "С220-m",
                 "nazva": "Коток / віброплита",
-                "mash_god": 0.4,
+                "mash_god": 0.229,
                 "tsina_mash_god_uah": 500,
-                "vartist_uah": 200.0
+                "vartist_uah": 114.5
               },
               {
                 "kod": "С221-m",
                 "nazva": "Автосамоскид",
-                "mash_god": 0.3,
+                "mash_god": 0.171,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 210.0
+                "vartist_uah": 119.7
               }
             ],
             "materialy": [
@@ -72,9 +72,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 122.85,
-              "vartist_mashyn_uah": 410.0,
+              "vartist_mashyn_uah": 234.2,
               "vartist_materialiv_uah": 360.0,
-              "priami_vytraty_uah": 892.85,
+              "priami_vytraty_uah": 717.05,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -109,16 +109,16 @@
               {
                 "kod": "С220-m",
                 "nazva": "Коток / віброплита",
-                "mash_god": 0.4,
+                "mash_god": 0.229,
                 "tsina_mash_god_uah": 500,
-                "vartist_uah": 200.0
+                "vartist_uah": 114.5
               },
               {
                 "kod": "С221-m",
                 "nazva": "Автосамоскид",
-                "mash_god": 0.3,
+                "mash_god": 0.171,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 210.0
+                "vartist_uah": 119.7
               }
             ],
             "materialy": [
@@ -133,9 +133,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 121.05,
-              "vartist_mashyn_uah": 410.0,
+              "vartist_mashyn_uah": 234.2,
               "vartist_materialiv_uah": 360.0,
-              "priami_vytraty_uah": 891.05,
+              "priami_vytraty_uah": 715.25,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -170,16 +170,16 @@
               {
                 "kod": "С220-m",
                 "nazva": "Коток / віброплита",
-                "mash_god": 0.4,
+                "mash_god": 0.229,
                 "tsina_mash_god_uah": 500,
-                "vartist_uah": 200.0
+                "vartist_uah": 114.5
               },
               {
                 "kod": "С221-m",
                 "nazva": "Автосамоскид",
-                "mash_god": 0.3,
+                "mash_god": 0.171,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 210.0
+                "vartist_uah": 119.7
               }
             ],
             "materialy": [
@@ -194,9 +194,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 131.21,
-              "vartist_mashyn_uah": 410.0,
+              "vartist_mashyn_uah": 234.2,
               "vartist_materialiv_uah": 360.0,
-              "priami_vytraty_uah": 901.21,
+              "priami_vytraty_uah": 725.41,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
@@ -231,16 +231,16 @@
               {
                 "kod": "С220-m",
                 "nazva": "Коток / віброплита",
-                "mash_god": 0.4,
+                "mash_god": 0.229,
                 "tsina_mash_god_uah": 500,
-                "vartist_uah": 200.0
+                "vartist_uah": 114.5
               },
               {
                 "kod": "С221-m",
                 "nazva": "Автосамоскид",
-                "mash_god": 0.3,
+                "mash_god": 0.171,
                 "tsina_mash_god_uah": 700,
-                "vartist_uah": 210.0
+                "vartist_uah": 119.7
               }
             ],
             "materialy": [
@@ -255,9 +255,9 @@
             ],
             "pidsumky": {
               "vartist_trudu_uah": 135.77,
-              "vartist_mashyn_uah": 410.0,
+              "vartist_mashyn_uah": 234.2,
               "vartist_materialiv_uah": 360.0,
-              "priami_vytraty_uah": 905.77,
+              "priami_vytraty_uah": 729.97,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
