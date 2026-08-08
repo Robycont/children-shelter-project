@@ -1,0 +1,4 @@
+{
+  "name": "children-shelter-project",
+  "install": "python3 --version && python3 dstu-b-d/scripts/generate_catalogs.py"
+}
