@@ -6,23 +6,169 @@
   "marka": "ЕД",
   "priorytet_prytulok": false,
   "prymitky": [
-    "Збірник включено до каталогу за переліком ДСТУ Б Д.",
-    "Детальна розбивка груп і норм для пріоритетних збірників наведена окремо.",
-    "Кількісні ресурси — лише з офіційного джерела."
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
   ],
   "grupy": [
     {
       "grupa": 1,
-      "nazva": "Роботи збірника «Свердловини»",
-      "odynytsya": "за технічною частиною",
+      "nazva": "Буріння свердловин",
+      "odynytsya": "м",
       "sklad_robit": [],
       "normy": [
         {
           "shifr": "4-1-1",
-          "nazva": "Норми збірника 4: див. офіційний текст ДСТУ",
-          "odynytsya": "за техчастиною",
+          "nazva": "Буріння свердловин роторне в м'яких ґрунтах",
+          "odynytsya": "м",
           "sklad_robit": [],
-          "prymitka": "Деталізація груп заповнюється з офіційного НДІ",
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "4-1-2",
+          "nazva": "Буріння свердловин роторне в твердих ґрунтах",
+          "odynytsya": "м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "4-1-3",
+          "nazva": "Буріння свердловин ударно-канатне",
+          "odynytsya": "м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "4-1-4",
+          "nazva": "Буріння свердловин колонкове",
+          "odynytsya": "м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Кріплення і обладнання свердловин",
+      "odynytsya": "м / шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "4-2-1",
+          "nazva": "Опускання обсадних труб",
+          "odynytsya": "м / шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "4-2-2",
+          "nazva": "Цементування затрубного простору",
+          "odynytsya": "м / шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "4-2-3",
+          "nazva": "Установлення фільтрів",
+          "odynytsya": "м / шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "4-2-4",
+          "nazva": "Улаштування гирла свердловини",
+          "odynytsya": "м / шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Відкачування і випробування",
+      "odynytsya": "шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "4-3-1",
+          "nazva": "Пробне відкачування",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "4-3-2",
+          "nazva": "Дослідне відкачування",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "4-3-3",
+          "nazva": "Геофізичні дослідження свердловин",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
           "resursy": {
             "trud_lyud_god": null,
             "mashynisty_lyud_god": null,

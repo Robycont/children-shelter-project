@@ -55,6 +55,45 @@
             "mashyny": [],
             "materialy": []
           }
+        },
+        {
+          "shifr": "39-1-4",
+          "nazva": "Маркування і випробування кіл",
+          "odynytsya": "система",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "39-1-5",
+          "nazva": "Установлення клемних з'єднань",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "39-1-6",
+          "nazva": "Перевірка опору ізоляції",
+          "odynytsya": "лінія",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
         }
       ]
     }

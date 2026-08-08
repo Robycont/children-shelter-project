@@ -6,23 +6,117 @@
   "marka": "ЕД",
   "priorytet_prytulok": false,
   "prymitky": [
-    "Збірник включено до каталогу за переліком ДСТУ Б Д.",
-    "Детальна розбивка груп і норм для пріоритетних збірників наведена окремо.",
-    "Кількісні ресурси — лише з офіційного джерела."
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
   ],
   "grupy": [
     {
       "grupa": 1,
-      "nazva": "Роботи збірника «Трамвайні колії»",
-      "odynytsya": "за технічною частиною",
+      "nazva": "Земляне полотно трамвайних колій",
+      "odynytsya": "100 м",
       "sklad_robit": [],
       "normy": [
         {
           "shifr": "32-1-1",
-          "nazva": "Норми збірника 32: див. офіційний текст ДСТУ",
-          "odynytsya": "за техчастиною",
+          "nazva": "Розробка корит під трамвайну колію",
+          "odynytsya": "100 м",
           "sklad_robit": [],
-          "prymitka": "Деталізація груп заповнюється з офіційного НДІ",
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "32-1-2",
+          "nazva": "Улаштування баластної призми",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Укладання трамвайних колій",
+      "odynytsya": "100 м",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "32-2-1",
+          "nazva": "Укладання рейок на дерев'яних шпалах",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "32-2-2",
+          "nazva": "Укладання рейок на залізобетонних шпалах",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "32-2-3",
+          "nazva": "Укладання стрілочних переводів трамвайних",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Опорядження колії",
+      "odynytsya": "100 м",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "32-3-1",
+          "nazva": "Заповнення міжрейкової колії",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "32-3-2",
+          "nazva": "Улаштування покриття міжколії",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
           "resursy": {
             "trud_lyud_god": null,
             "mashynisty_lyud_god": null,

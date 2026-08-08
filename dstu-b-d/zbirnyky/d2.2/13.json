@@ -6,23 +6,190 @@
   "marka": "ЕД",
   "priorytet_prytulok": false,
   "prymitky": [
-    "Збірник включено до каталогу за переліком ДСТУ Б Д.",
-    "Детальна розбивка груп і норм для пріоритетних збірників наведена окремо.",
-    "Кількісні ресурси — лише з офіційного джерела."
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
   ],
   "grupy": [
     {
       "grupa": 1,
-      "nazva": "Роботи збірника «Захист будівельних конструкцій та устаткування від корозії»",
-      "odynytsya": "за технічною частиною",
+      "nazva": "Підготовка поверхонь під захист",
+      "odynytsya": "100 м2",
       "sklad_robit": [],
       "normy": [
         {
           "shifr": "13-1-1",
-          "nazva": "Норми збірника 13: див. офіційний текст ДСТУ",
-          "odynytsya": "за техчастиною",
+          "nazva": "Очищення металевих поверхонь механічне",
+          "odynytsya": "100 м2",
           "sklad_robit": [],
-          "prymitka": "Деталізація груп заповнюється з офіційного НДІ",
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "13-1-2",
+          "nazva": "Очищення металевих поверхонь піскоструминне",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "13-1-3",
+          "nazva": "Знежирення поверхонь",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Антикорозійний захист металевих конструкцій",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "13-2-1",
+          "nazva": "Фарбування ґрунтовкою антикорозійною",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "13-2-2",
+          "nazva": "Фарбування емалями в 2 шари",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "13-2-3",
+          "nazva": "Нанесення цинконаповнених покриттів",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "13-2-4",
+          "nazva": "Нанесення епоксидних покриттів",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Захист будівельних конструкцій",
+      "odynytsya": "100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "13-3-1",
+          "nazva": "Обмазувальна гідроізоляція конструкцій",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "13-3-2",
+          "nazva": "Захист бетонних поверхонь просочувальними складами",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "13-3-3",
+          "nazva": "Футерування поверхонь",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 4,
+      "nazva": "Захист устаткування",
+      "odynytsya": "м2 / шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "13-4-1",
+          "nazva": "Антикорозійний захист ємностей",
+          "odynytsya": "м2 / шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "13-4-2",
+          "nazva": "Антикорозійний захист трубопроводів",
+          "odynytsya": "м2 / шт",
+          "sklad_robit": [],
+          "prymitka": "",
           "resursy": {
             "trud_lyud_god": null,
             "mashynisty_lyud_god": null,

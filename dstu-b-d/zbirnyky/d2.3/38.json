@@ -55,6 +55,66 @@
             "mashyny": [],
             "materialy": []
           }
+        },
+        {
+          "shifr": "38-1-4",
+          "nazva": "Монтаж насосних агрегатів загального призначення",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "38-1-5",
+          "nazva": "Монтаж компресорів загального призначення",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Монтаж допоміжного обладнання",
+      "odynytsya": "шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "38-2-1",
+          "nazva": "Монтаж вентиляційного обладнання загальнообмінного",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "38-2-2",
+          "nazva": "Монтаж підйомно-транспортного обладнання цехів",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
         }
       ]
     }

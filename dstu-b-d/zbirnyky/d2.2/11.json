@@ -115,6 +115,32 @@
             "mashyny": [],
             "materialy": []
           }
+        },
+        {
+          "shifr": "11-2-4",
+          "nazva": "Улаштування підлог із плитки по діагоналі",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "11-2-5",
+          "nazva": "Улаштування підлог у вологих приміщеннях із гідроізоляцією",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
         }
       ]
     },

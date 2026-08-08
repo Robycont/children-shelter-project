@@ -55,6 +55,58 @@
             "mashyny": [],
             "materialy": []
           }
+        },
+        {
+          "shifr": "9-1-4",
+          "nazva": "Ремонт ступенів бетонних",
+          "odynytsya": "м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "9-1-5",
+          "nazva": "Ремонт ступенів дерев'яних",
+          "odynytsya": "м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "9-1-6",
+          "nazva": "Заміна огороджень сходів",
+          "odynytsya": "м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "9-1-7",
+          "nazva": "Улаштування пандусів при ремонті",
+          "odynytsya": "м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
         }
       ]
     }

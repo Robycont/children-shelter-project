@@ -279,6 +279,32 @@
             "mashyny": [],
             "materialy": []
           }
+        },
+        {
+          "shifr": "8-5-7",
+          "nazva": "Мурування стін із цегли при висоті поверху понад 4 м",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "8-5-8",
+          "nazva": "Мурування стін криволінійних у плані",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
         }
       ]
     },

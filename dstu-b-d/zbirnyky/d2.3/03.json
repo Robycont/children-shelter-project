@@ -6,23 +6,122 @@
   "marka": "М",
   "priorytet_prytulok": false,
   "prymitky": [
-    "Збірник включено до каталогу за переліком ДСТУ Б Д.",
-    "Детальна розбивка груп і норм для пріоритетних збірників наведена окремо.",
-    "Кількісні ресурси — лише з офіційного джерела."
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
   ],
   "grupy": [
     {
       "grupa": 1,
-      "nazva": "Роботи збірника «Підйомно-транспортне устаткування»",
-      "odynytsya": "за технічною частиною",
+      "nazva": "Монтаж кранів",
+      "odynytsya": "шт / т",
       "sklad_robit": [],
       "normy": [
         {
           "shifr": "3-1-1",
-          "nazva": "Норми збірника 3: див. офіційний текст ДСТУ",
-          "odynytsya": "за техчастиною",
+          "nazva": "Монтаж мостових кранів",
+          "odynytsya": "шт / т",
           "sklad_robit": [],
-          "prymitka": "Деталізація груп заповнюється з офіційного НДІ",
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "3-1-2",
+          "nazva": "Монтаж козлових кранів",
+          "odynytsya": "шт / т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "3-1-3",
+          "nazva": "Монтаж кран-балок",
+          "odynytsya": "шт / т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "3-1-4",
+          "nazva": "Монтаж консольних кранів",
+          "odynytsya": "шт / т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Монтаж транспортерів і підйомників",
+      "odynytsya": "м / шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "3-2-1",
+          "nazva": "Монтаж стрічкових конвеєрів",
+          "odynytsya": "м / шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "3-2-2",
+          "nazva": "Монтаж роликових конвеєрів",
+          "odynytsya": "м / шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "3-2-3",
+          "nazva": "Монтаж ліфтів вантажних",
+          "odynytsya": "м / шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "3-2-4",
+          "nazva": "Монтаж підйомників",
+          "odynytsya": "м / шт",
+          "sklad_robit": [],
+          "prymitka": "",
           "resursy": {
             "trud_lyud_god": null,
             "mashynisty_lyud_god": null,

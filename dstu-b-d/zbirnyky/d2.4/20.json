@@ -13,7 +13,7 @@
   "grupy": [
     {
       "grupa": 1,
-      "nazva": "Різні ремонтні роботи",
+      "nazva": "Інші ремонтні роботи",
       "odynytsya": "компл",
       "sklad_robit": [],
       "normy": [
@@ -46,6 +46,45 @@
         {
           "shifr": "20-1-3",
           "nazva": "Інші роботи",
+          "odynytsya": "компл",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "20-1-4",
+          "nazva": "Улаштування тимчасових риштувань при ремонті",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "20-1-5",
+          "nazva": "Перевезення сміття",
+          "odynytsya": "т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "20-1-6",
+          "nazva": "Інші непередбачені ремонтні роботи",
           "odynytsya": "компл",
           "sklad_robit": [],
           "prymitka": "",

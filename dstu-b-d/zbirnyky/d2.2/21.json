@@ -68,6 +68,32 @@
             "mashyny": [],
             "materialy": []
           }
+        },
+        {
+          "shifr": "21-1-5",
+          "nazva": "Прокладання кабелів у лотках",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "21-1-6",
+          "nazva": "Прокладання проводів у трубах ПВХ",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
         }
       ]
     },

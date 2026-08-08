@@ -6,23 +6,143 @@
   "marka": "ЕД",
   "priorytet_prytulok": false,
   "prymitky": [
-    "Збірник включено до каталогу за переліком ДСТУ Б Д.",
-    "Детальна розбивка груп і норм для пріоритетних збірників наведена окремо.",
-    "Кількісні ресурси — лише з офіційного джерела."
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
   ],
   "grupy": [
     {
       "grupa": 1,
-      "nazva": "Роботи збірника «Конструкції в сільському будівництві»",
-      "odynytsya": "за технічною частиною",
+      "nazva": "Конструкції сільськогосподарських будівель",
+      "odynytsya": "м3 / 100 м2",
       "sklad_robit": [],
       "normy": [
         {
           "shifr": "14-1-1",
-          "nazva": "Норми збірника 14: див. офіційний текст ДСТУ",
-          "odynytsya": "за техчастиною",
+          "nazva": "Мурування стін тваринницьких приміщень",
+          "odynytsya": "м3 / 100 м2",
           "sklad_robit": [],
-          "prymitka": "Деталізація груп заповнюється з офіційного НДІ",
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "14-1-2",
+          "nazva": "Улаштування підлог у тваринницьких приміщеннях",
+          "odynytsya": "м3 / 100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "14-1-3",
+          "nazva": "Улаштування годівниць і навозних каналів",
+          "odynytsya": "м3 / 100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "14-1-4",
+          "nazva": "Улаштування силосних траншей",
+          "odynytsya": "м3 / 100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Споруди зберігання",
+      "odynytsya": "м3 / шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "14-2-1",
+          "nazva": "Улаштування буртів і бункерів",
+          "odynytsya": "м3 / шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "14-2-2",
+          "nazva": "Улаштування зерносховищ каркасних",
+          "odynytsya": "м3 / шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "14-2-3",
+          "nazva": "Улаштування гноєсховищ",
+          "odynytsya": "м3 / шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Огорожі та майданчики",
+      "odynytsya": "100 м / 100 м2",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "14-3-1",
+          "nazva": "Улаштування огорож ферм",
+          "odynytsya": "100 м / 100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "14-3-2",
+          "nazva": "Улаштування вигульних майданчиків",
+          "odynytsya": "100 м / 100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
           "resursy": {
             "trud_lyud_god": null,
             "mashynisty_lyud_god": null,

@@ -6,23 +6,75 @@
   "marka": "М",
   "priorytet_prytulok": false,
   "prymitky": [
-    "Збірник включено до каталогу за переліком ДСТУ Б Д.",
-    "Детальна розбивка груп і норм для пріоритетних збірників наведена окремо.",
-    "Кількісні ресурси — лише з офіційного джерела."
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
   ],
   "grupy": [
     {
       "grupa": 1,
-      "nazva": "Роботи збірника «Контроль якості зварних з'єднань»",
-      "odynytsya": "за технічною частиною",
+      "nazva": "Контроль якості зварних з'єднань",
+      "odynytsya": "м / шт",
       "sklad_robit": [],
       "normy": [
         {
           "shifr": "37-1-1",
-          "nazva": "Норми збірника 37: див. офіційний текст ДСТУ",
-          "odynytsya": "за техчастиною",
+          "nazva": "Візуально-оптичний контроль",
+          "odynytsya": "м / шт",
           "sklad_robit": [],
-          "prymitka": "Деталізація груп заповнюється з офіційного НДІ",
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "37-1-2",
+          "nazva": "Ультразвуковий контроль зварних швів",
+          "odynytsya": "м / шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "37-1-3",
+          "nazva": "Радіографічний контроль",
+          "odynytsya": "м / шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "37-1-4",
+          "nazva": "Капілярний контроль",
+          "odynytsya": "м / шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "37-1-5",
+          "nazva": "Магнітопорошковий контроль",
+          "odynytsya": "м / шт",
+          "sklad_robit": [],
+          "prymitka": "",
           "resursy": {
             "trud_lyud_god": null,
             "mashynisty_lyud_god": null,

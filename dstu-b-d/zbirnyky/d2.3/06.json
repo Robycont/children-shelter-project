@@ -6,23 +6,109 @@
   "marka": "М",
   "priorytet_prytulok": false,
   "prymitky": [
-    "Збірник включено до каталогу за переліком ДСТУ Б Д.",
-    "Детальна розбивка груп і норм для пріоритетних збірників наведена окремо.",
-    "Кількісні ресурси — лише з офіційного джерела."
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
   ],
   "grupy": [
     {
       "grupa": 1,
-      "nazva": "Роботи збірника «Теплосилове устаткування»",
-      "odynytsya": "за технічною частиною",
+      "nazva": "Монтаж котлів і теплосилового устаткування",
+      "odynytsya": "шт / т",
       "sklad_robit": [],
       "normy": [
         {
           "shifr": "6-1-1",
-          "nazva": "Норми збірника 6: див. офіційний текст ДСТУ",
-          "odynytsya": "за техчастиною",
+          "nazva": "Монтаж парових котлів",
+          "odynytsya": "шт / т",
           "sklad_robit": [],
-          "prymitka": "Деталізація груп заповнюється з офіційного НДІ",
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-1-2",
+          "nazva": "Монтаж водогрійних котлів",
+          "odynytsya": "шт / т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-1-3",
+          "nazva": "Монтаж економайзерів і підігрівачів",
+          "odynytsya": "шт / т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-1-4",
+          "nazva": "Монтаж деаераторів",
+          "odynytsya": "шт / т",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Монтаж турбін і допоміжного обладнання",
+      "odynytsya": "шт",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "6-2-1",
+          "nazva": "Монтаж парових турбін",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-2-2",
+          "nazva": "Монтаж редукторів і муфт",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "6-2-3",
+          "nazva": "Монтаж димососів і дуттєвих вентиляторів",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
           "resursy": {
             "trud_lyud_god": null,
             "mashynisty_lyud_god": null,

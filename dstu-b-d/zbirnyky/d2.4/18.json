@@ -55,6 +55,32 @@
             "mashyny": [],
             "materialy": []
           }
+        },
+        {
+          "shifr": "18-1-4",
+          "nazva": "Ремонт проїздів",
+          "odynytsya": "100 м2",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "18-1-5",
+          "nazva": "Ремонт малих архітектурних форм",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
         }
       ]
     }

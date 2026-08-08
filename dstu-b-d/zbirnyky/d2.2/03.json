@@ -6,23 +6,130 @@
   "marka": "ЕД",
   "priorytet_prytulok": false,
   "prymitky": [
-    "Збірник включено до каталогу за переліком ДСТУ Б Д.",
-    "Детальна розбивка груп і норм для пріоритетних збірників наведена окремо.",
-    "Кількісні ресурси — лише з офіційного джерела."
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
   ],
   "grupy": [
     {
       "grupa": 1,
-      "nazva": "Роботи збірника «Буропідривні роботи»",
-      "odynytsya": "за технічною частиною",
+      "nazva": "Бурові роботи",
+      "odynytsya": "100 м",
       "sklad_robit": [],
       "normy": [
         {
           "shifr": "3-1-1",
-          "nazva": "Норми збірника 3: див. офіційний текст ДСТУ",
-          "odynytsya": "за техчастиною",
+          "nazva": "Буріння шпурів у ґрунтах середньої міцності",
+          "odynytsya": "100 м",
           "sklad_robit": [],
-          "prymitka": "Деталізація груп заповнюється з офіційного НДІ",
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "3-1-2",
+          "nazva": "Буріння шпурів у скельних породах",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "3-1-3",
+          "nazva": "Буріння свердловин для висадження",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Підривні роботи",
+      "odynytsya": "м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "3-2-1",
+          "nazva": "Розпушування ґрунтів вибухом на викид",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "3-2-2",
+          "nazva": "Розпушування скельних порід вибухом",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "3-2-3",
+          "nazva": "Дроблення негабариту",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Заряджання і маркшейдерський супровід",
+      "odynytsya": "компл",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "3-3-1",
+          "nazva": "Заряджання шпурів",
+          "odynytsya": "компл",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "3-3-2",
+          "nazva": "Маркшейдерська розбивка буропідривного блоку",
+          "odynytsya": "компл",
+          "sklad_robit": [],
+          "prymitka": "",
           "resursy": {
             "trud_lyud_god": null,
             "mashynisty_lyud_god": null,

@@ -55,6 +55,79 @@
             "mashyny": [],
             "materialy": []
           }
+        },
+        {
+          "shifr": "10-1-4",
+          "nazva": "Монтаж систем оповіщення",
+          "odynytsya": "компл",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "10-1-5",
+          "nazva": "Монтаж антенно-фідерних пристроїв",
+          "odynytsya": "компл",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Кабельні мережі зв'язку",
+      "odynytsya": "100 м",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "10-2-1",
+          "nazva": "Прокладання кабелів зв'язку внутрішніх",
+          "odynytsya": "100 м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "10-2-2",
+          "nazva": "Розробка кабельних закінчень",
+          "odynytsya": "шт",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "10-2-3",
+          "nazva": "Випробування ліній зв'язку",
+          "odynytsya": "система",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
         }
       ]
     }

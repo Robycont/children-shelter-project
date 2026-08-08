@@ -6,23 +6,143 @@
   "marka": "ЕД",
   "priorytet_prytulok": false,
   "prymitky": [
-    "Збірник включено до каталогу за переліком ДСТУ Б Д.",
-    "Детальна розбивка груп і норм для пріоритетних збірників наведена окремо.",
-    "Кількісні ресурси — лише з офіційного джерела."
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
   ],
   "grupy": [
     {
       "grupa": 1,
-      "nazva": "Роботи збірника «Мости і труби»",
-      "odynytsya": "за технічною частиною",
+      "nazva": "Опори і стояни мостів",
+      "odynytsya": "м3",
       "sklad_robit": [],
       "normy": [
         {
           "shifr": "30-1-1",
-          "nazva": "Норми збірника 30: див. офіційний текст ДСТУ",
-          "odynytsya": "за техчастиною",
+          "nazva": "Улаштування фундаментів опор",
+          "odynytsya": "м3",
           "sklad_robit": [],
-          "prymitka": "Деталізація груп заповнюється з офіційного НДІ",
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "30-1-2",
+          "nazva": "Бетонні роботи опор мостів",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "30-1-3",
+          "nazva": "Облицювання опор",
+          "odynytsya": "м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Прогонові будови",
+      "odynytsya": "т / м3",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "30-2-1",
+          "nazva": "Монтаж металевих прогонових будов",
+          "odynytsya": "т / м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "30-2-2",
+          "nazva": "Монтаж залізобетонних прогонових будов",
+          "odynytsya": "т / м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "30-2-3",
+          "nazva": "Улаштування монолітних прогонових будов",
+          "odynytsya": "т / м3",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Мостове полотно і труби",
+      "odynytsya": "м2 / м",
+      "sklad_robit": [],
+      "normy": [
+        {
+          "shifr": "30-3-1",
+          "nazva": "Улаштування мостового полотна",
+          "odynytsya": "м2 / м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "30-3-2",
+          "nazva": "Улаштування тротуарів і огороджень мостів",
+          "odynytsya": "м2 / м",
+          "sklad_robit": [],
+          "prymitka": "",
+          "resursy": {
+            "trud_lyud_god": null,
+            "mashynisty_lyud_god": null,
+            "mashyny": [],
+            "materialy": []
+          }
+        },
+        {
+          "shifr": "30-3-3",
+          "nazva": "Улаштування водопропускних труб",
+          "odynytsya": "м2 / м",
+          "sklad_robit": [],
+          "prymitka": "",
           "resursy": {
             "trud_lyud_god": null,
             "mashynisty_lyud_god": null,

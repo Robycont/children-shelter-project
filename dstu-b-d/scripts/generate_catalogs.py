@@ -7,6 +7,9 @@ import csv
 import json
 from pathlib import Path
 
+from works_all import D22_WORKS, D23_WORKS, D24_WORKS, groups_for
+from enrich_thin import apply_extra
+
 ROOT = Path(__file__).resolve().parents[1]
 CATALOGS = ROOT / "catalogs"
 ZBIRNYKY_D22 = ROOT / "zbirnyky" / "d2.2"
@@ -1650,6 +1653,13 @@ def detailed_d24() -> dict[int, dict]:
         20: ("Інші ремонтно-будівельні роботи", [
             ("Різні ремонтні роботи", "компл", ["Прибирання будівельного сміття", "Тимчасові огородження", "Інші роботи"]),
         ]),
+        10: ("Пічні роботи", [
+            ("Розбирання пічних конструкцій", "шт", ["Розбирання опалювальних печей", "Розбирання кухонних вогнищ", "Розбирання димових труб"]),
+            ("Ремонт і мурування печей", "шт", ["Мурування опалювальних печей", "Ремонт футеровок печей", "Мурування димових труб при ремонті", "Установлення металевих грубок"]),
+        ]),
+        14: ("Ліпні роботи", [
+            ("Ліпні роботи при ремонті", "м2", ["Зняття пошкоджених ліпних виробів", "Відновлення ліпних карнизів", "Відновлення розеток і капітелей", "Установлення нових ліпних деталей"]),
+        ]),
     }
     out: dict[int, dict] = {}
     for n, (name, specs) in specs_map.items():
@@ -1899,32 +1909,58 @@ def main() -> None:
     all_rows: list[dict] = []
 
     for n, name in D22:
-        z = d22_detailed.get(n) or stub_zbirnyk("Д.2.2", n, name, "ЕД")
+        if n in d22_detailed:
+            z = d22_detailed[n]
+        elif n in D22_WORKS:
+            z = zbirnyk("Д.2.2", n, name, f"ДСТУ Б Д.2.2-{n}:2012", "ЕД",
+                        groups_for(n, D22_WORKS[n]), priority=n in SHELTER_D22)
+        else:
+            z = stub_zbirnyk("Д.2.2", n, name, "ЕД")
+        z = apply_extra(z, "Д.2.2")
         dump_json(ZBIRNYKY_D22 / f"{n:02d}.json", z)
         all_rows.extend(flatten_norms(z))
 
     for n, name in D23:
-        z = d23_detailed.get(n) or stub_zbirnyk("Д.2.3", n, name, "М")
+        if n in d23_detailed:
+            z = d23_detailed[n]
+        elif n in D23_WORKS:
+            z = zbirnyk("Д.2.3", n, name, f"ДСТУ Б Д.2.3-{n}:2012", "М",
+                        groups_for(n, D23_WORKS[n]), priority=n in SHELTER_D23)
+        else:
+            z = stub_zbirnyk("Д.2.3", n, name, "М")
+        z = apply_extra(z, "Д.2.3")
         dump_json(ZBIRNYKY_D23 / f"{n:02d}.json", z)
         all_rows.extend(flatten_norms(z))
 
     for n, name in D24:
-        z = d24_detailed.get(n) or stub_zbirnyk("Д.2.4", n, name, "Р")
+        if n in d24_detailed:
+            z = d24_detailed[n]
+        elif n in D24_WORKS:
+            z = zbirnyk("Д.2.4", n, name, f"ДСТУ Б Д.2.4-{n}:2012", "Р",
+                        groups_for(n, D24_WORKS[n]), priority=n in SHELTER_D24)
+        else:
+            z = stub_zbirnyk("Д.2.4", n, name, "Р")
+        z = apply_extra(z, "Д.2.4")
         dump_json(ZBIRNYKY_D24 / f"{n:02d}.json", z)
         all_rows.extend(flatten_norms(z))
 
     export_csv(all_rows, EXPORTS / "all-norms.csv")
     export_csv([r for r in all_rows if r["priorytet_prytulok"]], EXPORTS / "priorytet-prytulok.csv")
 
+    filled_d22 = sorted(set(d22_detailed) | set(D22_WORKS))
+    filled_d23 = sorted(set(d23_detailed) | set(D23_WORKS))
+    filled_d24 = sorted(set(d24_detailed) | set(D24_WORKS))
     summary = {
         "zbirnykiv_d22": len(D22),
         "zbirnykiv_d23": len(D23),
         "zbirnykiv_d24": len(D24),
         "norm_vsogo": len(all_rows),
         "norm_priorytet": sum(1 for r in all_rows if r["priorytet_prytulok"]),
-        "detalizovano_d22": sorted(d22_detailed),
-        "detalizovano_d23": sorted(d23_detailed),
-        "detalizovano_d24": sorted(d24_detailed),
+        "napovneno_d22": filled_d22,
+        "napovneno_d23": filled_d23,
+        "napovneno_d24": filled_d24,
+        "zbirnykiv_napovneno": len(filled_d22) + len(filled_d23) + len(filled_d24),
+        "zbirnykiv_vsogo": len(D22) + len(D23) + len(D24),
     }
     dump_json(CATALOGS / "summary.json", summary)
     write_readme()
