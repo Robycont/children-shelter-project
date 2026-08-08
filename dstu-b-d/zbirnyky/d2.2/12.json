@@ -17,27 +17,28 @@
       "nazva": "Підготовка основи під покрівлю",
       "odynytsya": "100 м2",
       "sklad_robit": [
-        "Підготовка основи",
-        "Укладання покриття",
-        "Влаштування примикань"
+        "Укладання",
+        "Проклейка нахлестів"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "12-1-1",
-          "nazva": "Улаштування пароізоляції",
+          "nazva": "Улаштування пароізоляції рулонної",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Підготовка основи",
-            "Укладання покриття",
-            "Влаштування примикань"
+            "Укладання",
+            "Проклейка нахлестів"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 87.31,
+              "lyud_god": 96.62,
               "seredniy_rozryad": 3.6,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 8294.45
+              "vartist_uah": 9178.9
             },
             "trud_mashynistiv": {
               "lyud_god": 0.2,
@@ -72,34 +73,35 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 8316.45,
+              "vartist_trudu_uah": 9200.9,
               "vartist_mashyn_uah": 40.0,
               "vartist_materialiv_uah": 22800,
-              "priami_vytraty_uah": 31156.45,
+              "priami_vytraty_uah": 32040.9,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 87.31,
+            "trud_lyud_god": 96.62,
             "mashynisty_lyud_god": 0.2
           }
         },
         {
           "shifr": "12-1-2",
-          "nazva": "Улаштування утеплювача з плитних матеріалів",
+          "nazva": "Улаштування утеплювача з плит мінеральної вати товщиною до 150 мм",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Підготовка основи",
-            "Укладання покриття",
-            "Влаштування примикань"
+            "Укладання",
+            "Тарілчасті дюбелі"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 94.083,
+              "lyud_god": 92.323,
               "seredniy_rozryad": 3.6,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 8937.89
+              "vartist_uah": 8770.68
             },
             "trud_mashynistiv": {
               "lyud_god": 0.2,
@@ -134,34 +136,98 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 8959.89,
+              "vartist_trudu_uah": 8792.68,
               "vartist_mashyn_uah": 40.0,
               "vartist_materialiv_uah": 22800,
-              "priami_vytraty_uah": 31799.89,
+              "priami_vytraty_uah": 31632.68,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 94.083,
+            "trud_lyud_god": 92.323,
             "mashynisty_lyud_god": 0.2
           }
         },
         {
           "shifr": "12-1-3",
-          "nazva": "Улаштування стяжки під покрівлю",
+          "nazva": "Улаштування утеплювача товщиною 150–250 мм",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Підготовка основи",
-            "Укладання покриття",
-            "Обробка примикань"
+            "Укладання в два шари",
+            "Кріплення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 105.846,
+              "lyud_god": 93.342,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8867.49
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 40.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8889.49,
+              "vartist_mashyn_uah": 40.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 31729.49,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 93.342,
+            "mashynisty_lyud_god": 0.2
+          }
+        },
+        {
+          "shifr": "12-1-4",
+          "nazva": "Улаштування стяжки цементної під покрівлю товщиною 40 мм",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Укладання по ухилах",
+            "Загладжування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 105.897,
               "seredniy_rozryad": 3.3,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 10055.37
+              "vartist_uah": 10060.22
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -188,16 +254,142 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 10055.37,
+              "vartist_trudu_uah": 10060.22,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 13000.0,
-              "priami_vytraty_uah": 23055.37,
+              "priami_vytraty_uah": 23060.22,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 105.846,
+            "trud_lyud_god": 105.897,
             "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "12-1-5",
+          "nazva": "Улаштування обрешітки під металочерепицю",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Розмітка",
+            "Кріплення брусків/дощок"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 110.395,
+              "seredniy_rozryad": 3.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 10487.52
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С170-1",
+                "nazva": "Металочерепиця / профнастил",
+                "odynytsya": "м2",
+                "vytrata": 110,
+                "tsina_za_od_uah": 320,
+                "vartist_uah": 35200
+              },
+              {
+                "kod": "С171-1",
+                "nazva": "Саморізи покрівельні",
+                "odynytsya": "шт",
+                "vytrata": 800,
+                "tsina_za_od_uah": 2.5,
+                "vartist_uah": 2000.0
+              },
+              {
+                "kod": "С172-1",
+                "nazva": "Плівки / ущільнювачі",
+                "odynytsya": "м2",
+                "vytrata": 110,
+                "tsina_za_od_uah": 35,
+                "vartist_uah": 3850
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 10487.52,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 41050.0,
+              "priami_vytraty_uah": 51537.52,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 110.395,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "12-1-6",
+          "nazva": "Улаштування суцільного настилу / ОСБ під покрівлю",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Укладання плит",
+            "Кріплення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 86.385,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8206.58
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 40.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8228.58,
+              "vartist_mashyn_uah": 40.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 31068.58,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 86.385,
+            "mashynisty_lyud_god": 0.2
           }
         }
       ]
@@ -207,21 +399,22 @@
       "nazva": "Покрівлі рулонні",
       "odynytsya": "100 м2",
       "sklad_robit": [
-        "Підготовка основи",
-        "Укладання покриття",
-        "Влаштування примикань"
+        "Праймер",
+        "Наплавлення"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "12-2-1",
           "nazva": "Улаштування покрівлі з наплавлюваних матеріалів у 1 шар",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Підготовка основи",
-            "Укладання покриття",
-            "Влаштування примикань"
+            "Праймер",
+            "Наплавлення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 94.006,
@@ -279,11 +472,12 @@
           "nazva": "Улаштування покрівлі з наплавлюваних матеріалів у 2 шари",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Підготовка основи",
-            "Укладання покриття",
-            "Влаштування примикань"
+            "Праймер",
+            "Наплавлення двох шарів"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 89.357,
@@ -338,20 +532,21 @@
         },
         {
           "shifr": "12-2-3",
-          "nazva": "Улаштування примикань рулонної покрівлі",
+          "nazva": "Улаштування примикань рулонної покрівлі до стін",
           "odynytsya": "100 м",
           "sklad_robit": [
-            "Підготовка основи",
-            "Укладання покриття",
-            "Влаштування примикань"
+            "Виведення на вертикаль",
+            "Притискні планки"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 89.112,
+              "lyud_god": 98.914,
               "seredniy_rozryad": 3.6,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 8465.64
+              "vartist_uah": 9396.83
             },
             "trud_mashynistiv": {
               "lyud_god": 0.2,
@@ -386,15 +581,79 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 8487.64,
+              "vartist_trudu_uah": 9418.83,
               "vartist_mashyn_uah": 40.0,
               "vartist_materialiv_uah": 22800,
-              "priami_vytraty_uah": 31327.64,
+              "priami_vytraty_uah": 32258.83,
               "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 89.112,
+            "trud_lyud_god": 98.914,
+            "mashynisty_lyud_god": 0.2
+          }
+        },
+        {
+          "shifr": "12-2-4",
+          "nazva": "Улаштування покрівлі з ПВХ-мембрани",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Укладання",
+            "Зварювання швів",
+            "Кріплення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 93.363,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8869.49
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 40.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8891.49,
+              "vartist_mashyn_uah": 40.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 31731.49,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 93.363,
             "mashynisty_lyud_god": 0.2
           }
         }
@@ -405,21 +664,24 @@
       "nazva": "Покрівлі з металочерепиці та профнастилу",
       "odynytsya": "100 м2",
       "sklad_robit": [
-        "Підготовка основи",
-        "Укладання покриття",
-        "Влаштування примикань"
+        "Укладання листів",
+        "Кріплення саморізами",
+        "Ущільнення"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "12-3-1",
           "nazva": "Улаштування покрівлі з металочерепиці",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Підготовка основи",
-            "Укладання покриття",
-            "Влаштування примикань"
+            "Укладання листів",
+            "Кріплення саморізами",
+            "Ущільнення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 114.224,
@@ -477,11 +739,12 @@
           "nazva": "Улаштування покрівлі з профнастилу",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Підготовка основи",
-            "Укладання покриття",
-            "Влаштування примикань"
+            "Укладання",
+            "Кріплення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 123.751,
@@ -539,11 +802,12 @@
           "nazva": "Улаштування покрівлі з фальцевої сталі",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Підготовка основи",
-            "Укладання покриття",
-            "Влаштування примикань"
+            "Заготівля картин",
+            "Фальцювання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 111.248,
@@ -595,29 +859,94 @@
             "trud_lyud_god": 111.248,
             "mashynisty_lyud_god": 0.0
           }
+        },
+        {
+          "shifr": "12-3-4",
+          "nazva": "Улаштування єндов і примикань металевої покрівлі",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Установлення добірних елементів"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 85.009,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8075.86
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 40.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8097.86,
+              "vartist_mashyn_uah": 40.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 30937.86,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 85.009,
+            "mashynisty_lyud_god": 0.2
+          }
         }
       ]
     },
     {
       "grupa": 4,
-      "nazva": "Водостічна система та добірні елементи",
+      "nazva": "Водостічна система",
       "odynytsya": "100 м",
       "sklad_robit": [
-        "Підготовка основи",
-        "Укладання покриття",
-        "Влаштування примикань"
+        "Кріплення гаків",
+        "Укладання ринв",
+        "Стики"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "12-4-1",
           "nazva": "Улаштування ринв підвісних",
           "odynytsya": "100 м",
           "sklad_robit": [
-            "Підготовка основи",
-            "Укладання покриття",
-            "Влаштування примикань"
+            "Кріплення гаків",
+            "Укладання ринв",
+            "Стики"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 70.531,
@@ -667,11 +996,13 @@
           "nazva": "Улаштування водостічних труб",
           "odynytsya": "100 м",
           "sklad_robit": [
-            "Підготовка основи",
-            "Укладання покриття",
-            "Влаштування примикань"
+            "Кріплення хомутів",
+            "Монтаж труб",
+            "Коліна"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 89.024,
@@ -729,11 +1060,11 @@
           "nazva": "Улаштування карнизних і торцевих планок",
           "odynytsya": "100 м",
           "sklad_robit": [
-            "Підготовка основи",
-            "Укладання покриття",
-            "Влаштування примикань"
+            "Кріплення планок"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 77.618,
@@ -777,8 +1108,159 @@
             "trud_lyud_god": 77.618,
             "mashynisty_lyud_god": 0.0
           }
+        },
+        {
+          "shifr": "12-4-4",
+          "nazva": "Улаштування снігозатримувачів",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Кріплення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 98.384,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 9346.48
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 40.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 9368.48,
+              "vartist_mashyn_uah": 40.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 32208.48,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 98.384,
+            "mashynisty_lyud_god": 0.2
+          }
+        },
+        {
+          "shifr": "12-4-5",
+          "nazva": "Улаштування водостічних воронок внутрішніх",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Установлення",
+            "Примикання гідроізоляції"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 1.349,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 128.16
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 40.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 1.15,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 207.0
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 0.3,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 21.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 150.16,
+              "vartist_mashyn_uah": 40.0,
+              "vartist_materialiv_uah": 228.0,
+              "priami_vytraty_uah": 418.16,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.349,
+            "mashynisty_lyud_god": 0.2
+          }
         }
       ]
     }
-  ]
+  ],
+  "techastyna": {
+    "sfera_zastosuvannya": "Покрівельні роботи будівлі притулку (скатна/плоска за проектом).",
+    "zagalni_polozhennya": [
+      "Площа покрівлі — за проекцією схилів з урахуванням коефіцієнта нахилу."
+    ],
+    "pravyla_obsyagiv": [
+      "Примикання, єндови, карнизи нормуються додатково."
+    ],
+    "koeficienty_umov": [
+      {
+        "umova": "Роботи на покрівлі з ухилом понад 30°",
+        "do_trudu": 1.2
+      }
+    ],
+    "vytraty_i_vidhody": [
+      {
+        "nazva": "Металочерепиця / профнастил",
+        "vidsotok": 5.0
+      },
+      {
+        "nazva": "Рулонні матеріали",
+        "vidsotok": 5.0
+      }
+    ]
+  },
+  "pogiyblennya": true
 }

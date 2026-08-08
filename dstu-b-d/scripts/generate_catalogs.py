@@ -10,6 +10,7 @@ from pathlib import Path
 from works_all import D22_WORKS, D23_WORKS, D24_WORKS, groups_for
 from enrich_thin import apply_extra
 from resources import fill_zbirnyk
+from deepen_priority import deepen_all
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOGS = ROOT / "catalogs"
@@ -1786,44 +1787,38 @@ def flatten_norms(z: dict) -> list[dict]:
 def write_readme() -> None:
     text = """# Збірники робіт базових норм ДСТУ Б Д
 
-Каталог ресурсних елементних кошторисних норм (РЕКН) для проєкту **children-shelter-project** (кошторис дитячого притулку).
+Каталог ресурсних елементних кошторисних норм (РЕКН) для проєкту **children-shelter-project**.
+
+Усі **106** збірників Д.2.2–Д.2.4 містять роботи та ресурсні витрати (**~990** норм).
+
+**Поглиблено** (техчастина, варіанти норм, склад робіт, коефіцієнти): **1, 6, 8, 11, 12, 15, 17, 18, 20, 21**.
+
+Шаблон локального кошторису: [`koshtorys-prytulok.md`](koshtorys-prytulok.md), `exports/lokalnyy-koshtorys-prytulok.csv`.
 
 ## Структура
 
 | Шлях | Зміст |
 |------|--------|
-| `catalogs/index.json` | Зведений індекс усіх комплексів Д.2.2–Д.2.7 |
-| `catalogs/d2.2-budivelni.json` | 47 збірників будівельних робіт |
-| `catalogs/d2.3-montazh.json` | 39 збірників монтажу устаткування |
-| `catalogs/d2.4-remontni.json` | 20 збірників ремонтно-будівельних робіт |
-| `catalogs/d2.5-restavratsiya.json` | Реставраційно-відновлювальні роботи |
-| `catalogs/d2.6-puskonaladzhuvalni.json` | Пусконалагоджувальні роботи |
-| `zbirnyky/d2.2/*.json` | Детальні групи й норми будівельних робіт |
-| `zbirnyky/d2.3/*.json` | Пріоритетні монтажні збірники |
-| `zbirnyky/d2.4/*.json` | Пріоритетні ремонтні збірники |
-| `exports/all-norms.csv` | Плоский експорт усіх згенерованих норм |
-| `exports/priorytet-prytulok.csv` | Норми, позначені для кошторису притулку |
+| `catalogs/index.json` | Зведений індекс комплексів Д.2.2–Д.2.7 |
+| `zbirnyky/d2.2/*.json` | 47 збірників будівельних робіт (+ техчастина у поглиблених) |
+| `zbirnyky/d2.3/*.json` | 39 збірників монтажу |
+| `zbirnyky/d2.4/*.json` | 20 збірників ремонту |
+| `exports/all-norms.csv` | Норми з прямими витратами |
+| `exports/priorytet-prytulok.csv` | Пріоритет для притулку |
+| `exports/resources-detail*.csv` | Розклад труда/машин/матеріалів |
+| `exports/lokalnyy-koshtorys-prytulok.csv` | Укрупнений локальний кошторис |
+| `koshtorys-prytulok.md` | Інструкція до кошторису |
 
 ## Шифр норми
 
-Формат: `збірник-група-норма` (наприклад `8-5-1`).
+Формат: `збірник-група-норма` (наприклад `8-22-1`).
 
-Марки в кошторисних програмах:
-
-- **ЕД** — будівельні роботи (ДСТУ Б Д.2.2)
-- **М** — монтаж устаткування (ДСТУ Б Д.2.3)
-- **Р** — ремонтно-будівельні (ДСТУ Б Д.2.4)
-- **В** — реставрація (Д.2.5)
-- **ПН** — пусконалагодження (Д.2.6)
-- **С2** — машини і механізми (Д.2.7)
+Марки: **ЕД** (Д.2.2), **М** (Д.2.3), **Р** (Д.2.4), **В** (Д.2.5), **ПН** (Д.2.6), **С2** (Д.2.7).
 
 ## Важливо
 
-Це **довідковий робочий каталог** структури збірників і типових позицій робіт для складання кошторису.
-
-Поля `resursy` (труд, машини, матеріали) навмисно порожні: кількісні показники РЕКН захищені авторським правом і мають братися з офіційного тексту ДСТУ / КНУ РЕКН (НВФ «Інпроект», ЦМДБ тощо).
-
-Пріоритетні збірники для дитячого притулку позначені `"priorytet_prytulok": true`.
+Ресурси — орієнтовні укрупнені показники для попереднього кошторису.  
+Перед затвердженням інвесторського кошторису звірити з чинним КНУ РЕКН / ДСТУ та регіональними цінами.
 
 ## Оновлення
 
@@ -1931,6 +1926,7 @@ def main() -> None:
         else:
             z = stub_zbirnyk("Д.2.2", n, name, "ЕД")
         z = apply_extra(z, "Д.2.2")
+        z = deepen_all(z)
         z = fill_zbirnyk(z)
         dump_json(ZBIRNYKY_D22 / f"{n:02d}.json", z)
         all_rows.extend(flatten_norms(z))
@@ -2062,6 +2058,30 @@ def main() -> None:
     }
     dump_json(CATALOGS / "summary.json", summary)
     write_readme()
+
+    # Шаблон локального кошторису притулку
+    try:
+        from shelter_estimate import build_estimate
+        est = build_estimate()
+        dump_json(EXPORTS / "lokalnyy-koshtorys-prytulok.json", est)
+        est_fields = [
+            "npp", "shifr", "nazva", "komentar_obsyagu", "odynytsya", "kilkist",
+            "tsina_za_od_uah", "suma_uah", "trud_lyud_god", "trud_vsogo_lyud_god", "zbirnyk", "dstu",
+        ]
+        with (EXPORTS / "lokalnyy-koshtorys-prytulok.csv").open("w", encoding="utf-8", newline="") as f:
+            w = csv.DictWriter(f, fieldnames=est_fields)
+            w.writeheader()
+            for r in est["pozytsiyi"]:
+                w.writerow({k: r.get(k) for k in est_fields})
+        summary["lokalnyy_koshtorys_prytulok"] = est["pidsumky"]
+        summary["pogiybleni_zbirnyky_d22"] = sorted(
+            int(p.stem) for p in ZBIRNYKY_D22.glob("*.json")
+            if json.loads(p.read_text(encoding="utf-8")).get("pogiyblennya")
+        )
+        dump_json(CATALOGS / "summary.json", summary)
+    except Exception as exc:
+        summary["lokalnyy_koshtorys_error"] = str(exc)
+
     print(json.dumps(summary, ensure_ascii=False, indent=2))
 
 

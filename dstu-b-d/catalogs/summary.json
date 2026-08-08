@@ -2,8 +2,8 @@
   "zbirnykiv_d22": 47,
   "zbirnykiv_d23": 39,
   "zbirnykiv_d24": 20,
-  "norm_vsogo": 854,
-  "norm_priorytet": 479,
+  "norm_vsogo": 990,
+  "norm_priorytet": 615,
   "napovneno_d22": [
     1,
     2,
@@ -118,6 +118,29 @@
   ],
   "zbirnykiv_napovneno": 106,
   "zbirnykiv_vsogo": 106,
-  "norm_z_resursamy": 854,
-  "suma_priamyh_vytrat_priorytet_uah": 13221837.85
+  "norm_z_resursamy": 990,
+  "suma_priamyh_vytrat_priorytet_uah": 16565612.31,
+  "lokalnyy_koshtorys_prytulok": {
+    "kilkist_pozytsiy": 70,
+    "priami_vytraty_uah": 15917755.99,
+    "zagalnovyrobnychi_20pct_uah": 3183551.2,
+    "admin_3pct_uah": 477532.68,
+    "prybutok_5pct_uah": 795887.8,
+    "razom_bez_pdv_uah": 20374727.67,
+    "pdv_20pct_uah": 4074945.53,
+    "vsego_z_pdv_uah": 24449673.2,
+    "trud_robitnykiv_lyud_god": 35928.4
+  },
+  "pogiybleni_zbirnyky_d22": [
+    1,
+    6,
+    8,
+    11,
+    12,
+    15,
+    17,
+    18,
+    20,
+    21
+  ]
 }

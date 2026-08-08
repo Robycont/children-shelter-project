@@ -14,32 +14,37 @@
   "grupy": [
     {
       "grupa": 1,
-      "nazva": "Улаштування фундаментів бетонних",
+      "nazva": "Фундаменти бетонні",
       "odynytsya": "100 м3",
       "sklad_robit": [
-        "Установлення опалубки",
+        "Опалубка",
         "Укладання бетону",
-        "Догляд за бетоном",
-        "Розбирання опалубки"
+        "Ущільнення",
+        "Догляд",
+        "Розпалублення"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "6-1-1",
-          "nazva": "Улаштування фундаментів бетонних стрічкових",
+          "nazva": "Улаштування стрічкових фундаментів бетонних шириною до 1 м",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Подача суміші",
-            "Укладання",
+            "Опалубка",
+            "Укладання бетону",
             "Ущільнення",
-            "Догляд за бетоном"
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 6.765,
+              "lyud_god": 6.58,
               "seredniy_rozryad": 3.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 642.67
+              "vartist_uah": 625.1
             },
             "trud_mashynistiv": {
               "lyud_god": 0.6,
@@ -81,35 +86,38 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 708.67,
+              "vartist_trudu_uah": 691.1,
               "vartist_mashyn_uah": 996.0,
               "vartist_materialiv_uah": 3272.0,
-              "priami_vytraty_uah": 4976.67,
+              "priami_vytraty_uah": 4959.1,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 6.765,
+            "trud_lyud_god": 6.58,
             "mashynisty_lyud_god": 0.6
           }
         },
         {
           "shifr": "6-1-2",
-          "nazva": "Улаштування фундаментів бетонних стовпчастих",
+          "nazva": "Улаштування стрічкових фундаментів бетонних шириною понад 1 м",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Подача суміші",
-            "Укладання",
+            "Опалубка",
+            "Укладання бетону",
             "Ущільнення",
-            "Догляд за бетоном"
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 7.93,
+              "lyud_god": 6.709,
               "seredniy_rozryad": 3.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 753.35
+              "vartist_uah": 637.36
             },
             "trud_mashynistiv": {
               "lyud_god": 0.6,
@@ -151,35 +159,38 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 819.35,
+              "vartist_trudu_uah": 703.36,
               "vartist_mashyn_uah": 996.0,
               "vartist_materialiv_uah": 3272.0,
-              "priami_vytraty_uah": 5087.35,
+              "priami_vytraty_uah": 4971.36,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 7.93,
+            "trud_lyud_god": 6.709,
             "mashynisty_lyud_god": 0.6
           }
         },
         {
           "shifr": "6-1-3",
-          "nazva": "Улаштування фундаментних плит бетонних",
+          "nazva": "Улаштування стовпчастих фундаментів бетонних об'ємом до 3 м3",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Подача суміші",
-            "Укладання",
+            "Опалубка",
+            "Укладання бетону",
             "Ущільнення",
-            "Догляд за бетоном"
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 6.721,
+              "lyud_god": 8.469,
               "seredniy_rozryad": 3.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 638.5
+              "vartist_uah": 804.55
             },
             "trud_mashynistiv": {
               "lyud_god": 0.6,
@@ -221,15 +232,305 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 704.5,
+              "vartist_trudu_uah": 870.55,
               "vartist_mashyn_uah": 996.0,
               "vartist_materialiv_uah": 3272.0,
-              "priami_vytraty_uah": 4972.5,
+              "priami_vytraty_uah": 5138.55,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 6.721,
+            "trud_lyud_god": 8.469,
+            "mashynisty_lyud_god": 0.6
+          }
+        },
+        {
+          "shifr": "6-1-4",
+          "nazva": "Улаштування стовпчастих фундаментів бетонних об'ємом понад 3 м3",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Опалубка",
+            "Укладання бетону",
+            "Ущільнення",
+            "Догляд",
+            "Розпалублення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 7.246,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 688.37
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.6,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 66.0
+            },
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран / бетононасос",
+                "mash_god": 0.6,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 900.0
+              },
+              {
+                "kod": "С211-1",
+                "nazva": "Вібратор глибинний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 120,
+                "vartist_uah": 96.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С120-1",
+                "nazva": "Бетон товарний В15–В25",
+                "odynytsya": "м3",
+                "vytrata": 1.02,
+                "tsina_za_od_uah": 3200,
+                "vartist_uah": 3264.0
+              },
+              {
+                "kod": "С121-1",
+                "nazva": "Вода",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 40,
+                "vartist_uah": 8.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 754.37,
+              "vartist_mashyn_uah": 996.0,
+              "vartist_materialiv_uah": 3272.0,
+              "priami_vytraty_uah": 5022.37,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 7.246,
+            "mashynisty_lyud_god": 0.6
+          }
+        },
+        {
+          "shifr": "6-1-5",
+          "nazva": "Улаштування фундаментних плит бетонних товщиною до 300 мм",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Опалубка бортів",
+            "Укладання бетону",
+            "Ущільнення",
+            "Загладжування",
+            "Догляд"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 7.635,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 725.32
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.6,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 66.0
+            },
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран / бетононасос",
+                "mash_god": 0.6,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 900.0
+              },
+              {
+                "kod": "С211-1",
+                "nazva": "Вібратор глибинний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 120,
+                "vartist_uah": 96.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С120-1",
+                "nazva": "Бетон товарний В15–В25",
+                "odynytsya": "м3",
+                "vytrata": 1.02,
+                "tsina_za_od_uah": 3200,
+                "vartist_uah": 3264.0
+              },
+              {
+                "kod": "С121-1",
+                "nazva": "Вода",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 40,
+                "vartist_uah": 8.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 791.32,
+              "vartist_mashyn_uah": 996.0,
+              "vartist_materialiv_uah": 3272.0,
+              "priami_vytraty_uah": 5059.32,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 7.635,
+            "mashynisty_lyud_god": 0.6
+          }
+        },
+        {
+          "shifr": "6-1-6",
+          "nazva": "Улаштування фундаментних плит бетонних товщиною понад 300 мм",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Опалубка бортів",
+            "Укладання бетону",
+            "Ущільнення",
+            "Загладжування",
+            "Догляд"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 7.916,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 752.02
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.6,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 66.0
+            },
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран / бетононасос",
+                "mash_god": 0.6,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 900.0
+              },
+              {
+                "kod": "С211-1",
+                "nazva": "Вібратор глибинний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 120,
+                "vartist_uah": 96.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С120-1",
+                "nazva": "Бетон товарний В15–В25",
+                "odynytsya": "м3",
+                "vytrata": 1.02,
+                "tsina_za_od_uah": 3200,
+                "vartist_uah": 3264.0
+              },
+              {
+                "kod": "С121-1",
+                "nazva": "Вода",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 40,
+                "vartist_uah": 8.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 818.02,
+              "vartist_mashyn_uah": 996.0,
+              "vartist_materialiv_uah": 3272.0,
+              "priami_vytraty_uah": 5086.02,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 7.916,
+            "mashynisty_lyud_god": 0.6
+          }
+        },
+        {
+          "shifr": "6-1-7",
+          "nazva": "Улаштування бетонної підготовки під фундаменти",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Укладання бетону",
+            "Ущільнення",
+            "Загладжування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 8.332,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 791.54
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.6,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 66.0
+            },
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран / бетононасос",
+                "mash_god": 0.6,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 900.0
+              },
+              {
+                "kod": "С211-1",
+                "nazva": "Вібратор глибинний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 120,
+                "vartist_uah": 96.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С120-1",
+                "nazva": "Бетон товарний В15–В25",
+                "odynytsya": "м3",
+                "vytrata": 1.02,
+                "tsina_za_od_uah": 3200,
+                "vartist_uah": 3264.0
+              },
+              {
+                "kod": "С121-1",
+                "nazva": "Вода",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 40,
+                "vartist_uah": 8.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 857.54,
+              "vartist_mashyn_uah": 996.0,
+              "vartist_materialiv_uah": 3272.0,
+              "priami_vytraty_uah": 5125.54,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 8.332,
             "mashynisty_lyud_god": 0.6
           }
         }
@@ -237,32 +538,37 @@
     },
     {
       "grupa": 2,
-      "nazva": "Улаштування фундаментів залізобетонних",
+      "nazva": "Фундаменти залізобетонні",
       "odynytsya": "100 м3",
       "sklad_robit": [
-        "Подача суміші",
-        "Укладання",
-        "Ущільнення",
-        "Догляд за бетоном"
+        "Опалубка",
+        "Армування",
+        "Бетонування",
+        "Догляд",
+        "Розпалублення"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "6-2-1",
-          "nazva": "Улаштування фундаментів залізобетонних стрічкових",
+          "nazva": "Улаштування стрічкових фундаментів залізобетонних",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Подача суміші",
-            "Укладання",
-            "Ущільнення",
-            "Догляд за бетоном"
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 8.013,
+              "lyud_god": 6.96,
               "seredniy_rozryad": 3.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 761.24
+              "vartist_uah": 661.2
             },
             "trud_mashynistiv": {
               "lyud_god": 0.6,
@@ -304,35 +610,38 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 827.24,
+              "vartist_trudu_uah": 727.2,
               "vartist_mashyn_uah": 996.0,
               "vartist_materialiv_uah": 3272.0,
-              "priami_vytraty_uah": 5095.24,
+              "priami_vytraty_uah": 4995.2,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 8.013,
+            "trud_lyud_god": 6.96,
             "mashynisty_lyud_god": 0.6
           }
         },
         {
           "shifr": "6-2-2",
-          "nazva": "Улаштування фундаментів залізобетонних стовпчастих",
+          "nazva": "Улаштування стовпчастих фундаментів залізобетонних",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Подача суміші",
-            "Укладання",
-            "Ущільнення",
-            "Догляд за бетоном"
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 7.437,
+              "lyud_god": 7.528,
               "seredniy_rozryad": 3.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 706.51
+              "vartist_uah": 715.16
             },
             "trud_mashynistiv": {
               "lyud_god": 0.6,
@@ -374,35 +683,37 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 772.51,
+              "vartist_trudu_uah": 781.16,
               "vartist_mashyn_uah": 996.0,
               "vartist_materialiv_uah": 3272.0,
-              "priami_vytraty_uah": 5040.51,
+              "priami_vytraty_uah": 5049.16,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 7.437,
+            "trud_lyud_god": 7.528,
             "mashynisty_lyud_god": 0.6
           }
         },
         {
           "shifr": "6-2-3",
-          "nazva": "Улаштування фундаментних плит залізобетонних",
+          "nazva": "Улаштування фундаментних плит залізобетонних товщиною до 300 мм",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Подача суміші",
-            "Укладання",
-            "Ущільнення",
-            "Догляд за бетоном"
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 7.857,
+              "lyud_god": 7.595,
               "seredniy_rozryad": 3.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 746.41
+              "vartist_uah": 721.52
             },
             "trud_mashynistiv": {
               "lyud_god": 0.6,
@@ -444,35 +755,37 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 812.41,
+              "vartist_trudu_uah": 787.52,
               "vartist_mashyn_uah": 996.0,
               "vartist_materialiv_uah": 3272.0,
-              "priami_vytraty_uah": 5080.41,
+              "priami_vytraty_uah": 5055.52,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 7.857,
+            "trud_lyud_god": 7.595,
             "mashynisty_lyud_god": 0.6
           }
         },
         {
           "shifr": "6-2-4",
-          "nazva": "Улаштування ростверків залізобетонних",
+          "nazva": "Улаштування фундаментних плит залізобетонних товщиною 300–500 мм",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Подача суміші",
-            "Укладання",
-            "Ущільнення",
-            "Догляд за бетоном"
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 8.294,
+              "lyud_god": 7.705,
               "seredniy_rozryad": 3.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 787.93
+              "vartist_uah": 731.98
             },
             "trud_mashynistiv": {
               "lyud_god": 0.6,
@@ -514,15 +827,233 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 853.93,
+              "vartist_trudu_uah": 797.98,
               "vartist_mashyn_uah": 996.0,
               "vartist_materialiv_uah": 3272.0,
-              "priami_vytraty_uah": 5121.93,
+              "priami_vytraty_uah": 5065.98,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 8.294,
+            "trud_lyud_god": 7.705,
+            "mashynisty_lyud_god": 0.6
+          }
+        },
+        {
+          "shifr": "6-2-5",
+          "nazva": "Улаштування фундаментних плит залізобетонних товщиною понад 500 мм",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 7.53,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 715.35
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.6,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 66.0
+            },
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран / бетононасос",
+                "mash_god": 0.6,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 900.0
+              },
+              {
+                "kod": "С211-1",
+                "nazva": "Вібратор глибинний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 120,
+                "vartist_uah": 96.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С120-1",
+                "nazva": "Бетон товарний В15–В25",
+                "odynytsya": "м3",
+                "vytrata": 1.02,
+                "tsina_za_od_uah": 3200,
+                "vartist_uah": 3264.0
+              },
+              {
+                "kod": "С121-1",
+                "nazva": "Вода",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 40,
+                "vartist_uah": 8.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 781.35,
+              "vartist_mashyn_uah": 996.0,
+              "vartist_materialiv_uah": 3272.0,
+              "priami_vytraty_uah": 5049.35,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 7.53,
+            "mashynisty_lyud_god": 0.6
+          }
+        },
+        {
+          "shifr": "6-2-6",
+          "nazva": "Улаштування ростверків залізобетонних стрічкових",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 7.641,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 725.89
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.6,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 66.0
+            },
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран / бетононасос",
+                "mash_god": 0.6,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 900.0
+              },
+              {
+                "kod": "С211-1",
+                "nazva": "Вібратор глибинний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 120,
+                "vartist_uah": 96.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С120-1",
+                "nazva": "Бетон товарний В15–В25",
+                "odynytsya": "м3",
+                "vytrata": 1.02,
+                "tsina_za_od_uah": 3200,
+                "vartist_uah": 3264.0
+              },
+              {
+                "kod": "С121-1",
+                "nazva": "Вода",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 40,
+                "vartist_uah": 8.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 791.89,
+              "vartist_mashyn_uah": 996.0,
+              "vartist_materialiv_uah": 3272.0,
+              "priami_vytraty_uah": 5059.89,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 7.641,
+            "mashynisty_lyud_god": 0.6
+          }
+        },
+        {
+          "shifr": "6-2-7",
+          "nazva": "Улаштування ростверків залізобетонних окремо розташованих",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 6.968,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 661.96
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.6,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 66.0
+            },
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран / бетононасос",
+                "mash_god": 0.6,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 900.0
+              },
+              {
+                "kod": "С211-1",
+                "nazva": "Вібратор глибинний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 120,
+                "vartist_uah": 96.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С120-1",
+                "nazva": "Бетон товарний В15–В25",
+                "odynytsya": "м3",
+                "vytrata": 1.02,
+                "tsina_za_od_uah": 3200,
+                "vartist_uah": 3264.0
+              },
+              {
+                "kod": "С121-1",
+                "nazva": "Вода",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 40,
+                "vartist_uah": 8.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 727.96,
+              "vartist_mashyn_uah": 996.0,
+              "vartist_materialiv_uah": 3272.0,
+              "priami_vytraty_uah": 4995.96,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 6.968,
             "mashynisty_lyud_god": 0.6
           }
         }
@@ -530,32 +1061,37 @@
     },
     {
       "grupa": 3,
-      "nazva": "Улаштування стін і перегородок",
+      "nazva": "Стіни і перегородки монолітні",
       "odynytsya": "100 м3",
       "sklad_robit": [
-        "Подача суміші",
-        "Укладання",
-        "Ущільнення",
-        "Догляд за бетоном"
+        "Опалубка",
+        "Армування",
+        "Бетонування",
+        "Догляд",
+        "Розпалублення"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "6-3-1",
-          "nazva": "Улаштування стін підвалів залізобетонних",
+          "nazva": "Улаштування стін підвалів залізобетонних товщиною до 200 мм",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Подача суміші",
-            "Укладання",
-            "Ущільнення",
-            "Догляд за бетоном"
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 7.248,
+              "lyud_god": 7.685,
               "seredniy_rozryad": 3.5,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 688.56
+              "vartist_uah": 730.07
             },
             "trud_mashynistiv": {
               "lyud_god": 0.6,
@@ -597,29 +1133,178 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 754.56,
+              "vartist_trudu_uah": 796.07,
               "vartist_mashyn_uah": 996.0,
               "vartist_materialiv_uah": 3272.0,
-              "priami_vytraty_uah": 5022.56,
+              "priami_vytraty_uah": 5064.07,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 7.248,
+            "trud_lyud_god": 7.685,
             "mashynisty_lyud_god": 0.6
           }
         },
         {
           "shifr": "6-3-2",
+          "nazva": "Улаштування стін підвалів залізобетонних товщиною 200–400 мм",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 7.206,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 684.57
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.6,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 66.0
+            },
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран / бетононасос",
+                "mash_god": 0.6,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 900.0
+              },
+              {
+                "kod": "С211-1",
+                "nazva": "Вібратор глибинний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 120,
+                "vartist_uah": 96.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С120-1",
+                "nazva": "Бетон товарний В15–В25",
+                "odynytsya": "м3",
+                "vytrata": 1.02,
+                "tsina_za_od_uah": 3200,
+                "vartist_uah": 3264.0
+              },
+              {
+                "kod": "С121-1",
+                "nazva": "Вода",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 40,
+                "vartist_uah": 8.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 750.57,
+              "vartist_mashyn_uah": 996.0,
+              "vartist_materialiv_uah": 3272.0,
+              "priami_vytraty_uah": 5018.57,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 7.206,
+            "mashynisty_lyud_god": 0.6
+          }
+        },
+        {
+          "shifr": "6-3-3",
+          "nazva": "Улаштування стін підвалів залізобетонних товщиною понад 400 мм",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 7.613,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 723.24
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.6,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 66.0
+            },
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран / бетононасос",
+                "mash_god": 0.6,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 900.0
+              },
+              {
+                "kod": "С211-1",
+                "nazva": "Вібратор глибинний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 120,
+                "vartist_uah": 96.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С120-1",
+                "nazva": "Бетон товарний В15–В25",
+                "odynytsya": "м3",
+                "vytrata": 1.02,
+                "tsina_za_od_uah": 3200,
+                "vartist_uah": 3264.0
+              },
+              {
+                "kod": "С121-1",
+                "nazva": "Вода",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 40,
+                "vartist_uah": 8.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 789.24,
+              "vartist_mashyn_uah": 996.0,
+              "vartist_materialiv_uah": 3272.0,
+              "priami_vytraty_uah": 5057.24,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 7.613,
+            "mashynisty_lyud_god": 0.6
+          }
+        },
+        {
+          "shifr": "6-3-4",
           "nazva": "Улаштування стін надземної частини залізобетонних",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Подача суміші",
-            "Укладання",
-            "Ущільнення",
-            "Догляд за бетоном"
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 6.759,
@@ -680,16 +1365,85 @@
           }
         },
         {
-          "shifr": "6-3-3",
+          "shifr": "6-3-5",
+          "nazva": "Улаштування діафрагм жорсткості",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 4.382,
+              "seredniy_rozryad": 4.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 416.29
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С190-1",
+                "nazva": "Прилад санітарний / опалювальний",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 3500,
+                "vartist_uah": 3500.0
+              },
+              {
+                "kod": "С191-1",
+                "nazva": "Підводка / кріплення / арматура",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 650.0
+              },
+              {
+                "kod": "С192-1",
+                "nazva": "Герметик / ущільнювачі",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 80.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 416.29,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 4230.0,
+              "priami_vytraty_uah": 4646.29,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 4.382,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "6-3-6",
           "nazva": "Улаштування перегородок залізобетонних",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Подача суміші",
-            "Укладання",
-            "Ущільнення",
-            "Догляд за бетоном"
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 6.5,
@@ -753,32 +1507,37 @@
     },
     {
       "grupa": 4,
-      "nazva": "Улаштування колон",
+      "nazva": "Колони",
       "odynytsya": "100 м3",
       "sklad_robit": [
-        "Розмітка",
-        "Установлення приладу",
-        "Підключення",
-        "Перевірка"
+        "Опалубка",
+        "Армування",
+        "Бетонування",
+        "Догляд",
+        "Розпалублення"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "6-4-1",
-          "nazva": "Улаштування колон прямокутних перерізом до 0,3 м2",
+          "nazva": "Улаштування колон прямокутних перерізом до 0,15 м2",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.091,
+              "lyud_god": 4.184,
               "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 388.65
+              "vartist_uah": 397.48
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -813,29 +1572,98 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 388.65,
+              "vartist_trudu_uah": 397.48,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4618.65,
+              "priami_vytraty_uah": 4627.48,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.091,
+            "trud_lyud_god": 4.184,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "6-4-2",
+          "nazva": "Улаштування колон прямокутних перерізом 0,15–0,3 м2",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 4.45,
+              "seredniy_rozryad": 4.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 422.75
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С190-1",
+                "nazva": "Прилад санітарний / опалювальний",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 3500,
+                "vartist_uah": 3500.0
+              },
+              {
+                "kod": "С191-1",
+                "nazva": "Підводка / кріплення / арматура",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 650.0
+              },
+              {
+                "kod": "С192-1",
+                "nazva": "Герметик / ущільнювачі",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 80.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 422.75,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 4230.0,
+              "priami_vytraty_uah": 4652.75,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 4.45,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "6-4-3",
           "nazva": "Улаштування колон прямокутних перерізом понад 0,3 м2",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 4.18,
@@ -889,22 +1717,25 @@
           }
         },
         {
-          "shifr": "6-4-3",
-          "nazva": "Улаштування колон круглих",
+          "shifr": "6-4-4",
+          "nazva": "Улаштування колон круглих діаметром до 400 мм",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.513,
+              "lyud_god": 3.566,
               "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 333.74
+              "vartist_uah": 338.77
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -939,15 +1770,81 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 333.74,
+              "vartist_trudu_uah": 338.77,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4563.74,
+              "priami_vytraty_uah": 4568.77,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.513,
+            "trud_lyud_god": 3.566,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "6-4-5",
+          "nazva": "Улаштування колон круглих діаметром понад 400 мм",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 3.97,
+              "seredniy_rozryad": 4.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 377.15
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С190-1",
+                "nazva": "Прилад санітарний / опалювальний",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 3500,
+                "vartist_uah": 3500.0
+              },
+              {
+                "kod": "С191-1",
+                "nazva": "Підводка / кріплення / арматура",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 650.0
+              },
+              {
+                "kod": "С192-1",
+                "nazva": "Герметик / ущільнювачі",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 80.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 377.15,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 4230.0,
+              "priami_vytraty_uah": 4607.15,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 3.97,
             "mashynisty_lyud_god": 0.0
           }
         }
@@ -955,32 +1852,37 @@
     },
     {
       "grupa": 5,
-      "nazva": "Улаштування перекриттів і покриттів",
+      "nazva": "Перекриття, покриття, балки",
       "odynytsya": "100 м3",
       "sklad_robit": [
-        "Розмітка",
-        "Установлення приладу",
-        "Підключення",
-        "Перевірка"
+        "Опалубка на риштуваннях",
+        "Армування",
+        "Бетонування",
+        "Догляд",
+        "Розпалублення"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "6-5-1",
-          "nazva": "Улаштування перекриттів безбалкових товщиною до 200 мм",
+          "nazva": "Улаштування перекриттів безбалкових товщиною до 160 мм",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Опалубка на риштуваннях",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.389,
+              "lyud_god": 3.671,
               "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 416.96
+              "vartist_uah": 348.75
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -1015,29 +1917,98 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 416.96,
+              "vartist_trudu_uah": 348.75,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4646.96,
+              "priami_vytraty_uah": 4578.75,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.389,
+            "trud_lyud_god": 3.671,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "6-5-2",
+          "nazva": "Улаштування перекриттів безбалкових товщиною 160–200 мм",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Опалубка на риштуваннях",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 3.89,
+              "seredniy_rozryad": 4.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 369.55
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С190-1",
+                "nazva": "Прилад санітарний / опалювальний",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 3500,
+                "vartist_uah": 3500.0
+              },
+              {
+                "kod": "С191-1",
+                "nazva": "Підводка / кріплення / арматура",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 650.0
+              },
+              {
+                "kod": "С192-1",
+                "nazva": "Герметик / ущільнювачі",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 80.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 369.55,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 4230.0,
+              "priami_vytraty_uah": 4599.55,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 3.89,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "6-5-3",
           "nazva": "Улаштування перекриттів безбалкових товщиною понад 200 мм",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Опалубка на риштуваннях",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 3.797,
@@ -1091,16 +2062,19 @@
           }
         },
         {
-          "shifr": "6-5-3",
+          "shifr": "6-5-4",
           "nazva": "Улаштування перекриттів ребристих",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 3.912,
@@ -1154,22 +2128,25 @@
           }
         },
         {
-          "shifr": "6-5-4",
-          "nazva": "Улаштування балок і ригелів",
+          "shifr": "6-5-5",
+          "nazva": "Улаштування балок і ригелів висотою до 400 мм",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.239,
+              "lyud_god": 3.514,
               "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 402.7
+              "vartist_uah": 333.83
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -1204,46 +2181,192 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 402.7,
+              "vartist_trudu_uah": 333.83,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4632.7,
+              "priami_vytraty_uah": 4563.83,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.239,
+            "trud_lyud_god": 3.514,
             "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "6-5-6",
+          "nazva": "Улаштування балок і ригелів висотою понад 400 мм",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 3.906,
+              "seredniy_rozryad": 4.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 371.07
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С190-1",
+                "nazva": "Прилад санітарний / опалювальний",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 3500,
+                "vartist_uah": 3500.0
+              },
+              {
+                "kod": "С191-1",
+                "nazva": "Підводка / кріплення / арматура",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 650.0
+              },
+              {
+                "kod": "С192-1",
+                "nazva": "Герметик / ущільнювачі",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 80.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 371.07,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 4230.0,
+              "priami_vytraty_uah": 4601.07,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 3.906,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "6-5-7",
+          "nazva": "Улаштування поясів і обв'язок залізобетонних",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 7.97,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 757.15
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.6,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 66.0
+            },
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран / бетононасос",
+                "mash_god": 0.6,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 900.0
+              },
+              {
+                "kod": "С211-1",
+                "nazva": "Вібратор глибинний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 120,
+                "vartist_uah": 96.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С120-1",
+                "nazva": "Бетон товарний В15–В25",
+                "odynytsya": "м3",
+                "vytrata": 1.02,
+                "tsina_za_od_uah": 3200,
+                "vartist_uah": 3264.0
+              },
+              {
+                "kod": "С121-1",
+                "nazva": "Вода",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 40,
+                "vartist_uah": 8.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 823.15,
+              "vartist_mashyn_uah": 996.0,
+              "vartist_materialiv_uah": 3272.0,
+              "priami_vytraty_uah": 5091.15,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 7.97,
+            "mashynisty_lyud_god": 0.6
           }
         }
       ]
     },
     {
       "grupa": 6,
-      "nazva": "Арматурні роботи",
+      "nazva": "Арматурні роботи (окремо)",
       "odynytsya": "т",
       "sklad_robit": [
-        "Сортування арматури",
+        "Сортування",
         "Гнуття",
-        "Установлення і в'язання"
+        "Укладання",
+        "В'язання",
+        "Установлення фіксаторів"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "6-6-1",
-          "nazva": "Установлення арматури в фундаментах",
+          "nazva": "Установлення арматури окремих стержнів у фундаментах",
           "odynytsya": "т",
           "sklad_robit": [
-            "Сортування арматури",
+            "Сортування",
             "Гнуття",
-            "Установлення і в'язання"
+            "Укладання",
+            "В'язання",
+            "Установлення фіксаторів"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 18.709,
+              "lyud_god": 18.655,
               "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 1777.36
+              "vartist_uah": 1772.23
             },
             "trud_mashynistiv": {
               "lyud_god": 0.4,
@@ -1278,34 +2401,38 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 1821.36,
+              "vartist_trudu_uah": 1816.23,
               "vartist_mashyn_uah": 560.0,
               "vartist_materialiv_uah": 33000.0,
-              "priami_vytraty_uah": 35381.36,
+              "priami_vytraty_uah": 35376.23,
               "odynytsya": "т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 18.709,
+            "trud_lyud_god": 18.655,
             "mashynisty_lyud_god": 0.4
           }
         },
         {
           "shifr": "6-6-2",
-          "nazva": "Установлення арматури в стінах і перегородках",
+          "nazva": "Установлення арматури окремих стержнів у стінах",
           "odynytsya": "т",
           "sklad_robit": [
-            "Сортування арматури",
+            "Сортування",
             "Гнуття",
-            "Установлення і в'язання"
+            "Укладання",
+            "В'язання",
+            "Установлення фіксаторів"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 21.308,
+              "lyud_god": 20.123,
               "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 2024.26
+              "vartist_uah": 1911.69
             },
             "trud_mashynistiv": {
               "lyud_god": 0.4,
@@ -1340,34 +2467,37 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 2068.26,
+              "vartist_trudu_uah": 1955.69,
               "vartist_mashyn_uah": 560.0,
               "vartist_materialiv_uah": 33000.0,
-              "priami_vytraty_uah": 35628.26,
+              "priami_vytraty_uah": 35515.69,
               "odynytsya": "т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 21.308,
+            "trud_lyud_god": 20.123,
             "mashynisty_lyud_god": 0.4
           }
         },
         {
           "shifr": "6-6-3",
-          "nazva": "Установлення арматури в колонах",
+          "nazva": "Установлення арматури окремих стержнів у колонах",
           "odynytsya": "т",
           "sklad_robit": [
-            "Сортування арматури",
+            "Сортування",
             "Гнуття",
-            "Установлення і в'язання"
+            "Укладання",
+            "В'язання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 19.479,
+              "lyud_god": 18.298,
               "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 1850.5
+              "vartist_uah": 1738.31
             },
             "trud_mashynistiv": {
               "lyud_god": 0.4,
@@ -1402,34 +2532,38 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 1894.5,
+              "vartist_trudu_uah": 1782.31,
               "vartist_mashyn_uah": 560.0,
               "vartist_materialiv_uah": 33000.0,
-              "priami_vytraty_uah": 35454.5,
+              "priami_vytraty_uah": 35342.31,
               "odynytsya": "т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 19.479,
+            "trud_lyud_god": 18.298,
             "mashynisty_lyud_god": 0.4
           }
         },
         {
           "shifr": "6-6-4",
-          "nazva": "Установлення арматури в перекриттях",
+          "nazva": "Установлення арматури окремих стержнів у перекриттях",
           "odynytsya": "т",
           "sklad_robit": [
-            "Сортування арматури",
+            "Сортування",
             "Гнуття",
-            "Установлення і в'язання"
+            "Укладання",
+            "В'язання",
+            "Установлення фіксаторів"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 19.805,
+              "lyud_god": 20.135,
               "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 1881.47
+              "vartist_uah": 1912.83
             },
             "trud_mashynistiv": {
               "lyud_god": 0.4,
@@ -1464,34 +2598,37 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 1925.47,
+              "vartist_trudu_uah": 1956.83,
               "vartist_mashyn_uah": 560.0,
               "vartist_materialiv_uah": 33000.0,
-              "priami_vytraty_uah": 35485.47,
+              "priami_vytraty_uah": 35516.83,
               "odynytsya": "т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 19.805,
+            "trud_lyud_god": 20.135,
             "mashynisty_lyud_god": 0.4
           }
         },
         {
           "shifr": "6-6-5",
-          "nazva": "Установлення арматурних сіток і каркасів",
+          "nazva": "Установлення арматурних сіток плоских",
           "odynytsya": "т",
           "sklad_robit": [
-            "Сортування арматури",
-            "Гнуття",
-            "Установлення і в'язання"
+            "Подача",
+            "Укладання",
+            "Стикування",
+            "Фіксація"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 20.78,
+              "lyud_god": 18.693,
               "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 1974.1
+              "vartist_uah": 1775.84
             },
             "trud_mashynistiv": {
               "lyud_god": 0.4,
@@ -1526,15 +2663,144 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 2018.1,
+              "vartist_trudu_uah": 1819.84,
               "vartist_mashyn_uah": 560.0,
               "vartist_materialiv_uah": 33000.0,
-              "priami_vytraty_uah": 35578.1,
+              "priami_vytraty_uah": 35379.84,
               "odynytsya": "т",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 20.78,
+            "trud_lyud_god": 18.693,
+            "mashynisty_lyud_god": 0.4
+          }
+        },
+        {
+          "shifr": "6-6-6",
+          "nazva": "Установлення арматурних каркасів просторових",
+          "odynytsya": "т",
+          "sklad_robit": [
+            "Подача краном",
+            "Установлення",
+            "Вивірка",
+            "Закріплення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 19.628,
+              "seredniy_rozryad": 4.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 1864.66
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.4,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 44.0
+            },
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 10 т",
+                "mash_god": 0.4,
+                "tsina_mash_god_uah": 1400,
+                "vartist_uah": 560.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С111-1",
+                "nazva": "Арматура періодичного профілю А400/А500",
+                "odynytsya": "т",
+                "vytrata": 1.02,
+                "tsina_za_od_uah": 32000,
+                "vartist_uah": 32640.0
+              },
+              {
+                "kod": "С112-1",
+                "nazva": "Дріт в'язальний",
+                "odynytsya": "кг",
+                "vytrata": 8.0,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 360.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 1908.66,
+              "vartist_mashyn_uah": 560.0,
+              "vartist_materialiv_uah": 33000.0,
+              "priami_vytraty_uah": 35468.66,
+              "odynytsya": "т",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 19.628,
+            "mashynisty_lyud_god": 0.4
+          }
+        },
+        {
+          "shifr": "6-6-7",
+          "nazva": "Зварювання арматурних стиків",
+          "odynytsya": "т",
+          "sklad_robit": [
+            "Підготовка стиків",
+            "Зварювання",
+            "Зачищення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 21.247,
+              "seredniy_rozryad": 4.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 2018.46
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.4,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 44.0
+            },
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран автомобільний 10 т",
+                "mash_god": 0.4,
+                "tsina_mash_god_uah": 1400,
+                "vartist_uah": 560.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С111-1",
+                "nazva": "Арматура періодичного профілю А400/А500",
+                "odynytsya": "т",
+                "vytrata": 1.02,
+                "tsina_za_od_uah": 32000,
+                "vartist_uah": 32640.0
+              },
+              {
+                "kod": "С112-1",
+                "nazva": "Дріт в'язальний",
+                "odynytsya": "кг",
+                "vytrata": 8.0,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 360.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 2062.47,
+              "vartist_mashyn_uah": 560.0,
+              "vartist_materialiv_uah": 33000.0,
+              "priami_vytraty_uah": 35622.47,
+              "odynytsya": "т",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 21.247,
             "mashynisty_lyud_god": 0.4
           }
         }
@@ -1542,32 +2808,37 @@
     },
     {
       "grupa": 7,
-      "nazva": "Опалубні роботи",
+      "nazva": "Опалубні роботи (окремо)",
       "odynytsya": "100 м2",
       "sklad_robit": [
-        "Установлення опалубки",
+        "Подача щитів",
+        "Установлення",
         "Кріплення",
         "Розбирання",
-        "Очищення щитів"
+        "Очищення"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "6-7-1",
-          "nazva": "Установлення і розбирання опалубки фундаментів",
+          "nazva": "Установлення і розбирання опалубки фундаментів щитової",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Установлення опалубки",
+            "Подача щитів",
+            "Установлення",
             "Кріплення",
             "Розбирання",
-            "Очищення щитів"
+            "Очищення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 12.16,
+              "lyud_god": 12.536,
               "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 1155.2
+              "vartist_uah": 1190.92
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -1602,35 +2873,38 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 1155.2,
+              "vartist_trudu_uah": 1190.92,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 71.75,
-              "priami_vytraty_uah": 1226.95,
+              "priami_vytraty_uah": 1262.67,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 12.16,
+            "trud_lyud_god": 12.536,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "6-7-2",
-          "nazva": "Установлення і розбирання опалубки стін",
+          "nazva": "Установлення і розбирання опалубки стін щитової",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Установлення опалубки",
-            "Кріплення",
+            "Подача щитів",
+            "Установлення",
+            "Кріплення стяжками",
             "Розбирання",
-            "Очищення щитів"
+            "Очищення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 14.211,
+              "lyud_god": 14.872,
               "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 1350.05
+              "vartist_uah": 1412.84
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -1665,15 +2939,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 1350.05,
+              "vartist_trudu_uah": 1412.84,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 71.75,
-              "priami_vytraty_uah": 1421.8,
+              "priami_vytraty_uah": 1484.59,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 14.211,
+            "trud_lyud_god": 14.872,
             "mashynisty_lyud_god": 0.0
           }
         },
@@ -1682,12 +2956,14 @@
           "nazva": "Установлення і розбирання опалубки колон",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Установлення опалубки",
-            "Кріплення",
-            "Розбирання",
-            "Очищення щитів"
+            "Збирання короба",
+            "Установлення",
+            "Розкріплення",
+            "Розбирання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 13.514,
@@ -1742,21 +3018,22 @@
         },
         {
           "shifr": "6-7-4",
-          "nazva": "Установлення і розбирання опалубки перекриттів",
+          "nazva": "Установлення і розбирання опалубки перекриттів на телескопічних стійках",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Установлення опалубки",
-            "Кріплення",
-            "Розбирання",
-            "Очищення щитів"
+            "Установлення стійок і ригелів",
+            "Настил палуби",
+            "Розбирання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 13.538,
+              "lyud_god": 14.454,
               "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 1286.11
+              "vartist_uah": 1373.13
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -1791,15 +3068,142 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 1286.11,
+              "vartist_trudu_uah": 1373.13,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 71.75,
-              "priami_vytraty_uah": 1357.86,
+              "priami_vytraty_uah": 1444.88,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 13.538,
+            "trud_lyud_god": 14.454,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "6-7-5",
+          "nazva": "Установлення і розбирання опалубки балок і ригелів",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Установлення",
+            "Кріплення",
+            "Розбирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 13.036,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 1238.42
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С101-1",
+                "nazva": "Опалубка інвентарна (амортизація)",
+                "odynytsya": "м2",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 47.25
+              },
+              {
+                "kod": "С102-1",
+                "nazva": "Цвяхи будівельні",
+                "odynytsya": "кг",
+                "vytrata": 0.3,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 16.5
+              },
+              {
+                "kod": "С103-1",
+                "nazva": "Мастило для опалубки",
+                "odynytsya": "кг",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 40,
+                "vartist_uah": 8.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 1238.42,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 71.75,
+              "priami_vytraty_uah": 1310.17,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 13.036,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "6-7-6",
+          "nazva": "Установлення і розбирання опалубки сходів",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Установлення криволінійної/східчастої опалубки",
+            "Розбирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 13.085,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 1243.08
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С101-1",
+                "nazva": "Опалубка інвентарна (амортизація)",
+                "odynytsya": "м2",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 47.25
+              },
+              {
+                "kod": "С102-1",
+                "nazva": "Цвяхи будівельні",
+                "odynytsya": "кг",
+                "vytrata": 0.3,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 16.5
+              },
+              {
+                "kod": "С103-1",
+                "nazva": "Мастило для опалубки",
+                "odynytsya": "кг",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 40,
+                "vartist_uah": 8.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 1243.08,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 71.75,
+              "priami_vytraty_uah": 1314.83,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 13.085,
             "mashynisty_lyud_god": 0.0
           }
         }
@@ -1807,26 +3211,31 @@
     },
     {
       "grupa": 8,
-      "nazva": "Сходи, площадки, крильця",
+      "nazva": "Сходи, площадки, крильця, дрібні конструкції",
       "odynytsya": "100 м3",
       "sklad_robit": [
-        "Подача суміші",
-        "Укладання",
-        "Ущільнення",
-        "Догляд за бетоном"
+        "Опалубка",
+        "Армування",
+        "Бетонування",
+        "Догляд",
+        "Розпалублення"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "6-8-1",
           "nazva": "Улаштування сходових маршів залізобетонних",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Подача суміші",
-            "Укладання",
-            "Ущільнення",
-            "Догляд за бетоном"
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 8.424,
@@ -1891,12 +3300,15 @@
           "nazva": "Улаштування сходових площадок",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд",
+            "Розпалублення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 4.399,
@@ -1951,21 +3363,23 @@
         },
         {
           "shifr": "6-8-3",
-          "nazva": "Улаштування крилець",
+          "nazva": "Улаштування крилець і пандусів",
           "odynytsya": "100 м3",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Опалубка",
+            "Армування",
+            "Бетонування",
+            "Догляд"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.971,
+              "lyud_god": 4.15,
               "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 377.25
+              "vartist_uah": 394.25
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -2000,19 +3414,204 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 377.25,
+              "vartist_trudu_uah": 394.25,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4607.25,
+              "priami_vytraty_uah": 4624.25,
               "odynytsya": "100 м3",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.971,
+            "trud_lyud_god": 4.15,
             "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "6-8-4",
+          "nazva": "Улаштування бетонних підлоги/вимощень товщиною до 100 мм",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Укладання",
+            "Ущільнення",
+            "Загладжування",
+            "Догляд"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 7.596,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 721.62
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.6,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 66.0
+            },
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран / бетононасос",
+                "mash_god": 0.6,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 900.0
+              },
+              {
+                "kod": "С211-1",
+                "nazva": "Вібратор глибинний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 120,
+                "vartist_uah": 96.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С120-1",
+                "nazva": "Бетон товарний В15–В25",
+                "odynytsya": "м3",
+                "vytrata": 1.02,
+                "tsina_za_od_uah": 3200,
+                "vartist_uah": 3264.0
+              },
+              {
+                "kod": "С121-1",
+                "nazva": "Вода",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 40,
+                "vartist_uah": 8.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 787.62,
+              "vartist_mashyn_uah": 996.0,
+              "vartist_materialiv_uah": 3272.0,
+              "priami_vytraty_uah": 5055.62,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 7.596,
+            "mashynisty_lyud_god": 0.6
+          }
+        },
+        {
+          "shifr": "6-8-5",
+          "nazva": "Улаштування закладних деталей у бетоні",
+          "odynytsya": "т",
+          "sklad_robit": [
+            "Установлення",
+            "Закріплення до опалубки/арматури"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 7.199,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 683.9
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.6,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 66.0
+            },
+            "mashyny": [
+              {
+                "kod": "С210-1",
+                "nazva": "Кран / бетононасос",
+                "mash_god": 0.6,
+                "tsina_mash_god_uah": 1500,
+                "vartist_uah": 900.0
+              },
+              {
+                "kod": "С211-1",
+                "nazva": "Вібратор глибинний",
+                "mash_god": 0.8,
+                "tsina_mash_god_uah": 120,
+                "vartist_uah": 96.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С120-1",
+                "nazva": "Бетон товарний В15–В25",
+                "odynytsya": "м3",
+                "vytrata": 1.02,
+                "tsina_za_od_uah": 3200,
+                "vartist_uah": 3264.0
+              },
+              {
+                "kod": "С121-1",
+                "nazva": "Вода",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 40,
+                "vartist_uah": 8.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 749.9,
+              "vartist_mashyn_uah": 996.0,
+              "vartist_materialiv_uah": 3272.0,
+              "priami_vytraty_uah": 5017.9,
+              "odynytsya": "т",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 7.199,
+            "mashynisty_lyud_god": 0.6
           }
         }
       ]
     }
-  ]
+  ],
+  "techastyna": {
+    "sfera_zastosuvannya": "Монолітні фундаменти, стіни підвалу, перекриття, колони, сходи будівлі притулку.",
+    "zagalni_polozhennya": [
+      "Норми враховують повний цикл: опалубка, арматура (або окремо), укладання бетону, догляд, розпалублення.",
+      "Клас бетону приймається за проектом; перевитрата на втрати — за нормами втрат.",
+      "При бетонуванні насосом ресурси машин коригуються за проектом організації будівництва."
+    ],
+    "pravyla_obsyagiv": [
+      "Об'єм бетону — за проектними розмірами конструкцій без відрахування отворів площею до 0,1 м2.",
+      "Площа опалубки — за площею контакту з бетоном.",
+      "Маса арматури — за специфікацією проекту з урахуванням відходів."
+    ],
+    "koeficienty_umov": [
+      {
+        "umova": "Бетонування в опалубці криволінійних поверхонь",
+        "do_trudu": 1.2
+      },
+      {
+        "umova": "Бетонування конструкцій на висоті понад 15 м",
+        "do_trudu": 1.1,
+        "do_mashyn": 1.1
+      },
+      {
+        "umova": "Зимове бетонування з електропрогрівом",
+        "do_trudu": 1.25
+      }
+    ],
+    "vytraty_i_vidhody": [
+      {
+        "nazva": "Бетон товарний у ЗБК",
+        "vidsotok": 1.5
+      },
+      {
+        "nazva": "Бетон товарний у бетонних конструкціях",
+        "vidsotok": 2.0
+      },
+      {
+        "nazva": "Арматура",
+        "vidsotok": 3.0
+      }
+    ]
+  },
+  "pogiyblennya": true
 }

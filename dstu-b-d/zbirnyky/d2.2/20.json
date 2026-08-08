@@ -17,29 +17,32 @@
       "nazva": "Повітроводи",
       "odynytsya": "100 м2",
       "sklad_robit": [
-        "Розмітка",
-        "Установлення приладу",
-        "Підключення",
-        "Перевірка"
+        "Заготівля",
+        "Монтаж",
+        "Герметизація фланців",
+        "Кріплення"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "20-1-1",
-          "nazva": "Улаштування повітроводів з оцинкованої сталі товщиною до 0,5 мм",
+          "nazva": "Улаштування повітроводів з оцинкованої сталі товщиною до 0,5 мм класу Н",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Заготівля",
+            "Монтаж",
+            "Герметизація фланців",
+            "Кріплення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.517,
+              "lyud_god": 3.551,
               "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 334.12
+              "vartist_uah": 337.35
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -74,35 +77,36 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 334.12,
+              "vartist_trudu_uah": 337.35,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4564.12,
+              "priami_vytraty_uah": 4567.35,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.517,
+            "trud_lyud_god": 3.551,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "20-1-2",
-          "nazva": "Улаштування повітроводів з оцинкованої сталі товщиною до 0,7 мм",
+          "nazva": "Улаштування повітроводів товщиною до 0,7 мм",
           "odynytsya": "100 м2",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Заготівля",
+            "Монтаж",
+            "Герметизація"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 4.41,
+              "lyud_god": 3.758,
               "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 418.95
+              "vartist_uah": 357.01
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -137,35 +141,35 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 418.95,
+              "vartist_trudu_uah": 357.01,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4648.95,
+              "priami_vytraty_uah": 4587.01,
               "odynytsya": "100 м2",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 4.41,
+            "trud_lyud_god": 3.758,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "20-1-3",
-          "nazva": "Улаштування повітроводів гнучких",
+          "nazva": "Улаштування повітроводів гнучких ізольованих",
           "odynytsya": "100 м",
           "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
+            "Кріплення",
+            "Підключення до решіток/обладнання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 3.647,
+              "lyud_god": 4.385,
               "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 346.46
+              "vartist_uah": 416.57
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -200,15 +204,133 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 346.46,
+              "vartist_trudu_uah": 416.57,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4576.46,
+              "priami_vytraty_uah": 4646.57,
               "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 3.647,
+            "trud_lyud_god": 4.385,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "20-1-4",
+          "nazva": "Улаштування фасонних частин повітроводів",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Монтаж відводів, трійників, переходів"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 4.496,
+              "seredniy_rozryad": 4.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 427.12
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С190-1",
+                "nazva": "Прилад санітарний / опалювальний",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 3500,
+                "vartist_uah": 3500.0
+              },
+              {
+                "kod": "С191-1",
+                "nazva": "Підводка / кріплення / арматура",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 650.0
+              },
+              {
+                "kod": "С192-1",
+                "nazva": "Герметик / ущільнювачі",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 80.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 427.12,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 4230.0,
+              "priami_vytraty_uah": 4657.12,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 4.496,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "20-1-5",
+          "nazva": "Теплоізоляція повітроводів рулонними матеріалами",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Обгортання",
+            "Кріплення",
+            "Проклейка швів"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 229.75,
+              "seredniy_rozryad": 3.9,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 21826.25
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С202-m",
+                "nazva": "Повітроводи оцинковані",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 280,
+                "vartist_uah": 29400
+              },
+              {
+                "kod": "С203-m",
+                "nazva": "Фланці, ущільнення, кріплення",
+                "odynytsya": "компл",
+                "vytrata": 100,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 12000
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 21826.25,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 41400,
+              "priami_vytraty_uah": 63226.25,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 229.75,
             "mashynisty_lyud_god": 0.0
           }
         }
@@ -219,23 +341,24 @@
       "nazva": "Вентиляційне обладнання",
       "odynytsya": "шт",
       "sklad_robit": [
-        "Заготівля",
-        "Монтаж",
-        "Герметизація",
+        "Кріплення",
+        "Підключення",
         "Перевірка"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "20-2-1",
           "nazva": "Установлення вентиляторів осьових",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Заготівля",
-            "Монтаж",
-            "Герметизація",
+            "Кріплення",
+            "Підключення",
             "Перевірка"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 8.496,
@@ -285,12 +408,13 @@
           "nazva": "Установлення вентиляторів радіальних",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Заготівля",
-            "Монтаж",
-            "Герметизація",
-            "Перевірка"
+            "Кріплення на раму",
+            "Віброізолятори",
+            "Підключення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 8.713,
@@ -337,21 +461,23 @@
         },
         {
           "shifr": "20-2-3",
-          "nazva": "Установлення припливно-витяжних установок",
+          "nazva": "Установлення припливно-витяжних установок до 2000 м3/год",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Заготівля",
-            "Монтаж",
-            "Герметизація",
-            "Перевірка"
+            "Такелаж",
+            "Кріплення",
+            "Обв'язка повітроводами",
+            "Підключення"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 9.789,
+              "lyud_god": 9.431,
               "seredniy_rozryad": 4.1,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 929.95
+              "vartist_uah": 895.94
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -378,29 +504,87 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 929.95,
+              "vartist_trudu_uah": 895.94,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 20500.0,
-              "priami_vytraty_uah": 21429.95,
+              "priami_vytraty_uah": 21395.94,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 9.789,
+            "trud_lyud_god": 9.431,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "20-2-4",
+          "nazva": "Установлення припливно-витяжних установок понад 2000 м3/год",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Такелаж",
+            "Кріплення",
+            "Обв'язка",
+            "Підключення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 8.913,
+              "seredniy_rozryad": 4.1,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 846.74
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С200-1",
+                "nazva": "Обладнання вентиляції/кондиціювання",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 18000,
+                "vartist_uah": 18000.0
+              },
+              {
+                "kod": "С201-m",
+                "nazva": "Кронштейни, фреон-траса, дренаж",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 2500,
+                "vartist_uah": 2500.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 846.74,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 20500.0,
+              "priami_vytraty_uah": 21346.74,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 8.913,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "20-2-5",
           "nazva": "Установлення решіток і дифузорів",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Заготівля",
-            "Монтаж",
-            "Герметизація",
-            "Перевірка"
+            "Врізка",
+            "Кріплення",
+            "Регулювання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 3.008,
@@ -444,6 +628,116 @@
             "trud_lyud_god": 3.008,
             "mashynisty_lyud_god": 0.0
           }
+        },
+        {
+          "shifr": "20-2-6",
+          "nazva": "Установлення вогнезатримуючих клапанів",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Врізка",
+            "Кріплення",
+            "Перевірка"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 3.26,
+              "seredniy_rozryad": 3.9,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 309.7
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С202-m",
+                "nazva": "Повітроводи оцинковані",
+                "odynytsya": "м2",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 280,
+                "vartist_uah": 294.0
+              },
+              {
+                "kod": "С203-m",
+                "nazva": "Фланці, ущільнення, кріплення",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 309.7,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 414.0,
+              "priami_vytraty_uah": 723.7,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 3.26,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "20-2-7",
+          "nazva": "Установлення шумоглушників",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Врізка в мережу"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 3.099,
+              "seredniy_rozryad": 3.9,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 294.41
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С202-m",
+                "nazva": "Повітроводи оцинковані",
+                "odynytsya": "м2",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 280,
+                "vartist_uah": 294.0
+              },
+              {
+                "kod": "С203-m",
+                "nazva": "Фланці, ущільнення, кріплення",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 294.41,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 414.0,
+              "priami_vytraty_uah": 708.41,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 3.099,
+            "mashynisty_lyud_god": 0.0
+          }
         }
       ]
     },
@@ -452,29 +746,34 @@
       "nazva": "Кондиціонування",
       "odynytsya": "шт",
       "sklad_robit": [
-        "Подача матеріалів",
-        "Мурування",
-        "Перевірка вертикальності",
-        "Розшивання / зачищення"
+        "Кріплення блоків",
+        "Фреон-траса",
+        "Дренаж",
+        "Вакуумування",
+        "Пуск"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "20-3-1",
-          "nazva": "Установлення спліт-систем побутових",
+          "nazva": "Установлення спліт-систем побутових (внутрішній + зовнішній блоки)",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Подача матеріалів",
-            "Мурування",
-            "Перевірка вертикальності",
-            "Розшивання / зачищення"
+            "Кріплення блоків",
+            "Фреон-траса",
+            "Дренаж",
+            "Вакуумування",
+            "Пуск"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 5.983,
+              "lyud_god": 6.487,
               "seredniy_rozryad": 3.3,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 568.38
+              "vartist_uah": 616.26
             },
             "trud_mashynistiv": {
               "lyud_god": 0.15,
@@ -509,15 +808,15 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 584.88,
+              "vartist_trudu_uah": 632.76,
               "vartist_mashyn_uah": 135.0,
               "vartist_materialiv_uah": 1781.0,
-              "priami_vytraty_uah": 2500.88,
+              "priami_vytraty_uah": 2548.76,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 5.983,
+            "trud_lyud_god": 6.487,
             "mashynisty_lyud_god": 0.15
           }
         },
@@ -526,12 +825,13 @@
           "nazva": "Установлення мультиспліт-систем",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Заготівля",
-            "Монтаж",
-            "Герметизація",
-            "Перевірка"
+            "Кріплення",
+            "Траси",
+            "Пуск"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 9.45,
@@ -581,12 +881,13 @@
           "nazva": "Установлення канальних кондиціонерів",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Заготівля",
-            "Монтаж",
-            "Герметизація",
-            "Перевірка"
+            "Кріплення",
+            "Обв'язка повітроводами",
+            "Пуск"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 8.537,
@@ -633,5 +934,22 @@
         }
       ]
     }
-  ]
+  ],
+  "techastyna": {
+    "sfera_zastosuvannya": "Системи вентиляції та кондиціонування будівлі притулку.",
+    "zagalni_polozhennya": [
+      "Витрати повітря і перерізи повітроводів — за проектом ОВ."
+    ],
+    "pravyla_obsyagiv": [
+      "Площа повітроводів — за розгорткою зовнішньої поверхні."
+    ],
+    "koeficienty_umov": [
+      {
+        "umova": "Монтаж у тісних стельових просторах",
+        "do_trudu": 1.15
+      }
+    ],
+    "vytraty_i_vidhody": []
+  },
+  "pogiyblennya": true
 }
