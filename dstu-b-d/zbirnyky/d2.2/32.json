@@ -1,0 +1,416 @@
+{
+  "kompleks": "Д.2.2",
+  "nomer": 32,
+  "nazva": "Трамвайні колії",
+  "dstu": "ДСТУ Б Д.2.2-32:2012",
+  "marka": "ЕД",
+  "priorytet_prytulok": false,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Ресурсні показники — орієнтовні укрупнені (труд, машини, матеріали, прямі витрати в грн) для попереднього кошторису.",
+    "Перед затвердженням інвесторського кошторису звірити з чинним КНУ РЕКН / ДСТУ та регіональними цінами.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Земляне полотно трамвайних колій",
+      "odynytsya": "100 м",
+      "sklad_robit": [
+        "Підготовка робочого місця",
+        "Виконання основного процесу",
+        "Прибирання"
+      ],
+      "normy": [
+        {
+          "shifr": "32-1-1",
+          "nazva": "Розробка корит під трамвайну колію",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 24.289,
+              "seredniy_rozryad": 2.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 2307.45
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.5,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 55.0
+            },
+            "mashyny": [
+              {
+                "kod": "С201-2",
+                "nazva": "Бульдозер / трамбівка",
+                "mash_god": 0.5,
+                "tsina_mash_god_uah": 600,
+                "vartist_uah": 300.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 4.25,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 233.75
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 0.2125,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 25.5
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 2362.45,
+              "vartist_mashyn_uah": 300.0,
+              "vartist_materialiv_uah": 259.25,
+              "priami_vytraty_uah": 2921.7,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 24.289,
+            "mashynisty_lyud_god": 0.5
+          }
+        },
+        {
+          "shifr": "32-1-2",
+          "nazva": "Улаштування баластної призми",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 28.269,
+              "seredniy_rozryad": 3.2,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 2685.55
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 2685.55,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 2835.55,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 28.269,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Укладання трамвайних колій",
+      "odynytsya": "100 м",
+      "sklad_robit": [
+        "Розмітка",
+        "Заготівля",
+        "Монтаж",
+        "Кріплення"
+      ],
+      "normy": [
+        {
+          "shifr": "32-2-1",
+          "nazva": "Укладання рейок на дерев'яних шпалах",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Розмітка",
+            "Заготівля",
+            "Монтаж",
+            "Кріплення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 22.451,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 2132.85
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 2132.85,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 15727.85,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 22.451,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "32-2-2",
+          "nazva": "Укладання рейок на залізобетонних шпалах",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Підготовка",
+            "Основний процес",
+            "Контроль якості"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 29.741,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 2825.39
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 2.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 220.0
+            },
+            "mashyny": [
+              {
+                "kod": "С250-m",
+                "nazva": "Копер / бурова установка / кран",
+                "mash_god": 2.0,
+                "tsina_mash_god_uah": 2200,
+                "vartist_uah": 4400.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С260-1",
+                "nazva": "Палі / бетон / метал посилення",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 15000,
+                "vartist_uah": 15000.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 3045.39,
+              "vartist_mashyn_uah": 4400.0,
+              "vartist_materialiv_uah": 15000.0,
+              "priami_vytraty_uah": 22445.39,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 29.741,
+            "mashynisty_lyud_god": 2.0
+          }
+        },
+        {
+          "shifr": "32-2-3",
+          "nazva": "Укладання стрілочних переводів трамвайних",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 31.649,
+              "seredniy_rozryad": 3.2,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 3006.66
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 3006.66,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 3156.66,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 31.649,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Опорядження колії",
+      "odynytsya": "100 м",
+      "sklad_robit": [
+        "Підготовка робочого місця",
+        "Виконання основного процесу",
+        "Прибирання"
+      ],
+      "normy": [
+        {
+          "shifr": "32-3-1",
+          "nazva": "Заповнення міжрейкової колії",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 30.172,
+              "seredniy_rozryad": 3.2,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 2866.34
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 2866.34,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 3016.34,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 30.172,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "32-3-2",
+          "nazva": "Улаштування покриття міжколії",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 33.596,
+              "seredniy_rozryad": 3.2,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 3191.62
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 3191.62,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 3341.62,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 33.596,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

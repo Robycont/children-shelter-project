@@ -1,0 +1,305 @@
+{
+  "kompleks": "Д.2.3",
+  "nomer": 32,
+  "nazva": "Устаткування підприємств електронної промисловості і промисловості засобів зв'язку",
+  "dstu": "ДСТУ Б Д.2.3-32:2012",
+  "marka": "М",
+  "priorytet_prytulok": false,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Ресурсні показники — орієнтовні укрупнені (труд, машини, матеріали, прямі витрати в грн) для попереднього кошторису.",
+    "Перед затвердженням інвесторського кошторису звірити з чинним КНУ РЕКН / ДСТУ та регіональними цінами.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Монтаж устаткування електронної промисловості",
+      "odynytsya": "шт",
+      "sklad_robit": [
+        "Розмітка трас",
+        "Прокладання / установлення",
+        "Підключення",
+        "Перевірка ізоляції"
+      ],
+      "normy": [
+        {
+          "shifr": "32-1-1",
+          "nazva": "Монтаж технологічних ліній виробництва електроніки",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Розмітка трас",
+            "Прокладання / установлення",
+            "Підключення",
+            "Перевірка ізоляції"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 1.689,
+              "seredniy_rozryad": 3.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 160.46
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С214-m",
+                "nazva": "Кабель / провід силовий",
+                "odynytsya": "м",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 57.75
+              },
+              {
+                "kod": "С215-m",
+                "nazva": "Труба/короб/гофра",
+                "odynytsya": "м",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 18,
+                "vartist_uah": 18.9
+              },
+              {
+                "kod": "С216-m",
+                "nazva": "Кріплення",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 25,
+                "vartist_uah": 25.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 160.46,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 101.65,
+              "priami_vytraty_uah": 262.11,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.689,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "32-1-2",
+          "nazva": "Монтаж чистих кімнат і інженерних систем",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Приймання обладнання",
+            "Установлення на фундамент",
+            "Вивірка",
+            "Обв'язка",
+            "Індивідуальні випробування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 12.48,
+              "seredniy_rozryad": 4.3,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 1185.6
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.5,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 165.0
+            },
+            "mashyny": [
+              {
+                "kod": "С230-m",
+                "nazva": "Кран / такелаж",
+                "mash_god": 0.643,
+                "tsina_mash_god_uah": 1600,
+                "vartist_uah": 1028.8
+              },
+              {
+                "kod": "С213-1",
+                "nazva": "Зварювальне / електромонтажне обладнання",
+                "mash_god": 0.857,
+                "tsina_mash_god_uah": 80,
+                "vartist_uah": 68.56
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С240-1",
+                "nazva": "Матеріали монтажні (анкери, прокладки, метизи)",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 1200,
+                "vartist_uah": 1200.0
+              },
+              {
+                "kod": "С241-1",
+                "nazva": "Електроди / кабель обв'язки",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 800,
+                "vartist_uah": 800.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 1350.6,
+              "vartist_mashyn_uah": 1097.36,
+              "vartist_materialiv_uah": 2000.0,
+              "priami_vytraty_uah": 4447.96,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 12.48,
+            "mashynisty_lyud_god": 1.5
+          }
+        },
+        {
+          "shifr": "32-1-3",
+          "nazva": "Монтаж випробувального обладнання",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Приймання обладнання",
+            "Установлення на фундамент",
+            "Вивірка",
+            "Обв'язка",
+            "Індивідуальні випробування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 12.605,
+              "seredniy_rozryad": 4.3,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 1197.48
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.5,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 165.0
+            },
+            "mashyny": [
+              {
+                "kod": "С230-m",
+                "nazva": "Кран / такелаж",
+                "mash_god": 0.643,
+                "tsina_mash_god_uah": 1600,
+                "vartist_uah": 1028.8
+              },
+              {
+                "kod": "С213-1",
+                "nazva": "Зварювальне / електромонтажне обладнання",
+                "mash_god": 0.857,
+                "tsina_mash_god_uah": 80,
+                "vartist_uah": 68.56
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С240-1",
+                "nazva": "Матеріали монтажні (анкери, прокладки, метизи)",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 1200,
+                "vartist_uah": 1200.0
+              },
+              {
+                "kod": "С241-1",
+                "nazva": "Електроди / кабель обв'язки",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 800,
+                "vartist_uah": 800.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 1362.48,
+              "vartist_mashyn_uah": 1097.36,
+              "vartist_materialiv_uah": 2000.0,
+              "priami_vytraty_uah": 4459.84,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 12.605,
+            "mashynisty_lyud_god": 1.5
+          }
+        },
+        {
+          "shifr": "32-1-4",
+          "nazva": "Монтаж паяльного і складального обладнання",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Приймання обладнання",
+            "Установлення на фундамент",
+            "Вивірка",
+            "Обв'язка",
+            "Індивідуальні випробування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 10.475,
+              "seredniy_rozryad": 4.3,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 995.12
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.5,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 165.0
+            },
+            "mashyny": [
+              {
+                "kod": "С230-m",
+                "nazva": "Кран / такелаж",
+                "mash_god": 0.643,
+                "tsina_mash_god_uah": 1600,
+                "vartist_uah": 1028.8
+              },
+              {
+                "kod": "С213-1",
+                "nazva": "Зварювальне / електромонтажне обладнання",
+                "mash_god": 0.857,
+                "tsina_mash_god_uah": 80,
+                "vartist_uah": 68.56
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С240-1",
+                "nazva": "Матеріали монтажні (анкери, прокладки, метизи)",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 1200,
+                "vartist_uah": 1200.0
+              },
+              {
+                "kod": "С241-1",
+                "nazva": "Електроди / кабель обв'язки",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 800,
+                "vartist_uah": 800.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 1160.12,
+              "vartist_mashyn_uah": 1097.36,
+              "vartist_materialiv_uah": 2000.0,
+              "priami_vytraty_uah": 4257.48,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 10.475,
+            "mashynisty_lyud_god": 1.5
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "kompleks": "Д.2.3",
+  "nomer": 27,
+  "nazva": "Устаткування підприємств поліграфічної промисловості",
+  "dstu": "ДСТУ Б Д.2.3-27:2012",
+  "marka": "М",
+  "priorytet_prytulok": false,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Ресурсні показники — орієнтовні укрупнені (труд, машини, матеріали, прямі витрати в грн) для попереднього кошторису.",
+    "Перед затвердженням інвесторського кошторису звірити з чинним КНУ РЕКН / ДСТУ та регіональними цінами.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Монтаж поліграфічного устаткування",
+      "odynytsya": "шт",
+      "sklad_robit": [
+        "Підготовка основи",
+        "Улаштування покриття / посадка",
+        "Ущільнення / полив"
+      ],
+      "normy": [
+        {
+          "shifr": "27-1-1",
+          "nazva": "Монтаж друкарських машин",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Підготовка основи",
+            "Улаштування покриття / посадка",
+            "Ущільнення / полив"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 0.83,
+              "seredniy_rozryad": 3.2,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 78.85
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.4,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 44.0
+            },
+            "mashyny": [
+              {
+                "kod": "С220-m",
+                "nazva": "Коток / віброплита",
+                "mash_god": 0.229,
+                "tsina_mash_god_uah": 500,
+                "vartist_uah": 114.5
+              },
+              {
+                "kod": "С221-m",
+                "nazva": "Автосамоскид",
+                "mash_god": 0.171,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 119.7
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С233-1",
+                "nazva": "Щебінь / відсів / асфальтобетон / плитка",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 1800,
+                "vartist_uah": 360.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 122.85,
+              "vartist_mashyn_uah": 234.2,
+              "vartist_materialiv_uah": 360.0,
+              "priami_vytraty_uah": 717.05,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 0.83,
+            "mashynisty_lyud_god": 0.4
+          }
+        },
+        {
+          "shifr": "27-1-2",
+          "nazva": "Монтаж різального обладнання",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Підготовка основи",
+            "Улаштування покриття / посадка",
+            "Ущільнення / полив"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 0.811,
+              "seredniy_rozryad": 3.2,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 77.05
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.4,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 44.0
+            },
+            "mashyny": [
+              {
+                "kod": "С220-m",
+                "nazva": "Коток / віброплита",
+                "mash_god": 0.229,
+                "tsina_mash_god_uah": 500,
+                "vartist_uah": 114.5
+              },
+              {
+                "kod": "С221-m",
+                "nazva": "Автосамоскид",
+                "mash_god": 0.171,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 119.7
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С233-1",
+                "nazva": "Щебінь / відсів / асфальтобетон / плитка",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 1800,
+                "vartist_uah": 360.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 121.05,
+              "vartist_mashyn_uah": 234.2,
+              "vartist_materialiv_uah": 360.0,
+              "priami_vytraty_uah": 715.25,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 0.811,
+            "mashynisty_lyud_god": 0.4
+          }
+        },
+        {
+          "shifr": "27-1-3",
+          "nazva": "Монтаж палітурного обладнання",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Підготовка основи",
+            "Улаштування покриття / посадка",
+            "Ущільнення / полив"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 0.918,
+              "seredniy_rozryad": 3.2,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 87.21
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.4,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 44.0
+            },
+            "mashyny": [
+              {
+                "kod": "С220-m",
+                "nazva": "Коток / віброплита",
+                "mash_god": 0.229,
+                "tsina_mash_god_uah": 500,
+                "vartist_uah": 114.5
+              },
+              {
+                "kod": "С221-m",
+                "nazva": "Автосамоскид",
+                "mash_god": 0.171,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 119.7
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С233-1",
+                "nazva": "Щебінь / відсів / асфальтобетон / плитка",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 1800,
+                "vartist_uah": 360.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 131.21,
+              "vartist_mashyn_uah": 234.2,
+              "vartist_materialiv_uah": 360.0,
+              "priami_vytraty_uah": 725.41,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 0.918,
+            "mashynisty_lyud_god": 0.4
+          }
+        },
+        {
+          "shifr": "27-1-4",
+          "nazva": "Монтаж фальцювальних машин",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Підготовка основи",
+            "Улаштування покриття / посадка",
+            "Ущільнення / полив"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 0.966,
+              "seredniy_rozryad": 3.2,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 91.77
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.4,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 44.0
+            },
+            "mashyny": [
+              {
+                "kod": "С220-m",
+                "nazva": "Коток / віброплита",
+                "mash_god": 0.229,
+                "tsina_mash_god_uah": 500,
+                "vartist_uah": 114.5
+              },
+              {
+                "kod": "С221-m",
+                "nazva": "Автосамоскид",
+                "mash_god": 0.171,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 119.7
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С233-1",
+                "nazva": "Щебінь / відсів / асфальтобетон / плитка",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 1800,
+                "vartist_uah": 360.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 135.77,
+              "vartist_mashyn_uah": 234.2,
+              "vartist_materialiv_uah": 360.0,
+              "priami_vytraty_uah": 729.97,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 0.966,
+            "mashynisty_lyud_god": 0.4
+          }
+        }
+      ]
+    }
+  ]
+}

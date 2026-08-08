@@ -1,0 +1,135 @@
+{
+  "kompleks": "Д.2.5",
+  "zbirnyky": [
+    {
+      "nomer": 1,
+      "nazva": "Архітектурно-археологічні і земляні роботи в зонах пам'яток історії і культури",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 2,
+      "nazva": "Реставрація і відтворення цегляних мурувань",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 3,
+      "nazva": "Реставрація і відтворення мурувань із природних кам'яних матеріалів",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 4,
+      "nazva": "Реставрація і відтворення конструкцій і декору з природного каменю",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 5,
+      "nazva": "Реставрація і відтворення дерев'яних конструкцій і деталей",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 6,
+      "nazva": "Реставрація і відтворення покрівель",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 7,
+      "nazva": "Реставрація і відтворення металевих конструкцій і декоративних елементів",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 8,
+      "nazva": "Реставрація і відтворення штукатурного опорядження",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 9,
+      "nazva": "Реставрація і відтворення облицювань штучним мармуром",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 10,
+      "nazva": "Реставрація і відтворення фарбування фасадів і інтер'єрів",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 11,
+      "nazva": "Реставрація керамічних кахлів",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 12,
+      "nazva": "Реставрація і відтворення архітектурно-ліпного декору",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 13,
+      "nazva": "Реставрація і відтворення різьблення по дереву",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 14,
+      "nazva": "Реставрація і відтворення меблів із цінних порід дерева",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 15,
+      "nazva": "Реставрація і відтворення паркетних підлог",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 16,
+      "nazva": "Відтворення виробів художнього литва з кольорових металів",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 17,
+      "nazva": "Чеканні, виколотні, давильні роботи",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 18,
+      "nazva": "Реставрація і відтворення інкрустованої поверхні",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 19,
+      "nazva": "Реставрація і відтворення оббивки меблів і оббивних декоративних елементів",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 20,
+      "nazva": "Реставрація і відтворення позолоти",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 21,
+      "nazva": "Різні роботи",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 22,
+      "nazva": "Реставрація і відтворення віконних і дверних приладів",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 23,
+      "nazva": "Реставрація і відтворення тканин і шпалер",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 24,
+      "nazva": "Художня обробка металевих виробів гальванічним способом",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 25,
+      "nazva": "Реставрація і відтворення освітлювальних приладів",
+      "priorytet_prytulok": false
+    },
+    {
+      "nomer": 27,
+      "nazva": "Живописні роботи",
+      "priorytet_prytulok": false
+    }
+  ]
+}

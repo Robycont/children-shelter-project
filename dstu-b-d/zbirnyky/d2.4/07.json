@@ -1,0 +1,729 @@
+{
+  "kompleks": "Д.2.4",
+  "nomer": 7,
+  "nazva": "Підлоги (ремонт)",
+  "dstu": "ДСТУ Б Д.2.4-7:2012",
+  "marka": "Р",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Ресурсні показники — орієнтовні укрупнені (труд, машини, матеріали, прямі витрати в грн) для попереднього кошторису.",
+    "Перед затвердженням інвесторського кошторису звірити з чинним КНУ РЕКН / ДСТУ та регіональними цінами.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Розбирання підлог",
+      "odynytsya": "100 м2",
+      "sklad_robit": [
+        "Зняття покриття",
+        "Очищення основи від клею"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "7-1-1",
+          "nazva": "Розбирання покриттів із лінолеуму",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Зняття покриття",
+            "Очищення основи від клею"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 59.193,
+              "seredniy_rozryad": 3.4,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 5623.34
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С162-1",
+                "nazva": "Лінолеум / ПВХ-покриття",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 450,
+                "vartist_uah": 47250
+              },
+              {
+                "kod": "С163-1",
+                "nazva": "Клей для лінолеуму",
+                "odynytsya": "кг",
+                "vytrata": 40,
+                "tsina_za_od_uah": 85,
+                "vartist_uah": 3400
+              },
+              {
+                "kod": "С164-1",
+                "nazva": "Плінтус ПВХ",
+                "odynytsya": "м",
+                "vytrata": 40,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 2200
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 5623.34,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 52850,
+              "priami_vytraty_uah": 58473.34,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 59.193,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "7-1-2",
+          "nazva": "Розбирання покриттів із керамічної плитки",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Відбивання плитки",
+            "Очищення",
+            "Винесення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 146.931,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 13958.45
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 13958.45,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 67308.45,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 146.931,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "7-1-3",
+          "nazva": "Розбирання дощатих підлог",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Зняття дощок",
+            "Демонтаж лаг"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 84.056,
+              "seredniy_rozryad": 3.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 7985.32
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С165-1",
+                "nazva": "Ламінат / дошка / паркет",
+                "odynytsya": "м2",
+                "vytrata": 108,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 70200
+              },
+              {
+                "kod": "С166-1",
+                "nazva": "Підкладка",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 4725
+              },
+              {
+                "kod": "С164-2",
+                "nazva": "Плінтус",
+                "odynytsya": "м",
+                "vytrata": 40,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2800
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 7985.32,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 77725,
+              "priami_vytraty_uah": 85710.32,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 84.056,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "7-1-4",
+          "nazva": "Розбирання паркетних покриттів",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Зняття клепки",
+            "Сортування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 82.867,
+              "seredniy_rozryad": 3.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 7872.37
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С165-1",
+                "nazva": "Ламінат / дошка / паркет",
+                "odynytsya": "м2",
+                "vytrata": 108,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 70200
+              },
+              {
+                "kod": "С166-1",
+                "nazva": "Підкладка",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 4725
+              },
+              {
+                "kod": "С164-2",
+                "nazva": "Плінтус",
+                "odynytsya": "м",
+                "vytrata": 40,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2800
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 7872.37,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 77725,
+              "priami_vytraty_uah": 85597.37,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 82.867,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "7-1-5",
+          "nazva": "Розбирання цементних стяжок",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Розбивання",
+            "Винесення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 49.413,
+              "seredniy_rozryad": 2.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4694.23
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.3,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 33.0
+            },
+            "mashyny": [
+              {
+                "kod": "С240-m",
+                "nazva": "Перфоратор / відбійний молоток",
+                "mash_god": 0.3,
+                "tsina_mash_god_uah": 90,
+                "vartist_uah": 27.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С311-3",
+                "nazva": "Вивезення будівельного сміття",
+                "odynytsya": "т",
+                "vytrata": 1.051,
+                "tsina_za_od_uah": 450,
+                "vartist_uah": 472.95
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4727.23,
+              "vartist_mashyn_uah": 27.0,
+              "vartist_materialiv_uah": 472.95,
+              "priami_vytraty_uah": 5227.18,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 49.413,
+            "mashynisty_lyud_god": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Ремонт підлог",
+      "odynytsya": "100 м2 / м2",
+      "sklad_robit": [
+        "Вирубування",
+        "Ґрунтування",
+        "Заливання"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "7-2-1",
+          "nazva": "Ремонт цементних стяжок картами до 1 м2",
+          "odynytsya": "м2",
+          "sklad_robit": [
+            "Вирубування",
+            "Ґрунтування",
+            "Заливання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 6.513,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 618.74
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С250-1",
+                "nazva": "Матеріали ремонтні",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 1500.0
+              },
+              {
+                "kod": "С251-1",
+                "nazva": "Суміші / розчини / фарби",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 800,
+                "vartist_uah": 800.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 618.74,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 2300.0,
+              "priami_vytraty_uah": 2918.74,
+              "odynytsya": "м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 6.513,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "7-2-2",
+          "nazva": "Вирівнювання стяжок самовирівнювальною сумішшю",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Ґрунтування",
+            "Заливання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 67.868,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 6447.46
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С250-1",
+                "nazva": "Матеріали ремонтні",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 1500.0
+              },
+              {
+                "kod": "С251-1",
+                "nazva": "Суміші / розчини / фарби",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 800,
+                "vartist_uah": 800.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 6447.46,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 2300.0,
+              "priami_vytraty_uah": 8747.46,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 67.868,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "7-2-3",
+          "nazva": "Заміна окремих дощок у підлогах",
+          "odynytsya": "м2",
+          "sklad_robit": [
+            "Демонтаж",
+            "Установлення нових"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 1.896,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 180.12
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 441.0
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 70.0
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 0.5,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 22.5
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 180.12,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 533.5,
+              "priami_vytraty_uah": 713.62,
+              "odynytsya": "м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.896,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "7-2-4",
+          "nazva": "Переброблення дощатих підлог із додаванням матеріалу",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Перебирання",
+            "Заміна пошкоджених",
+            "Прибивання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 87.46,
+              "seredniy_rozryad": 3.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8308.7
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С165-1",
+                "nazva": "Ламінат / дошка / паркет",
+                "odynytsya": "м2",
+                "vytrata": 108,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 70200
+              },
+              {
+                "kod": "С166-1",
+                "nazva": "Підкладка",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 4725
+              },
+              {
+                "kod": "С164-2",
+                "nazva": "Плінтус",
+                "odynytsya": "м",
+                "vytrata": 40,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2800
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8308.7,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 77725,
+              "priami_vytraty_uah": 86033.7,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 87.46,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "7-2-5",
+          "nazva": "Заміна окремих плиток у покриттях",
+          "odynytsya": "м2",
+          "sklad_robit": [
+            "Видалення",
+            "Наклеювання нових",
+            "Затирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 6.637,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 630.51
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С250-1",
+                "nazva": "Матеріали ремонтні",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 1500.0
+              },
+              {
+                "kod": "С251-1",
+                "nazva": "Суміші / розчини / фарби",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 800,
+                "vartist_uah": 800.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 630.51,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 2300.0,
+              "priami_vytraty_uah": 2930.51,
+              "odynytsya": "м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 6.637,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "7-2-6",
+          "nazva": "Циклювання і лакування паркету",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Циклювання",
+            "Шпаклювання",
+            "Лакування 3 шари"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 89.993,
+              "seredniy_rozryad": 3.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8549.33
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С165-1",
+                "nazva": "Ламінат / дошка / паркет",
+                "odynytsya": "м2",
+                "vytrata": 108,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 70200
+              },
+              {
+                "kod": "С166-1",
+                "nazva": "Підкладка",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 4725
+              },
+              {
+                "kod": "С164-2",
+                "nazva": "Плінтус",
+                "odynytsya": "м",
+                "vytrata": 40,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2800
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8549.33,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 77725,
+              "priami_vytraty_uah": 86274.33,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 89.993,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    }
+  ],
+  "techastyna": {
+    "sfera_zastosuvannya": "Розбирання і відновлення підлог у приміщеннях притулку.",
+    "zagalni_polozhennya": [
+      "Нові покриття — за збірником 11; тут — розбирання і ремонтні операції."
+    ],
+    "pravyla_obsyagiv": [
+      "Площі — за фактичними ділянками."
+    ],
+    "koeficienty_umov": [
+      {
+        "umova": "Стиснені умови (меблі, обладнання в приміщеннях)",
+        "do_trudu": 1.15
+      }
+    ],
+    "vytraty_i_vidhody": [
+      {
+        "nazva": "Вихід паркетної клепки",
+        "vidsotok": 40.0
+      }
+    ]
+  },
+  "pogiyblennya": true
+}

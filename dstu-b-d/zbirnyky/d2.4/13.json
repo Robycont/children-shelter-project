@@ -1,0 +1,500 @@
+{
+  "kompleks": "Д.2.4",
+  "nomer": 13,
+  "nazva": "Склярські, шпалерні та облицювальні роботи (ремонт)",
+  "dstu": "ДСТУ Б Д.2.4-13:2012",
+  "marka": "Р",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Ресурсні показники — орієнтовні укрупнені (труд, машини, матеріали, прямі витрати в грн) для попереднього кошторису.",
+    "Перед затвердженням інвесторського кошторису звірити з чинним КНУ РЕКН / ДСТУ та регіональними цінами.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Склярські роботи",
+      "odynytsya": "100 м2 / м2",
+      "sklad_robit": [
+        "Виймання уламків",
+        "Розкрій",
+        "Оскління",
+        "Штапики"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "13-1-1",
+          "nazva": "Заміна розбитого скла у дерев'яних рамах",
+          "odynytsya": "м2",
+          "sklad_robit": [
+            "Виймання уламків",
+            "Розкрій",
+            "Оскління",
+            "Штапики"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 8.975,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 852.62
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 852.62,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 14447.62,
+              "odynytsya": "м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 8.975,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "13-1-2",
+          "nazva": "Заміна склопакетів у ПВХ-вікнах",
+          "odynytsya": "м2",
+          "sklad_robit": [
+            "Демонтаж штапиків",
+            "Заміна пакета",
+            "Регулювання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 1.571,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 149.25
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С220-1",
+                "nazva": "Утеплювач плитний",
+                "odynytsya": "м2",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 220,
+                "vartist_uah": 231.0
+              },
+              {
+                "kod": "С221-1",
+                "nazva": "Клей / дюбелі / сітка / декоративний шар",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 180.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 149.25,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 411.0,
+              "priami_vytraty_uah": 560.25,
+              "odynytsya": "м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.571,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Шпалерні роботи",
+      "odynytsya": "100 м2",
+      "sklad_robit": [
+        "Змочування",
+        "Зняття",
+        "Зачищення"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "13-2-1",
+          "nazva": "Зняття старих шпалер",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Змочування",
+            "Зняття",
+            "Зачищення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 61.789,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 5869.95
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С184-1",
+                "nazva": "Шпалери",
+                "odynytsya": "м2",
+                "vytrata": 110,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 19800
+              },
+              {
+                "kod": "С185-1",
+                "nazva": "Клей шпалерний",
+                "odynytsya": "кг",
+                "vytrata": 20,
+                "tsina_za_od_uah": 60,
+                "vartist_uah": 1200
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 5869.95,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 21000,
+              "priami_vytraty_uah": 26869.95,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 61.789,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "13-2-2",
+          "nazva": "Обклеювання стін шпалерами при ремонті",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Ґрунтування",
+            "Наклеювання",
+            "Прирізка"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 70.196,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 6668.62
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С184-1",
+                "nazva": "Шпалери",
+                "odynytsya": "м2",
+                "vytrata": 110,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 19800
+              },
+              {
+                "kod": "С185-1",
+                "nazva": "Клей шпалерний",
+                "odynytsya": "кг",
+                "vytrata": 20,
+                "tsina_za_od_uah": 60,
+                "vartist_uah": 1200
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 6668.62,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 21000,
+              "priami_vytraty_uah": 27668.62,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 70.196,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Облицювальні роботи",
+      "odynytsya": "м2 / 100 м2",
+      "sklad_robit": [
+        "Видалення",
+        "Наклеювання",
+        "Затирання"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "13-3-1",
+          "nazva": "Заміна окремих плиток облицювання",
+          "odynytsya": "м2",
+          "sklad_robit": [
+            "Видалення",
+            "Наклеювання",
+            "Затирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 2.07,
+              "seredniy_rozryad": 3.9,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 196.65
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С180-1",
+                "nazva": "Плитка облицювальна",
+                "odynytsya": "м2",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 380,
+                "vartist_uah": 399.0
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 5.5,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 77.0
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 0.6,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 27.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 196.65,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 503.0,
+              "priami_vytraty_uah": 699.65,
+              "odynytsya": "м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 2.07,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "13-3-2",
+          "nazva": "Розбирання облицювання стін",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Відбивання",
+            "Очищення основи"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 184.719,
+              "seredniy_rozryad": 3.9,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 17548.31
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С180-1",
+                "nazva": "Плитка облицювальна",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 380,
+                "vartist_uah": 39900
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 550,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7700
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 60,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2700
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 17548.31,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 50300,
+              "priami_vytraty_uah": 67848.31,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 184.719,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "13-3-3",
+          "nazva": "Облицювання стін плиткою при ремонті",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Підготовка",
+            "Укладання",
+            "Затирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 182.781,
+              "seredniy_rozryad": 3.9,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 17364.19
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С180-1",
+                "nazva": "Плитка облицювальна",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 380,
+                "vartist_uah": 39900
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 550,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7700
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 60,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2700
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 17364.19,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 50300,
+              "priami_vytraty_uah": 67664.19,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 182.781,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    }
+  ],
+  "techastyna": {
+    "sfera_zastosuvannya": "Заміна скла, шпалер, ремонт облицювань.",
+    "zagalni_polozhennya": [],
+    "pravyla_obsyagiv": [
+      "Скло — за площею; шпалери — за площею стін."
+    ],
+    "koeficienty_umov": [
+      {
+        "umova": "Стиснені умови (меблі, обладнання в приміщеннях)",
+        "do_trudu": 1.15
+      }
+    ],
+    "vytraty_i_vidhody": [
+      {
+        "nazva": "Скло мірне",
+        "vidsotok": 5.0
+      }
+    ]
+  },
+  "pogiyblennya": true
+}

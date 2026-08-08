@@ -1,0 +1,1437 @@
+{
+  "kompleks": "Д.2.2",
+  "nomer": 10,
+  "nazva": "Дерев'яні конструкції",
+  "dstu": "ДСТУ Б Д.2.2-10:2012",
+  "marka": "ЕД",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Ресурсні показники — орієнтовні укрупнені (труд, машини, матеріали, прямі витрати в грн) для попереднього кошторису.",
+    "Перед затвердженням інвесторського кошторису звірити з чинним КНУ РЕКН / ДСТУ та регіональними цінами.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Кроквяна система",
+      "odynytsya": "м3",
+      "sklad_robit": [
+        "Антисептування",
+        "Укладання",
+        "Анкерування"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "10-1-1",
+          "nazva": "Улаштування мауерлатів з антисептуванням",
+          "odynytsya": "м3",
+          "sklad_robit": [
+            "Антисептування",
+            "Укладання",
+            "Анкерування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 8.459,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 803.61
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 803.61,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 14398.61,
+              "odynytsya": "м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 8.459,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "10-1-2",
+          "nazva": "Улаштування кроквяних ніг із дощок/брусів",
+          "odynytsya": "м3",
+          "sklad_robit": [
+            "Розкрій",
+            "Установлення",
+            "Кріплення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 8.659,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 822.61
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 822.61,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 14417.61,
+              "odynytsya": "м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 8.659,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "10-1-3",
+          "nazva": "Улаштування стійок, підкосів, прогонів",
+          "odynytsya": "м3",
+          "sklad_robit": [
+            "Розкрій",
+            "Установлення",
+            "Кріплення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 8.752,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 831.44
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 831.44,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 14426.44,
+              "odynytsya": "м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 8.752,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "10-1-4",
+          "nazva": "Улаштування кобилок і карнизних елементів",
+          "odynytsya": "м3",
+          "sklad_robit": [
+            "Розкрій",
+            "Кріплення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 8.68,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 824.6
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 824.6,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 14419.6,
+              "odynytsya": "м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 8.68,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "10-1-5",
+          "nazva": "Вогнебіозахист дерев'яних конструкцій",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Нанесення складу в 2 рази"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 49.361,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4689.3
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4689.3,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 18284.3,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 49.361,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Настили, обрешітка, балки",
+      "odynytsya": "м3 / 100 м2",
+      "sklad_robit": [
+        "Антисептування кінців",
+        "Укладання",
+        "Кріплення"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "10-2-1",
+          "nazva": "Улаштування балок перекриттів дерев'яних",
+          "odynytsya": "м3",
+          "sklad_robit": [
+            "Антисептування кінців",
+            "Укладання",
+            "Кріплення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 8.033,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 763.13
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 763.13,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 14358.13,
+              "odynytsya": "м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 8.033,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "10-2-2",
+          "nazva": "Улаштування настилів по балках суцільних",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Настилання",
+            "Кріплення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 36.178,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 3436.91
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 3436.91,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 17031.91,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 36.178,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "10-2-3",
+          "nazva": "Улаштування обрешітки під металочерепицю з кроком",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Розмітка",
+            "Кріплення брусків"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 43.292,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4112.74
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4112.74,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 17707.74,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 43.292,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "10-2-4",
+          "nazva": "Улаштування суцільної обрешітки з ОСБ/дощок",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Укладання",
+            "Кріплення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 49.253,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4679.03
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4679.03,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 18274.03,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 49.253,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "10-2-5",
+          "nazva": "Підшивка карнизів софітами/дошкою",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Каркас",
+            "Підшивка"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 49.149,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4669.15
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4669.15,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 18264.15,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 49.149,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Заповнення прорізів",
+      "odynytsya": "100 м2 / шт",
+      "sklad_robit": [
+        "Установлення",
+        "Анкерування",
+        "Піна",
+        "Регулювання"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "10-3-1",
+          "nazva": "Установлення віконних блоків ПВХ площею до 2 м2",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Установлення",
+            "Анкерування",
+            "Піна",
+            "Регулювання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 57.135,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 5427.82
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.15,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 16.5
+            },
+            "mashyny": [
+              {
+                "kod": "С212-1",
+                "nazva": "Підйомник / кран (подача матеріалів)",
+                "mash_god": 0.15,
+                "tsina_mash_god_uah": 900,
+                "vartist_uah": 135.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С137-1",
+                "nazva": "Цегла керамічна",
+                "odynytsya": "шт",
+                "vytrata": 5100,
+                "tsina_za_od_uah": 12,
+                "vartist_uah": 61200
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин мурувальний",
+                "odynytsya": "м3",
+                "vytrata": 2.4,
+                "tsina_za_od_uah": 2200,
+                "vartist_uah": 5280.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 5444.32,
+              "vartist_mashyn_uah": 135.0,
+              "vartist_materialiv_uah": 66480.0,
+              "priami_vytraty_uah": 72059.32,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 57.135,
+            "mashynisty_lyud_god": 0.15
+          }
+        },
+        {
+          "shifr": "10-3-2",
+          "nazva": "Установлення віконних блоків ПВХ площею понад 2 м2",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Установлення",
+            "Анкерування",
+            "Піна",
+            "Регулювання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 58.811,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 5587.05
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.15,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 16.5
+            },
+            "mashyny": [
+              {
+                "kod": "С212-1",
+                "nazva": "Підйомник / кран (подача матеріалів)",
+                "mash_god": 0.15,
+                "tsina_mash_god_uah": 900,
+                "vartist_uah": 135.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С137-1",
+                "nazva": "Цегла керамічна",
+                "odynytsya": "шт",
+                "vytrata": 5100,
+                "tsina_za_od_uah": 12,
+                "vartist_uah": 61200
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин мурувальний",
+                "odynytsya": "м3",
+                "vytrata": 2.4,
+                "tsina_za_od_uah": 2200,
+                "vartist_uah": 5280.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 5603.55,
+              "vartist_mashyn_uah": 135.0,
+              "vartist_materialiv_uah": 66480.0,
+              "priami_vytraty_uah": 72218.55,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 58.811,
+            "mashynisty_lyud_god": 0.15
+          }
+        },
+        {
+          "shifr": "10-3-3",
+          "nazva": "Установлення дверних блоків внутрішніх дерев'яних",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Установлення коробки",
+            "Навішування полотна",
+            "Наличники"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 61.985,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 5888.57
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.15,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 16.5
+            },
+            "mashyny": [
+              {
+                "kod": "С212-1",
+                "nazva": "Підйомник / кран (подача матеріалів)",
+                "mash_god": 0.15,
+                "tsina_mash_god_uah": 900,
+                "vartist_uah": 135.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С137-1",
+                "nazva": "Цегла керамічна",
+                "odynytsya": "шт",
+                "vytrata": 5100,
+                "tsina_za_od_uah": 12,
+                "vartist_uah": 61200
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин мурувальний",
+                "odynytsya": "м3",
+                "vytrata": 2.4,
+                "tsina_za_od_uah": 2200,
+                "vartist_uah": 5280.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 5905.07,
+              "vartist_mashyn_uah": 135.0,
+              "vartist_materialiv_uah": 66480.0,
+              "priami_vytraty_uah": 72520.07,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 61.985,
+            "mashynisty_lyud_god": 0.15
+          }
+        },
+        {
+          "shifr": "10-3-4",
+          "nazva": "Установлення дверних блоків зовнішніх металевих",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Установлення",
+            "Анкерування",
+            "Регулювання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 56.878,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 5403.41
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.15,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 16.5
+            },
+            "mashyny": [
+              {
+                "kod": "С212-1",
+                "nazva": "Підйомник / кран (подача матеріалів)",
+                "mash_god": 0.15,
+                "tsina_mash_god_uah": 900,
+                "vartist_uah": 135.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С137-1",
+                "nazva": "Цегла керамічна",
+                "odynytsya": "шт",
+                "vytrata": 5100,
+                "tsina_za_od_uah": 12,
+                "vartist_uah": 61200
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин мурувальний",
+                "odynytsya": "м3",
+                "vytrata": 2.4,
+                "tsina_za_od_uah": 2200,
+                "vartist_uah": 5280.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 5419.91,
+              "vartist_mashyn_uah": 135.0,
+              "vartist_materialiv_uah": 66480.0,
+              "priami_vytraty_uah": 72034.91,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 56.878,
+            "mashynisty_lyud_god": 0.15
+          }
+        },
+        {
+          "shifr": "10-3-5",
+          "nazva": "Установлення дверей протипожежних EI30",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Установлення",
+            "Анкерування",
+            "Герметизація"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 3.061,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 290.8
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С150-1",
+                "nazva": "Блок віконний/дверний",
+                "odynytsya": "м2",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 2500,
+                "vartist_uah": 2500.0
+              },
+              {
+                "kod": "С151-1",
+                "nazva": "Піна монтажна / герметик",
+                "odynytsya": "л",
+                "vytrata": 0.8,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 96.0
+              },
+              {
+                "kod": "С152-1",
+                "nazva": "Кріплення (анкери, шурупи)",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 45.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 290.8,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 2641.0,
+              "priami_vytraty_uah": 2931.8,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 3.061,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "10-3-6",
+          "nazva": "Установлення підвіконних дощок ПВХ",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Підгонка",
+            "Установлення",
+            "Герметизація"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 251.385,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 23881.58
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С150-1",
+                "nazva": "Блок віконний/дверний",
+                "odynytsya": "м2",
+                "vytrata": 100,
+                "tsina_za_od_uah": 2500,
+                "vartist_uah": 250000
+              },
+              {
+                "kod": "С151-1",
+                "nazva": "Піна монтажна / герметик",
+                "odynytsya": "л",
+                "vytrata": 80,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 9600
+              },
+              {
+                "kod": "С152-1",
+                "nazva": "Кріплення (анкери, шурупи)",
+                "odynytsya": "компл",
+                "vytrata": 100,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 4500
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 23881.58,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 264100,
+              "priami_vytraty_uah": 287981.58,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 251.385,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "10-3-7",
+          "nazva": "Улаштування відливів віконних",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Розкрій",
+            "Кріплення",
+            "Герметизація"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 246.576,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 23424.72
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С150-1",
+                "nazva": "Блок віконний/дверний",
+                "odynytsya": "м2",
+                "vytrata": 100,
+                "tsina_za_od_uah": 2500,
+                "vartist_uah": 250000
+              },
+              {
+                "kod": "С151-1",
+                "nazva": "Піна монтажна / герметик",
+                "odynytsya": "л",
+                "vytrata": 80,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 9600
+              },
+              {
+                "kod": "С152-1",
+                "nazva": "Кріплення (анкери, шурупи)",
+                "odynytsya": "компл",
+                "vytrata": 100,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 4500
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 23424.72,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 264100,
+              "priami_vytraty_uah": 287524.72,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 246.576,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 4,
+      "nazva": "Каркасні перегородки та обшивки",
+      "odynytsya": "100 м2",
+      "sklad_robit": [
+        "Каркас",
+        "Ізоляція",
+        "Обшивка",
+        "Шви"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "10-4-1",
+          "nazva": "Улаштування каркасних перегородок з обшивкою ГКЛ в 1 шар",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Каркас",
+            "Ізоляція",
+            "Обшивка",
+            "Шви"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 59.205,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 5624.47
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.15,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 16.5
+            },
+            "mashyny": [
+              {
+                "kod": "С212-1",
+                "nazva": "Підйомник / кран (подача матеріалів)",
+                "mash_god": 0.15,
+                "tsina_mash_god_uah": 900,
+                "vartist_uah": 135.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С137-1",
+                "nazva": "Цегла керамічна",
+                "odynytsya": "шт",
+                "vytrata": 5100,
+                "tsina_za_od_uah": 12,
+                "vartist_uah": 61200
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин мурувальний",
+                "odynytsya": "м3",
+                "vytrata": 2.4,
+                "tsina_za_od_uah": 2200,
+                "vartist_uah": 5280.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 5640.97,
+              "vartist_mashyn_uah": 135.0,
+              "vartist_materialiv_uah": 66480.0,
+              "priami_vytraty_uah": 72255.97,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 59.205,
+            "mashynisty_lyud_god": 0.15
+          }
+        },
+        {
+          "shifr": "10-4-2",
+          "nazva": "Улаштування каркасних перегородок з обшивкою ГКЛ у 2 шари",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Каркас",
+            "Ізоляція",
+            "Обшивка 2 шари",
+            "Шви"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 64.173,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 6096.44
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.15,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 16.5
+            },
+            "mashyny": [
+              {
+                "kod": "С212-1",
+                "nazva": "Підйомник / кран (подача матеріалів)",
+                "mash_god": 0.15,
+                "tsina_mash_god_uah": 900,
+                "vartist_uah": 135.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С137-1",
+                "nazva": "Цегла керамічна",
+                "odynytsya": "шт",
+                "vytrata": 5100,
+                "tsina_za_od_uah": 12,
+                "vartist_uah": 61200
+              },
+              {
+                "kod": "С135-1",
+                "nazva": "Розчин мурувальний",
+                "odynytsya": "м3",
+                "vytrata": 2.4,
+                "tsina_za_od_uah": 2200,
+                "vartist_uah": 5280.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 6112.94,
+              "vartist_mashyn_uah": 135.0,
+              "vartist_materialiv_uah": 66480.0,
+              "priami_vytraty_uah": 72727.94,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 64.173,
+            "mashynisty_lyud_god": 0.15
+          }
+        },
+        {
+          "shifr": "10-4-3",
+          "nazva": "Обшивка стін вагонкою/дошкою",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Каркас",
+            "Обшивка"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 44.928,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4268.16
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4268.16,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 17863.16,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 44.928,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "10-4-4",
+          "nazva": "Улаштування підшивки стель дошкою/панелями",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Каркас",
+            "Підшивка"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 47.368,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4499.96
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4499.96,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 18094.96,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 47.368,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    }
+  ],
+  "techastyna": {
+    "sfera_zastosuvannya": "Кроквяна система, вікна, двері, каркасні перегородки будівлі притулку.",
+    "zagalni_polozhennya": [
+      "Пиломатеріали — за проектом; антисептування й вогнезахист нормуються окремо або в комплексі.",
+      "Вологість деревини несучих конструкцій — не більше 20–22%."
+    ],
+    "pravyla_obsyagiv": [
+      "Об'єм лісоматеріалів — за специфікацією з урахуванням відходів.",
+      "Площа заповнень прорізів — за зовнішнім обводом коробок."
+    ],
+    "koeficienty_umov": [
+      {
+        "umova": "Криволінійні/складні дахи (вальми, єндови)",
+        "do_trudu": 1.2
+      },
+      {
+        "umova": "Робота з автовишки",
+        "do_mashyn": 1.15
+      }
+    ],
+    "vytraty_i_vidhody": [
+      {
+        "nazva": "Лісоматеріали",
+        "vidsotok": 5.0
+      }
+    ]
+  },
+  "pogiyblennya": true
+}

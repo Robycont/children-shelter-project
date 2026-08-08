@@ -1,0 +1,273 @@
+{
+  "kompleks": "Д.2.3",
+  "nomer": 21,
+  "nazva": "Устаткування метрополітенів і тунелів",
+  "dstu": "ДСТУ Б Д.2.3-21:2012",
+  "marka": "М",
+  "priorytet_prytulok": false,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Ресурсні показники — орієнтовні укрупнені (труд, машини, матеріали, прямі витрати в грн) для попереднього кошторису.",
+    "Перед затвердженням інвесторського кошторису звірити з чинним КНУ РЕКН / ДСТУ та регіональними цінами.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Монтаж устаткування метрополітену",
+      "odynytsya": "компл",
+      "sklad_robit": [
+        "Розмітка трас",
+        "Прокладання / установлення",
+        "Підключення",
+        "Перевірка ізоляції"
+      ],
+      "normy": [
+        {
+          "shifr": "21-1-1",
+          "nazva": "Монтаж ескалаторів",
+          "odynytsya": "компл",
+          "sklad_robit": [
+            "Розмітка трас",
+            "Прокладання / установлення",
+            "Підключення",
+            "Перевірка ізоляції"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 1.878,
+              "seredniy_rozryad": 3.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 178.41
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С214-m",
+                "nazva": "Кабель / провід силовий",
+                "odynytsya": "м",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 57.75
+              },
+              {
+                "kod": "С215-m",
+                "nazva": "Труба/короб/гофра",
+                "odynytsya": "м",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 18,
+                "vartist_uah": 18.9
+              },
+              {
+                "kod": "С216-m",
+                "nazva": "Кріплення",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 25,
+                "vartist_uah": 25.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 178.41,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 101.65,
+              "priami_vytraty_uah": 280.06,
+              "odynytsya": "компл",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.878,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "21-1-2",
+          "nazva": "Монтаж вентиляційного обладнання станцій",
+          "odynytsya": "компл",
+          "sklad_robit": [
+            "Заготівля",
+            "Монтаж",
+            "Герметизація",
+            "Перевірка"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 3.558,
+              "seredniy_rozryad": 3.9,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 338.01
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С202-m",
+                "nazva": "Повітроводи оцинковані",
+                "odynytsya": "м2",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 280,
+                "vartist_uah": 294.0
+              },
+              {
+                "kod": "С203-m",
+                "nazva": "Фланці, ущільнення, кріплення",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 338.01,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 414.0,
+              "priami_vytraty_uah": 752.01,
+              "odynytsya": "компл",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 3.558,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "21-1-3",
+          "nazva": "Монтаж водопостачання і водовідливу тунелів",
+          "odynytsya": "компл",
+          "sklad_robit": [
+            "Розмітка трас",
+            "Прокладання / установлення",
+            "Підключення",
+            "Перевірка ізоляції"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 1.777,
+              "seredniy_rozryad": 3.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 168.81
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С214-m",
+                "nazva": "Кабель / провід силовий",
+                "odynytsya": "м",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 57.75
+              },
+              {
+                "kod": "С215-m",
+                "nazva": "Труба/короб/гофра",
+                "odynytsya": "м",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 18,
+                "vartist_uah": 18.9
+              },
+              {
+                "kod": "С216-m",
+                "nazva": "Кріплення",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 25,
+                "vartist_uah": 25.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 168.81,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 101.65,
+              "priami_vytraty_uah": 270.46,
+              "odynytsya": "компл",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.777,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "21-1-4",
+          "nazva": "Монтаж обладнання тягових підстанцій",
+          "odynytsya": "компл",
+          "sklad_robit": [
+            "Розмітка трас",
+            "Прокладання / установлення",
+            "Підключення",
+            "Перевірка ізоляції"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 1.787,
+              "seredniy_rozryad": 3.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 169.76
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С214-m",
+                "nazva": "Кабель / провід силовий",
+                "odynytsya": "м",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 57.75
+              },
+              {
+                "kod": "С215-m",
+                "nazva": "Труба/короб/гофра",
+                "odynytsya": "м",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 18,
+                "vartist_uah": 18.9
+              },
+              {
+                "kod": "С216-m",
+                "nazva": "Кріплення",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 25,
+                "vartist_uah": 25.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 169.76,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 101.65,
+              "priami_vytraty_uah": 271.41,
+              "odynytsya": "компл",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.787,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

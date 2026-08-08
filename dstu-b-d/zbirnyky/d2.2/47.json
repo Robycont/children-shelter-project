@@ -1,0 +1,1080 @@
+{
+  "kompleks": "Д.2.2",
+  "nomer": 47,
+  "nazva": "Озеленення. Захисні лісонасадження. Багаторічні плодові насадження",
+  "dstu": "ДСТУ Б Д.2.2-47:2012",
+  "marka": "ЕД",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Ресурсні показники — орієнтовні укрупнені (труд, машини, матеріали, прямі витрати в грн) для попереднього кошторису.",
+    "Перед затвердженням інвесторського кошторису звірити з чинним КНУ РЕКН / ДСТУ та регіональними цінами.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Підготовка території",
+      "odynytsya": "100 м2 / м3",
+      "sklad_robit": [
+        "Розрівнювання",
+        "Вибірка сміття і каміння"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "47-1-1",
+          "nazva": "Планування території під озеленення вручну",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Розрівнювання",
+            "Вибірка сміття і каміння"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 52.854,
+              "seredniy_rozryad": 2.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 5021.13
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С311-1",
+                "nazva": "Перевезення ґрунту (за потреби)",
+                "odynytsya": "т",
+                "vytrata": 0.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 5021.13,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 0,
+              "priami_vytraty_uah": 5021.13,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 52.854,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "47-1-2",
+          "nazva": "Розстилання рослинного ґрунту шаром 15 см",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Розкидання",
+            "Розрівнювання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 57.711,
+              "seredniy_rozryad": 3.2,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 5482.55
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.4,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 44.0
+            },
+            "mashyny": [
+              {
+                "kod": "С220-m",
+                "nazva": "Коток / віброплита",
+                "mash_god": 0.229,
+                "tsina_mash_god_uah": 500,
+                "vartist_uah": 114.5
+              },
+              {
+                "kod": "С221-m",
+                "nazva": "Автосамоскид",
+                "mash_god": 0.171,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 119.7
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С233-1",
+                "nazva": "Щебінь / відсів / асфальтобетон / плитка",
+                "odynytsya": "м3",
+                "vytrata": 15,
+                "tsina_za_od_uah": 1800,
+                "vartist_uah": 27000
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 5526.55,
+              "vartist_mashyn_uah": 234.2,
+              "vartist_materialiv_uah": 27000,
+              "priami_vytraty_uah": 32760.75,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 57.711,
+            "mashynisty_lyud_god": 0.4
+          }
+        },
+        {
+          "shifr": "47-1-3",
+          "nazva": "Розстилання рослинного ґрунту шаром 20 см",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Розкидання",
+            "Розрівнювання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 64.124,
+              "seredniy_rozryad": 3.2,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 6091.78
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.4,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 44.0
+            },
+            "mashyny": [
+              {
+                "kod": "С220-m",
+                "nazva": "Коток / віброплита",
+                "mash_god": 0.229,
+                "tsina_mash_god_uah": 500,
+                "vartist_uah": 114.5
+              },
+              {
+                "kod": "С221-m",
+                "nazva": "Автосамоскид",
+                "mash_god": 0.171,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 119.7
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С233-1",
+                "nazva": "Щебінь / відсів / асфальтобетон / плитка",
+                "odynytsya": "м3",
+                "vytrata": 15,
+                "tsina_za_od_uah": 1800,
+                "vartist_uah": 27000
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 6135.78,
+              "vartist_mashyn_uah": 234.2,
+              "vartist_materialiv_uah": 27000,
+              "priami_vytraty_uah": 33369.98,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 64.124,
+            "mashynisty_lyud_god": 0.4
+          }
+        },
+        {
+          "shifr": "47-1-4",
+          "nazva": "Завезення рослинного ґрунту",
+          "odynytsya": "м3",
+          "sklad_robit": [
+            "Навантаження",
+            "Перевезення",
+            "Вивантаження"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 0.942,
+              "seredniy_rozryad": 3.2,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 89.49
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.4,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 44.0
+            },
+            "mashyny": [
+              {
+                "kod": "С220-m",
+                "nazva": "Коток / віброплита",
+                "mash_god": 0.229,
+                "tsina_mash_god_uah": 500,
+                "vartist_uah": 114.5
+              },
+              {
+                "kod": "С221-m",
+                "nazva": "Автосамоскид",
+                "mash_god": 0.171,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 119.7
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С233-1",
+                "nazva": "Щебінь / відсів / асфальтобетон / плитка",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 1800,
+                "vartist_uah": 360.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 133.49,
+              "vartist_mashyn_uah": 234.2,
+              "vartist_materialiv_uah": 360.0,
+              "priami_vytraty_uah": 727.69,
+              "odynytsya": "м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 0.942,
+            "mashynisty_lyud_god": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Посадка рослин",
+      "odynytsya": "шт / 100 м2 / 100 м",
+      "sklad_robit": [
+        "Яма",
+        "Посадка",
+        "Підв'язка",
+        "Полив"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "47-2-1",
+          "nazva": "Посадка дерев листяних із грудкою до 0,5×0,4 м",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Яма",
+            "Посадка",
+            "Підв'язка",
+            "Полив"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 9.294,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 882.93
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 882.93,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 14477.93,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 9.294,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "47-2-2",
+          "nazva": "Посадка дерев хвойних із грудкою",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Яма",
+            "Посадка",
+            "Полив"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 8.456,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 803.32
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 803.32,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 14398.32,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 8.456,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "47-2-3",
+          "nazva": "Улаштування газонів партерних посівом",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Підготовка",
+            "Посів",
+            "Прикочування",
+            "Полив"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 50.294,
+              "seredniy_rozryad": 2.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4777.93
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С232-1",
+                "nazva": "Насіння / рулонний газон / розсада",
+                "odynytsya": "м2",
+                "vytrata": 110,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 4950
+              },
+              {
+                "kod": "С231-2",
+                "nazva": "Ґрунт рослинний",
+                "odynytsya": "м3",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 600,
+                "vartist_uah": 3000.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4777.93,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 7950.0,
+              "priami_vytraty_uah": 12727.93,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 50.294,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "47-2-4",
+          "nazva": "Улаштування газонів звичайних посівом",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Підготовка",
+            "Посів",
+            "Полив"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 46.617,
+              "seredniy_rozryad": 2.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4428.61
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С232-1",
+                "nazva": "Насіння / рулонний газон / розсада",
+                "odynytsya": "м2",
+                "vytrata": 110,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 4950
+              },
+              {
+                "kod": "С231-2",
+                "nazva": "Ґрунт рослинний",
+                "odynytsya": "м3",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 600,
+                "vartist_uah": 3000.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4428.61,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 7950.0,
+              "priami_vytraty_uah": 12378.61,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 46.617,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "47-2-5",
+          "nazva": "Улаштування газонів рулонних",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Підготовка",
+            "Укладання",
+            "Прикочування",
+            "Полив"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 52.897,
+              "seredniy_rozryad": 2.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 5025.22
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С232-1",
+                "nazva": "Насіння / рулонний газон / розсада",
+                "odynytsya": "м2",
+                "vytrata": 110,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 4950
+              },
+              {
+                "kod": "С231-2",
+                "nazva": "Ґрунт рослинний",
+                "odynytsya": "м3",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 600,
+                "vartist_uah": 3000.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 5025.22,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 7950.0,
+              "priami_vytraty_uah": 12975.22,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 52.897,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "47-2-6",
+          "nazva": "Посадка кущів одиночних",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Яма",
+            "Посадка",
+            "Полив"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 1.509,
+              "seredniy_rozryad": 2.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 143.35
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С230-1",
+                "nazva": "Садивний матеріал",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 450,
+                "vartist_uah": 450.0
+              },
+              {
+                "kod": "С231-1",
+                "nazva": "Ґрунт рослинний / добрива",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 600,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 143.35,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 570.0,
+              "priami_vytraty_uah": 713.35,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.509,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "47-2-7",
+          "nazva": "Улаштування живоплоту з кущів",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Траншея",
+            "Посадка в ряд",
+            "Полив"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 24.219,
+              "seredniy_rozryad": 2.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 2300.81
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С230-1",
+                "nazva": "Садивний матеріал",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 450,
+                "vartist_uah": 450.0
+              },
+              {
+                "kod": "С231-1",
+                "nazva": "Ґрунт рослинний / добрива",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 600,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 2300.81,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 570.0,
+              "priami_vytraty_uah": 2870.81,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 24.219,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "47-2-8",
+          "nazva": "Улаштування квітників з однорічників",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Підготовка",
+            "Висадка розсади",
+            "Полив"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 46.433,
+              "seredniy_rozryad": 2.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4411.14
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С232-1",
+                "nazva": "Насіння / рулонний газон / розсада",
+                "odynytsya": "м2",
+                "vytrata": 110,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 4950
+              },
+              {
+                "kod": "С231-2",
+                "nazva": "Ґрунт рослинний",
+                "odynytsya": "м3",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 600,
+                "vartist_uah": 3000.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4411.14,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 7950.0,
+              "priami_vytraty_uah": 12361.14,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 46.433,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "47-2-9",
+          "nazva": "Улаштування квітників з багаторічників",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Підготовка",
+            "Посадка",
+            "Мульчування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 48.136,
+              "seredniy_rozryad": 2.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4572.92
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С232-1",
+                "nazva": "Насіння / рулонний газон / розсада",
+                "odynytsya": "м2",
+                "vytrata": 110,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 4950
+              },
+              {
+                "kod": "С231-2",
+                "nazva": "Ґрунт рослинний",
+                "odynytsya": "м3",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 600,
+                "vartist_uah": 3000.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4572.92,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 7950.0,
+              "priami_vytraty_uah": 12522.92,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 48.136,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Догляд і супутні роботи",
+      "odynytsya": "100 м2 / шт",
+      "sklad_robit": [
+        "Полив нормою"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "47-3-1",
+          "nazva": "Полив насаджень зі шланга",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Полив нормою"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 67.606,
+              "seredniy_rozryad": 3.2,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 6422.57
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.4,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 44.0
+            },
+            "mashyny": [
+              {
+                "kod": "С220-m",
+                "nazva": "Коток / віброплита",
+                "mash_god": 0.229,
+                "tsina_mash_god_uah": 500,
+                "vartist_uah": 114.5
+              },
+              {
+                "kod": "С221-m",
+                "nazva": "Автосамоскид",
+                "mash_god": 0.171,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 119.7
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С233-1",
+                "nazva": "Щебінь / відсів / асфальтобетон / плитка",
+                "odynytsya": "м3",
+                "vytrata": 15,
+                "tsina_za_od_uah": 1800,
+                "vartist_uah": 27000
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 6466.57,
+              "vartist_mashyn_uah": 234.2,
+              "vartist_materialiv_uah": 27000,
+              "priami_vytraty_uah": 33700.77,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 67.606,
+            "mashynisty_lyud_god": 0.4
+          }
+        },
+        {
+          "shifr": "47-3-2",
+          "nazva": "Догляд за деревами в перший рік (комплекс)",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Полив",
+            "Розпушування",
+            "Підживлення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 8.371,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 795.25
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 795.25,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 14390.25,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 8.371,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "47-3-3",
+          "nazva": "Улаштування пристовбурних лунок і мульчування",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Формування лунки",
+            "Мульча"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 0.94,
+              "seredniy_rozryad": 3.2,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 89.3
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.4,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 44.0
+            },
+            "mashyny": [
+              {
+                "kod": "С220-m",
+                "nazva": "Коток / віброплита",
+                "mash_god": 0.229,
+                "tsina_mash_god_uah": 500,
+                "vartist_uah": 114.5
+              },
+              {
+                "kod": "С221-m",
+                "nazva": "Автосамоскид",
+                "mash_god": 0.171,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 119.7
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С233-1",
+                "nazva": "Щебінь / відсів / асфальтобетон / плитка",
+                "odynytsya": "м3",
+                "vytrata": 0.2,
+                "tsina_za_od_uah": 1800,
+                "vartist_uah": 360.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 133.3,
+              "vartist_mashyn_uah": 234.2,
+              "vartist_materialiv_uah": 360.0,
+              "priami_vytraty_uah": 727.5,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 0.94,
+            "mashynisty_lyud_god": 0.4
+          }
+        },
+        {
+          "shifr": "47-3-4",
+          "nazva": "Установлення опор і підв'язування дерев",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Кілки",
+            "Підв'язка"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 9.491,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 901.64
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С156-1",
+                "nazva": "Пиломатеріали хвойні",
+                "odynytsya": "м3",
+                "vytrata": 1.1,
+                "tsina_za_od_uah": 12000,
+                "vartist_uah": 13200.0
+              },
+              {
+                "kod": "С157-1",
+                "nazva": "Цвяхи, кріплення",
+                "odynytsya": "кг",
+                "vytrata": 5.0,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 275.0
+              },
+              {
+                "kod": "С158-1",
+                "nazva": "Антисептик",
+                "odynytsya": "л",
+                "vytrata": 1.5,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 120.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 901.64,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13595.0,
+              "priami_vytraty_uah": 14496.64,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 9.491,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    }
+  ],
+  "techastyna": {
+    "sfera_zastosuvannya": "Озеленення території притулку: газони, дерева, кущі, квітники, живоплоти.",
+    "zagalni_polozhennya": [
+      "Строки посадки — за агротехнічними вимогами; полив у догляді."
+    ],
+    "pravyla_obsyagiv": [
+      "Площі газонів — за планом; посадки — поштучно."
+    ],
+    "koeficienty_umov": [
+      {
+        "umova": "Посадка в несприятливий період з комом",
+        "do_trudu": 1.2
+      }
+    ],
+    "vytraty_i_vidhody": [
+      {
+        "nazva": "Відпад саджанців (доповнення)",
+        "vidsotok": 10.0
+      }
+    ]
+  },
+  "pogiyblennya": true
+}

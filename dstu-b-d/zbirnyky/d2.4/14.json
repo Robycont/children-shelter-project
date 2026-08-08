@@ -1,0 +1,244 @@
+{
+  "kompleks": "Д.2.4",
+  "nomer": 14,
+  "nazva": "Ліпні роботи",
+  "dstu": "ДСТУ Б Д.2.4-14:2012",
+  "marka": "Р",
+  "priorytet_prytulok": false,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Ресурсні показники — орієнтовні укрупнені (труд, машини, матеріали, прямі витрати в грн) для попереднього кошторису.",
+    "Перед затвердженням інвесторського кошторису звірити з чинним КНУ РЕКН / ДСТУ та регіональними цінами.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Ліпні роботи при ремонті",
+      "odynytsya": "м2",
+      "sklad_robit": [
+        "Підготовка",
+        "Ремонтні роботи",
+        "Прибирання"
+      ],
+      "normy": [
+        {
+          "shifr": "14-1-1",
+          "nazva": "Зняття пошкоджених ліпних виробів",
+          "odynytsya": "м2",
+          "sklad_robit": [
+            "Підготовка",
+            "Ремонтні роботи",
+            "Прибирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 5.212,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 495.14
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С250-1",
+                "nazva": "Матеріали ремонтні",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 1500.0
+              },
+              {
+                "kod": "С251-1",
+                "nazva": "Суміші / розчини / фарби",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 800,
+                "vartist_uah": 800.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 495.14,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 2300.0,
+              "priami_vytraty_uah": 2795.14,
+              "odynytsya": "м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 5.212,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "14-1-2",
+          "nazva": "Відновлення ліпних карнизів",
+          "odynytsya": "м2",
+          "sklad_robit": [
+            "Підготовка",
+            "Ремонтні роботи",
+            "Прибирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 5.687,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 540.26
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С250-1",
+                "nazva": "Матеріали ремонтні",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 1500.0
+              },
+              {
+                "kod": "С251-1",
+                "nazva": "Суміші / розчини / фарби",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 800,
+                "vartist_uah": 800.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 540.26,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 2300.0,
+              "priami_vytraty_uah": 2840.26,
+              "odynytsya": "м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 5.687,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "14-1-3",
+          "nazva": "Відновлення розеток і капітелей",
+          "odynytsya": "м2",
+          "sklad_robit": [
+            "Підготовка",
+            "Ремонтні роботи",
+            "Прибирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 5.265,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 500.17
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С250-1",
+                "nazva": "Матеріали ремонтні",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 1500.0
+              },
+              {
+                "kod": "С251-1",
+                "nazva": "Суміші / розчини / фарби",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 800,
+                "vartist_uah": 800.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 500.17,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 2300.0,
+              "priami_vytraty_uah": 2800.17,
+              "odynytsya": "м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 5.265,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "14-1-4",
+          "nazva": "Установлення нових ліпних деталей",
+          "odynytsya": "м2",
+          "sklad_robit": [
+            "Підготовка",
+            "Ремонтні роботи",
+            "Прибирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 6.159,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 585.11
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С250-1",
+                "nazva": "Матеріали ремонтні",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 1500.0
+              },
+              {
+                "kod": "С251-1",
+                "nazva": "Суміші / розчини / фарби",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 800,
+                "vartist_uah": 800.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 585.11,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 2300.0,
+              "priami_vytraty_uah": 2885.11,
+              "odynytsya": "м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 6.159,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

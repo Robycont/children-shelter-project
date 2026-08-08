@@ -1,0 +1,166 @@
+{
+  "kompleks": "Д.2.4",
+  "vkazivky": "ДСТУ-Н Б Д.2.4-21:2012",
+  "zbirnyky": [
+    {
+      "nomer": 1,
+      "nazva": "Земляні роботи",
+      "dstu": "ДСТУ Б Д.2.4-1:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/01.json"
+    },
+    {
+      "nomer": 2,
+      "nazva": "Фундаменти",
+      "dstu": "ДСТУ Б Д.2.4-2:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/02.json"
+    },
+    {
+      "nomer": 3,
+      "nazva": "Стіни",
+      "dstu": "ДСТУ Б Д.2.4-3:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/03.json"
+    },
+    {
+      "nomer": 4,
+      "nazva": "Перекриття",
+      "dstu": "ДСТУ Б Д.2.4-4:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/04.json"
+    },
+    {
+      "nomer": 5,
+      "nazva": "Перегородки",
+      "dstu": "ДСТУ Б Д.2.4-5:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/05.json"
+    },
+    {
+      "nomer": 6,
+      "nazva": "Прорізи",
+      "dstu": "ДСТУ Б Д.2.4-6:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/06.json"
+    },
+    {
+      "nomer": 7,
+      "nazva": "Підлоги",
+      "dstu": "ДСТУ Б Д.2.4-7:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/07.json"
+    },
+    {
+      "nomer": 8,
+      "nazva": "Дахи, покрівлі",
+      "dstu": "ДСТУ Б Д.2.4-8:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/08.json"
+    },
+    {
+      "nomer": 9,
+      "nazva": "Сходи, ґанки",
+      "dstu": "ДСТУ Б Д.2.4-9:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/09.json"
+    },
+    {
+      "nomer": 10,
+      "nazva": "Пічні роботи",
+      "dstu": "ДСТУ Б Д.2.4-10:2012",
+      "marka": "Р",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.4/10.json"
+    },
+    {
+      "nomer": 11,
+      "nazva": "Штукатурні роботи",
+      "dstu": "ДСТУ Б Д.2.4-11:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/11.json"
+    },
+    {
+      "nomer": 12,
+      "nazva": "Малярні роботи",
+      "dstu": "ДСТУ Б Д.2.4-12:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/12.json"
+    },
+    {
+      "nomer": 13,
+      "nazva": "Склярські, шпалерні та облицювальні роботи",
+      "dstu": "ДСТУ Б Д.2.4-13:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/13.json"
+    },
+    {
+      "nomer": 14,
+      "nazva": "Ліпні роботи",
+      "dstu": "ДСТУ Б Д.2.4-14:2012",
+      "marka": "Р",
+      "priorytet_prytulok": false,
+      "fayl": "zbirnyky/d2.4/14.json"
+    },
+    {
+      "nomer": 15,
+      "nazva": "Внутрішні санітарно-технічні роботи",
+      "dstu": "ДСТУ Б Д.2.4-15:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/15.json"
+    },
+    {
+      "nomer": 16,
+      "nazva": "Зовнішні інженерні мережі",
+      "dstu": "ДСТУ Б Д.2.4-16:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/16.json"
+    },
+    {
+      "nomer": 17,
+      "nazva": "Електромонтажні роботи",
+      "dstu": "ДСТУ Б Д.2.4-17:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/17.json"
+    },
+    {
+      "nomer": 18,
+      "nazva": "Благоустрій",
+      "dstu": "ДСТУ Б Д.2.4-18:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/18.json"
+    },
+    {
+      "nomer": 19,
+      "nazva": "Ізоляційні роботи",
+      "dstu": "ДСТУ Б Д.2.4-19:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/19.json"
+    },
+    {
+      "nomer": 20,
+      "nazva": "Інші ремонтно-будівельні роботи",
+      "dstu": "ДСТУ Б Д.2.4-20:2012",
+      "marka": "Р",
+      "priorytet_prytulok": true,
+      "fayl": "zbirnyky/d2.4/20.json"
+    }
+  ]
+}

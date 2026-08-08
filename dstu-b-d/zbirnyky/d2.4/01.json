@@ -1,0 +1,416 @@
+{
+  "kompleks": "Д.2.4",
+  "nomer": 1,
+  "nazva": "Земляні роботи (ремонт)",
+  "dstu": "ДСТУ Б Д.2.4-1:2012",
+  "marka": "Р",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Ресурсні показники — орієнтовні укрупнені (труд, машини, матеріали, прямі витрати в грн) для попереднього кошторису.",
+    "Перед затвердженням інвесторського кошторису звірити з чинним КНУ РЕКН / ДСТУ та регіональними цінами.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Розробка ґрунту вручну при ремонті",
+      "odynytsya": "100 м3",
+      "sklad_robit": [
+        "Розпушування",
+        "Викидання",
+        "Кріплення (за потреби)"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "1-1-1",
+          "nazva": "Розробка ґрунту 1 групи вручну в шурфах і підкопах",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Розпушування",
+            "Викидання",
+            "Кріплення (за потреби)"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 99.275,
+              "seredniy_rozryad": 2.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 9431.12
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С311-1",
+                "nazva": "Перевезення ґрунту (за потреби)",
+                "odynytsya": "т",
+                "vytrata": 0.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 9431.12,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 0,
+              "priami_vytraty_uah": 9431.12,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 99.275,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "1-1-2",
+          "nazva": "Розробка ґрунту 2 групи вручну в шурфах",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Розпушування",
+            "Викидання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 115.881,
+              "seredniy_rozryad": 2.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 11008.69
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С311-1",
+                "nazva": "Перевезення ґрунту (за потреби)",
+                "odynytsya": "т",
+                "vytrata": 0.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 11008.69,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 0,
+              "priami_vytraty_uah": 11008.69,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 115.881,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "1-1-3",
+          "nazva": "Розробка ґрунту вручну біля фундаментів з обережністю",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Пошарова розробка",
+            "Огляд конструкцій"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 108.645,
+              "seredniy_rozryad": 2.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 10321.27
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С311-1",
+                "nazva": "Перевезення ґрунту (за потреби)",
+                "odynytsya": "т",
+                "vytrata": 0.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 10321.27,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 0,
+              "priami_vytraty_uah": 10321.27,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 108.645,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "1-1-4",
+          "nazva": "Зворотне засипання шурфів з пошаровим ущільненням",
+          "odynytsya": "100 м3",
+          "sklad_robit": [
+            "Засипання",
+            "Ущільнення трамбівками"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 111.22,
+              "seredniy_rozryad": 2.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 10565.9
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.5,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 55.0
+            },
+            "mashyny": [
+              {
+                "kod": "С201-2",
+                "nazva": "Бульдозер / трамбівка",
+                "mash_god": 0.5,
+                "tsina_mash_god_uah": 600,
+                "vartist_uah": 300.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 4.25,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 233.75
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 0.2125,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 25.5
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 10620.9,
+              "vartist_mashyn_uah": 300.0,
+              "vartist_materialiv_uah": 259.25,
+              "priami_vytraty_uah": 11180.15,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 111.22,
+            "mashynisty_lyud_god": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Планування і підсипання",
+      "odynytsya": "100 м2 / м3",
+      "sklad_robit": [
+        "Зрізання нерівностей",
+        "Розрівнювання"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "1-2-1",
+          "nazva": "Планування території вручну при ремонті",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Зрізання нерівностей",
+            "Розрівнювання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 49.449,
+              "seredniy_rozryad": 2.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4697.65
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С311-1",
+                "nazva": "Перевезення ґрунту (за потреби)",
+                "odynytsya": "т",
+                "vytrata": 0.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4697.65,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 0,
+              "priami_vytraty_uah": 4697.65,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 49.449,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "1-2-2",
+          "nazva": "Підсипання ґрунту з розрівнюванням",
+          "odynytsya": "м3",
+          "sklad_robit": [
+            "Подача",
+            "Розрівнювання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 6.121,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 581.5
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С250-1",
+                "nazva": "Матеріали ремонтні",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 1500.0
+              },
+              {
+                "kod": "С251-1",
+                "nazva": "Суміші / розчини / фарби",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 800,
+                "vartist_uah": 800.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 581.5,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 2300.0,
+              "priami_vytraty_uah": 2881.5,
+              "odynytsya": "м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 6.121,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "1-2-3",
+          "nazva": "Відновлення вимощення після ремонту фундаментів",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Основа",
+            "Бетонування/асфальтування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 54.221,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 5150.99
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С250-1",
+                "nazva": "Матеріали ремонтні",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 1500,
+                "vartist_uah": 1500.0
+              },
+              {
+                "kod": "С251-1",
+                "nazva": "Суміші / розчини / фарби",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 800,
+                "vartist_uah": 800.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 5150.99,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 2300.0,
+              "priami_vytraty_uah": 7450.99,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 54.221,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    }
+  ],
+  "techastyna": {
+    "sfera_zastosuvannya": "Земляні роботи при ремонті: шурфи, підкопи, засипання, планування.",
+    "zagalni_polozhennya": [
+      "Роботи виконуються переважно вручну біля існуючих конструкцій."
+    ],
+    "pravyla_obsyagiv": [
+      "Об'єми — за фактичними обмірами шурфів і траншей."
+    ],
+    "koeficienty_umov": [
+      {
+        "umova": "Стиснені умови (меблі, обладнання в приміщеннях)",
+        "do_trudu": 1.15
+      },
+      {
+        "umova": "Розробка біля діючих комунікацій",
+        "do_trudu": 1.2
+      }
+    ],
+    "vytraty_i_vidhody": []
+  },
+  "pogiyblennya": true
+}

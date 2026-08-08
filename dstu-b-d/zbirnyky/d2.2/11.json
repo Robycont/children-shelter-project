@@ -1,0 +1,1904 @@
+{
+  "kompleks": "Д.2.2",
+  "nomer": 11,
+  "nazva": "Підлоги",
+  "dstu": "ДСТУ Б Д.2.2-11:2012",
+  "marka": "ЕД",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Ресурсні показники — орієнтовні укрупнені (труд, машини, матеріали, прямі витрати в грн) для попереднього кошторису.",
+    "Перед затвердженням інвесторського кошторису звірити з чинним КНУ РЕКН / ДСТУ та регіональними цінами.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Підготовка основ",
+      "odynytsya": "100 м2",
+      "sklad_robit": [
+        "Укладання",
+        "Ущільнення",
+        "Загладжування"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "11-1-1",
+          "nazva": "Улаштування підстилаючого шару з бетону товщиною 80 мм",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Укладання",
+            "Ущільнення",
+            "Загладжування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 94.527,
+              "seredniy_rozryad": 3.3,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8980.07
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С160-1",
+                "nazva": "Суміш для стяжки",
+                "odynytsya": "м3",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 2800,
+                "vartist_uah": 11200.0
+              },
+              {
+                "kod": "С161-1",
+                "nazva": "Ґрунтовка",
+                "odynytsya": "л",
+                "vytrata": 20,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 1800
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8980.07,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13000.0,
+              "priami_vytraty_uah": 21980.07,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 94.527,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-1-2",
+          "nazva": "Улаштування підстилаючого шару з бетону товщиною 100 мм",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Укладання",
+            "Ущільнення",
+            "Загладжування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 99.534,
+              "seredniy_rozryad": 3.3,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 9455.73
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С160-1",
+                "nazva": "Суміш для стяжки",
+                "odynytsya": "м3",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 2800,
+                "vartist_uah": 11200.0
+              },
+              {
+                "kod": "С161-1",
+                "nazva": "Ґрунтовка",
+                "odynytsya": "л",
+                "vytrata": 20,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 1800
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 9455.73,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13000.0,
+              "priami_vytraty_uah": 22455.73,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 99.534,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-1-3",
+          "nazva": "Улаштування стяжки цементної товщиною 40 мм",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Ґрунтування",
+            "Укладання стяжки",
+            "Загладжування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 101.132,
+              "seredniy_rozryad": 3.3,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 9607.54
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С160-1",
+                "nazva": "Суміш для стяжки",
+                "odynytsya": "м3",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 2800,
+                "vartist_uah": 11200.0
+              },
+              {
+                "kod": "С161-1",
+                "nazva": "Ґрунтовка",
+                "odynytsya": "л",
+                "vytrata": 20,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 1800
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 9607.54,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13000.0,
+              "priami_vytraty_uah": 22607.54,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 101.132,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-1-4",
+          "nazva": "Улаштування стяжки цементної товщиною 50 мм",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Ґрунтування",
+            "Укладання стяжки",
+            "Загладжування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 108.81,
+              "seredniy_rozryad": 3.3,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 10336.95
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С160-1",
+                "nazva": "Суміш для стяжки",
+                "odynytsya": "м3",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 2800,
+                "vartist_uah": 11200.0
+              },
+              {
+                "kod": "С161-1",
+                "nazva": "Ґрунтовка",
+                "odynytsya": "л",
+                "vytrata": 20,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 1800
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 10336.95,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13000.0,
+              "priami_vytraty_uah": 23336.95,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 108.81,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-1-5",
+          "nazva": "Улаштування стяжки цементної товщиною 70 мм",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Ґрунтування",
+            "Укладання стяжки",
+            "Загладжування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 105.391,
+              "seredniy_rozryad": 3.3,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 10012.15
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С160-1",
+                "nazva": "Суміш для стяжки",
+                "odynytsya": "м3",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 2800,
+                "vartist_uah": 11200.0
+              },
+              {
+                "kod": "С161-1",
+                "nazva": "Ґрунтовка",
+                "odynytsya": "л",
+                "vytrata": 20,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 1800
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 10012.15,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13000.0,
+              "priami_vytraty_uah": 23012.15,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 105.391,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-1-6",
+          "nazva": "Улаштування стяжки самовирівнювальної товщиною до 10 мм",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Ґрунтування",
+            "Заливка",
+            "Прокатка валиком"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 97.454,
+              "seredniy_rozryad": 3.3,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 9258.13
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С160-1",
+                "nazva": "Суміш для стяжки",
+                "odynytsya": "м3",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 2800,
+                "vartist_uah": 11200.0
+              },
+              {
+                "kod": "С161-1",
+                "nazva": "Ґрунтовка",
+                "odynytsya": "л",
+                "vytrata": 20,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 1800
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 9258.13,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13000.0,
+              "priami_vytraty_uah": 22258.13,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 97.454,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-1-7",
+          "nazva": "Улаштування стяжки самовирівнювальної товщиною до 20 мм",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Ґрунтування",
+            "Заливка",
+            "Прокатка"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 100.743,
+              "seredniy_rozryad": 3.3,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 9570.58
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С160-1",
+                "nazva": "Суміш для стяжки",
+                "odynytsya": "м3",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 2800,
+                "vartist_uah": 11200.0
+              },
+              {
+                "kod": "С161-1",
+                "nazva": "Ґрунтовка",
+                "odynytsya": "л",
+                "vytrata": 20,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 1800
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 9570.58,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13000.0,
+              "priami_vytraty_uah": 22570.58,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 100.743,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-1-8",
+          "nazva": "Гідроізоляція підлоги обмазувальна в 2 шари",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Підготовка",
+            "Нанесення",
+            "Витрата на примикання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 134.986,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 12823.67
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 12823.67,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 66173.67,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 134.986,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-1-9",
+          "nazva": "Гідроізоляція підлоги рулонна в 1 шар",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Праймер",
+            "Наклеювання",
+            "Примикання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 131.013,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 12446.24
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 12446.24,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 65796.24,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 131.013,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-1-10",
+          "nazva": "Тепло-/звукоізоляція підлоги плитним утеплювачем",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Укладання плит",
+            "Проклейка швів"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 154.079,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 14637.51
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 14637.51,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 67987.51,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 154.079,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Підлоги з керамічної плитки та керамограніту",
+      "odynytsya": "100 м2",
+      "sklad_robit": [
+        "Ґрунтування",
+        "Укладання на клей",
+        "Затирання швів",
+        "Очищення"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "11-2-1",
+          "nazva": "Улаштування підлог із керамічної плитки 300×300 по готовій стяжці",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Ґрунтування",
+            "Укладання на клей",
+            "Затирання швів",
+            "Очищення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 133.286,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 12662.17
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 12662.17,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 66012.17,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 133.286,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-2-2",
+          "nazva": "Улаштування підлог із керамічної плитки 600×600",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Ґрунтування",
+            "Укладання",
+            "Затирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 133.654,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 12697.13
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 12697.13,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 66047.13,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 133.654,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-2-3",
+          "nazva": "Улаштування підлог із керамограніту",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Ґрунтування",
+            "Укладання",
+            "Затирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 142.101,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 13499.59
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 13499.59,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 66849.59,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 142.101,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-2-4",
+          "nazva": "Улаштування підлог із плитки по діагоналі",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Розмітка",
+            "Укладання",
+            "Затирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 134.803,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 12806.28
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 12806.28,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 66156.28,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 134.803,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-2-5",
+          "nazva": "Улаштування підлог у мокрих приміщеннях із гідроізоляцією",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Гідроізоляція",
+            "Укладання плитки",
+            "Затирання еластичною сумішшю"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 142.939,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 13579.2
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 13579.2,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 66929.2,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 142.939,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-2-6",
+          "nazva": "Улаштування плінтусів із керамічної плитки",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Різання",
+            "Укладання",
+            "Затирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 130.99,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 12444.05
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 12444.05,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 65794.05,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 130.99,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-2-7",
+          "nazva": "Улаштування бордюрів і декоративних елементів",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Укладання",
+            "Затирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 149.483,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 14200.89
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 14200.89,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 67550.89,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 149.483,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 3,
+      "nazva": "Підлоги з лінолеуму та ПВХ",
+      "odynytsya": "100 м2",
+      "sklad_robit": [
+        "Ґрунтування",
+        "Розкрій",
+        "Наклеювання",
+        "Прирізка",
+        "Плінтус"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "11-3-1",
+          "nazva": "Улаштування підлог із лінолеуму на клейовій основі",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Ґрунтування",
+            "Розкрій",
+            "Наклеювання",
+            "Прирізка",
+            "Плінтус"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 55.63,
+              "seredniy_rozryad": 3.4,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 5284.85
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С162-1",
+                "nazva": "Лінолеум / ПВХ-покриття",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 450,
+                "vartist_uah": 47250
+              },
+              {
+                "kod": "С163-1",
+                "nazva": "Клей для лінолеуму",
+                "odynytsya": "кг",
+                "vytrata": 40,
+                "tsina_za_od_uah": 85,
+                "vartist_uah": 3400
+              },
+              {
+                "kod": "С164-1",
+                "nazva": "Плінтус ПВХ",
+                "odynytsya": "м",
+                "vytrata": 40,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 2200
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 5284.85,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 52850,
+              "priami_vytraty_uah": 58134.85,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 55.63,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-3-2",
+          "nazva": "Улаштування підлог із комерційного ПВХ-покриття",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Наклеювання",
+            "Зварювання швів",
+            "Плінтус"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 64.085,
+              "seredniy_rozryad": 3.4,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 6088.07
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С162-1",
+                "nazva": "Лінолеум / ПВХ-покриття",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 450,
+                "vartist_uah": 47250
+              },
+              {
+                "kod": "С163-1",
+                "nazva": "Клей для лінолеуму",
+                "odynytsya": "кг",
+                "vytrata": 40,
+                "tsina_za_od_uah": 85,
+                "vartist_uah": 3400
+              },
+              {
+                "kod": "С164-1",
+                "nazva": "Плінтус ПВХ",
+                "odynytsya": "м",
+                "vytrata": 40,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 2200
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 6088.07,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 52850,
+              "priami_vytraty_uah": 58938.07,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 64.085,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-3-3",
+          "nazva": "Улаштування підлог із ПВХ-плитки",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Розмітка",
+            "Наклеювання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 56.312,
+              "seredniy_rozryad": 3.4,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 5349.64
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С162-1",
+                "nazva": "Лінолеум / ПВХ-покриття",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 450,
+                "vartist_uah": 47250
+              },
+              {
+                "kod": "С163-1",
+                "nazva": "Клей для лінолеуму",
+                "odynytsya": "кг",
+                "vytrata": 40,
+                "tsina_za_od_uah": 85,
+                "vartist_uah": 3400
+              },
+              {
+                "kod": "С164-1",
+                "nazva": "Плінтус ПВХ",
+                "odynytsya": "м",
+                "vytrata": 40,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 2200
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 5349.64,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 52850,
+              "priami_vytraty_uah": 58199.64,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 56.312,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-3-4",
+          "nazva": "Улаштування плінтусів полівінілхлоридних",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Розкрій",
+            "Кріплення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 132.331,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 12571.44
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 12571.44,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 65921.44,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 132.331,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-3-5",
+          "nazva": "Зварювання швів лінолеуму шнуром",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Розрізання шва",
+            "Зварювання",
+            "Зачищення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 55.386,
+              "seredniy_rozryad": 3.4,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 5261.67
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С162-1",
+                "nazva": "Лінолеум / ПВХ-покриття",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 450,
+                "vartist_uah": 47250
+              },
+              {
+                "kod": "С163-1",
+                "nazva": "Клей для лінолеуму",
+                "odynytsya": "кг",
+                "vytrata": 40,
+                "tsina_za_od_uah": 85,
+                "vartist_uah": 3400
+              },
+              {
+                "kod": "С164-1",
+                "nazva": "Плінтус ПВХ",
+                "odynytsya": "м",
+                "vytrata": 40,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 2200
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 5261.67,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 52850,
+              "priami_vytraty_uah": 58111.67,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 55.386,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 4,
+      "nazva": "Підлоги дерев'яні, ламінат, паркет",
+      "odynytsya": "100 м2",
+      "sklad_robit": [
+        "Укладання лаг",
+        "Настил дощок",
+        "Циклювання (за потреби)"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "11-4-1",
+          "nazva": "Улаштування підлог дощатих по лагах",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Укладання лаг",
+            "Настил дощок",
+            "Циклювання (за потреби)"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 78.175,
+              "seredniy_rozryad": 3.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 7426.62
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С165-1",
+                "nazva": "Ламінат / дошка / паркет",
+                "odynytsya": "м2",
+                "vytrata": 108,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 70200
+              },
+              {
+                "kod": "С166-1",
+                "nazva": "Підкладка",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 4725
+              },
+              {
+                "kod": "С164-2",
+                "nazva": "Плінтус",
+                "odynytsya": "м",
+                "vytrata": 40,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2800
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 7426.62,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 77725,
+              "priami_vytraty_uah": 85151.62,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 78.175,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-4-2",
+          "nazva": "Улаштування підлог із ламінату по підкладці",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Підкладка",
+            "Укладання",
+            "Плінтус"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 83.677,
+              "seredniy_rozryad": 3.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 7949.32
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С165-1",
+                "nazva": "Ламінат / дошка / паркет",
+                "odynytsya": "м2",
+                "vytrata": 108,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 70200
+              },
+              {
+                "kod": "С166-1",
+                "nazva": "Підкладка",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 4725
+              },
+              {
+                "kod": "С164-2",
+                "nazva": "Плінтус",
+                "odynytsya": "м",
+                "vytrata": 40,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2800
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 7949.32,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 77725,
+              "priami_vytraty_uah": 85674.32,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 83.677,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-4-3",
+          "nazva": "Улаштування підлог паркетних штучних",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Укладання",
+            "Циклювання",
+            "Покриття лаком"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 76.588,
+              "seredniy_rozryad": 3.7,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 7275.86
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С165-1",
+                "nazva": "Ламінат / дошка / паркет",
+                "odynytsya": "м2",
+                "vytrata": 108,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 70200
+              },
+              {
+                "kod": "С166-1",
+                "nazva": "Підкладка",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 4725
+              },
+              {
+                "kod": "С164-2",
+                "nazva": "Плінтус",
+                "odynytsya": "м",
+                "vytrata": 40,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2800
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 7275.86,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 77725,
+              "priami_vytraty_uah": 85000.86,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 76.588,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-4-4",
+          "nazva": "Улаштування підлог із інженерної дошки",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Укладання на клей/замок",
+            "Плінтус"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 151.578,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 14399.91
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 14399.91,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 67749.91,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 151.578,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 5,
+      "nazva": "Підлоги бетонні, мозаїчні, гумові",
+      "odynytsya": "100 м2",
+      "sklad_robit": [
+        "Укладання",
+        "Ущільнення",
+        "Залізнення"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "11-5-1",
+          "nazva": "Улаштування підлог бетонних з залізненням",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Укладання",
+            "Ущільнення",
+            "Залізнення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 95.599,
+              "seredniy_rozryad": 3.3,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 9081.91
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С160-1",
+                "nazva": "Суміш для стяжки",
+                "odynytsya": "м3",
+                "vytrata": 4.0,
+                "tsina_za_od_uah": 2800,
+                "vartist_uah": 11200.0
+              },
+              {
+                "kod": "С161-1",
+                "nazva": "Ґрунтовка",
+                "odynytsya": "л",
+                "vytrata": 20,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 1800
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 9081.91,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 13000.0,
+              "priami_vytraty_uah": 22081.91,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 95.599,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-5-2",
+          "nazva": "Улаштування підлог мозаїчних",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Укладання мозаїчного шару",
+            "Шліфування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 152.824,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 14518.28
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 14518.28,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 67868.28,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 152.824,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "11-5-3",
+          "nazva": "Улаштування підлог із гумової плитки / покриття",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Наклеювання",
+            "Прирізка"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 144.239,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 13702.7
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С167-1",
+                "nazva": "Плитка керамічна / керамограніт",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 420,
+                "vartist_uah": 44100
+              },
+              {
+                "kod": "С168-1",
+                "nazva": "Клей плитковий",
+                "odynytsya": "кг",
+                "vytrata": 500,
+                "tsina_za_od_uah": 14,
+                "vartist_uah": 7000
+              },
+              {
+                "kod": "С169-1",
+                "nazva": "Затирка",
+                "odynytsya": "кг",
+                "vytrata": 50,
+                "tsina_za_od_uah": 45,
+                "vartist_uah": 2250
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 13702.7,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 53350,
+              "priami_vytraty_uah": 67052.7,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 144.239,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    }
+  ],
+  "techastyna": {
+    "sfera_zastosuvannya": "Підлоги житлових, загальних, санітарних і технічних приміщень притулку.",
+    "zagalni_polozhennya": [
+      "Склад підлоги приймається за проектом (експлікація приміщень).",
+      "Гідроізоляція у мокрих зонах нормується окремо або комплексно."
+    ],
+    "pravyla_obsyagiv": [
+      "Площа підлог — за площею приміщення між стінами без відрахування площі печей/колон до 0,05 м2.",
+      "Плінтуси — за периметром приміщення за вирахуванням дверних прорізів."
+    ],
+    "koeficienty_umov": [
+      {
+        "umova": "Укладання плитки по діагоналі",
+        "do_trudu": 1.2
+      },
+      {
+        "umova": "Підлоги в санвузлах з гідроізоляцією (комплекс)",
+        "do_trudu": 1.1
+      }
+    ],
+    "vytraty_i_vidhody": [
+      {
+        "nazva": "Плитка керамічна",
+        "vidsotok": 2.5
+      },
+      {
+        "nazva": "Лінолеум",
+        "vidsotok": 2.0
+      }
+    ]
+  },
+  "pogiyblennya": true
+}

@@ -1,0 +1,822 @@
+{
+  "kompleks": "Д.2.4",
+  "nomer": 12,
+  "nazva": "Малярні роботи (ремонт)",
+  "dstu": "ДСТУ Б Д.2.4-12:2012",
+  "marka": "Р",
+  "priorytet_prytulok": true,
+  "prymitky": [
+    "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
+    "Ресурсні показники — орієнтовні укрупнені (труд, машини, матеріали, прямі витрати в грн) для попереднього кошторису.",
+    "Перед затвердженням інвесторського кошторису звірити з чинним КНУ РЕКН / ДСТУ та регіональними цінами.",
+    "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
+  ],
+  "grupy": [
+    {
+      "grupa": 1,
+      "nazva": "Підготовка поверхонь",
+      "odynytsya": "100 м2",
+      "sklad_robit": [
+        "Змивання/зішкрібання",
+        "Промивання"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "12-1-1",
+          "nazva": "Очищення поверхонь від старих водоемульсійних фарб",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Змивання/зішкрібання",
+            "Промивання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 87.863,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8346.99
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.2,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 10.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8368.99,
+              "vartist_mashyn_uah": 10.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 31178.99,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 87.863,
+            "mashynisty_lyud_god": 0.2
+          }
+        },
+        {
+          "shifr": "12-1-2",
+          "nazva": "Очищення поверхонь від олійних фарб",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Випалювання/змивки",
+            "Зішкрібання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 89.531,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8505.44
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.2,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 10.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8527.44,
+              "vartist_mashyn_uah": 10.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 31337.44,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 89.531,
+            "mashynisty_lyud_god": 0.2
+          }
+        },
+        {
+          "shifr": "12-1-3",
+          "nazva": "Розшивання і шпаклювання тріщин",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Розшивання",
+            "Ґрунтування",
+            "Шпаклювання",
+            "Серп'янка"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 87.701,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8331.59
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.2,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 10.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8353.59,
+              "vartist_mashyn_uah": 10.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 31163.59,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 87.701,
+            "mashynisty_lyud_god": 0.2
+          }
+        },
+        {
+          "shifr": "12-1-4",
+          "nazva": "Шпаклювання поверхонь часткове",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Шпаклювання карт",
+            "Шліфування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 91.454,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8688.13
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.2,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 10.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8710.13,
+              "vartist_mashyn_uah": 10.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 31520.13,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 91.454,
+            "mashynisty_lyud_god": 0.2
+          }
+        },
+        {
+          "shifr": "12-1-5",
+          "nazva": "Шпаклювання поверхонь суцільне",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Нанесення",
+            "Шліфування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 90.743,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8620.58
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.2,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 10.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8642.58,
+              "vartist_mashyn_uah": 10.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 31452.58,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 90.743,
+            "mashynisty_lyud_god": 0.2
+          }
+        },
+        {
+          "shifr": "12-1-6",
+          "nazva": "Ґрунтування поверхонь",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Нанесення ґрунтовки"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 95.201,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 9044.09
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.2,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 10.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 9066.09,
+              "vartist_mashyn_uah": 10.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 31876.09,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 95.201,
+            "mashynisty_lyud_god": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Фарбування при ремонті",
+      "odynytsya": "100 м2",
+      "sklad_robit": [
+        "Ґрунтування",
+        "Фарбування 2 рази"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "12-2-1",
+          "nazva": "Фарбування стін водоемульсійними складами по старих фарбуваннях",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Ґрунтування",
+            "Фарбування 2 рази"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 93.457,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8878.41
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.2,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 10.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8900.41,
+              "vartist_mashyn_uah": 10.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 31710.41,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 93.457,
+            "mashynisty_lyud_god": 0.2
+          }
+        },
+        {
+          "shifr": "12-2-2",
+          "nazva": "Фарбування стель водоемульсійними складами",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Ґрунтування",
+            "Фарбування 2 рази"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 88.958,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8451.01
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.2,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 10.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8473.01,
+              "vartist_mashyn_uah": 10.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 31283.01,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 88.958,
+            "mashynisty_lyud_god": 0.2
+          }
+        },
+        {
+          "shifr": "12-2-3",
+          "nazva": "Фарбування вікон і дверей олійними/акриловими складами",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Очищення",
+            "Шпаклювання",
+            "Фарбування 2 рази"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 99.445,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 9447.27
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.2,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 10.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 9469.27,
+              "vartist_mashyn_uah": 10.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 32279.27,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 99.445,
+            "mashynisty_lyud_god": 0.2
+          }
+        },
+        {
+          "shifr": "12-2-4",
+          "nazva": "Фарбування радіаторів і труб",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Очищення",
+            "Ґрунтування",
+            "Фарбування термостійке"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 92.61,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8797.95
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.2,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 10.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8819.95,
+              "vartist_mashyn_uah": 10.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 31629.95,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 92.61,
+            "mashynisty_lyud_god": 0.2
+          }
+        },
+        {
+          "shifr": "12-2-5",
+          "nazva": "Фарбування металевих огорож і ґрат",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Очищення",
+            "Ґрунтування",
+            "Фарбування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 94.721,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8998.5
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.2,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 10.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 9020.5,
+              "vartist_mashyn_uah": 10.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 31830.5,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 94.721,
+            "mashynisty_lyud_god": 0.2
+          }
+        },
+        {
+          "shifr": "12-2-6",
+          "nazva": "Фарбування фасадів по існуючій штукатурці",
+          "odynytsya": "100 м2",
+          "sklad_robit": [
+            "Ґрунтування",
+            "Фарбування 2 рази"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 92.148,
+              "seredniy_rozryad": 3.6,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 8754.06
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.2,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 22.0
+            },
+            "mashyny": [
+              {
+                "kod": "С214-1",
+                "nazva": "Пальник газовий покрівельний",
+                "mash_god": 0.2,
+                "tsina_mash_god_uah": 50,
+                "vartist_uah": 10.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С174-1",
+                "nazva": "Матеріал рулонний наплавлюваний",
+                "odynytsya": "м2",
+                "vytrata": 115,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 20700
+              },
+              {
+                "kod": "С175-1",
+                "nazva": "Праймер бітумний",
+                "odynytsya": "л",
+                "vytrata": 30,
+                "tsina_za_od_uah": 70,
+                "vartist_uah": 2100
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 8776.06,
+              "vartist_mashyn_uah": 10.0,
+              "vartist_materialiv_uah": 22800,
+              "priami_vytraty_uah": 31586.06,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 92.148,
+            "mashynisty_lyud_god": 0.2
+          }
+        }
+      ]
+    }
+  ],
+  "techastyna": {
+    "sfera_zastosuvannya": "Відновлення фарбування приміщень і фасадів.",
+    "zagalni_polozhennya": [
+      "Старі набіли і фарби видаляються до міцної основи."
+    ],
+    "pravyla_obsyagiv": [
+      "Площі — за розгорткою поверхонь."
+    ],
+    "koeficienty_umov": [
+      {
+        "umova": "Роботи в діючій установі без відселення",
+        "do_trudu": 1.3
+      }
+    ],
+    "vytraty_i_vidhody": [
+      {
+        "nazva": "Фарби",
+        "vidsotok": 5.0
+      }
+    ]
+  },
+  "pogiyblennya": true
+}
