@@ -7,7 +7,8 @@
   "priorytet_prytulok": true,
   "prymitky": [
     "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
-    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Ресурсні показники — орієнтовні укрупнені (труд, машини, матеріали, прямі витрати в грн) для попереднього кошторису.",
+    "Перед затвердженням інвесторського кошторису звірити з чинним КНУ РЕКН / ДСТУ та регіональними цінами.",
     "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
   ],
   "grupy": [
@@ -25,104 +26,552 @@
           "shifr": "1-1-1",
           "nazva": "Розробка ґрунту 1 групи екскаватором з ковшем до 0,25 м3",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Навантаження",
+            "Переміщення в межах вибою"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.389,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 131.96
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.792,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 197.12
+            },
+            "mashyny": [
+              {
+                "kod": "С202-1",
+                "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
+                "mash_god": 1.7918,
+                "tsina_mash_god_uah": 1200,
+                "vartist_uah": 2150.18
+              },
+              {
+                "kod": "С311-2",
+                "nazva": "Автосамоскид 10 т",
+                "mash_god": 1.3945,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 976.18
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 27.08,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 1489.4
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 1.3542,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 162.5
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 329.08,
+              "vartist_mashyn_uah": 3126.36,
+              "vartist_materialiv_uah": 1651.9,
+              "priami_vytraty_uah": 5107.34,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.389,
+            "mashynisty_lyud_god": 1.792
           }
         },
         {
           "shifr": "1-1-2",
           "nazva": "Розробка ґрунту 2 групи екскаватором з ковшем до 0,25 м3",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Навантаження",
+            "Переміщення в межах вибою"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.035,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 98.32
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.526,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 167.86
+            },
+            "mashyny": [
+              {
+                "kod": "С202-1",
+                "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
+                "mash_god": 1.526,
+                "tsina_mash_god_uah": 1200,
+                "vartist_uah": 1831.14
+              },
+              {
+                "kod": "С311-2",
+                "nazva": "Автосамоскид 10 т",
+                "mash_god": 1.2173,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 852.11
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 23.32,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 1282.6
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 1.1659,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 139.91
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 266.19,
+              "vartist_mashyn_uah": 2683.25,
+              "vartist_materialiv_uah": 1422.51,
+              "priami_vytraty_uah": 4371.95,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.035,
+            "mashynisty_lyud_god": 1.526
           }
         },
         {
           "shifr": "1-1-3",
           "nazva": "Розробка ґрунту 3 групи екскаватором з ковшем до 0,25 м3",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Навантаження",
+            "Переміщення в межах вибою"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.042,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 98.99
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.532,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 168.52
+            },
+            "mashyny": [
+              {
+                "kod": "С202-1",
+                "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
+                "mash_god": 1.5319,
+                "tsina_mash_god_uah": 1200,
+                "vartist_uah": 1838.23
+              },
+              {
+                "kod": "С311-2",
+                "nazva": "Автосамоскид 10 т",
+                "mash_god": 1.2212,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 854.87
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 23.4,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 1287.0
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 1.1701,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 140.41
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 267.51,
+              "vartist_mashyn_uah": 2693.1,
+              "vartist_materialiv_uah": 1427.41,
+              "priami_vytraty_uah": 4388.02,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.042,
+            "mashynisty_lyud_god": 1.532
           }
         },
         {
           "shifr": "1-1-4",
           "nazva": "Розробка ґрунту 1 групи екскаватором з ковшем до 0,4 м3",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Навантаження",
+            "Переміщення в межах вибою"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.162,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 110.39
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.622,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 178.42
+            },
+            "mashyny": [
+              {
+                "kod": "С202-1",
+                "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
+                "mash_god": 1.6215,
+                "tsina_mash_god_uah": 1200,
+                "vartist_uah": 1945.81
+              },
+              {
+                "kod": "С311-2",
+                "nazva": "Автосамоскид 10 т",
+                "mash_god": 1.281,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 896.7
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 24.67,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 1356.85
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 1.2336,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 148.03
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 288.81,
+              "vartist_mashyn_uah": 2842.51,
+              "vartist_materialiv_uah": 1504.88,
+              "priami_vytraty_uah": 4636.2,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.162,
+            "mashynisty_lyud_god": 1.622
           }
         },
         {
           "shifr": "1-1-5",
           "nazva": "Розробка ґрунту 2 групи екскаватором з ковшем до 0,4 м3",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Навантаження",
+            "Переміщення в межах вибою"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.105,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 104.97
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.579,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 173.69
+            },
+            "mashyny": [
+              {
+                "kod": "С202-1",
+                "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
+                "mash_god": 1.5789,
+                "tsina_mash_god_uah": 1200,
+                "vartist_uah": 1894.7
+              },
+              {
+                "kod": "С311-2",
+                "nazva": "Автосамоскид 10 т",
+                "mash_god": 1.2526,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 876.83
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 24.07,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 1323.85
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 1.2034,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 144.41
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 278.66,
+              "vartist_mashyn_uah": 2771.53,
+              "vartist_materialiv_uah": 1468.26,
+              "priami_vytraty_uah": 4518.45,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.105,
+            "mashynisty_lyud_god": 1.579
           }
         },
         {
           "shifr": "1-1-6",
           "nazva": "Розробка ґрунту 3 групи екскаватором з ковшем до 0,4 м3",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Навантаження",
+            "Переміщення в межах вибою"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.129,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 107.25
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.597,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 175.67
+            },
+            "mashyny": [
+              {
+                "kod": "С202-1",
+                "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
+                "mash_god": 1.597,
+                "tsina_mash_god_uah": 1200,
+                "vartist_uah": 1916.44
+              },
+              {
+                "kod": "С311-2",
+                "nazva": "Автосамоскид 10 т",
+                "mash_god": 1.2647,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 885.28
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 24.32,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 1337.6
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 1.2162,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 145.94
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 282.92,
+              "vartist_mashyn_uah": 2801.72,
+              "vartist_materialiv_uah": 1483.54,
+              "priami_vytraty_uah": 4568.18,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.129,
+            "mashynisty_lyud_god": 1.597
           }
         },
         {
           "shifr": "1-1-7",
           "nazva": "Розробка ґрунту 1 групи екскаватором з ковшем до 0,65 м3",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Навантаження",
+            "Переміщення в межах вибою"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.145,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 108.78
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.609,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 176.99
+            },
+            "mashyny": [
+              {
+                "kod": "С202-1",
+                "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
+                "mash_god": 1.6089,
+                "tsina_mash_god_uah": 1200,
+                "vartist_uah": 1930.72
+              },
+              {
+                "kod": "С311-2",
+                "nazva": "Автосамоскид 10 т",
+                "mash_god": 1.2726,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 890.83
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 24.49,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 1346.95
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 1.2246,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 146.95
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 285.76,
+              "vartist_mashyn_uah": 2821.55,
+              "vartist_materialiv_uah": 1493.9,
+              "priami_vytraty_uah": 4601.21,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.145,
+            "mashynisty_lyud_god": 1.609
           }
         },
         {
           "shifr": "1-1-8",
           "nazva": "Розробка ґрунту 2 групи екскаватором з ковшем до 0,65 м3",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Навантаження",
+            "Переміщення в межах вибою"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.312,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 124.64
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.734,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 190.74
+            },
+            "mashyny": [
+              {
+                "kod": "С202-1",
+                "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
+                "mash_god": 1.7342,
+                "tsina_mash_god_uah": 1200,
+                "vartist_uah": 2081.05
+              },
+              {
+                "kod": "С311-2",
+                "nazva": "Автосамоскид 10 т",
+                "mash_god": 1.3561,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 949.3
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 26.27,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 1444.85
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 1.3134,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 157.61
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 315.38,
+              "vartist_mashyn_uah": 3030.35,
+              "vartist_materialiv_uah": 1602.46,
+              "priami_vytraty_uah": 4948.19,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.312,
+            "mashynisty_lyud_god": 1.734
           }
         }
       ]
@@ -131,71 +580,355 @@
       "grupa": 2,
       "nazva": "Розробка ґрунту екскаваторами з навантаженням у транспортні засоби",
       "odynytsya": "1000 м3",
-      "sklad_robit": [],
+      "sklad_robit": [
+        "Розробка ґрунту",
+        "Навантаження",
+        "Переміщення в межах вибою"
+      ],
       "normy": [
         {
           "shifr": "1-2-1",
           "nazva": "Розробка ґрунту 1 групи з навантаженням, ківш до 0,4 м3",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Навантаження",
+            "Переміщення в межах вибою"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.223,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 116.19
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.667,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 183.37
+            },
+            "mashyny": [
+              {
+                "kod": "С202-1",
+                "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
+                "mash_god": 1.667,
+                "tsina_mash_god_uah": 1200,
+                "vartist_uah": 2000.35
+              },
+              {
+                "kod": "С311-2",
+                "nazva": "Автосамоскид 10 т",
+                "mash_god": 1.3113,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 917.91
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 25.32,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 1392.6
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 1.2658,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 151.9
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 299.56,
+              "vartist_mashyn_uah": 2918.26,
+              "vartist_materialiv_uah": 1544.5,
+              "priami_vytraty_uah": 4762.32,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.223,
+            "mashynisty_lyud_god": 1.667
           }
         },
         {
           "shifr": "1-2-2",
           "nazva": "Розробка ґрунту 2 групи з навантаженням, ківш до 0,4 м3",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Навантаження",
+            "Переміщення в межах вибою"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.277,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 121.31
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.708,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 187.88
+            },
+            "mashyny": [
+              {
+                "kod": "С202-1",
+                "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
+                "mash_god": 1.7078,
+                "tsina_mash_god_uah": 1200,
+                "vartist_uah": 2049.39
+              },
+              {
+                "kod": "С311-2",
+                "nazva": "Автосамоскид 10 т",
+                "mash_god": 1.3386,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 936.99
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 25.89,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 1423.95
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 1.2947,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 155.36
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 309.19,
+              "vartist_mashyn_uah": 2986.38,
+              "vartist_materialiv_uah": 1579.31,
+              "priami_vytraty_uah": 4874.88,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.277,
+            "mashynisty_lyud_god": 1.708
           }
         },
         {
           "shifr": "1-2-3",
           "nazva": "Розробка ґрунту 3 групи з навантаженням, ківш до 0,4 м3",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Навантаження",
+            "Переміщення в межах вибою"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.395,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 132.53
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.796,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 197.56
+            },
+            "mashyny": [
+              {
+                "kod": "С202-1",
+                "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
+                "mash_god": 1.796,
+                "tsina_mash_god_uah": 1200,
+                "vartist_uah": 2155.22
+              },
+              {
+                "kod": "С311-2",
+                "nazva": "Автосамоскид 10 т",
+                "mash_god": 1.3973,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 978.14
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 27.14,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 1492.7
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 1.3572,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 162.86
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 330.09,
+              "vartist_mashyn_uah": 3133.36,
+              "vartist_materialiv_uah": 1655.56,
+              "priami_vytraty_uah": 5119.01,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.395,
+            "mashynisty_lyud_god": 1.796
           }
         },
         {
           "shifr": "1-2-4",
           "nazva": "Розробка ґрунту 1 групи з навантаженням, ківш до 0,65 м3",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Навантаження",
+            "Переміщення в межах вибою"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.052,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 99.94
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.539,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 169.29
+            },
+            "mashyny": [
+              {
+                "kod": "С202-1",
+                "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
+                "mash_god": 1.5391,
+                "tsina_mash_god_uah": 1200,
+                "vartist_uah": 1846.94
+              },
+              {
+                "kod": "С311-2",
+                "nazva": "Автосамоскид 10 т",
+                "mash_god": 1.2261,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 858.26
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 23.5,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 1292.5
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 1.1752,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 141.02
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 269.23,
+              "vartist_mashyn_uah": 2705.2,
+              "vartist_materialiv_uah": 1433.52,
+              "priami_vytraty_uah": 4407.95,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.052,
+            "mashynisty_lyud_god": 1.539
           }
         },
         {
           "shifr": "1-2-5",
           "nazva": "Розробка ґрунту 2 групи з навантаженням, ківш до 0,65 м3",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Навантаження",
+            "Переміщення в межах вибою"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.026,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 97.47
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.519,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 167.09
+            },
+            "mashyny": [
+              {
+                "kod": "С202-1",
+                "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
+                "mash_god": 1.5192,
+                "tsina_mash_god_uah": 1200,
+                "vartist_uah": 1823.02
+              },
+              {
+                "kod": "С311-2",
+                "nazva": "Автосамоскид 10 т",
+                "mash_god": 1.2128,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 848.95
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 23.22,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 1277.1
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 1.1611,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 139.33
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 264.56,
+              "vartist_mashyn_uah": 2671.97,
+              "vartist_materialiv_uah": 1416.43,
+              "priami_vytraty_uah": 4352.96,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.026,
+            "mashynisty_lyud_god": 1.519
           }
         }
       ]
@@ -204,71 +937,320 @@
       "grupa": 3,
       "nazva": "Розробка ґрунту бульдозерами",
       "odynytsya": "1000 м3",
-      "sklad_robit": [],
+      "sklad_robit": [
+        "Розробка ґрунту",
+        "Переміщення",
+        "Планування"
+      ],
       "normy": [
         {
           "shifr": "1-3-1",
           "nazva": "Розробка і переміщення ґрунту 1 групи бульдозером до 10 м",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Переміщення",
+            "Планування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.083,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 102.88
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.389,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 152.79
+            },
+            "mashyny": [
+              {
+                "kod": "С201-1",
+                "nazva": "Бульдозер 79 кВт",
+                "mash_god": 1.3889,
+                "tsina_mash_god_uah": 850,
+                "vartist_uah": 1180.58
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 11.81,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 649.55
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 0.5903,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 70.84
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 255.67,
+              "vartist_mashyn_uah": 1180.58,
+              "vartist_materialiv_uah": 720.39,
+              "priami_vytraty_uah": 2156.64,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.083,
+            "mashynisty_lyud_god": 1.389
           }
         },
         {
           "shifr": "1-3-2",
           "nazva": "Розробка і переміщення ґрунту 2 групи бульдозером до 10 м",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Переміщення",
+            "Планування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.051,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 99.84
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.367,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 150.37
+            },
+            "mashyny": [
+              {
+                "kod": "С201-1",
+                "nazva": "Бульдозер 79 кВт",
+                "mash_god": 1.3671,
+                "tsina_mash_god_uah": 850,
+                "vartist_uah": 1161.99
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 11.62,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 639.1
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 0.581,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 69.72
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 250.22,
+              "vartist_mashyn_uah": 1161.99,
+              "vartist_materialiv_uah": 708.82,
+              "priami_vytraty_uah": 2121.03,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.051,
+            "mashynisty_lyud_god": 1.367
           }
         },
         {
           "shifr": "1-3-3",
           "nazva": "Розробка і переміщення ґрунту 1 групи бульдозером до 20 м",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Переміщення",
+            "Планування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 0.974,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 92.53
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.316,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 144.76
+            },
+            "mashyny": [
+              {
+                "kod": "С201-1",
+                "nazva": "Бульдозер 79 кВт",
+                "mash_god": 1.3161,
+                "tsina_mash_god_uah": 850,
+                "vartist_uah": 1118.71
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 11.19,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 615.45
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 0.5593,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 67.12
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 237.29,
+              "vartist_mashyn_uah": 1118.71,
+              "vartist_materialiv_uah": 682.57,
+              "priami_vytraty_uah": 2038.57,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 0.974,
+            "mashynisty_lyud_god": 1.316
           }
         },
         {
           "shifr": "1-3-4",
           "nazva": "Розробка і переміщення ґрунту 2 групи бульдозером до 20 м",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Переміщення",
+            "Планування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 0.867,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 82.36
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.245,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 136.95
+            },
+            "mashyny": [
+              {
+                "kod": "С201-1",
+                "nazva": "Бульдозер 79 кВт",
+                "mash_god": 1.2445,
+                "tsina_mash_god_uah": 850,
+                "vartist_uah": 1057.84
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 10.58,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 581.9
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 0.5289,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 63.47
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 219.31,
+              "vartist_mashyn_uah": 1057.84,
+              "vartist_materialiv_uah": 645.37,
+              "priami_vytraty_uah": 1922.52,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 0.867,
+            "mashynisty_lyud_god": 1.245
           }
         },
         {
           "shifr": "1-3-5",
           "nazva": "Планування площ бульдозером",
           "odynytsya": "1000 м2",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Переміщення",
+            "Планування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 0.989,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 93.95
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.326,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 145.86
+            },
+            "mashyny": [
+              {
+                "kod": "С201-1",
+                "nazva": "Бульдозер 79 кВт",
+                "mash_god": 1.3261,
+                "tsina_mash_god_uah": 850,
+                "vartist_uah": 1127.17
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 11.27,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 619.85
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 0.5636,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 67.63
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 239.81,
+              "vartist_mashyn_uah": 1127.17,
+              "vartist_materialiv_uah": 687.48,
+              "priami_vytraty_uah": 2054.46,
+              "odynytsya": "1000 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 0.989,
+            "mashynisty_lyud_god": 1.326
           }
         }
       ]
@@ -277,84 +1259,292 @@
       "grupa": 4,
       "nazva": "Розробка ґрунту вручну",
       "odynytsya": "100 м3",
-      "sklad_robit": [],
+      "sklad_robit": [
+        "Розпушування ґрунту",
+        "Викидання ґрунту",
+        "Зачищення"
+      ],
       "normy": [
         {
           "shifr": "1-4-1",
           "nazva": "Розробка ґрунту 1 групи вручну в котлованах",
           "odynytsya": "100 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розпушування ґрунту",
+            "Викидання ґрунту",
+            "Зачищення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
+            "trud_robitnykiv": {
+              "lyud_god": 46.476,
+              "seredniy_rozryad": 2.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4415.22
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
             "mashyny": [],
-            "materialy": []
+            "materialy": [
+              {
+                "kod": "С311-1",
+                "nazva": "Перевезення ґрунту (за потреби)",
+                "odynytsya": "т",
+                "vytrata": 0.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4415.22,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 0,
+              "priami_vytraty_uah": 4415.22,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 46.476,
+            "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "1-4-2",
           "nazva": "Розробка ґрунту 2 групи вручну в котлованах",
           "odynytsya": "100 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розпушування ґрунту",
+            "Викидання ґрунту",
+            "Зачищення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
+            "trud_robitnykiv": {
+              "lyud_god": 46.748,
+              "seredniy_rozryad": 2.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4441.06
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
             "mashyny": [],
-            "materialy": []
+            "materialy": [
+              {
+                "kod": "С311-1",
+                "nazva": "Перевезення ґрунту (за потреби)",
+                "odynytsya": "т",
+                "vytrata": 0.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4441.06,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 0,
+              "priami_vytraty_uah": 4441.06,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 46.748,
+            "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "1-4-3",
           "nazva": "Розробка ґрунту 3 групи вручну в котлованах",
           "odynytsya": "100 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розпушування ґрунту",
+            "Викидання ґрунту",
+            "Зачищення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
+            "trud_robitnykiv": {
+              "lyud_god": 52.633,
+              "seredniy_rozryad": 2.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 5000.14
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
             "mashyny": [],
-            "materialy": []
+            "materialy": [
+              {
+                "kod": "С311-1",
+                "nazva": "Перевезення ґрунту (за потреби)",
+                "odynytsya": "т",
+                "vytrata": 0.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 5000.14,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 0,
+              "priami_vytraty_uah": 5000.14,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 52.633,
+            "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "1-4-4",
           "nazva": "Розробка ґрунту 1 групи вручну в траншеях",
           "odynytsya": "100 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розпушування ґрунту",
+            "Викидання ґрунту",
+            "Зачищення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
+            "trud_robitnykiv": {
+              "lyud_god": 52.216,
+              "seredniy_rozryad": 2.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4960.52
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
             "mashyny": [],
-            "materialy": []
+            "materialy": [
+              {
+                "kod": "С311-1",
+                "nazva": "Перевезення ґрунту (за потреби)",
+                "odynytsya": "т",
+                "vytrata": 0.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4960.52,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 0,
+              "priami_vytraty_uah": 4960.52,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 52.216,
+            "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "1-4-5",
           "nazva": "Розробка ґрунту 2 групи вручну в траншеях",
           "odynytsya": "100 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розпушування ґрунту",
+            "Викидання ґрунту",
+            "Зачищення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
+            "trud_robitnykiv": {
+              "lyud_god": 49.601,
+              "seredniy_rozryad": 2.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4712.1
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
             "mashyny": [],
-            "materialy": []
+            "materialy": [
+              {
+                "kod": "С311-1",
+                "nazva": "Перевезення ґрунту (за потреби)",
+                "odynytsya": "т",
+                "vytrata": 0.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4712.1,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 0,
+              "priami_vytraty_uah": 4712.1,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 49.601,
+            "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "1-4-6",
           "nazva": "Зачищення дна і укосів котлованів і траншей",
           "odynytsya": "100 м2",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 9.043,
+              "seredniy_rozryad": 2.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 859.08
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.5,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 55.0
+            },
+            "mashyny": [
+              {
+                "kod": "С201-2",
+                "nazva": "Бульдозер / трамбівка",
+                "mash_god": 0.5,
+                "tsina_mash_god_uah": 600,
+                "vartist_uah": 300.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 4.25,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 233.75
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 0.2125,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 25.5
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 914.08,
+              "vartist_mashyn_uah": 300.0,
+              "vartist_materialiv_uah": 259.25,
+              "priami_vytraty_uah": 1473.33,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 9.043,
+            "mashynisty_lyud_god": 0.5
           }
         }
       ]
@@ -363,58 +1553,240 @@
       "grupa": 5,
       "nazva": "Зворотне засипання і ущільнення ґрунту",
       "odynytsya": "100 м3",
-      "sklad_robit": [],
+      "sklad_robit": [
+        "Розпушування ґрунту",
+        "Викидання ґрунту",
+        "Зачищення"
+      ],
       "normy": [
         {
           "shifr": "1-5-1",
           "nazva": "Засипання пазух котлованів ґрунтом з ущільненням вручну",
           "odynytsya": "100 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розпушування ґрунту",
+            "Викидання ґрунту",
+            "Зачищення"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
+            "trud_robitnykiv": {
+              "lyud_god": 45.444,
+              "seredniy_rozryad": 2.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 4317.18
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
             "mashyny": [],
-            "materialy": []
+            "materialy": [
+              {
+                "kod": "С311-1",
+                "nazva": "Перевезення ґрунту (за потреби)",
+                "odynytsya": "т",
+                "vytrata": 0.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 4317.18,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 0,
+              "priami_vytraty_uah": 4317.18,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 45.444,
+            "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "1-5-2",
           "nazva": "Засипання пазух котлованів бульдозером з ущільненням",
           "odynytsya": "100 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Переміщення",
+            "Планування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 0.813,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 77.23
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.209,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 132.99
+            },
+            "mashyny": [
+              {
+                "kod": "С201-1",
+                "nazva": "Бульдозер 79 кВт",
+                "mash_god": 1.2088,
+                "tsina_mash_god_uah": 850,
+                "vartist_uah": 1027.47
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 10.27,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 564.85
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 0.5137,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 61.64
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 210.23,
+              "vartist_mashyn_uah": 1027.47,
+              "vartist_materialiv_uah": 626.49,
+              "priami_vytraty_uah": 1864.19,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 0.813,
+            "mashynisty_lyud_god": 1.209
           }
         },
         {
           "shifr": "1-5-3",
           "nazva": "Ущільнення ґрунту пневмотрамбівками",
           "odynytsya": "100 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 9.134,
+              "seredniy_rozryad": 2.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 867.73
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.5,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 55.0
+            },
+            "mashyny": [
+              {
+                "kod": "С201-2",
+                "nazva": "Бульдозер / трамбівка",
+                "mash_god": 0.5,
+                "tsina_mash_god_uah": 600,
+                "vartist_uah": 300.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 4.25,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 233.75
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 0.2125,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 25.5
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 922.73,
+              "vartist_mashyn_uah": 300.0,
+              "vartist_materialiv_uah": 259.25,
+              "priami_vytraty_uah": 1481.98,
+              "odynytsya": "100 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 9.134,
+            "mashynisty_lyud_god": 0.5
           }
         },
         {
           "shifr": "1-5-4",
           "nazva": "Ущільнення ґрунту катками",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 9.296,
+              "seredniy_rozryad": 2.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 883.12
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.5,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 55.0
+            },
+            "mashyny": [
+              {
+                "kod": "С201-2",
+                "nazva": "Бульдозер / трамбівка",
+                "mash_god": 0.5,
+                "tsina_mash_god_uah": 600,
+                "vartist_uah": 300.0
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 4.25,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 233.75
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 0.2125,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 25.5
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 938.12,
+              "vartist_mashyn_uah": 300.0,
+              "vartist_materialiv_uah": 259.25,
+              "priami_vytraty_uah": 1497.37,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 9.296,
+            "mashynisty_lyud_god": 0.5
           }
         }
       ]
@@ -423,45 +1795,171 @@
       "grupa": 6,
       "nazva": "Перевезення ґрунту",
       "odynytsya": "1000 м3",
-      "sklad_robit": [],
+      "sklad_robit": [
+        "Розробка ґрунту",
+        "Навантаження",
+        "Переміщення в межах вибою"
+      ],
       "normy": [
         {
           "shifr": "1-6-1",
           "nazva": "Навантаження ґрунту екскаватором у автосамоскиди",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розробка ґрунту",
+            "Навантаження",
+            "Переміщення в межах вибою"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
-            "mashyny": [],
-            "materialy": []
+            "trud_robitnykiv": {
+              "lyud_god": 1.107,
+              "seredniy_rozryad": 3.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 105.16
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 1.58,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 173.8
+            },
+            "mashyny": [
+              {
+                "kod": "С202-1",
+                "nazva": "Екскаватор одноковшовий 0,4–0,65 м3",
+                "mash_god": 1.5802,
+                "tsina_mash_god_uah": 1200,
+                "vartist_uah": 1896.3
+              },
+              {
+                "kod": "С311-2",
+                "nazva": "Автосамоскид 10 т",
+                "mash_god": 1.2535,
+                "tsina_mash_god_uah": 700,
+                "vartist_uah": 877.45
+              }
+            ],
+            "materialy": [
+              {
+                "kod": "С300-1",
+                "nazva": "Пальне дизельне (орієнтовно)",
+                "odynytsya": "л",
+                "vytrata": 24.09,
+                "tsina_za_od_uah": 55,
+                "vartist_uah": 1324.95
+              },
+              {
+                "kod": "С300-2",
+                "nazva": "Мастильні матеріали",
+                "odynytsya": "кг",
+                "vytrata": 1.2043,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 144.52
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 278.97,
+              "vartist_mashyn_uah": 2773.75,
+              "vartist_materialiv_uah": 1469.47,
+              "priami_vytraty_uah": 4522.19,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.107,
+            "mashynisty_lyud_god": 1.58
           }
         },
         {
           "shifr": "1-6-2",
           "nazva": "Перевезення ґрунту автосамоскидами до 1 км",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
+            "trud_robitnykiv": {
+              "lyud_god": 2.554,
+              "seredniy_rozryad": 3.2,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 242.63
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
             "mashyny": [],
-            "materialy": []
+            "materialy": [
+              {
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 242.63,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 392.63,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 2.554,
+            "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "1-6-3",
           "nazva": "Додавати на кожний наступний 1 км перевезення",
           "odynytsya": "1000 м3",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Підготовка робочого місця",
+            "Виконання основного процесу",
+            "Прибирання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
+            "trud_robitnykiv": {
+              "lyud_god": 2.522,
+              "seredniy_rozryad": 3.2,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 239.59
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
             "mashyny": [],
-            "materialy": []
+            "materialy": [
+              {
+                "kod": "С301-1",
+                "nazva": "Допоміжні матеріали",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 150,
+                "vartist_uah": 150.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 239.59,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 150.0,
+              "priami_vytraty_uah": 389.59,
+              "odynytsya": "1000 м3",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 2.522,
+            "mashynisty_lyud_god": 0.0
           }
         }
       ]

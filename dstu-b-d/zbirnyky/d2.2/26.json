@@ -7,7 +7,8 @@
   "priorytet_prytulok": true,
   "prymitky": [
     "Каталог робіт сформовано за структурою РЕКН ДСТУ Б Д.",
-    "Кількісні показники ресурсів (труд, машини, матеріали) заповнюються з офіційного НДІ / КНУ.",
+    "Ресурсні показники — орієнтовні укрупнені (труд, машини, матеріали, прямі витрати в грн) для попереднього кошторису.",
+    "Перед затвердженням інвесторського кошторису звірити з чинним КНУ РЕКН / ДСТУ та регіональними цінами.",
     "Шифр норми: збірник-група-норма (наприклад 8-5-1)."
   ],
   "grupy": [
@@ -15,58 +16,235 @@
       "grupa": 1,
       "nazva": "Утеплення огороджувальних конструкцій",
       "odynytsya": "100 м2",
-      "sklad_robit": [],
+      "sklad_robit": [
+        "Підготовка поверхні",
+        "Монтаж ізоляції",
+        "Захисний шар / фініш"
+      ],
       "normy": [
         {
           "shifr": "26-1-1",
           "nazva": "Утеплення стін плитним утеплювачем",
           "odynytsya": "100 м2",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Підготовка поверхні",
+            "Монтаж ізоляції",
+            "Захисний шар / фініш"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
+            "trud_robitnykiv": {
+              "lyud_god": 113.919,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 10822.31
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
             "mashyny": [],
-            "materialy": []
+            "materialy": [
+              {
+                "kod": "С220-1",
+                "nazva": "Утеплювач плитний",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 220,
+                "vartist_uah": 23100
+              },
+              {
+                "kod": "С221-1",
+                "nazva": "Клей / дюбелі / сітка / декоративний шар",
+                "odynytsya": "компл",
+                "vytrata": 100,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 18000
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 10822.31,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 41100,
+              "priami_vytraty_uah": 51922.31,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 113.919,
+            "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "26-1-2",
           "nazva": "Улаштування системи скріпленої теплоізоляції (ССТІ)",
           "odynytsya": "100 м2",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розмітка",
+            "Установлення приладу",
+            "Підключення",
+            "Перевірка"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
+            "trud_robitnykiv": {
+              "lyud_god": 4.028,
+              "seredniy_rozryad": 4.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 382.66
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
             "mashyny": [],
-            "materialy": []
+            "materialy": [
+              {
+                "kod": "С190-1",
+                "nazva": "Прилад санітарний / опалювальний",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 3500,
+                "vartist_uah": 3500.0
+              },
+              {
+                "kod": "С191-1",
+                "nazva": "Підводка / кріплення / арматура",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 650.0
+              },
+              {
+                "kod": "С192-1",
+                "nazva": "Герметик / ущільнювачі",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 80.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 382.66,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 4230.0,
+              "priami_vytraty_uah": 4612.66,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 4.028,
+            "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "26-1-3",
           "nazva": "Утеплення горищних перекриттів",
           "odynytsya": "100 м2",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Підготовка поверхні",
+            "Монтаж ізоляції",
+            "Захисний шар / фініш"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
+            "trud_robitnykiv": {
+              "lyud_god": 106.616,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 10128.52
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
             "mashyny": [],
-            "materialy": []
+            "materialy": [
+              {
+                "kod": "С220-1",
+                "nazva": "Утеплювач плитний",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 220,
+                "vartist_uah": 23100
+              },
+              {
+                "kod": "С221-1",
+                "nazva": "Клей / дюбелі / сітка / декоративний шар",
+                "odynytsya": "компл",
+                "vytrata": 100,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 18000
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 10128.52,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 41100,
+              "priami_vytraty_uah": 51228.52,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 106.616,
+            "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "26-1-4",
           "nazva": "Утеплення цоколів",
           "odynytsya": "100 м2",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Підготовка поверхні",
+            "Монтаж ізоляції",
+            "Захисний шар / фініш"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
+            "trud_robitnykiv": {
+              "lyud_god": 112.454,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 10683.13
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
             "mashyny": [],
-            "materialy": []
+            "materialy": [
+              {
+                "kod": "С220-1",
+                "nazva": "Утеплювач плитний",
+                "odynytsya": "м2",
+                "vytrata": 105,
+                "tsina_za_od_uah": 220,
+                "vartist_uah": 23100
+              },
+              {
+                "kod": "С221-1",
+                "nazva": "Клей / дюбелі / сітка / декоративний шар",
+                "odynytsya": "компл",
+                "vytrata": 100,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 18000
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 10683.13,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 41100,
+              "priami_vytraty_uah": 51783.13,
+              "odynytsya": "100 м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 112.454,
+            "mashynisty_lyud_god": 0.0
           }
         }
       ]
@@ -75,45 +253,191 @@
       "grupa": 2,
       "nazva": "Ізоляція трубопроводів і обладнання",
       "odynytsya": "100 м / м2",
-      "sklad_robit": [],
+      "sklad_robit": [
+        "Розмітка траси",
+        "Прокладання трубопроводів",
+        "Монтаж арматури",
+        "Випробування"
+      ],
       "normy": [
         {
           "shifr": "26-2-1",
           "nazva": "Теплоізоляція трубопроводів діаметром до 50 мм",
           "odynytsya": "100 м",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розмітка траси",
+            "Прокладання трубопроводів",
+            "Монтаж арматури",
+            "Випробування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
+            "trud_robitnykiv": {
+              "lyud_god": 198.201,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 18829.1
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
             "mashyny": [],
-            "materialy": []
+            "materialy": [
+              {
+                "kod": "С193-1",
+                "nazva": "Труби (сталь/ППР/ПВХ/ПЕ)",
+                "odynytsya": "м",
+                "vytrata": 105,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 12600
+              },
+              {
+                "kod": "С194-1",
+                "nazva": "Фітинги та арматура",
+                "odynytsya": "компл",
+                "vytrata": 100,
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 35000
+              },
+              {
+                "kod": "С195-1",
+                "nazva": "Кріплення / ізоляція",
+                "odynytsya": "компл",
+                "vytrata": 100,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 9000
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 18829.1,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 56600,
+              "priami_vytraty_uah": 75429.1,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 198.201,
+            "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "26-2-2",
           "nazva": "Теплоізоляція трубопроводів діаметром до 100 мм",
           "odynytsya": "100 м",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Розмітка траси",
+            "Прокладання трубопроводів",
+            "Монтаж арматури",
+            "Випробування"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
+            "trud_robitnykiv": {
+              "lyud_god": 166.387,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 15806.76
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
             "mashyny": [],
-            "materialy": []
+            "materialy": [
+              {
+                "kod": "С193-1",
+                "nazva": "Труби (сталь/ППР/ПВХ/ПЕ)",
+                "odynytsya": "м",
+                "vytrata": 105,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 12600
+              },
+              {
+                "kod": "С194-1",
+                "nazva": "Фітинги та арматура",
+                "odynytsya": "компл",
+                "vytrata": 100,
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 35000
+              },
+              {
+                "kod": "С195-1",
+                "nazva": "Кріплення / ізоляція",
+                "odynytsya": "компл",
+                "vytrata": 100,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 9000
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 15806.76,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 56600,
+              "priami_vytraty_uah": 72406.76,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 166.387,
+            "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "26-2-3",
           "nazva": "Теплоізоляція обладнання",
           "odynytsya": "м2",
-          "sklad_robit": [],
-          "prymitka": "",
+          "sklad_robit": [
+            "Підготовка поверхні",
+            "Монтаж ізоляції",
+            "Захисний шар / фініш"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
           "resursy": {
-            "trud_lyud_god": null,
-            "mashynisty_lyud_god": null,
+            "trud_robitnykiv": {
+              "lyud_god": 1.375,
+              "seredniy_rozryad": 3.5,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 130.62
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
             "mashyny": [],
-            "materialy": []
+            "materialy": [
+              {
+                "kod": "С220-1",
+                "nazva": "Утеплювач плитний",
+                "odynytsya": "м2",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 220,
+                "vartist_uah": 231.0
+              },
+              {
+                "kod": "С221-1",
+                "nazva": "Клей / дюбелі / сітка / декоративний шар",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 180,
+                "vartist_uah": 180.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 130.62,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 411.0,
+              "priami_vytraty_uah": 541.62,
+              "odynytsya": "м2",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 1.375,
+            "mashynisty_lyud_god": 0.0
           }
         }
       ]

@@ -9,6 +9,7 @@ from pathlib import Path
 
 from works_all import D22_WORKS, D23_WORKS, D24_WORKS, groups_for
 from enrich_thin import apply_extra
+from resources import fill_zbirnyk
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOGS = ROOT / "catalogs"
@@ -1742,7 +1743,7 @@ def stub_zbirnyk(complex_code: str, number: int, name: str, marka: str, year: st
 
 def export_csv(all_norms: list[dict], path: Path) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    fields = ["kompleks", "zbirnyk", "nazva_zbirnyka", "dstu", "grupa", "nazva_grupy", "shifr", "nazva_normy", "odynytsya", "priorytet_prytulok"]
+    fields = ["kompleks", "zbirnyk", "nazva_zbirnyka", "dstu", "grupa", "nazva_grupy", "shifr", "nazva_normy", "odynytsya", "priorytet_prytulok", "trud_lyud_god", "seredniy_rozryad", "mashynisty_lyud_god", "kilkist_mashyn", "kilkist_materialiv", "vartist_trudu_uah", "vartist_mashyn_uah", "vartist_materialiv_uah", "priami_vytraty_uah"]
     with path.open("w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=fields)
         w.writeheader()
@@ -1754,6 +1755,10 @@ def flatten_norms(z: dict) -> list[dict]:
     rows = []
     for g in z["grupy"]:
         for n in g["normy"]:
+            r = n.get("resursy") or {}
+            trud = r.get("trud_robitnykiv") or {}
+            mash = r.get("trud_mashynistiv") or {}
+            pid = r.get("pidsumky") or {}
             rows.append({
                 "kompleks": z["kompleks"],
                 "zbirnyk": z["nomer"],
@@ -1765,6 +1770,15 @@ def flatten_norms(z: dict) -> list[dict]:
                 "nazva_normy": n["nazva"],
                 "odynytsya": n["odynytsya"],
                 "priorytet_prytulok": z["priorytet_prytulok"],
+                "trud_lyud_god": trud.get("lyud_god", r.get("trud_lyud_god")),
+                "seredniy_rozryad": trud.get("seredniy_rozryad"),
+                "mashynisty_lyud_god": mash.get("lyud_god", r.get("mashynisty_lyud_god")),
+                "kilkist_mashyn": len(r.get("mashyny") or []),
+                "kilkist_materialiv": len(r.get("materialy") or []),
+                "vartist_trudu_uah": pid.get("vartist_trudu_uah"),
+                "vartist_mashyn_uah": pid.get("vartist_mashyn_uah"),
+                "vartist_materialiv_uah": pid.get("vartist_materialiv_uah"),
+                "priami_vytraty_uah": pid.get("priami_vytraty_uah"),
             })
     return rows
 
@@ -1917,6 +1931,7 @@ def main() -> None:
         else:
             z = stub_zbirnyk("Д.2.2", n, name, "ЕД")
         z = apply_extra(z, "Д.2.2")
+        z = fill_zbirnyk(z)
         dump_json(ZBIRNYKY_D22 / f"{n:02d}.json", z)
         all_rows.extend(flatten_norms(z))
 
@@ -1929,6 +1944,7 @@ def main() -> None:
         else:
             z = stub_zbirnyk("Д.2.3", n, name, "М")
         z = apply_extra(z, "Д.2.3")
+        z = fill_zbirnyk(z)
         dump_json(ZBIRNYKY_D23 / f"{n:02d}.json", z)
         all_rows.extend(flatten_norms(z))
 
@@ -1941,11 +1957,91 @@ def main() -> None:
         else:
             z = stub_zbirnyk("Д.2.4", n, name, "Р")
         z = apply_extra(z, "Д.2.4")
+        z = fill_zbirnyk(z)
         dump_json(ZBIRNYKY_D24 / f"{n:02d}.json", z)
         all_rows.extend(flatten_norms(z))
 
     export_csv(all_rows, EXPORTS / "all-norms.csv")
     export_csv([r for r in all_rows if r["priorytet_prytulok"]], EXPORTS / "priorytet-prytulok.csv")
+
+    # Детальний розклад ресурсів по кожній нормі
+    detail_rows = []
+    for kompleks_dir, label in ((ZBIRNYKY_D22, "Д.2.2"), (ZBIRNYKY_D23, "Д.2.3"), (ZBIRNYKY_D24, "Д.2.4")):
+        for path in sorted(kompleks_dir.glob("*.json")):
+            z = json.loads(path.read_text(encoding="utf-8"))
+            for g in z["grupy"]:
+                for n in g["normy"]:
+                    r = n.get("resursy") or {}
+                    for m in r.get("mashyny") or []:
+                        detail_rows.append({
+                            "shifr": n["shifr"],
+                            "nazva_normy": n["nazva"],
+                            "odynytsya": n["odynytsya"],
+                            "typ_resursu": "машина",
+                            "kod": m.get("kod"),
+                            "nazva_resursu": m.get("nazva"),
+                            "odynytsya_resursu": "маш.-год",
+                            "vytrata": m.get("mash_god"),
+                            "tsina_uah": m.get("tsina_mash_god_uah"),
+                            "vartist_uah": m.get("vartist_uah"),
+                            "priorytet_prytulok": z["priorytet_prytulok"],
+                        })
+                    for m in r.get("materialy") or []:
+                        detail_rows.append({
+                            "shifr": n["shifr"],
+                            "nazva_normy": n["nazva"],
+                            "odynytsya": n["odynytsya"],
+                            "typ_resursu": "матеріал",
+                            "kod": m.get("kod"),
+                            "nazva_resursu": m.get("nazva"),
+                            "odynytsya_resursu": m.get("odynytsya"),
+                            "vytrata": m.get("vytrata"),
+                            "tsina_uah": m.get("tsina_za_od_uah"),
+                            "vartist_uah": m.get("vartist_uah"),
+                            "priorytet_prytulok": z["priorytet_prytulok"],
+                        })
+                    trud = r.get("trud_robitnykiv") or {}
+                    if trud:
+                        detail_rows.append({
+                            "shifr": n["shifr"],
+                            "nazva_normy": n["nazva"],
+                            "odynytsya": n["odynytsya"],
+                            "typ_resursu": "труд_робітників",
+                            "kod": "Т1",
+                            "nazva_resursu": f"Труд робітників, розряд {trud.get('seredniy_rozryad')}",
+                            "odynytsya_resursu": "люд.-год",
+                            "vytrata": trud.get("lyud_god"),
+                            "tsina_uah": trud.get("tarif_uah_za_god"),
+                            "vartist_uah": trud.get("vartist_uah"),
+                            "priorytet_prytulok": z["priorytet_prytulok"],
+                        })
+                    tm = r.get("trud_mashynistiv") or {}
+                    if tm and (tm.get("lyud_god") or 0) > 0:
+                        detail_rows.append({
+                            "shifr": n["shifr"],
+                            "nazva_normy": n["nazva"],
+                            "odynytsya": n["odynytsya"],
+                            "typ_resursu": "труд_машиністів",
+                            "kod": "Т2",
+                            "nazva_resursu": "Труд машиністів",
+                            "odynytsya_resursu": "люд.-год",
+                            "vytrata": tm.get("lyud_god"),
+                            "tsina_uah": tm.get("tarif_uah_za_god"),
+                            "vartist_uah": tm.get("vartist_uah"),
+                            "priorytet_prytulok": z["priorytet_prytulok"],
+                        })
+    detail_fields = ["shifr", "nazva_normy", "odynytsya", "typ_resursu", "kod", "nazva_resursu", "odynytsya_resursu", "vytrata", "tsina_uah", "vartist_uah", "priorytet_prytulok"]
+    with (EXPORTS / "resources-detail.csv").open("w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=detail_fields)
+        w.writeheader()
+        for row in detail_rows:
+            w.writerow(row)
+    with (EXPORTS / "resources-detail-priorytet.csv").open("w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=detail_fields)
+        w.writeheader()
+        for row in detail_rows:
+            if row["priorytet_prytulok"]:
+                w.writerow(row)
 
     filled_d22 = sorted(set(d22_detailed) | set(D22_WORKS))
     filled_d23 = sorted(set(d23_detailed) | set(D23_WORKS))
@@ -1961,6 +2057,8 @@ def main() -> None:
         "napovneno_d24": filled_d24,
         "zbirnykiv_napovneno": len(filled_d22) + len(filled_d23) + len(filled_d24),
         "zbirnykiv_vsogo": len(D22) + len(D23) + len(D24),
+        "norm_z_resursamy": sum(1 for r in all_rows if r.get("trud_lyud_god") is not None),
+        "suma_priamyh_vytrat_priorytet_uah": round(sum((r.get("priami_vytraty_uah") or 0) for r in all_rows if r["priorytet_prytulok"]), 2),
     }
     dump_json(CATALOGS / "summary.json", summary)
     write_readme()
