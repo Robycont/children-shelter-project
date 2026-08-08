@@ -17,29 +17,32 @@
       "nazva": "Укладання водопровідних труб",
       "odynytsya": "100 м",
       "sklad_robit": [
-        "Розмітка траси",
-        "Прокладання трубопроводів",
-        "Монтаж арматури",
-        "Випробування"
+        "Розкладка",
+        "Зварювання стиків",
+        "Укладання",
+        "Присипка"
       ],
+      "pravyla_obsyagiv": [],
       "normy": [
         {
           "shifr": "22-1-1",
-          "nazva": "Укладання труб поліетиленових діаметром до 110 мм",
+          "nazva": "Укладання труб ПЕ діаметром до 63 мм зварюванням",
           "odynytsya": "100 м",
           "sklad_robit": [
-            "Розмітка траси",
-            "Прокладання трубопроводів",
-            "Монтаж арматури",
-            "Випробування"
+            "Розкладка",
+            "Зварювання стиків",
+            "Укладання",
+            "Присипка"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 170.5,
-              "seredniy_rozryad": 3.8,
+              "lyud_god": 3.784,
+              "seredniy_rozryad": 4.0,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 16197.5
+              "vartist_uah": 359.48
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -49,60 +52,61 @@
             "mashyny": [],
             "materialy": [
               {
-                "kod": "С193-1",
-                "nazva": "Труби (сталь/ППР/ПВХ/ПЕ)",
-                "odynytsya": "м",
-                "vytrata": 105,
-                "tsina_za_od_uah": 120,
-                "vartist_uah": 12600
+                "kod": "С190-1",
+                "nazva": "Прилад санітарний / опалювальний",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 3500,
+                "vartist_uah": 3500.0
               },
               {
-                "kod": "С194-1",
-                "nazva": "Фітинги та арматура",
+                "kod": "С191-1",
+                "nazva": "Підводка / кріплення / арматура",
                 "odynytsya": "компл",
-                "vytrata": 100,
-                "tsina_za_od_uah": 350,
-                "vartist_uah": 35000
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 650.0
               },
               {
-                "kod": "С195-1",
-                "nazva": "Кріплення / ізоляція",
+                "kod": "С192-1",
+                "nazva": "Герметик / ущільнювачі",
                 "odynytsya": "компл",
-                "vytrata": 100,
-                "tsina_za_od_uah": 90,
-                "vartist_uah": 9000
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 80.0
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 16197.5,
+              "vartist_trudu_uah": 359.48,
               "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 56600,
-              "priami_vytraty_uah": 72797.5,
+              "vartist_materialiv_uah": 4230.0,
+              "priami_vytraty_uah": 4589.48,
               "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 170.5,
+            "trud_lyud_god": 3.784,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "22-1-2",
-          "nazva": "Укладання труб поліетиленових діаметром до 160 мм",
+          "nazva": "Укладання труб ПЕ діаметром до 110 мм",
           "odynytsya": "100 м",
           "sklad_robit": [
-            "Розмітка траси",
-            "Прокладання трубопроводів",
-            "Монтаж арматури",
-            "Випробування"
+            "Зварювання",
+            "Укладання",
+            "Присипка"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 194.527,
+              "lyud_god": 160.942,
               "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 18480.06
+              "vartist_uah": 15289.49
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -137,29 +141,92 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 18480.06,
+              "vartist_trudu_uah": 15289.49,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 56600,
-              "priami_vytraty_uah": 75080.06,
+              "priami_vytraty_uah": 71889.49,
               "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 194.527,
+            "trud_lyud_god": 160.942,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "22-1-3",
+          "nazva": "Укладання труб ПЕ діаметром до 160 мм",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Зварювання",
+            "Укладання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 186.737,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 17740.01
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С193-1",
+                "nazva": "Труби (сталь/ППР/ПВХ/ПЕ)",
+                "odynytsya": "м",
+                "vytrata": 105,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 12600
+              },
+              {
+                "kod": "С194-1",
+                "nazva": "Фітинги та арматура",
+                "odynytsya": "компл",
+                "vytrata": 100,
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 35000
+              },
+              {
+                "kod": "С195-1",
+                "nazva": "Кріплення / ізоляція",
+                "odynytsya": "компл",
+                "vytrata": 100,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 9000
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 17740.01,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 56600,
+              "priami_vytraty_uah": 74340.01,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 186.737,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "22-1-4",
           "nazva": "Укладання труб чавунних діаметром до 100 мм",
           "odynytsya": "100 м",
           "sklad_robit": [
-            "Розмітка траси",
-            "Прокладання трубопроводів",
-            "Монтаж арматури",
-            "Випробування"
+            "Укладання",
+            "Зачеканення розтрубів"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 193.679,
@@ -213,22 +280,23 @@
           }
         },
         {
-          "shifr": "22-1-4",
-          "nazva": "Укладання труб сталевих діаметром до 100 мм",
+          "shifr": "22-1-5",
+          "nazva": "Укладання труб сталевих в ізоляції діаметром до 100 мм",
           "odynytsya": "100 м",
           "sklad_robit": [
-            "Розмітка траси",
-            "Прокладання трубопроводів",
-            "Монтаж арматури",
-            "Випробування"
+            "Зварювання",
+            "Ізоляція стиків",
+            "Укладання"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 195.528,
+              "lyud_god": 193.447,
               "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 18575.16
+              "vartist_uah": 18377.47
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -263,111 +331,35 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 18575.16,
+              "vartist_trudu_uah": 18377.47,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 56600,
-              "priami_vytraty_uah": 75175.16,
+              "priami_vytraty_uah": 74977.47,
               "odynytsya": "100 м",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 195.528,
-            "mashynisty_lyud_god": 0.0
-          }
-        }
-      ]
-    },
-    {
-      "grupa": 2,
-      "nazva": "Колодязі та арматура",
-      "odynytsya": "шт",
-      "sklad_robit": [
-        "Розмітка",
-        "Установлення приладу",
-        "Підключення",
-        "Перевірка"
-      ],
-      "normy": [
-        {
-          "shifr": "22-2-1",
-          "nazva": "Улаштування колодязів водопровідних із збірних елементів",
-          "odynytsya": "шт",
-          "sklad_robit": [
-            "Розмітка",
-            "Установлення приладу",
-            "Підключення",
-            "Перевірка"
-          ],
-          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
-          "resursy": {
-            "trud_robitnykiv": {
-              "lyud_god": 4.134,
-              "seredniy_rozryad": 4.0,
-              "tarif_uah_za_god": 95.0,
-              "vartist_uah": 392.73
-            },
-            "trud_mashynistiv": {
-              "lyud_god": 0.0,
-              "tarif_uah_za_god": 110.0,
-              "vartist_uah": 0.0
-            },
-            "mashyny": [],
-            "materialy": [
-              {
-                "kod": "С190-1",
-                "nazva": "Прилад санітарний / опалювальний",
-                "odynytsya": "шт",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 3500,
-                "vartist_uah": 3500.0
-              },
-              {
-                "kod": "С191-1",
-                "nazva": "Підводка / кріплення / арматура",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 650,
-                "vartist_uah": 650.0
-              },
-              {
-                "kod": "С192-1",
-                "nazva": "Герметик / ущільнювачі",
-                "odynytsya": "компл",
-                "vytrata": 1.0,
-                "tsina_za_od_uah": 80,
-                "vartist_uah": 80.0
-              }
-            ],
-            "pidsumky": {
-              "vartist_trudu_uah": 392.73,
-              "vartist_mashyn_uah": 0,
-              "vartist_materialiv_uah": 4230.0,
-              "priami_vytraty_uah": 4622.73,
-              "odynytsya": "шт",
-              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
-              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
-            },
-            "trud_lyud_god": 4.134,
+            "trud_lyud_god": 193.447,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
-          "shifr": "22-2-2",
-          "nazva": "Установлення засувок",
-          "odynytsya": "шт",
+          "shifr": "22-1-6",
+          "nazva": "Прокладання футлярів під дорогами",
+          "odynytsya": "м",
           "sklad_robit": [
-            "Розмітка траси",
-            "Прокладання трубопроводів",
-            "Монтаж арматури",
-            "Випробування"
+            "Продавлювання/укладання футляра",
+            "Протягування труби"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
-              "lyud_god": 2.499,
+              "lyud_god": 2.482,
               "seredniy_rozryad": 3.8,
               "tarif_uah_za_god": 95.0,
-              "vartist_uah": 237.41
+              "vartist_uah": 235.79
             },
             "trud_mashynistiv": {
               "lyud_god": 0.0,
@@ -402,29 +394,237 @@
               }
             ],
             "pidsumky": {
-              "vartist_trudu_uah": 237.41,
+              "vartist_trudu_uah": 235.79,
               "vartist_mashyn_uah": 0,
               "vartist_materialiv_uah": 566.0,
-              "priami_vytraty_uah": 803.41,
+              "priami_vytraty_uah": 801.79,
+              "odynytsya": "м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 2.482,
+            "mashynisty_lyud_god": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "grupa": 2,
+      "nazva": "Колодязі та арматура",
+      "odynytsya": "шт",
+      "sklad_robit": [
+        "Основа",
+        "Монтаж кілець",
+        "Плита",
+        "Люк",
+        "Гідроізоляція"
+      ],
+      "pravyla_obsyagiv": [],
+      "normy": [
+        {
+          "shifr": "22-2-1",
+          "nazva": "Улаштування колодязів водопровідних зі збірних кілець d=1 м",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Основа",
+            "Монтаж кілець",
+            "Плита",
+            "Люк",
+            "Гідроізоляція"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 3.702,
+              "seredniy_rozryad": 4.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 351.69
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С190-1",
+                "nazva": "Прилад санітарний / опалювальний",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 3500,
+                "vartist_uah": 3500.0
+              },
+              {
+                "kod": "С191-1",
+                "nazva": "Підводка / кріплення / арматура",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 650.0
+              },
+              {
+                "kod": "С192-1",
+                "nazva": "Герметик / ущільнювачі",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 80.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 351.69,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 4230.0,
+              "priami_vytraty_uah": 4581.69,
               "odynytsya": "шт",
               "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
               "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
             },
-            "trud_lyud_god": 2.499,
+            "trud_lyud_god": 3.702,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "22-2-2",
+          "nazva": "Улаштування колодязів d=1,5 м",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Основа",
+            "Монтаж",
+            "Люк"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 4.26,
+              "seredniy_rozryad": 4.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 404.7
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С190-1",
+                "nazva": "Прилад санітарний / опалювальний",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 3500,
+                "vartist_uah": 3500.0
+              },
+              {
+                "kod": "С191-1",
+                "nazva": "Підводка / кріплення / арматура",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 650.0
+              },
+              {
+                "kod": "С192-1",
+                "nazva": "Герметик / ущільнювачі",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 80.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 404.7,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 4230.0,
+              "priami_vytraty_uah": 4634.7,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 4.26,
             "mashynisty_lyud_god": 0.0
           }
         },
         {
           "shifr": "22-2-3",
+          "nazva": "Установлення засувок діаметром до 100 мм",
+          "odynytsya": "шт",
+          "sklad_robit": [
+            "Установлення",
+            "Фланці"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 2.322,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 220.59
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С193-1",
+                "nazva": "Труби (сталь/ППР/ПВХ/ПЕ)",
+                "odynytsya": "м",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 126.0
+              },
+              {
+                "kod": "С194-1",
+                "nazva": "Фітинги та арматура",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 350.0
+              },
+              {
+                "kod": "С195-1",
+                "nazva": "Кріплення / ізоляція",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 90.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 220.59,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 566.0,
+              "priami_vytraty_uah": 786.59,
+              "odynytsya": "шт",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 2.322,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "22-2-4",
           "nazva": "Установлення пожежних гідрантів",
           "odynytsya": "шт",
           "sklad_robit": [
-            "Розмітка траси",
-            "Прокладання трубопроводів",
-            "Монтаж арматури",
-            "Випробування"
+            "Установлення на підставку",
+            "Люк"
           ],
           "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
           "resursy": {
             "trud_robitnykiv": {
               "lyud_god": 2.231,
@@ -476,8 +676,158 @@
             "trud_lyud_god": 2.231,
             "mashynisty_lyud_god": 0.0
           }
+        },
+        {
+          "shifr": "22-2-5",
+          "nazva": "Установлення вводу в будівлю з вузлом обліку",
+          "odynytsya": "компл",
+          "sklad_robit": [
+            "Прохід через стіну",
+            "Вузол обліку",
+            "Герметизація"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 2.028,
+              "seredniy_rozryad": 3.8,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 192.66
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С193-1",
+                "nazva": "Труби (сталь/ППР/ПВХ/ПЕ)",
+                "odynytsya": "м",
+                "vytrata": 1.05,
+                "tsina_za_od_uah": 120,
+                "vartist_uah": 126.0
+              },
+              {
+                "kod": "С194-1",
+                "nazva": "Фітинги та арматура",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 350,
+                "vartist_uah": 350.0
+              },
+              {
+                "kod": "С195-1",
+                "nazva": "Кріплення / ізоляція",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 90,
+                "vartist_uah": 90.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 192.66,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 566.0,
+              "priami_vytraty_uah": 758.66,
+              "odynytsya": "компл",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 2.028,
+            "mashynisty_lyud_god": 0.0
+          }
+        },
+        {
+          "shifr": "22-2-6",
+          "nazva": "Гідравлічне випробування і хлорування мережі",
+          "odynytsya": "100 м",
+          "sklad_robit": [
+            "Опресовування",
+            "Дезінфекція",
+            "Промивання"
+          ],
+          "prymitka": "Ресурси орієнтовні; звірити з офіційним РЕКН перед затвердженням кошторису",
+          "umovy": [],
+          "koeficienty": [],
+          "resursy": {
+            "trud_robitnykiv": {
+              "lyud_god": 3.675,
+              "seredniy_rozryad": 4.0,
+              "tarif_uah_za_god": 95.0,
+              "vartist_uah": 349.12
+            },
+            "trud_mashynistiv": {
+              "lyud_god": 0.0,
+              "tarif_uah_za_god": 110.0,
+              "vartist_uah": 0.0
+            },
+            "mashyny": [],
+            "materialy": [
+              {
+                "kod": "С190-1",
+                "nazva": "Прилад санітарний / опалювальний",
+                "odynytsya": "шт",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 3500,
+                "vartist_uah": 3500.0
+              },
+              {
+                "kod": "С191-1",
+                "nazva": "Підводка / кріплення / арматура",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 650,
+                "vartist_uah": 650.0
+              },
+              {
+                "kod": "С192-1",
+                "nazva": "Герметик / ущільнювачі",
+                "odynytsya": "компл",
+                "vytrata": 1.0,
+                "tsina_za_od_uah": 80,
+                "vartist_uah": 80.0
+              }
+            ],
+            "pidsumky": {
+              "vartist_trudu_uah": 349.12,
+              "vartist_mashyn_uah": 0,
+              "vartist_materialiv_uah": 4230.0,
+              "priami_vytraty_uah": 4579.12,
+              "odynytsya": "100 м",
+              "dzherelo": "орієнтовні укрупнені показники для попереднього кошторису",
+              "prymitka": "Для офіційного кошторису застосувати чинні КНУ РЕКН / ДСТУ Б Д та поточні ціни регіону"
+            },
+            "trud_lyud_god": 3.675,
+            "mashynisty_lyud_god": 0.0
+          }
         }
       ]
     }
-  ]
+  ],
+  "techastyna": {
+    "sfera_zastosuvannya": "Зовнішній водопровід від точки підключення до будівлі притулку.",
+    "zagalni_polozhennya": [
+      "Земляні роботи для траншей — за збірником 1."
+    ],
+    "pravyla_obsyagiv": [
+      "Довжина — за профілем траси; колодязі — поштучно."
+    ],
+    "koeficienty_umov": [
+      {
+        "umova": "Роботи в мокрих ґрунтах",
+        "do_trudu": 1.2
+      }
+    ],
+    "vytraty_i_vidhody": [
+      {
+        "nazva": "Труби ПЕ",
+        "vidsotok": 1.0
+      }
+    ]
+  },
+  "pogiyblennya": true
 }

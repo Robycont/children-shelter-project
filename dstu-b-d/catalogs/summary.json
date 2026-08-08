@@ -2,8 +2,8 @@
   "zbirnykiv_d22": 47,
   "zbirnykiv_d23": 39,
   "zbirnykiv_d24": 20,
-  "norm_vsogo": 990,
-  "norm_priorytet": 615,
+  "norm_vsogo": 1055,
+  "norm_priorytet": 680,
   "napovneno_d22": [
     1,
     2,
@@ -118,29 +118,50 @@
   ],
   "zbirnykiv_napovneno": 106,
   "zbirnykiv_vsogo": 106,
-  "norm_z_resursamy": 990,
-  "suma_priamyh_vytrat_priorytet_uah": 16565612.31,
+  "norm_z_resursamy": 1055,
+  "suma_priamyh_vytrat_priorytet_uah": 18441450.02,
+  "vidomist_resursiv": {
+    "trud": {
+      "robitnyky_lyud_god": 35911.3,
+      "mashynisty_lyud_god": 73.0,
+      "vartist_trudu_uah": 3419601.83
+    },
+    "vartist_mashyn_uah": 63751.68,
+    "vartist_materialiv_uah": 12432774.81,
+    "pozytsiy_materialiv": 64,
+    "pozytsiy_mashyn": 10
+  },
   "lokalnyy_koshtorys_prytulok": {
     "kilkist_pozytsiy": 70,
-    "priami_vytraty_uah": 15917755.99,
-    "zagalnovyrobnychi_20pct_uah": 3183551.2,
-    "admin_3pct_uah": 477532.68,
-    "prybutok_5pct_uah": 795887.8,
-    "razom_bez_pdv_uah": 20374727.67,
-    "pdv_20pct_uah": 4074945.53,
-    "vsego_z_pdv_uah": 24449673.2,
-    "trud_robitnykiv_lyud_god": 35928.4
+    "priami_vytraty_uah": 15916128.35,
+    "zagalnovyrobnychi_20pct_uah": 3183225.67,
+    "admin_3pct_uah": 477483.85,
+    "prybutok_5pct_uah": 795806.42,
+    "razom_bez_pdv_uah": 20372644.29,
+    "pdv_20pct_uah": 4074528.86,
+    "vsego_z_pdv_uah": 24447173.15,
+    "trud_robitnykiv_lyud_god": 35911.3
   },
   "pogiybleni_zbirnyky_d22": [
     1,
     6,
+    7,
     8,
+    9,
+    10,
     11,
     12,
     15,
+    16,
     17,
     18,
     20,
-    21
+    21,
+    22,
+    23,
+    26,
+    27,
+    46,
+    47
   ]
 }

@@ -11,6 +11,7 @@ from works_all import D22_WORKS, D23_WORKS, D24_WORKS, groups_for
 from enrich_thin import apply_extra
 from resources import fill_zbirnyk
 from deepen_priority import deepen_all
+from deepen_priority2 import deepen_all_2
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOGS = ROOT / "catalogs"
@@ -1789,9 +1790,9 @@ def write_readme() -> None:
 
 Каталог ресурсних елементних кошторисних норм (РЕКН) для проєкту **children-shelter-project**.
 
-Усі **106** збірників Д.2.2–Д.2.4 містять роботи та ресурсні витрати (**~990** норм).
+Усі **106** збірників Д.2.2–Д.2.4 містять роботи та ресурсні витрати (**~1055** норм).
 
-**Поглиблено** (техчастина, варіанти норм, склад робіт, коефіцієнти): **1, 6, 8, 11, 12, 15, 17, 18, 20, 21**.
+**Поглиблено 20 збірників** (техчастина, варіанти норм, склад робіт, коефіцієнти): 1, 6, 7, 8, 9, 10, 11, 12, 15, 16, 17, 18, 20, 21, 22, 23, 26, 27, 46, 47.
 
 Шаблон локального кошторису: [`koshtorys-prytulok.md`](koshtorys-prytulok.md), `exports/lokalnyy-koshtorys-prytulok.csv`.
 
@@ -1807,6 +1808,7 @@ def write_readme() -> None:
 | `exports/priorytet-prytulok.csv` | Пріоритет для притулку |
 | `exports/resources-detail*.csv` | Розклад труда/машин/матеріалів |
 | `exports/lokalnyy-koshtorys-prytulok.csv` | Укрупнений локальний кошторис |
+| `exports/vidomist-resursiv-prytulok.csv` | Зведена відомість ресурсів |
 | `koshtorys-prytulok.md` | Інструкція до кошторису |
 
 ## Шифр норми
@@ -1927,6 +1929,7 @@ def main() -> None:
             z = stub_zbirnyk("Д.2.2", n, name, "ЕД")
         z = apply_extra(z, "Д.2.2")
         z = deepen_all(z)
+        z = deepen_all_2(z)
         z = fill_zbirnyk(z)
         dump_json(ZBIRNYKY_D22 / f"{n:02d}.json", z)
         all_rows.extend(flatten_norms(z))
@@ -2073,6 +2076,14 @@ def main() -> None:
             w.writeheader()
             for r in est["pozytsiyi"]:
                 w.writerow({k: r.get(k) for k in est_fields})
+        from shelter_estimate import load_norm_index
+        from vidomist_resursiv import build_vidomist, write_vidomist_files
+        vid = build_vidomist(est, load_norm_index())
+        write_vidomist_files(vid)
+        summary["vidomist_resursiv"] = {
+            "trud": vid["trud"],
+            **vid["pidsumky"],
+        }
         summary["lokalnyy_koshtorys_prytulok"] = est["pidsumky"]
         summary["pogiybleni_zbirnyky_d22"] = sorted(
             int(p.stem) for p in ZBIRNYKY_D22.glob("*.json")
